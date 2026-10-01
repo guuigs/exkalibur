@@ -1,0 +1,24 @@
+Seuil ruisseau 5 ha | 5717 départs | 79524 chemins testés
+== 15 meilleurs (résidu ; 0 = identique) ==
+résidu 0.090 | L   381 m | milieu 45.41151,6.01351 (2348 m de la tour) | confluence au bon endroit non | de 45.41189,6.01551 à 45.41146,6.01157
+résidu 0.096 | L    80 m | milieu 45.43558,6.04247 (1183 m de la tour) | confluence au bon endroit non | de 45.43545,6.04277 à 45.43574,6.04208
+résidu 0.102 | L   100 m | milieu 45.42957,6.03486 (330 m de la tour) | confluence au bon endroit non | de 45.42926,6.03456 à 45.42982,6.03517
+résidu 0.104 | L   305 m | milieu 45.41405,6.03607 (1692 m de la tour) | confluence au bon endroit non | de 45.41329,6.03706 à 45.41471,6.03474
+résidu 0.105 | L    80 m | milieu 45.43454,6.04979 (1615 m de la tour) | confluence au bon endroit non | de 45.43453,6.05022 à 45.43454,6.04933
+résidu 0.107 | L   156 m | milieu 45.42407,6.02391 (751 m de la tour) | confluence au bon endroit non | de 45.42398,6.02478 à 45.42403,6.02301
+résidu 0.107 | L   100 m | milieu 45.41397,6.01820 (1919 m de la tour) | confluence au bon endroit non | de 45.41430,6.01830 à 45.41359,6.01807
+résidu 0.108 | L   195 m | milieu 45.43098,6.04421 (1075 m de la tour) | confluence au bon endroit non | de 45.43031,6.04395 à 45.43169,6.04451
+résidu 0.109 | L   100 m | milieu 45.41327,6.03916 (1847 m de la tour) | confluence au bon endroit non | de 45.41316,6.03973 à 45.41345,6.03865
+résidu 0.109 | L   156 m | milieu 45.42874,6.04636 (1216 m de la tour) | confluence au bon endroit non | de 45.42870,6.04728 à 45.42888,6.04541
+résidu 0.110 | L   244 m | milieu 45.42778,6.04093 (800 m de la tour) | confluence au bon endroit non | de 45.42778,6.04244 à 45.42799,6.03962
+résidu 0.112 | L   100 m | milieu 45.42385,6.03530 (654 m de la tour) | confluence au bon endroit non | de 45.42351,6.03509 à 45.42418,6.03540
+résidu 0.112 | L   125 m | milieu 45.43272,6.04313 (1058 m de la tour) | confluence au bon endroit non | de 45.43236,6.04254 à 45.43292,6.04370
+résidu 0.113 | L   125 m | milieu 45.44337,6.01884 (1869 m de la tour) | confluence au bon endroit non | de 45.44294,6.01912 à 45.44375,6.01850
+résidu 0.113 | L   156 m | milieu 45.42879,6.04426 (1052 m de la tour) | confluence au bon endroit non | de 45.42885,6.04518 à 45.42888,6.04336
+== Contrôle miroir ==
+quantile 0.0%: réel 0.090 | miroir 0.096
+quantile 0.1%: réel 0.119 | miroir 0.121
+quantile 1.0%: réel 0.133 | miroir 0.133
+quantile 5.0%: réel 0.147 | miroir 0.146
+meilleur AVEC confluence au bon endroit : [(0.114, 100, (np.float64(45.43489), np.float64(6.04759))), (0.12, 100, (np.float64(45.42993), np.float64(6.04024))), (0.125, 931, (np.float64(45.43339), np.float64(6.04492))), (0.125, 244, (np.float64(45.42092), np.float64(6.01085))), (0.125, 195, (np.float64(45.42108), np.float64(6.01085)))]
+part des chemins avec confluence au bon endroit : 3165/79524

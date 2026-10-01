@@ -1,0 +1,41 @@
+Cibles D (km): {'Sainte-Chapelle': 341.61, 'Notre-Dame': 342.01, 'Sainte-Chapelle de Vincennes': 346.21, 'Saint-Denis': 334.43, 'Chartres': 360.33}
+== (i) Distances entre les 3 C de Guilhem
+Cluny-Clermont: 141.49 km
+Cluny-Cadouin: 345.21 km
+Clermont-Cadouin: 203.72 km
+
+Inégalité triangulaire : toute chaîne contenant Cluny ET Cadouin est >= 345.21 km (= la chaîne à 3 C, Clermont étant quasi sur la droite).
+  cible Sainte-Chapelle                D= 341.61  D*1,01= 345.03  -> INCOMPATIBLE (marge -0.18 km ; écart relatif de 345.21 à D : +1.05 %)
+  cible Notre-Dame                     D= 342.01  D*1,01= 345.43  -> compatible (marge +0.22 km ; écart relatif de 345.21 à D : +0.94 %)
+  cible Sainte-Chapelle de Vincennes   D= 346.21  D*1,01= 349.67  -> compatible (marge +4.46 km ; écart relatif de 345.21 à D : -0.29 %)
+  cible Saint-Denis                    D= 334.43  D*1,01= 337.77  -> INCOMPATIBLE (marge -7.44 km ; écart relatif de 345.21 à D : +3.22 %)
+  cible Chartres                       D= 360.33  D*1,01= 363.94  -> compatible (marge +18.72 km ; écart relatif de 345.21 à D : -4.20 %)
+  Sensibilité : un décalage de 1 km sur Cluny ou Cadouin (abbaye vs bourg) suffit à changer la conclusion pour Sainte-Chapelle -> non-discriminant.
+
+== (ii) 4e C parmi 479 lieux (ordre libre) ; on garde les chaînes 4 C dans ±1 % de chaque D
+
+-- D=341.61 (Sainte-Chapelle) : 0 solutions (4e C, ordre) dans ±1 %
+
+-- D=342.01 (Notre-Dame) : 0 solutions (4e C, ordre) dans ±1 %
+
+-- D=346.21 (Sainte-Chapelle de Vincennes) : 0 solutions (4e C, ordre) dans ±1 %
+
+-- D=334.43 (Saint-Denis) : 0 solutions (4e C, ordre) dans ±1 %
+
+-- D=360.33 (Chartres) : 1 solutions (4e C, ordre) dans ±1 %
+   L= 360.11 (-0.06 %)  Cadouin - Cournon-d'Auvergne (FR) - Clermont - Cluny
+
+== (iii) Carnac (É5) comme un des 4 C, avec deux des trois C de Guilhem + 1 libre — ou 3 C Guilhem + Carnac (= 4 C)
+   Clermont - Cadouin - Carnac - Cluny      L= 1238.22   écart à D(SC)=+262.5 %
+   Clermont - Carnac - Cadouin - Cluny      L= 1290.86   écart à D(SC)=+277.9 %
+   Cadouin - Cluny - Clermont - Carnac      L=  998.49   écart à D(SC)=+192.3 %
+   Cadouin - Cluny - Carnac - Clermont      L= 1457.63   écart à D(SC)=+326.7 %
+   Cadouin - Clermont - Cluny - Carnac      L=  945.85   écart à D(SC)=+176.9 %
+   Cadouin - Clermont - Carnac - Cluny      L= 1316.14   écart à D(SC)=+285.3 %
+   Cadouin - Carnac - Cluny - Clermont      L= 1175.99   écart à D(SC)=+244.2 %
+   Cadouin - Carnac - Clermont - Cluny      L= 1087.14   écart à D(SC)=+218.2 %
+   Carnac - Cluny - Cadouin - Clermont      L= 1149.57   écart à D(SC)=+236.5 %
+   Carnac - Clermont - Cadouin - Cluny      L= 1060.72   écart à D(SC)=+210.5 %
+   Carnac - Cadouin - Cluny - Clermont      L=  920.57   écart à D(SC)=+169.5 %
+   Carnac - Cadouin - Clermont - Cluny      L=  779.08   écart à D(SC)=+128.1 %
+== (iv) 5 C = Carnac + 3 C Guilhem + 1 : non testé ici (le texte dit 4 C ; FAQ03-259 : « ça ne veut pas dire qu'il n'y en a que quatre dans le jeu »).

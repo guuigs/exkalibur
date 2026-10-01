@@ -1,0 +1,11 @@
+## Enigme 2 - initiales de la charade
+- reponses Guilhem: TRAIANHVA
+- variante O/O: TROIANOVA
+  cible testee : TROIANOVA (Troia Nova, nom de Londres chez Geoffroy de Monmouth)
+  NB : 'Ma septieme, epopee' est au feminin -> une epopee (Odyssee), pas un poete (Homere).
+  NB : 'premier de l'Empire de Rome' -> Octave (Auguste = titre pris en -27).
+
+## Enigme 3 - carre / place forte en 8 lettres
+- initiales des couples : TILG ; place forte : TINTAGEL (8 lettres)
+- lettres de TINTAGEL non couvertes par TILG : NTAE (= les 'NTAE' de Guilhem)
+  -> le mecanisme 'Complete le carre' n'est PAS encore explique : 4 lettres restent orphelines.

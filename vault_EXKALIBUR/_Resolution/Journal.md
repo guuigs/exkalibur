@@ -1,0 +1,38 @@
+# Journal
+
+- **2026-09-29 17:40** Lancement du projet. Lecture des 7 notes EXKALIBUR (vault Windows, identique au miroir iCloud). Aucune image dans le coffre.
+- **2026-09-29 19:40** Contexte officiel relevé (règlement et FAQ exkalibur.puydufou.com, presse). Chrome n'est pas lancé : la recherche web passe par curl / DuckDuckGo HTML.
+- **2026-09-29 19:50** Audit chiffré : Tintagel → Silchester = 181,4 milles romains ✓ ; code Winchester → STANENGES ✓ ; code π → CARNAC ✓ ; RLC → Foix = 12,1 lieues (✗ « près de 11 ») ; Tour → Battle = 76,7 km (≠ 86).
+- **2026-09-29 20:10** Guilhem fournit 2 photos (textes, enluminures), copiées dans Sources/. Les zooms de travail sont dans le cache scratch, hors coffre (25 Mo). Découverte : carré SATOR en R2G, lettres manquantes AENT, + TILG = TINTAGEL. Correspondance des panneaux établie pour les énigmes 1 à 6.
+- **2026-09-29 20:20** Fin de la Phase 0. Validation de Guilhem attendue avant la Phase 1.
+- **2026-09-29 20:20** Phase 0 validée par Guilhem : communauté = hypothèses ; pas de carte ; confirmation après chaque énigme ; revalider 1 à 5 puis la 6. Phase 1, énigme 1 : relevé complet (texte intégral transcrit). Solveur (quillon est + géométrie) et veille communauté lancés en parallèle.
+- **2026-09-29 20:25** Guilhem fournit sa carte My Maps (KML NetworkLink), copiée dans Carte/ et extraite (24 objets). Elle révèle du travail sur les énigmes 6 et 7 (Clermont, Cluny, Cadouin, Sainte-Chapelle, Brocéliande), absent des notes. Solveur É1 réorienté avec les tracés de Guilhem (León→Foix, Urquhart→Valence).
+- **2026-09-29 21:05** Guilhem : énigmes 1 à 5 **acquises**, passer à la 6 ; subagents sur Sonnet 5.5 + bascule auto DeepSeek à 90 % (script + cron b86d35b0e053, skill subagent-model-guard) ; **mode shark** : résolution validée officiellement = on la prend, rumeurs = pistes. Solveur É1 arrêté. `web_search` HS (Firecrawl 403) : recherche via DuckDuckGo et Bing par script. Aucune solution publiée trouvée pour É6 (les forums sont vides, les groupes Facebook fermés). FAQ officielle complète archivée dans Communaute/. Découverte : Tour de Londres → Battle Abbey → Sainte-Chapelle quasi alignés (0,42 km), distance 341,6 km. Numérotation des enluminures corrigée (É5 = R3G).
+- **2026-09-29 21:15** Retour du lot deleg_83679fc5 (lancé avant le passage à Sonnet, donc tourné sur deepseek-flash) : solveur É1 interrompu, sans objet puisque É1 est acquise. Veille communauté terminée (Communaute/veille_2026-09-29.md), déjà exploitée. Points à garder pour la suite : sur la rose des vents de la carte, les directions sont remplacées par des chiffres romains (FAQ01-117, FAQ03-131). L'auteur signale un biais de consensus : beaucoup de fouilles convergent vers les mêmes lieux, qui ne sont pas les bons (FAQ04-003).
+- **2026-09-29 23:10** Photos HD de Guilhem reçues (27, zip iCloud), extraites dans Sources/photos_HD_2026-09-29/ + INDEX.md. **Carte au trésor officielle** relevée (Carte/carte_officielle.md) : écu à château portant un « C » (Carcassonne ?), « Cormaricus » (Cormery), croix celtique en Irlande, coquille en Galice, rose des vents numérotée I à VIII. Texte d'É6 confirmé en HD. Sur le plateau : **mot hébreu אמן (Amen)** sous les 3 clochers, et **4 cloches reliées en pointillé** autour de MLXVI (nouveaux éléments). Solveur A : pas trouvé. Solveur B : interrompu, alignement non discriminant. Guilhem autorise plusieurs sous-agents par énigme : 5 agents Sonnet lancés (T1 à T5), usage Claude à 40 % sur 7 jours.
+- **2026-09-30 09:40** Vague 1 (T1-T5) terminée : aucune solution, mais beaucoup de pistes écartées avec test du hasard (lecture Pater du plateau, forme des 4 cloches, itinéraires historiques). La Sainte-Chapelle reste en tête (~55 %). **Piste nouvelle : FAQ07-280, « vous pouvez sûrement boire à chaque [C] »** : vague 2 ciblée (U1 boissons, U2 mécanisme preux/dieux). Figures des pions illisibles : photo macro demandée à Guilhem.
+- **2026-09-30 09:55** Recherche Google complète (Chrome relancé) : **aucune solution publique**. La seule rumeur utile vient du groupe Facebook : les noms des 4 C seraient donnés par l'enluminure du jeu du moulin. Le Discord officiel, réservé aux joueurs, concentre tout → accès à demander à Guilhem. Détail : Communaute/recherche_solutions_2026-09-30.md.
+- **2026-09-30 10:20** Discord officiel lu (compte Guilhem, QR, lecture seule). Salons énigmes et discussions **invisibles** : accès à demander au staff. Annonce officielle du 04/06/2026 : énigmes 1 à 11 (voire 12) entièrement résolues par la communauté, 3 équipes à moins de 150 m du coffre. Transcription FAQ 8 récupérée (5 C, 6 C, jeu de l'enluminure 7 utile une seule fois). → Communaute/discord_2026-09-30.md
+- **2026-09-30 10:45** Guilhem a l'accès complet au Discord (84 salons). Salon libera-nos-a-malo + recherche : consensus 4 C = Cîteaux, Cluny, Clairvaux, Clermont (5e C Chartres). Vérifié par nous : anagrammes exactes, chaîne 340,94 km contre D 341,60 (−0,19 %), arrivée à 0,68 km de la Sainte-Chapelle. **É6 VALIDÉE (shark)** → Enigme_06/solution.md. Mécanisme de lecture du plateau non reproduit (sans impact).
+- **2026-09-30 11:05** Vague 2 (U1 boissons, U2 preux/dieux) terminée : rien au-dessus du hasard. É6 déjà validée via le Discord ; REPRISE.md marqué CLOS. Leçon : en mode shark, consulter le Discord AVANT de lancer des vagues de solveurs.
+- **2026-09-30 11:40** Guilhem demande une réflexion organique et interconnectée → création de `GRAPHE_INDICES.md` (fils rouges, nœuds entrée → sortie, filtre en 3 questions, pistes écartées). É7 : consensus Discord (Evad. Ecfv → REDNES) recalculé : droite SC → Rennes, Lorient à 0,04 km, Brocéliande à ~1 km, hasard 0,25 %. Nouvelle garde parallèle à l'ancienne (7,6°) et perpendiculaire à la lame. 🟡 forte, en attente de Guilhem.
+
+- 30/09 : É8 Ultima cena. Discord (recherche UI sécurisée après un incident : texte tapé par erreur dans la zone de message, effacé avant envoi, rien de posté). Chaîne 18×37=666, 666² pieds romains depuis l'île de la Cité, cap Jérusalem → Payns à 1,4 km (nul 0,21 %). `Enigme_08/solution.md` 🟡, récap et KML mis à jour.
+
+- 30/09 : É8 validée par Guilhem. É9 : croisée garde É7 × royaume É5 → 340,9 km → Chartres (−0,19 %). Nul : 29 communes en C dans l'anneau, Chartres départagé par la lettrine labyrinthe. 1er paragraphe ouvert. `Enigme_09/solution.md` 🟡.
+
+- 30/09 : É9 validée par Guilhem (Chartres). É10 : prologue de la Règle vérifié (10e père = Châlons), anagramme MACHAIRE MOOR exacte, Eilean Donan (Matheson, FAC ET SPERA), Arran au sud (176°), 193,1 km. « Compte-les » ouvert. `Enigme_10/solution.md` 🟡.
+
+- 30/09 : É10 validée par Guilhem (« j'aime bien »). Passage à É11.
+
+- 30/09 : É11 : Saint-Palais → château Bayard = D·π à 0,016 % (script O_verif_consummatum.py). Angle non dérivé. Helper Discord : focus JS avant clic (FOCUS_KO quand la liste de résultats est ouverte).
+
+- 30/09 : É11 validée par Guilhem (« go sur la 12 »), angle ouvert. Passage à É12.
+
+- 30/09 : É12 : départ probable = tour d'Avalon (alignement É11 prolongé, 607,69 km). 3e/11e non résolus ; FAQ confirme que personne ne les a. Coffre non trouvé (Discord). OSM : pas de chemin de croix balisé à 12 km.
+
+- 30/09 : revue globale (agents T1 terrain IGN, T2 3e/11e, T3 zones d'ombre É1-11) + enluminure 12 + rayure de l'épée (SVG de Guilhem). Voir Revue_globale/00_SYNTHESE.md.
+
+- 30/09 soir : Guilhem VALIDE « jour dernier » = 30/04/1524 (63,7° julien). Tests : ponts ordinaux (bruit), scieries (rien), rayure vs LiDAR HD (non discriminant, contrôle miroir). T4 lancé (grande roche + parcelles ONF).
+
+- 30/09 soir : T4 rendu. Parcelles ONF à lettres, donc ❌. Piste vivante : lieu-dit « Le Chêne, la Roche et le Vivier » au pied de la tour (étang de 1 ha). Orthophoto produite.

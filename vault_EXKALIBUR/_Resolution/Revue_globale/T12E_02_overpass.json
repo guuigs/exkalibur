@@ -1,0 +1,4627 @@
+[
+ {
+  "lat": 45.423488,
+  "lon": 6.018643,
+  "name": "Château Bayard",
+  "tags": {
+   "heritage": "2",
+   "heritage:operator": "mhs",
+   "historic": "castle",
+   "mhs:inscription_date": "1915-01-28",
+   "name": "Château Bayard",
+   "ref:mhs": "PA00117240",
+   "source:heritage": "data.gouv.fr:Ministère de la Culture - 04/2015",
+   "wikidata": "Q2967839",
+   "wikipedia": "fr:Château Bayard"
+  },
+  "typ": "way",
+  "id": 156918049,
+  "D": 606.7639186292323,
+  "cap": 64.99873870383078,
+  "off": 0.09634942875849678
+ },
+ {
+  "lat": 45.4289085,
+  "lon": 6.031029,
+  "name": "Tour d'Avalon",
+  "tags": {
+   "building": "yes",
+   "castle_type": "tower",
+   "height": "33",
+   "heritage": "3",
+   "heritage:operator": "mhs",
+   "historic": "castle",
+   "image": "File:Tour d'Avalon Saint-Maximin.jpg",
+   "mhs:inscription_date": "1992-10-05",
+   "name": "Tour d'Avalon",
+   "ref:mhs": "PA00117375",
+   "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2013",
+   "source:heritage": "data.gouv.fr:Ministère de la Culture - 04/2015",
+   "wikidata": "Q3533246",
+   "wikipedia": "fr:Tour d'Avalon"
+  },
+  "typ": "way",
+  "id": 219902124,
+  "D": 607.8786639905092,
+  "cap": 64.97659089771969,
+  "off": 1.151612016066231
+ },
+ {
+  "lat": 45.4292973,
+  "lon": 6.0309078,
+  "name": "Rue du Rempart",
+  "tags": {
+   "highway": "residential",
+   "lane_markings": "no",
+   "name": "Rue du Rempart",
+   "oneway": "yes",
+   "ref:FR:FANTOIR": "384261360C",
+   "surface": "asphalt"
+  },
+  "typ": "way",
+  "id": 1125821702,
+  "D": 607.8846238842771,
+  "cap": 64.97245136125804,
+  "off": 1.16371914416688
+ },
+ {
+  "lat": 45.4295745,
+  "lon": 6.0310337,
+  "name": "Rue du Rempart",
+  "tags": {
+   "highway": "residential",
+   "lane_markings": "no",
+   "name": "Rue du Rempart",
+   "oneway": "yes",
+   "ref:FR:FANTOIR": "384261360C",
+   "surface": "asphalt"
+  },
+  "typ": "way",
+  "id": 1128073609,
+  "D": 607.9044352618413,
+  "cap": 64.97003713447555,
+  "off": 1.1875643055076952
+ },
+ {
+  "lat": 45.4297007,
+  "lon": 6.0314153,
+  "name": "Rue du Rempart",
+  "tags": {
+   "highway": "residential",
+   "lane_markings": "no",
+   "name": "Rue du Rempart",
+   "oneway": "yes",
+   "ref:FR:FANTOIR": "384261360C",
+   "surface": "asphalt"
+  },
+  "typ": "way",
+  "id": 22954566,
+  "D": 607.9372214540431,
+  "cap": 64.969758331491,
+  "off": 1.2203563899702918
+ },
+ {
+  "lat": 45.44355,
+  "lon": 6.0183205,
+  "name": "Allée des Hirondelles",
+  "tags": {
+   "highway": "residential",
+   "name": "Allée des Hirondelles"
+  },
+  "typ": "way",
+  "id": 183006372,
+  "D": 607.5092499159687,
+  "cap": 64.80000019732807,
+  "off": 2.1540986093917005
+ },
+ {
+  "lat": 45.4353343,
+  "lon": 5.9871231,
+  "name": "Fort Barraux",
+  "tags": {
+   "barrier": "city_wall",
+   "castle_type": "fortress",
+   "heritage": "2",
+   "heritage:operator": "mhs",
+   "historic": "castle",
+   "loc_name": "Fort de Saint-Barthélémy",
+   "mhs:inscription_date": "1990-08-23",
+   "name": "Fort Barraux",
+   "ref:mhs": "PA00117119",
+   "source:heritage": "data.gouv.fr:Ministère de la Culture - 04/2015",
+   "website": "https://fort-barraux.fr/",
+   "wikidata": "Q3077768",
+   "wikipedia": "fr:Fort Barraux"
+  },
+  "typ": "way",
+  "id": 213866636,
+  "D": 604.9094308425423,
+  "cap": 64.80128458406773,
+  "off": 2.703030217471387
+ },
+ {
+  "lat": 45.44135,
+  "lon": 6.0449845,
+  "name": "Château de Beauregard",
+  "tags": {
+   "building": "yes",
+   "historic": "castle",
+   "name": "Château de Beauregard",
+   "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2012",
+   "wikidata": "Q83711898"
+  },
+  "typ": "way",
+  "id": 191078211,
+  "D": 609.376943730858,
+  "cap": 64.88942275973625,
+  "off": 2.848099531259
+ },
+ {
+  "lat": 45.4112656,
+  "lon": 5.9813453,
+  "name": "Chemin Combe Pré de Ronde",
+  "tags": {
+   "highway": "living_street",
+   "lit": "yes",
+   "maxspeed": "12",
+   "name": "Chemin Combe Pré de Ronde",
+   "sidewalk": "no",
+   "source:maxspeed": "FR:living_street",
+   "surface": "asphalt"
+  },
+  "typ": "way",
+  "id": 332751116,
+  "D": 603.5631801340866,
+  "cap": 65.02508259647061,
+  "off": 3.1941510361320375
+ },
+ {
+  "lat": 45.4071571,
+  "lon": 6.0510702,
+  "name": "La Tour Hertzienne",
+  "tags": {
+   "building": "yes",
+   "height": "48",
+   "man_made": "tower",
+   "name": "La Tour Hertzienne",
+   "owner": "TDF",
+   "ref:FR:ANFR": "446210",
+   "source": "ANFR 08/2019;cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2013",
+   "tower:type": "communication"
+  },
+  "typ": "way",
+  "id": 219883484,
+  "D": 608.5243472513014,
+  "cap": 65.24143649967107,
+  "off": 3.20721830091153
+ },
+ {
+  "lat": 45.4335379,
+  "lon": 5.9778352,
+  "name": "Château de Maximy",
+  "tags": {
+   "castle_type": "manor",
+   "historic": "castle",
+   "name": "Château de Maximy"
+  },
+  "typ": "node",
+  "id": 5081057549,
+  "D": 604.1604121198716,
+  "cap": 64.79521426744526,
+  "off": 3.2951100293901137
+ },
+ {
+  "lat": 45.4084982,
+  "lon": 5.98135,
+  "name": "Impasse Pré de Ronde",
+  "tags": {
+   "highway": "residential",
+   "name": "Impasse Pré de Ronde"
+  },
+  "typ": "way",
+  "id": 332751110,
+  "D": 603.4580204395999,
+  "cap": 65.05257918063921,
+  "off": 3.3435587672883655
+ },
+ {
+  "lat": 45.4083507,
+  "lon": 5.9814481,
+  "name": "Impasse Pré de Ronde",
+  "tags": {
+   "highway": "residential",
+   "name": "Impasse Pré de Ronde"
+  },
+  "typ": "way",
+  "id": 332751107,
+  "D": 603.4595956720303,
+  "cap": 65.05429384013723,
+  "off": 3.3456306305140493
+ },
+ {
+  "lat": 45.4076345,
+  "lon": 5.9815137,
+  "name": "Impasse Pré de Ronde",
+  "tags": {
+   "highway": "residential",
+   "name": "Impasse Pré de Ronde"
+  },
+  "typ": "way",
+  "id": 332751113,
+  "D": 603.4371274681332,
+  "cap": 65.06157523131327,
+  "off": 3.3839217252188054
+ },
+ {
+  "lat": 45.4176445,
+  "lon": 5.9724745,
+  "name": "Château du Fayet",
+  "tags": {
+   "building": "yes",
+   "castle_type": "manor",
+   "heritage": "3",
+   "heritage:operator": "mhs",
+   "historic": "castle",
+   "mhs:inscription_date": "1988-01-04",
+   "name": "Château du Fayet",
+   "ref:mhs": "PA00117118",
+   "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2013",
+   "source:heritage": "data.gouv.fr:Ministère de la Culture - 04/2015",
+   "wikidata": "Q2971676",
+   "wikipedia": "fr:Château du Fayet"
+  },
+  "typ": "way",
+  "id": 221634002,
+  "D": 603.1568602842319,
+  "cap": 64.9390964881112,
+  "off": 3.6190409375057713
+ },
+ {
+  "lat": 45.3830504,
+  "lon": 6.0081965,
+  "name": "",
+  "tags": {
+   "man_made": "tower",
+   "operator": "TDF",
+   "tower:type": "communication"
+  },
+  "typ": "node",
+  "id": 5266933547,
+  "D": 604.4677867606696,
+  "cap": 65.37310615755933,
+  "off": 4.63572766746463
+ },
+ {
+  "lat": 45.4706382,
+  "lon": 6.0292708,
+  "name": "",
+  "tags": {
+   "height": "25",
+   "man_made": "tower",
+   "operator": "RTE",
+   "ref:FR:ANFR": "1530679",
+   "source": "data.gouv.fr:ANFR - 08/2019",
+   "tower:type": "communication"
+  },
+  "typ": "node",
+  "id": 2381675461,
+  "D": 609.3586943194057,
+  "cap": 64.5617486094875,
+  "off": 5.241526951114949
+ },
+ {
+  "lat": 45.4709688,
+  "lon": 6.0287958,
+  "name": "",
+  "tags": {
+   "man_made": "tower",
+   "operator": "RTE",
+   "tower:type": "communication"
+  },
+  "typ": "node",
+  "id": 7223721616,
+  "D": 609.3368695753073,
+  "cap": 64.5572846502323,
+  "off": 5.271659744435281
+ },
+ {
+  "lat": 45.4591009,
+  "lon": 5.9677716,
+  "name": "Château de Bellecombe",
+  "tags": {
+   "castle_type": "fortress",
+   "historic": "castle",
+   "name": "Château de Bellecombe",
+   "ruins": "yes",
+   "wikidata": "Q83718910"
+  },
+  "typ": "way",
+  "id": 902035091,
+  "D": 604.4173530863216,
+  "cap": 64.51625816243074,
+  "off": 5.511204166841535
+ },
+ {
+  "lat": 45.3682134,
+  "lon": 6.0153754,
+  "name": "Chemin des Hirondelles",
+  "tags": {
+   "highway": "path",
+   "name": "Chemin des Hirondelles"
+  },
+  "typ": "way",
+  "id": 1381489059,
+  "D": 604.4421753151762,
+  "cap": 65.53850567015962,
+  "off": 6.2263318005006765
+ },
+ {
+  "lat": 45.3674439,
+  "lon": 6.0114573,
+  "name": "Chemin des Hirondelles",
+  "tags": {
+   "access": "no",
+   "bicycle": "no",
+   "foot": "no",
+   "highway": "path",
+   "name": "Chemin des Hirondelles",
+   "source": "arreté municipal Crêts en Belledone 0005/2022 affiché à l'entrée",
+   "trail_visibility": "intermediate"
+  },
+  "typ": "way",
+  "id": 1327272907,
+  "D": 604.1250981712594,
+  "cap": 65.53644583667005,
+  "off": 6.328800122084815
+ },
+ {
+  "lat": 45.3670042,
+  "lon": 6.0053642,
+  "name": "Chemin des Hirondelles",
+  "tags": {
+   "access": "no",
+   "bicycle": "no",
+   "foot": "no",
+   "highway": "path",
+   "name": "Chemin des Hirondelles",
+   "source": "arreté municipal Crêts en Belledone 0005/2022 affiché à l'entrée",
+   "trail_visibility": "intermediate"
+  },
+  "typ": "way",
+  "id": 1327272905,
+  "D": 603.6601619357557,
+  "cap": 65.5256950463068,
+  "off": 6.432575570921895
+ },
+ {
+  "lat": 45.367696,
+  "lon": 6.0001048,
+  "name": "Chemin des Hirondelles",
+  "tags": {
+   "bicycle": "no",
+   "foot": "permissive",
+   "highway": "path",
+   "horse": "no",
+   "name": "Chemin des Hirondelles",
+   "source": "arreté municipal Le Cheylas 2022 affiché à l'entrée"
+  },
+  "typ": "way",
+  "id": 488503279,
+  "D": 603.2987605208211,
+  "cap": 65.50572264547702,
+  "off": 6.432602741758609
+ },
+ {
+  "lat": 45.3852775,
+  "lon": 5.955295,
+  "name": "Château du Montalieu",
+  "tags": {
+   "building": "yes",
+   "historic": "castle",
+   "name": "Château du Montalieu",
+   "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2012",
+   "website": "https://www.chateau-montalieu.com/"
+  },
+  "typ": "way",
+  "id": 169274912,
+  "D": 600.6642938004896,
+  "cap": 65.21767599223352,
+  "off": 6.526887979778596
+ },
+ {
+  "lat": 45.4820778,
+  "lon": 6.0666524,
+  "name": "Chemin des Hirondelles",
+  "tags": {
+   "highway": "service",
+   "name": "Chemin des Hirondelles"
+  },
+  "typ": "way",
+  "id": 374684895,
+  "D": 612.5342060078948,
+  "cap": 64.54564158525551,
+  "off": 7.477202959059924
+ },
+ {
+  "lat": 45.442666,
+  "lon": 6.1176697,
+  "name": "Rue des Remparts",
+  "tags": {
+   "highway": "service",
+   "name": "Rue des Remparts",
+   "service": "alley",
+   "surface": "asphalt"
+  },
+  "typ": "way",
+  "id": 180370291,
+  "D": 614.7543632317387,
+  "cap": 65.05875831785227,
+  "off": 8.051807846779743
+ },
+ {
+  "lat": 45.4772857,
+  "lon": 6.0886553,
+  "name": "Chemin de Côte Ronde",
+  "tags": {
+   "highway": "track",
+   "name": "Chemin de Côte Ronde",
+   "tracktype": "grade3"
+  },
+  "typ": "way",
+  "id": 204413904,
+  "D": 613.955923990129,
+  "cap": 64.64838266409834,
+  "off": 8.08288720170439
+ },
+ {
+  "lat": 45.4422735,
+  "lon": 6.118894,
+  "name": "Impasse des Hirondelles",
+  "tags": {
+   "highway": "service",
+   "name": "Impasse des Hirondelles"
+  },
+  "typ": "way",
+  "id": 691043520,
+  "D": 614.8292819299891,
+  "cap": 65.06562716846145,
+  "off": 8.133331358948052
+ },
+ {
+  "lat": 45.5008225,
+  "lon": 6.0328115,
+  "name": "Château de Carron",
+  "tags": {
+   "building": "yes",
+   "heritage": "3",
+   "heritage:operator": "mhs",
+   "historic": "castle",
+   "mhs:inscription_date": "1989-01-30",
+   "name": "Château de Carron",
+   "ref:mhs": "PA00118257",
+   "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2012",
+   "source:heritage": "data.gouv.fr, Ministère de la Culture - 2016",
+   "start_date": "C18",
+   "wikidata": "Q15944528",
+   "wikipedia": "fr:Château de Carron"
+  },
+  "typ": "way",
+  "id": 184458556,
+  "D": 610.7997307341888,
+  "cap": 64.27545225864571,
+  "off": 8.601249864724815
+ },
+ {
+  "lat": 45.363498,
+  "lon": 5.946513,
+  "name": "Château du Touvet",
+  "tags": {
+   "addr:city": "LE TOUVET",
+   "addr:postcode": "38660",
+   "addr:street": "Allée du château",
+   "alt_name": "Château de Marcieu",
+   "building": "yes",
+   "contact:email": "contact@chateaudutouvet.com",
+   "contact:phone": "+33 6 50 84 42 39",
+   "contact:youtube": "https://www.youtube.com/channel/UCm-ZMXRqu-FdkYGIETjBddQ",
+   "heritage": "2",
+   "heritage:operator": "mhs",
+   "historic": "castle",
+   "mhs:inscription_date": "1959-03-17",
+   "name": "Château du Touvet",
+   "ref:mhs": "PA00117296",
+   "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2011",
+   "source:heritage": "data.gouv.fr:Ministère de la Culture - 04/2015",
+   "website": "https://chateaudutouvet.com/",
+   "wikidata": "Q2415426",
+   "wikipedia": "fr:Château du Touvet"
+  },
+  "typ": "way",
+  "id": 118982870,
+  "D": 599.1986246624247,
+  "cap": 65.41339530716124,
+  "off": 8.752209516195894
+ },
+ {
+  "lat": 45.4586041,
+  "lon": 6.1217705,
+  "name": "Château de la Rochette",
+  "tags": {
+   "building": "yes",
+   "historic": "castle",
+   "name": "Château de la Rochette",
+   "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2010",
+   "wikidata": "Q83714266"
+  },
+  "typ": "way",
+  "id": 88053870,
+  "D": 615.6612320411513,
+  "cap": 64.91363048361018,
+  "off": 8.962381836745305
+ },
+ {
+  "lat": 45.5006739,
+  "lon": 6.0546596,
+  "name": "Citadelle de Montmélian",
+  "tags": {
+   "castle_type": "fortress",
+   "historic": "castle",
+   "name": "Citadelle de Montmélian",
+   "ruins": "yes"
+  },
+  "typ": "way",
+  "id": 135647320,
+  "D": 612.3863282812921,
+  "cap": 64.33347325368163,
+  "off": 8.975891810111529
+ },
+ {
+  "lat": 45.5005255,
+  "lon": 6.055292,
+  "name": "Relais TDF",
+  "tags": {
+   "building": "yes",
+   "communication:television": "yes",
+   "height": "19",
+   "man_made": "tower",
+   "name": "Relais TDF",
+   "operator": "TDF",
+   "ref:FR:ANFR": "446288",
+   "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2012",
+   "tower:type": "communication"
+  },
+  "typ": "way",
+  "id": 182995504,
+  "D": 612.426601413219,
+  "cap": 64.33655207043842,
+  "off": 8.976159532244381
+ },
+ {
+  "lat": 45.4913408,
+  "lon": 6.0843126,
+  "name": "",
+  "tags": {
+   "historic": "castle"
+  },
+  "typ": "node",
+  "id": 2082519505,
+  "D": 614.1844324475187,
+  "cap": 64.5004803360111,
+  "off": 9.088558097434497
+ },
+ {
+  "lat": 45.484743,
+  "lon": 6.096708,
+  "name": "Château de Combefort",
+  "tags": {
+   "building": "yes",
+   "historic": "castle",
+   "name": "Château de Combefort",
+   "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2013",
+   "wikidata": "Q15940520"
+  },
+  "typ": "way",
+  "id": 204413311,
+  "D": 614.8332765331064,
+  "cap": 64.5962113425926,
+  "off": 9.117973331351038
+ },
+ {
+  "lat": 45.5019486,
+  "lon": 6.0575149,
+  "name": "",
+  "tags": {
+   "building": "detached",
+   "man_made": "tower",
+   "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2012"
+  },
+  "typ": "way",
+  "id": 182995694,
+  "D": 612.6445967832832,
+  "cap": 64.32842166225316,
+  "off": 9.182816616140975
+ },
+ {
+  "lat": 45.5021744,
+  "lon": 6.0566745,
+  "name": "Rue des Remparts",
+  "tags": {
+   "highway": "residential",
+   "maxspeed": "30",
+   "name": "Rue des Remparts",
+   "surface": "asphalt"
+  },
+  "typ": "way",
+  "id": 1116118815,
+  "D": 612.5922087498312,
+  "cap": 64.32405248778423,
+  "off": 9.184675575436327
+ },
+ {
+  "lat": 45.5017841,
+  "lon": 6.0583238,
+  "name": "Rue des Remparts",
+  "tags": {
+   "highway": "residential",
+   "maxspeed": "30",
+   "name": "Rue des Remparts",
+   "surface": "asphalt"
+  },
+  "typ": "way",
+  "id": 182995508,
+  "D": 612.6971019024219,
+  "cap": 64.33211158849065,
+  "off": 9.187051577635703
+ },
+ {
+  "lat": 45.3552105,
+  "lon": 5.9459955,
+  "name": "Château du Mollard",
+  "tags": {
+   "building": "yes",
+   "historic": "castle",
+   "name": "Château du Mollard",
+   "note": "Château",
+   "source": "http://www.mariages.net/chateau-mariage/le-chateau-du-mollard--e36813;cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2011"
+  },
+  "typ": "way",
+  "id": 118982808,
+  "D": 598.8504754109875,
+  "cap": 65.49521792628491,
+  "off": 9.504906302609431
+ },
+ {
+  "lat": 45.342023,
+  "lon": 5.9812355,
+  "name": "Maison forte (château) de Goncelin",
+  "tags": {
+   "access": "private",
+   "building": "yes",
+   "castle_type": "chateau",
+   "historic": "castle",
+   "name": "Maison forte (château) de Goncelin",
+   "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2010"
+  },
+  "typ": "way",
+  "id": 63987784,
+  "D": 600.956939914583,
+  "cap": 65.71535890311884,
+  "off": 9.573713544248783
+ },
+ {
+  "lat": 45.4950625,
+  "lon": 6.10695,
+  "name": "",
+  "tags": {
+   "building": "yes",
+   "man_made": "tower",
+   "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2013",
+   "tower:type": "bell_tower"
+  },
+  "typ": "way",
+  "id": 204413695,
+  "D": 615.9821573246028,
+  "cap": 64.52195303830689,
+  "off": 10.505238655300682
+ },
+ {
+  "lat": 45.3505084,
+  "lon": 5.9335395,
+  "name": "Château de Beaumont",
+  "tags": {
+   "building": "yes",
+   "fixme": "Relevé plus précis requis sur place pour tracer les murs etc.",
+   "historic": "castle",
+   "image": "https://web.archive.org/web/20220106173620/https://westnordost.de/p/74320.jpg",
+   "name": "Château de Beaumont",
+   "ruins": "castle",
+   "wikidata": "Q110314942",
+   "wikimedia_commons": "Category:Château de Beaumont (Le Touvet)"
+  },
+  "typ": "way",
+  "id": 1080996291,
+  "D": 597.7581029464847,
+  "cap": 65.51110946869636,
+  "off": 10.512340116142797
+ },
+ {
+  "lat": 45.4886698,
+  "lon": 6.1225483,
+  "name": "Tour de Montmayeur - Ouest",
+  "tags": {
+   "building": "yes",
+   "historic": "castle",
+   "man_made": "tower",
+   "name": "Tour de Montmayeur - Ouest",
+   "ruins": "yes",
+   "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2010",
+   "tower:type": "defensive",
+   "wikidata": "Q2970020",
+   "wikimedia_commons": "Category:Château de Montmayeur",
+   "wikipedia": "fr:Château de Montmayeur"
+  },
+  "typ": "way",
+  "id": 87824591,
+  "D": 616.8736139444507,
+  "cap": 64.62346038718346,
+  "off": 10.864919697399396
+ },
+ {
+  "lat": 45.4898412,
+  "lon": 6.1239859,
+  "name": "Tour de Montmayeur - Est",
+  "tags": {
+   "building": "yes",
+   "historic": "castle",
+   "man_made": "tower",
+   "name": "Tour de Montmayeur - Est",
+   "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2010",
+   "tower:type": "defensive",
+   "wikidata": "Q2970020",
+   "wikimedia_commons": "Category:Château de Montmayeur",
+   "wikipedia": "fr:Château de Montmayeur"
+  },
+  "typ": "way",
+  "id": 87824594,
+  "D": 617.0240053668456,
+  "cap": 64.6157300893272,
+  "off": 11.035088126764714
+ },
+ {
+  "lat": 45.5140185,
+  "lon": 6.07897,
+  "name": "Château de Mérande",
+  "tags": {
+   "building": "yes",
+   "castle_type": "stately",
+   "historic": "castle",
+   "name": "Château de Mérande",
+   "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2012"
+  },
+  "typ": "way",
+  "id": 189370989,
+  "D": 614.6833055876806,
+  "cap": 64.2663747593275,
+  "off": 11.066672283709101
+ },
+ {
+  "lat": 45.5249007,
+  "lon": 6.0005713,
+  "name": "Clos Saint-Anthelme",
+  "tags": {
+   "historic": "castle",
+   "name": "Clos Saint-Anthelme"
+  },
+  "typ": "way",
+  "id": 239719436,
+  "D": 609.4106441152244,
+  "cap": 63.95580721209734,
+  "off": 11.280856933803491
+ },
+ {
+  "lat": 45.5258789,
+  "lon": 6.00675,
+  "name": "",
+  "tags": {
+   "man_made": "tower",
+   "tower:type": "bell_tower"
+  },
+  "typ": "node",
+  "id": 13929606902,
+  "D": 609.8988533023321,
+  "cap": 63.96257336434178,
+  "off": 11.34178740031102
+ },
+ {
+  "lat": 45.5257416,
+  "lon": 6.0000914,
+  "name": "Tour de La Place",
+  "tags": {
+   "alt_name": "Tour des Archers",
+   "historic": "ruins",
+   "man_made": "tower",
+   "name": "Tour de La Place",
+   "tower:type": "defensive"
+  },
+  "typ": "way",
+  "id": 820402104,
+  "D": 609.4094620731798,
+  "cap": 63.946325676491085,
+  "off": 11.378197964145397
+ },
+ {
+  "lat": 45.5259996,
+  "lon": 6.0010439,
+  "name": "La Poype",
+  "tags": {
+   "historic": "ruins",
+   "man_made": "tower",
+   "name": "La Poype",
+   "tower:type": "defensive"
+  },
+  "typ": "way",
+  "id": 820404582,
+  "D": 609.4890163531046,
+  "cap": 63.946323979524664,
+  "off": 11.397869440638365
+ },
+ {
+  "lat": 45.5263972,
+  "lon": 6.0015826,
+  "name": "Tour de Montagny",
+  "tags": {
+   "historic": "ruins",
+   "man_made": "tower",
+   "name": "Tour de Montagny",
+   "tower:type": "defensive"
+  },
+  "typ": "way",
+  "id": 820402101,
+  "D": 609.5440957356241,
+  "cap": 63.94386537407388,
+  "off": 11.43703753476833
+ },
+ {
+  "lat": 45.5264035,
+  "lon": 5.9995202,
+  "name": "Tour Corraz",
+  "tags": {
+   "historic": "ruins",
+   "man_made": "tower",
+   "name": "Tour Corraz",
+   "tower:type": "defensive"
+  },
+  "typ": "way",
+  "id": 820402100,
+  "D": 609.3944873153137,
+  "cap": 63.93835080553521,
+  "off": 11.456736263443377
+ },
+ {
+  "lat": 45.5270576,
+  "lon": 6.0012222,
+  "name": "Tour de Verdun",
+  "tags": {
+   "historic": "ruins",
+   "man_made": "tower",
+   "name": "Tour de Verdun",
+   "tower:type": "defensive"
+  },
+  "typ": "way",
+  "id": 820402103,
+  "D": 609.5443801642743,
+  "cap": 63.936464295599194,
+  "off": 11.513157130776174
+ },
+ {
+  "lat": 45.5254735,
+  "lon": 5.983756,
+  "name": "Château de la Gentilhommière",
+  "tags": {
+   "building": "yes",
+   "castle_type": "stately",
+   "historic": "castle",
+   "name": "Château de la Gentilhommière",
+   "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2012"
+  },
+  "typ": "way",
+  "id": 164443483,
+  "D": 608.211872836203,
+  "cap": 63.905666369406845,
+  "off": 11.57370289747059
+ },
+ {
+  "lat": 45.527872,
+  "lon": 5.9988086,
+  "name": "Tour de Bourdeau",
+  "tags": {
+   "historic": "ruins",
+   "man_made": "tower",
+   "name": "Tour de Bourdeau",
+   "tower:type": "defensive"
+  },
+  "typ": "way",
+  "id": 820402102,
+  "D": 609.4016801081972,
+  "cap": 63.92212706922004,
+  "off": 11.62573326667673
+ },
+ {
+  "lat": 45.4145007,
+  "lon": 5.8556342,
+  "name": "La Tour d'Infernet",
+  "tags": {
+   "building": "yes",
+   "historic": "tower",
+   "man_made": "tower",
+   "name": "La Tour d'Infernet",
+   "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2012",
+   "tower:type": "defensive"
+  },
+  "typ": "way",
+  "id": 183908470,
+  "D": 594.4838477108019,
+  "cap": 64.66684254598954,
+  "off": 12.710370515683518
+ },
+ {
+  "lat": 45.519086,
+  "lon": 6.1221175,
+  "name": "Château de Rubaud",
+  "tags": {
+   "building": "yes",
+   "castle_type": "manor",
+   "historic": "castle",
+   "name": "Château de Rubaud",
+   "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2013",
+   "wikidata": "Q83718818"
+  },
+  "typ": "way",
+  "id": 204650389,
+  "D": 618.0272329883444,
+  "cap": 64.32796027457164,
+  "off": 13.319474526615553
+ },
+ {
+  "lat": 45.5454285,
+  "lon": 5.9907635,
+  "name": "Château de Triviers",
+  "tags": {
+   "building": "yes",
+   "building:levels": "1",
+   "castle_type": "stately",
+   "historic": "castle",
+   "name": "Château de Triviers",
+   "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2012",
+   "wikidata": "Q19607191",
+   "wikipedia": "fr:Château de Triviers"
+  },
+  "typ": "way",
+  "id": 164117548,
+  "D": 609.5251913184251,
+  "cap": 63.72943465497701,
+  "off": 13.647203001436429
+ },
+ {
+  "lat": 45.3008545,
+  "lon": 5.9816501,
+  "name": "Route des Hirondelles",
+  "tags": {
+   "highway": "unclassified",
+   "name": "Route des Hirondelles"
+  },
+  "typ": "way",
+  "id": 26346701,
+  "D": 599.4842583409194,
+  "cap": 66.12973521921822,
+  "off": 14.002587483716017
+ },
+ {
+  "lat": 45.3189616,
+  "lon": 5.918624,
+  "name": "Château du Carré",
+  "tags": {
+   "building": "yes",
+   "castle_type": "defensive",
+   "castle_type:de": "burg",
+   "heritage": "3",
+   "heritage:operator": "mhs",
+   "historic": "castle",
+   "mhs:inscription_date": "1995-01-02",
+   "name": "Château du Carré",
+   "ref:mhs": "PA00117292",
+   "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre ; mise à jour : 06-03-2009",
+   "source:heritage": "data.gouv.fr:Ministère de la Culture - 04/2015",
+   "wikidata": "Q22967062"
+  },
+  "typ": "way",
+  "id": 169149076,
+  "D": 595.4891341144892,
+  "cap": 65.7917679184585,
+  "off": 14.036525298583864
+ },
+ {
+  "lat": 45.4151298,
+  "lon": 5.8381501,
+  "name": "Château de Montbel",
+  "tags": {
+   "castle_type": "defensive",
+   "historic": "castle",
+   "name": "Château de Montbel",
+   "old_name": "Château d'Entremont le Jeune",
+   "ruins": "yes",
+   "wikidata": "Q15940521",
+   "wikipedia": "fr:Château du Gouvernement"
+  },
+  "typ": "way",
+  "id": 624068528,
+  "D": 593.230452138882,
+  "cap": 64.61424141555517,
+  "off": 14.065307770496592
+ },
+ {
+  "lat": 45.5509656,
+  "lon": 6.0011865,
+  "name": "",
+  "tags": {
+   "man_made": "tower",
+   "source": "IGN - 2023-12-15",
+   "tower:type": "bell_tower"
+  },
+  "typ": "node",
+  "id": 11821430272,
+  "D": 610.5053275813176,
+  "cap": 63.70329930188029,
+  "off": 14.158012294796938
+ },
+ {
+  "lat": 45.538995,
+  "lon": 6.103044,
+  "name": "Château de Verdun Dessus",
+  "tags": {
+   "building": "yes",
+   "historic": "castle",
+   "name": "Château de Verdun Dessus",
+   "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2012",
+   "wikidata": "Q15957666"
+  },
+  "typ": "way",
+  "id": 191239721,
+  "D": 617.4237458874284,
+  "cap": 64.08670742254395,
+  "off": 14.38947607472058
+ },
+ {
+  "lat": 45.5556667,
+  "lon": 6.0026802,
+  "name": "",
+  "tags": {
+   "ele": "835",
+   "man_made": "tower",
+   "tower:type": "communication"
+  },
+  "typ": "node",
+  "id": 3203444446,
+  "D": 610.8042457423694,
+  "cap": 63.66154513246187,
+  "off": 14.668731163307951
+ },
+ {
+  "lat": 45.5561975,
+  "lon": 5.9879445,
+  "name": "Château de Corogna",
+  "tags": {
+   "addr:city": "Challes-les-Eaux",
+   "addr:housenumber": "387",
+   "addr:postcode": "73190",
+   "addr:street": "Montée du Château",
+   "building": "yes",
+   "castle_type": "stately",
+   "historic": "castle",
+   "name": "Château de Corogna",
+   "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2012"
+  },
+  "typ": "way",
+  "id": 164117422,
+  "D": 609.7578420512639,
+  "cap": 63.61695595354092,
+  "off": 14.864253228158997
+ },
+ {
+  "lat": 45.551874,
+  "lon": 5.9409365,
+  "name": "Château de Longeray",
+  "tags": {
+   "building": "yes",
+   "castle_type": "defensive",
+   "historic": "castle",
+   "name": "Château de Longeray",
+   "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2011",
+   "wikidata": "Q30080247"
+  },
+  "typ": "way",
+  "id": 111647944,
+  "D": 606.1764747504209,
+  "cap": 63.53243942460426,
+  "off": 15.414458506079292
+ },
+ {
+  "lat": 45.292148,
+  "lon": 5.9462735,
+  "name": "Château de la Pierre",
+  "tags": {
+   "building": "yes",
+   "heritage": "3",
+   "heritage:operator": "mhs",
+   "historic": "castle",
+   "mhs:inscription_date": "1982-10-20",
+   "name": "Château de la Pierre",
+   "ref:mhs": "PA00117237",
+   "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2010",
+   "source:heritage": "data.gouv.fr:Ministère de la Culture - 04/2015",
+   "wikidata": "Q22967024"
+  },
+  "typ": "way",
+  "id": 63586153,
+  "D": 596.5527147892323,
+  "cap": 66.1312404957871,
+  "off": 15.711810655350845
+ },
+ {
+  "lat": 45.2867604,
+  "lon": 6.0708178,
+  "name": "",
+  "tags": {
+   "man_made": "tower",
+   "tower:type": "observation"
+  },
+  "typ": "node",
+  "id": 1219414554,
+  "D": 605.5848802686843,
+  "cap": 66.48464345329973,
+  "off": 15.829945623829644
+ },
+ {
+  "lat": 45.4395646,
+  "lon": 5.8125424,
+  "name": "Chemin Sous les Murailles",
+  "tags": {
+   "highway": "path",
+   "name": "Chemin Sous les Murailles"
+  },
+  "typ": "way",
+  "id": 1375209495,
+  "D": 592.3238264726402,
+  "cap": 64.29978319962527,
+  "off": 16.115495204435668
+ },
+ {
+  "lat": 45.564012,
+  "lon": 5.9623242,
+  "name": "Château des Charmilles",
+  "tags": {
+   "building": "yes",
+   "castle_type": "stately",
+   "historic": "castle",
+   "name": "Château des Charmilles",
+   "wikidata": "Q28844015",
+   "wikipedia": "fr:Château des Charmilles"
+  },
+  "typ": "way",
+  "id": 488038610,
+  "D": 608.2216054741183,
+  "cap": 63.47178339609735,
+  "off": 16.140794458889417
+ },
+ {
+  "lat": 45.4403707,
+  "lon": 5.8120984,
+  "name": "Chemin Sous les Murailles",
+  "tags": {
+   "highway": "service",
+   "name": "Chemin Sous les Murailles",
+   "service": "driveway"
+  },
+  "typ": "way",
+  "id": 714575159,
+  "D": 592.3234603786998,
+  "cap": 64.29047450153689,
+  "off": 16.159572388890716
+ },
+ {
+  "lat": 45.3061694,
+  "lon": 5.8886359,
+  "name": "Le Chemin de Ronde",
+  "tags": {
+   "access": "no",
+   "highway": "via_ferrata",
+   "name": "Le Chemin de Ronde",
+   "note": "actuellement fermé par un arreté suite a des éboulements",
+   "oneway": "yes",
+   "source": "survey",
+   "via_ferrata_scale": "2"
+  },
+  "typ": "way",
+  "id": 71440690,
+  "D": 592.8055233499483,
+  "cap": 65.84643458244597,
+  "off": 16.558212648011086
+ },
+ {
+  "lat": 45.3053013,
+  "lon": 5.8882661,
+  "name": "Le Chemin de Ronde",
+  "tags": {
+   "access": "no",
+   "bridge": "yes",
+   "highway": "via_ferrata",
+   "layer": "1",
+   "name": "Le Chemin de Ronde",
+   "note": "actuellement fermé par un arreté suite a des éboulements",
+   "source": "survey",
+   "via_ferrata_scale": "2"
+  },
+  "typ": "way",
+  "id": 71440691,
+  "D": 592.7463109811713,
+  "cap": 65.85432692019378,
+  "off": 16.65241619232403
+ },
+ {
+  "lat": 45.3052162,
+  "lon": 5.8882109,
+  "name": "Le Chemin de Ronde",
+  "tags": {
+   "access": "no",
+   "highway": "via_ferrata",
+   "name": "Le Chemin de Ronde",
+   "note": "actuellement fermé par un arreté suite a des éboulements",
+   "sac_scale": "difficult_alpine_hiking",
+   "source": "survey",
+   "via_ferrata_scale": "2"
+  },
+  "typ": "way",
+  "id": 71440688,
+  "D": 592.7391083646102,
+  "cap": 65.855053266379,
+  "off": 16.662555241860442
+ },
+ {
+  "lat": 45.5615265,
+  "lon": 5.9289045,
+  "name": "Domaine de Vidonne",
+  "tags": {
+   "building": "yes",
+   "castle_type": "manor",
+   "heritage": "2",
+   "heritage:operator": "mhs",
+   "historic": "castle",
+   "mhs:inscription_date": "1991-06-03",
+   "name": "Domaine de Vidonne",
+   "ref:mhs": "PA00118330",
+   "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2011",
+   "source:heritage": "data.gouv.fr:Ministère de la Culture - 04/2015",
+   "start_date": "C18",
+   "wikidata": "Q22968611"
+  },
+  "typ": "way",
+  "id": 101956412,
+  "D": 605.7016736879999,
+  "cap": 63.40523982056652,
+  "off": 16.77389009093873
+ },
+ {
+  "lat": 45.5642995,
+  "lon": 5.9373625,
+  "name": "Château de Boigne",
+  "tags": {
+   "addr:postcode": "73000",
+   "alt_name": "Château de Boigne",
+   "building": "yes",
+   "heritage": "3",
+   "heritage:operator": "mhs",
+   "historic": "castle",
+   "mhs:inscription_date": "1982-02-24",
+   "name": "Château de Boigne",
+   "ref:mhs": "PA00118225",
+   "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2011",
+   "source:heritage": "data.gouv.fr:Ministère de la Culture - 04/2015",
+   "tourism": "attraction",
+   "wikidata": "Q2968705",
+   "wikipedia": "fr:Château de Boigne"
+  },
+  "typ": "way",
+  "id": 110570931,
+  "D": 606.4274895337883,
+  "cap": 63.40118221099351,
+  "off": 16.797695486270936
+ },
+ {
+  "lat": 45.5532452,
+  "lon": 5.8983742,
+  "name": "Château de Villeneuve",
+  "tags": {
+   "castle_type": "defensive",
+   "historic": "castle",
+   "landuse": "residential",
+   "name": "Château de Villeneuve",
+   "ruins": "no",
+   "start_date": "C15"
+  },
+  "typ": "way",
+  "id": 741641567,
+  "D": 603.1526277569071,
+  "cap": 63.40291322361645,
+  "off": 17.11074023065541
+ },
+ {
+  "lat": 45.5573435,
+  "lon": 5.902083,
+  "name": "Château de Salins",
+  "tags": {
+   "building": "yes",
+   "castle_type": "castrum",
+   "historic": "castle",
+   "name": "Château de Salins",
+   "ruins": "no",
+   "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2012",
+   "start_date": "C15"
+  },
+  "typ": "way",
+  "id": 162576702,
+  "D": 603.5897216134771,
+  "cap": 63.372837960747404,
+  "off": 17.34229998873674
+ },
+ {
+  "lat": 45.5268965,
+  "lon": 6.1859071,
+  "name": "Château du Bettonnet",
+  "tags": {
+   "building": "yes",
+   "heritage": "3",
+   "heritage:operator": "mhs",
+   "historic": "castle",
+   "mhs:inscription_date": "1996-02-19",
+   "name": "Château du Bettonnet",
+   "ref:mhs": "PA73000003",
+   "source:heritage": "data.gouv.fr, Ministère de la Culture - 2016",
+   "start_date": "C17",
+   "type": "multipolygon",
+   "wikidata": "Q22997983"
+  },
+  "typ": "relation",
+  "id": 2804863,
+  "D": 622.9847516517779,
+  "cap": 64.41442293246826,
+  "off": 17.379756142445824
+ },
+ {
+  "lat": 45.5642986,
+  "lon": 5.9187097,
+  "name": "Tour des Archives",
+  "tags": {
+   "alt_name": "Tour du Carrefour",
+   "building": "yes",
+   "man_made": "tower",
+   "name": "Tour des Archives",
+   "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2011",
+   "tower:type": "defensive"
+  },
+  "typ": "way",
+  "id": 101971080,
+  "D": 605.0786831278126,
+  "cap": 63.35023083769727,
+  "off": 17.39330769034995
+ },
+ {
+  "lat": 45.5644853,
+  "lon": 5.9179667,
+  "name": "Aile du Midi",
+  "tags": {
+   "building": "public",
+   "historic": "castle",
+   "name": "Aile du Midi"
+  },
+  "typ": "way",
+  "id": 237985593,
+  "D": 605.0326728177579,
+  "cap": 63.346367253233325,
+  "off": 17.437693435847237
+ },
+ {
+  "lat": 45.564573,
+  "lon": 5.9179417,
+  "name": "Château des Ducs de Savoie",
+  "tags": {
+   "addr:city": "Chambéry",
+   "addr:postcode": "73000",
+   "addr:street": "Place du Château",
+   "heritage": "2",
+   "heritage:operator": "mhs",
+   "historic": "castle",
+   "mhs:inscription_date": "1881-08-10",
+   "name": "Château des Ducs de Savoie",
+   "ref:mhs": "PA00118227",
+   "source:heritage": "data.gouv.fr, Ministère de la Culture - 2016",
+   "start_date": "XI sec.",
+   "tourism": "attraction",
+   "wikidata": "Q2971586",
+   "wikipedia": "fr:Château des ducs de Savoie"
+  },
+  "typ": "way",
+  "id": 237986027,
+  "D": 605.0344841514793,
+  "cap": 63.345439920791875,
+  "off": 17.447286170866352
+ },
+ {
+  "lat": 45.5649261,
+  "lon": 5.918364,
+  "name": "Tour Yolande",
+  "tags": {
+   "building:part": "yes",
+   "man_made": "tower",
+   "name": "Tour Yolande",
+   "tower:type": "bell_tower"
+  },
+  "typ": "way",
+  "id": 1380940734,
+  "D": 605.0795821316166,
+  "cap": 63.343139195413585,
+  "off": 17.46777005043491
+ },
+ {
+  "lat": 45.579519,
+  "lon": 5.984093,
+  "name": "Château de la Bâtie",
+  "tags": {
+   "building": "yes",
+   "heritage": "3",
+   "heritage:operator": "mhs",
+   "historic": "castle",
+   "mhs:inscription_date": "1972-04-06",
+   "name": "Château de la Bâtie",
+   "ref:mhs": "PA00118193",
+   "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2012",
+   "source:heritage": "data.gouv.fr:Ministère de la Culture - 04/2015",
+   "wikidata": "Q2971179",
+   "wikipedia": "fr:Château de la Bâtie (Savoie)"
+  },
+  "typ": "way",
+  "id": 163879705,
+  "D": 610.4328882325946,
+  "cap": 63.379771502124186,
+  "off": 17.47272445738114
+ },
+ {
+  "lat": 45.5647329,
+  "lon": 5.9171957,
+  "name": "Tour demi-ronde",
+  "tags": {
+   "building": "yes",
+   "man_made": "tower",
+   "name": "Tour demi-ronde",
+   "tower:type": "defensive"
+  },
+  "typ": "way",
+  "id": 237985590,
+  "D": 604.987154998577,
+  "cap": 63.34182990036237,
+  "off": 17.489211834126248
+ },
+ {
+  "lat": 45.5651665,
+  "lon": 5.917834,
+  "name": "",
+  "tags": {
+   "man_made": "tower",
+   "tower:type": "bell_tower"
+  },
+  "typ": "node",
+  "id": 7801219404,
+  "D": 605.0511909378978,
+  "cap": 63.339332943083434,
+  "off": 17.51007893585668
+ },
+ {
+  "lat": 45.5652799,
+  "lon": 5.9180192,
+  "name": "Tour Trésorerie",
+  "tags": {
+   "building": "yes",
+   "man_made": "tower",
+   "name": "Tour Trésorerie",
+   "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2011",
+   "tower:type": "defensive"
+  },
+  "typ": "way",
+  "id": 101968404,
+  "D": 605.0692587054111,
+  "cap": 63.33873003813318,
+  "off": 17.514944667020423
+ },
+ {
+  "lat": 45.578797,
+  "lon": 5.9678192,
+  "name": "",
+  "tags": {
+   "man_made": "tower",
+   "source": "IGN - 2023-12-15",
+   "tower:type": "bell_tower"
+  },
+  "typ": "node",
+  "id": 11821435125,
+  "D": 609.2265750413717,
+  "cap": 63.34267493695097,
+  "off": 17.630121330133814
+ },
+ {
+  "lat": 45.4397932,
+  "lon": 6.2438798,
+  "name": "Poste optique",
+  "tags": {
+   "historic": "tower",
+   "man_made": "tower",
+   "name": "Poste optique",
+   "ruins": "yes",
+   "tower:type": "observation"
+  },
+  "typ": "way",
+  "id": 732158625,
+  "D": 623.9157821565606,
+  "cap": 65.39451024785376,
+  "off": 17.71885185923293
+ },
+ {
+  "lat": 45.583819,
+  "lon": 6.000268,
+  "name": "Château de Salins",
+  "tags": {
+   "historic": "castle",
+   "name": "Château de Salins"
+  },
+  "typ": "way",
+  "id": 119437551,
+  "D": 611.7792838788876,
+  "cap": 63.38174743034557,
+  "off": 17.804175914984672
+ },
+ {
+  "lat": 45.5687555,
+  "lon": 5.9110086,
+  "name": "Rue Ronde",
+  "tags": {
+   "highway": "unclassified",
+   "lane_markings": "no",
+   "maxspeed": "30",
+   "name": "Rue Ronde",
+   "oneway": "yes",
+   "source:maxspeed": "FR:zone30",
+   "source:width": "ARCore",
+   "surface": "asphalt",
+   "width": "4.3",
+   "zone:maxspeed": "FR:30"
+  },
+  "typ": "way",
+  "id": 23083815,
+  "D": 604.7062432325861,
+  "cap": 63.28545325027585,
+  "off": 18.106693749511596
+ },
+ {
+  "lat": 45.582934,
+  "lon": 5.9648795,
+  "name": "Château de Monterminod",
+  "tags": {
+   "building": "yes",
+   "historic": "castle",
+   "name": "Château de Monterminod",
+   "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2012",
+   "wikidata": "Q30624366"
+  },
+  "typ": "way",
+  "id": 144611840,
+  "D": 609.1847562104335,
+  "cap": 63.29444216029191,
+  "off": 18.12981486806244
+ },
+ {
+  "lat": 45.293957,
+  "lon": 5.8756034,
+  "name": "FT",
+  "tags": {
+   "man_made": "tower",
+   "name": "FT"
+  },
+  "typ": "node",
+  "id": 278456466,
+  "D": 591.395122210295,
+  "cap": 65.93805305988349,
+  "off": 18.25607834488756
+ },
+ {
+  "lat": 45.2938784,
+  "lon": 5.8755313,
+  "name": "TDF",
+  "tags": {
+   "man_made": "tower",
+   "name": "TDF"
+  },
+  "typ": "node",
+  "id": 278456464,
+  "D": 591.3869183818157,
+  "cap": 65.93867348261222,
+  "off": 18.266446023900937
+ },
+ {
+  "lat": 45.2938373,
+  "lon": 5.875391,
+  "name": "FT",
+  "tags": {
+   "man_made": "tower",
+   "name": "FT"
+  },
+  "typ": "node",
+  "id": 278456461,
+  "D": 591.3750508796818,
+  "cap": 65.93874144037113,
+  "off": 18.27674990625852
+ },
+ {
+  "lat": 45.2853234,
+  "lon": 5.8907822,
+  "name": "Château de Crolles",
+  "tags": {
+   "alt_name": "Château de Bernis",
+   "building": "yes",
+   "heritage": "3",
+   "heritage:operator": "mhs",
+   "historic": "castle",
+   "mhs:inscription_date": "1965-11-30",
+   "name": "Château de Crolles",
+   "ref:mhs": "PA00117172",
+   "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2010",
+   "source:heritage": "data.gouv.fr:Ministère de la Culture - 04/2015",
+   "wikidata": "Q22966976"
+  },
+  "typ": "way",
+  "id": 69111605,
+  "D": 592.2016073763469,
+  "cap": 66.06376534900693,
+  "off": 18.359165923234222
+ },
+ {
+  "lat": 45.2570116,
+  "lon": 6.0305288,
+  "name": "",
+  "tags": {
+   "man_made": "tower",
+   "operator": "EDF",
+   "source": "GPS",
+   "tower:type": "communication"
+  },
+  "typ": "node",
+  "id": 4842183945,
+  "D": 601.5468997409076,
+  "cap": 66.6880328896737,
+  "off": 18.61449116852809
+ },
+ {
+  "lat": 45.5800143,
+  "lon": 5.929586,
+  "name": "",
+  "tags": {
+   "building": "yes",
+   "man_made": "tower",
+   "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2011"
+  },
+  "typ": "way",
+  "id": 107343657,
+  "D": 606.5144822499859,
+  "cap": 63.226402869603874,
+  "off": 18.644883890365183
+ },
+ {
+  "lat": 45.5900395,
+  "lon": 5.9815315,
+  "name": "Château Chaffardon",
+  "tags": {
+   "building": "yes",
+   "historic": "castle",
+   "name": "Château Chaffardon",
+   "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2012"
+  },
+  "typ": "way",
+  "id": 164602259,
+  "D": 610.6813485468833,
+  "cap": 63.270711749848886,
+  "off": 18.659250057769604
+ },
+ {
+  "lat": 45.5657835,
+  "lon": 5.888475,
+  "name": "Château de Martinel",
+  "tags": {
+   "building": "yes",
+   "heritage": "3",
+   "heritage:operator": "mhs",
+   "historic": "castle",
+   "mhs:inscription_date": "1986-06-03",
+   "name": "Château de Martinel",
+   "ref:mhs": "PA00118252",
+   "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2012",
+   "source:heritage": "data.gouv.fr, Ministère de la Culture - 2016",
+   "start_date": "C19",
+   "wikidata": "Q22968455"
+  },
+  "typ": "way",
+  "id": 162578789,
+  "D": 602.9552732923868,
+  "cap": 63.25250102939674,
+  "off": 18.70003844910715
+ },
+ {
+  "lat": 45.568774,
+  "lon": 6.1433923,
+  "name": "Château des Allues",
+  "tags": {
+   "building": "yes",
+   "description": "Maison d'hôtes de Charme, B&B",
+   "email": "contact@chateaudesallues.fr",
+   "historic": "castle",
+   "name": "Château des Allues",
+   "phone": "+33422917806",
+   "source": "Chateau des Allues",
+   "website": "https://www.chateaudesallues.fr/",
+   "wikidata": "Q61762986"
+  },
+  "typ": "way",
+  "id": 163464463,
+  "D": 621.5429791143843,
+  "cap": 63.90455583113061,
+  "off": 18.81961876731762
+ },
+ {
+  "lat": 45.5693198,
+  "lon": 6.1479831,
+  "name": "",
+  "tags": {
+   "man_made": "tower",
+   "source": "IGN - 2024-03-15",
+   "tower:type": "bell_tower"
+  },
+  "typ": "node",
+  "id": 11881250465,
+  "D": 621.89827580746,
+  "cap": 63.911180945738465,
+  "off": 19.059383710169698
+ },
+ {
+  "lat": 45.5856115,
+  "lon": 5.9253635,
+  "name": "Château de Côte Rousse",
+  "tags": {
+   "addr:housenumber": "154",
+   "addr:street": "Avenue de Saint-Saturnin",
+   "alt_name": "Demeure de campagne",
+   "building": "yes",
+   "castle_type": "manor",
+   "historic": "castle",
+   "name": "Château de Côte Rousse",
+   "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2011"
+  },
+  "typ": "way",
+  "id": 113057457,
+  "D": 606.4420549185361,
+  "cap": 63.16016538761846,
+  "off": 19.344801208536712
+ },
+ {
+  "lat": 45.5326795,
+  "lon": 6.2140395,
+  "name": "Château de Chamoux",
+  "tags": {
+   "building": "yes",
+   "heritage": "3",
+   "heritage:operator": "mhs",
+   "historic": "castle",
+   "mhs:inscription_date": "1977-07-19",
+   "name": "Château de Chamoux",
+   "ref:mhs": "PA00118247",
+   "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2012",
+   "source:heritage": "data.gouv.fr, Ministère de la Culture - 2016",
+   "wikidata": "Q22968453"
+  },
+  "typ": "way",
+  "id": 196112699,
+  "D": 625.2625589228618,
+  "cap": 64.4296397987523,
+  "off": 19.478584811981563
+ },
+ {
+  "lat": 45.3497334,
+  "lon": 5.7911441,
+  "name": "",
+  "tags": {
+   "man_made": "tower",
+   "source": "IGN - 2023-12-15",
+   "tower:type": "bell_tower"
+  },
+  "typ": "node",
+  "id": 11821432928,
+  "D": 587.2620583040923,
+  "cap": 65.15316796896371,
+  "off": 19.547618449321607
+ },
+ {
+  "lat": 45.572202,
+  "lon": 5.8799085,
+  "name": "Château de Challot",
+  "tags": {
+   "building": "yes",
+   "historic": "castle",
+   "name": "Château de Challot",
+   "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2011"
+  },
+  "typ": "way",
+  "id": 108666967,
+  "D": 602.6034284778975,
+  "cap": 63.16576158270249,
+  "off": 19.66165344872746
+ },
+ {
+  "lat": 45.5862915,
+  "lon": 5.9143136,
+  "name": "Château de Caramagne",
+  "tags": {
+   "building": "yes",
+   "heritage": "3",
+   "heritage:operator": "mhs",
+   "historic": "castle",
+   "mhs:inscription_date": "1963-01-03",
+   "name": "Château de Caramagne",
+   "ref:mhs": "PA00118226",
+   "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2011",
+   "source:heritage": "data.gouv.fr, Ministère de la Culture - 2016",
+   "website": "http://www.caramagne.com",
+   "wikidata": "Q2968766",
+   "wikipedia": "fr:Château de Caramagne"
+  },
+  "typ": "way",
+  "id": 110805054,
+  "D": 605.6729934710503,
+  "cap": 63.123049764836196,
+  "off": 19.751007341010112
+ },
+ {
+  "lat": 45.576626,
+  "lon": 5.886246,
+  "name": "Château de Bissy-Beauregard",
+  "tags": {
+   "building": "yes",
+   "historic": "castle",
+   "name": "Château de Bissy-Beauregard",
+   "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2011"
+  },
+  "typ": "way",
+  "id": 108666879,
+  "D": 603.2450593867954,
+  "cap": 63.13993792122176,
+  "off": 19.81481884991481
+ },
+ {
+  "lat": 45.5932755,
+  "lon": 5.9313698,
+  "name": "Phare aéronautique de Bassens",
+  "tags": {
+   "man_made": "tower",
+   "name": "Phare aéronautique de Bassens",
+   "tower:type": "lighting"
+  },
+  "typ": "node",
+  "id": 3049151133,
+  "D": 607.1945057391015,
+  "cap": 63.10198817197346,
+  "off": 19.9750864868905
+ },
+ {
+  "lat": 45.4355877,
+  "lon": 5.7546556,
+  "name": "",
+  "tags": {
+   "man_made": "tower",
+   "tower:type": "bell_tower"
+  },
+  "typ": "node",
+  "id": 13203792387,
+  "D": 587.9484823191068,
+  "cap": 64.18265432856651,
+  "off": 20.58130492950729
+ },
+ {
+  "lat": 45.5519324,
+  "lon": 6.2110729,
+  "name": "Impasse des Hirondelles",
+  "tags": {
+   "highway": "service",
+   "name": "Impasse des Hirondelles"
+  },
+  "typ": "way",
+  "id": 887929121,
+  "D": 625.7990829082814,
+  "cap": 64.23832434950441,
+  "off": 20.701607397410484
+ },
+ {
+  "lat": 45.589401,
+  "lon": 5.878367,
+  "name": "Château Pingon",
+  "tags": {
+   "addr:housenumber": "506",
+   "building": "yes",
+   "historic": "castle",
+   "name": "Château Pingon",
+   "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2012",
+   "wikidata": "Q83717824"
+  },
+  "typ": "way",
+  "id": 181208748,
+  "D": 603.2109804305823,
+  "cap": 62.99279731779586,
+  "off": 21.348435140664332
+ },
+ {
+  "lat": 45.2899853,
+  "lon": 6.2166798,
+  "name": "",
+  "tags": {
+   "access": "private",
+   "building": "yes",
+   "castle_type": "stately",
+   "historic": "castle",
+   "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2012"
+  },
+  "typ": "way",
+  "id": 185195559,
+  "D": 616.5287016388631,
+  "cap": 66.7899331603835,
+  "off": 21.538181042836378
+ },
+ {
+  "lat": 45.2899342,
+  "lon": 6.2166669,
+  "name": "",
+  "tags": {
+   "access": "private",
+   "building": "yes",
+   "castle_type": "stately",
+   "historic": "castle",
+   "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2012"
+  },
+  "typ": "way",
+  "id": 185195495,
+  "D": 616.5259735740314,
+  "cap": 66.79040650647039,
+  "off": 21.54139634675573
+ },
+ {
+  "lat": 45.5127497,
+  "lon": 6.2653612,
+  "name": "Batterie de Rochebrune",
+  "tags": {
+   "building": "yes",
+   "description": "Refuge libre d'accès. 8 couchages. Poêle à bois. Nécessaire de cuisine. Livres.",
+   "drinking_water": "no",
+   "ele": "1400",
+   "fee": "no",
+   "fireplace": "yes",
+   "historic": "fort",
+   "name": "Batterie de Rochebrune",
+   "ref:refuges.info": "498",
+   "survey:date": "2024-04-25",
+   "tourism": "wilderness_hut"
+  },
+  "typ": "way",
+  "id": 241934721,
+  "D": 628.2427466104791,
+  "cap": 64.74703858442365,
+  "off": 21.665184716165978
+ },
+ {
+  "lat": 45.6025729,
+  "lon": 5.9058578,
+  "name": "Château de Grand Cour",
+  "tags": {
+   "building": "yes",
+   "historic": "castle",
+   "name": "Château de Grand Cour",
+   "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2011"
+  },
+  "typ": "way",
+  "id": 110758027,
+  "D": 605.7445262857877,
+  "cap": 62.94069089447652,
+  "off": 21.67256247976769
+ },
+ {
+  "lat": 45.5797989,
+  "lon": 6.1858602,
+  "name": "Tour Saint-Pierre",
+  "tags": {
+   "building": "yes",
+   "man_made": "tower",
+   "name": "Tour Saint-Pierre",
+   "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2012",
+   "tower:type": "defensive"
+  },
+  "typ": "way",
+  "id": 163466754,
+  "D": 625.06820384149,
+  "cap": 63.90851504391787,
+  "off": 21.697395831370834
+ },
+ {
+  "lat": 45.5803825,
+  "lon": 6.1855749,
+  "name": "Rue Sous les Remparts",
+  "tags": {
+   "highway": "residential",
+   "name": "Rue Sous les Remparts",
+   "oneway": "no"
+  },
+  "typ": "way",
+  "id": 414764406,
+  "D": 625.0707704257975,
+  "cap": 63.90222246341909,
+  "off": 21.73576898846018
+ },
+ {
+  "lat": 45.5800014,
+  "lon": 6.1865887,
+  "name": "Donjon",
+  "tags": {
+   "building": "yes",
+   "man_made": "tower",
+   "name": "Donjon",
+   "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2012",
+   "tower:type": "defensive"
+  },
+  "typ": "way",
+  "id": 163464570,
+  "D": 625.1292047457758,
+  "cap": 63.90845343172987,
+  "off": 21.749614712884558
+ },
+ {
+  "lat": 45.5803151,
+  "lon": 6.1860562,
+  "name": "Tourelle Nord",
+  "tags": {
+   "building": "yes",
+   "man_made": "tower",
+   "name": "Tourelle Nord",
+   "tower:type": "defensive"
+  },
+  "typ": "way",
+  "id": 1196309948,
+  "D": 625.1030418229461,
+  "cap": 63.90409905955772,
+  "off": 21.752363256236187
+ },
+ {
+  "lat": 45.5801776,
+  "lon": 6.1867368,
+  "name": "Château de Miolans",
+  "tags": {
+   "access": "customers",
+   "barrier": "city_wall",
+   "castle_type": "defensive",
+   "email": "chateau.miolans@gmail.com",
+   "heritage": "2",
+   "heritage:operator": "mhs",
+   "historic": "castle",
+   "mhs:inscription_date": "1944-05-16",
+   "name": "Château de Miolans",
+   "phone": "+33 6 08 34 03 03",
+   "ref:mhs": "PA00118304",
+   "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2011",
+   "source:heritage": "Ministère de la Culture - 07/2018",
+   "tourism": "attraction",
+   "website": "http://www.chateau-de-miolans.com/",
+   "wikidata": "Q2969896"
+  },
+  "typ": "way",
+  "id": 133199726,
+  "D": 625.1469941765583,
+  "cap": 63.90715434675178,
+  "off": 21.772187306703266
+ },
+ {
+  "lat": 45.5804122,
+  "lon": 6.1868822,
+  "name": "Tour de la Sauvegarde",
+  "tags": {
+   "building": "yes",
+   "layer": "1",
+   "man_made": "tower",
+   "name": "Tour de la Sauvegarde",
+   "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2012",
+   "tower:type": "defensive"
+  },
+  "typ": "way",
+  "id": 163464718,
+  "D": 625.1669183337367,
+  "cap": 63.90529201719903,
+  "off": 21.799803466236018
+ },
+ {
+  "lat": 45.520235,
+  "lon": 6.2619513,
+  "name": "Fort de Montgilbert",
+  "tags": {
+   "access": "private",
+   "barrier": "city_wall",
+   "historic": "fort",
+   "name": "Fort de Montgilbert",
+   "type": "multipolygon",
+   "wikidata": "Q56311860",
+   "wikipedia": "fr:Fort de Montgilbert"
+  },
+  "typ": "relation",
+  "id": 14360173,
+  "D": 628.2805015576347,
+  "cap": 64.66730442986346,
+  "off": 21.82263333765482
+ },
+ {
+  "lat": 45.2821938,
+  "lon": 6.2108877,
+  "name": "",
+  "tags": {
+   "man_made": "tower",
+   "operator": "TDF",
+   "operator:wikidata": "Q1162908",
+   "tower:type": "communication"
+  },
+  "typ": "node",
+  "id": 5116184940,
+  "D": 615.8286968007349,
+  "cap": 66.85350353487388,
+  "off": 21.832944337172204
+ },
+ {
+  "lat": 45.5804117,
+  "lon": 6.1878376,
+  "name": "",
+  "tags": {
+   "building": "yes",
+   "man_made": "tower",
+   "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2012",
+   "tower:type": "defensive"
+  },
+  "typ": "way",
+  "id": 163466780,
+  "D": 625.236300465998,
+  "cap": 63.90774615458753,
+  "off": 21.844821122663827
+ },
+ {
+  "lat": 45.5805855,
+  "lon": 6.1875516,
+  "name": "",
+  "tags": {
+   "building": "yes",
+   "man_made": "tower",
+   "tower:type": "defensive"
+  },
+  "typ": "way",
+  "id": 1196310097,
+  "D": 625.2224603091167,
+  "cap": 63.905357289436154,
+  "off": 21.84668403691329
+ },
+ {
+  "lat": 45.6025557,
+  "lon": 5.9001651,
+  "name": "Château de Candie",
+  "tags": {
+   "accommodation": "yes",
+   "building": "castle",
+   "castle_type": "stately",
+   "historic": "castle",
+   "name": "Château de Candie",
+   "restaurant": "yes",
+   "tourism": "attraction",
+   "website": "https://chateaudecandie.com/"
+  },
+  "typ": "way",
+  "id": 289865371,
+  "D": 605.3337761625344,
+  "cap": 62.92499954105591,
+  "off": 21.853278624293946
+ },
+ {
+  "lat": 45.6091675,
+  "lon": 5.921732,
+  "name": "Chemin de la Brondelle",
+  "tags": {
+   "highway": "track",
+   "name": "Chemin de la Brondelle",
+   "tracktype": "grade4"
+  },
+  "typ": "way",
+  "id": 294198702,
+  "D": 607.1649137444022,
+  "cap": 62.920594037490275,
+  "off": 21.89191027005038
+ },
+ {
+  "lat": 45.2807723,
+  "lon": 6.2103733,
+  "name": "",
+  "tags": {
+   "man_made": "tower",
+   "operator": "TDF",
+   "tower:type": "communication"
+  },
+  "typ": "node",
+  "id": 5116184939,
+  "D": 615.7413949574595,
+  "cap": 66.86634293322174,
+  "off": 21.920047849214924
+ },
+ {
+  "lat": 45.247374,
+  "lon": 5.8934077,
+  "name": "",
+  "tags": {
+   "building": "yes",
+   "historic": "castle",
+   "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2010"
+  },
+  "typ": "way",
+  "id": 63150044,
+  "D": 591.0292664148656,
+  "cap": 66.45741855367794,
+  "off": 21.936362173117324
+ },
+ {
+  "lat": 45.5152791,
+  "lon": 6.2679845,
+  "name": "Ruine de la batterie de Tête Lasse",
+  "tags": {
+   "building": "yes",
+   "historic": "fort",
+   "name": "Ruine de la batterie de Tête Lasse",
+   "ruins": "yes"
+  },
+  "typ": "way",
+  "id": 992914588,
+  "D": 628.531515451601,
+  "cap": 64.72935350853817,
+  "off": 21.975423895042276
+ },
+ {
+  "lat": 45.257982,
+  "lon": 5.862306,
+  "name": "Château de la Veyrie",
+  "tags": {
+   "access": "yes",
+   "building": "yes",
+   "castle_type": "defensive",
+   "historic": "castle",
+   "historic:civilization": "medieval",
+   "name": "Château de la Veyrie",
+   "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2011",
+   "start_date": "C11",
+   "wikidata": "Q20706299"
+  },
+  "typ": "way",
+  "id": 99195147,
+  "D": 589.1048073178671,
+  "cap": 66.27253079658874,
+  "off": 22.122614963817878
+ },
+ {
+  "lat": 45.611745,
+  "lon": 5.9196114,
+  "name": "Chemin de la Brondelle",
+  "tags": {
+   "access": "private",
+   "highway": "track",
+   "name": "Chemin de la Brondelle",
+   "tracktype": "grade4"
+  },
+  "typ": "way",
+  "id": 791903624,
+  "D": 607.120587804938,
+  "cap": 62.88962241861998,
+  "off": 22.217769499742445
+ },
+ {
+  "lat": 45.612387,
+  "lon": 5.9183614,
+  "name": "Chemin de la Brondelle",
+  "tags": {
+   "highway": "unclassified",
+   "lanes": "2",
+   "maxweight": "3.5",
+   "maxweightrating": "3.5",
+   "name": "Chemin de la Brondelle",
+   "note": "maxweight=* déprécié, utilisez maxweightrating=* à la place (https://forum.openstreetmap.fr/t/proposition-d-edition-automatisee-migration-de-maxweight-en-maxweightrating-pour-la-france/35439/71)",
+   "surface": "asphalt"
+  },
+  "typ": "way",
+  "id": 110787551,
+  "D": 607.0576118577503,
+  "cap": 62.87989850131112,
+  "off": 22.318435113173983
+ },
+ {
+  "lat": 45.5960105,
+  "lon": 5.861214,
+  "name": "Domaine Reinach",
+  "tags": {
+   "building": "yes",
+   "heritage": "3",
+   "heritage:operator": "mhs",
+   "historic": "castle",
+   "mhs:inscription_date": "2003-10-09",
+   "name": "Domaine Reinach",
+   "ref:mhs": "PA73000005",
+   "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2012",
+   "source:heritage": "data.gouv.fr, Ministère de la Culture - 2016",
+   "start_date": "C18",
+   "wikidata": "Q22997986"
+  },
+  "typ": "way",
+  "id": 181207486,
+  "D": 602.2534363719701,
+  "cap": 62.879968826225195,
+  "off": 22.674630021071223
+ },
+ {
+  "lat": 45.2341823,
+  "lon": 5.9041308,
+  "name": "",
+  "tags": {
+   "man_made": "tower",
+   "tower:type": "communication"
+  },
+  "typ": "node",
+  "id": 13759708728,
+  "D": 591.3566208025778,
+  "cap": 66.61834746685417,
+  "off": 22.922496798411466
+ },
+ {
+  "lat": 45.6192065,
+  "lon": 5.9147325,
+  "name": "Château de Sonnaz",
+  "tags": {
+   "access": "private",
+   "building": "yes",
+   "heritage": "3",
+   "heritage:operator": "mhs",
+   "historic": "castle",
+   "mhs:inscription_date": "1979-10-18",
+   "name": "Château de Sonnaz",
+   "ref:mhs": "PA00118309",
+   "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2012",
+   "source:heritage": "data.gouv.fr:Ministère de la Culture - 04/2015",
+   "wikidata": "Q22968588"
+  },
+  "typ": "way",
+  "id": 160177912,
+  "D": 607.0839962616393,
+  "cap": 62.8034582425218,
+  "off": 23.127553975902735
+ },
+ {
+  "lat": 45.605399,
+  "lon": 5.8695925,
+  "name": "Château de Servolex",
+  "tags": {
+   "building": "yes",
+   "historic": "castle",
+   "name": "Château de Servolex",
+   "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2012",
+   "wikidata": "Q67772476"
+  },
+  "typ": "way",
+  "id": 181209079,
+  "D": 603.252865456661,
+  "cap": 62.81159328625023,
+  "off": 23.228924450277653
+ },
+ {
+  "lat": 45.233476,
+  "lon": 5.8916546,
+  "name": "Château de la Combe",
+  "tags": {
+   "building": "yes",
+   "historic": "castle",
+   "name": "Château de la Combe",
+   "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2010",
+   "wikimedia_commons": "Category:Château de La Combe"
+  },
+  "typ": "way",
+  "id": 63119800,
+  "D": 590.405436464925,
+  "cap": 66.5953984558156,
+  "off": 23.38944761668049
+ },
+ {
+  "lat": 45.6173206,
+  "lon": 6.146058,
+  "name": "",
+  "tags": {
+   "man_made": "tower",
+   "source": "IGN - 2023-12-15",
+   "tower:type": "bell_tower"
+  },
+  "typ": "node",
+  "id": 11821413634,
+  "D": 623.6963284516008,
+  "cap": 63.44790529834211,
+  "off": 23.683827509888488
+ },
+ {
+  "lat": 45.5590415,
+  "lon": 6.2538945,
+  "name": "Le Restaurant du Fort",
+  "tags": {
+   "building": "yes",
+   "historic": "fort",
+   "name": "Le Restaurant du Fort",
+   "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2012"
+  },
+  "typ": "way",
+  "id": 151660157,
+  "D": 629.197781393989,
+  "cap": 64.27820208262307,
+  "off": 23.733421269581907
+ },
+ {
+  "lat": 45.559437,
+  "lon": 6.2543545,
+  "name": "Fort d'Aiton",
+  "tags": {
+   "building": "yes",
+   "historic": "fort",
+   "name": "Fort d'Aiton",
+   "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2012",
+   "wikidata": "Q56299802"
+  },
+  "typ": "way",
+  "id": 151660246,
+  "D": 629.2467856330264,
+  "cap": 64.27559793690989,
+  "off": 23.78895317123905
+ },
+ {
+  "lat": 45.5598305,
+  "lon": 6.2546475,
+  "name": "",
+  "tags": {
+   "building": "yes",
+   "historic": "fort",
+   "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2012"
+  },
+  "typ": "way",
+  "id": 151660094,
+  "D": 629.2835435176452,
+  "cap": 64.27259560082894,
+  "off": 23.834269551389195
+ },
+ {
+  "lat": 45.2585342,
+  "lon": 5.8160353,
+  "name": "",
+  "tags": {
+   "historic": "citywalls"
+  },
+  "typ": "way",
+  "id": 1011832397,
+  "D": 585.7000824078561,
+  "cap": 66.15177904237453,
+  "off": 24.252350810965698
+ },
+ {
+  "lat": 45.5540323,
+  "lon": 5.7563312,
+  "name": "Route du Rondelet",
+  "tags": {
+   "highway": "unclassified",
+   "lane_markings": "no",
+   "name": "Route du Rondelet",
+   "surface": "asphalt"
+  },
+  "typ": "way",
+  "id": 1115938576,
+  "D": 592.9300949460968,
+  "cap": 62.99775879840382,
+  "off": 24.984677128117468
+ },
+ {
+  "lat": 45.5535003,
+  "lon": 5.7552332,
+  "name": "Route du Rondelet",
+  "tags": {
+   "bridge": "yes",
+   "highway": "unclassified",
+   "lane_markings": "no",
+   "layer": "1",
+   "maxweight:signed": "no",
+   "maxweightrating:signed": "no",
+   "name": "Route du Rondelet",
+   "note": "maxweight=* déprécié, utilisez maxweightrating=* à la place (https://forum.openstreetmap.fr/t/proposition-d-edition-automatisee-migration-de-maxweight-en-maxweightrating-pour-la-france/35439/71)",
+   "surface": "asphalt"
+  },
+  "typ": "way",
+  "id": 1115938577,
+  "D": 592.828570506117,
+  "cap": 62.99992584671526,
+  "off": 25.02061198041857
+ },
+ {
+  "lat": 45.643106,
+  "lon": 5.9379252,
+  "name": "",
+  "tags": {
+   "building": "yes",
+   "man_made": "tower",
+   "tower:type": "bell_tower"
+  },
+  "typ": "way",
+  "id": 1461795654,
+  "D": 609.7639521312404,
+  "cap": 62.63653726261521,
+  "off": 25.127872577166325
+ },
+ {
+  "lat": 45.553039,
+  "lon": 5.7517126,
+  "name": "Route du Rondelet",
+  "tags": {
+   "highway": "unclassified",
+   "lane_markings": "no",
+   "name": "Route du Rondelet",
+   "surface": "asphalt"
+  },
+  "typ": "way",
+  "id": 26428661,
+  "D": 592.555427996895,
+  "cap": 62.99447498529673,
+  "off": 25.216582482484757
+ },
+ {
+  "lat": 45.2789749,
+  "lon": 6.2662705,
+  "name": "",
+  "tags": {
+   "building": "yes",
+   "man_made": "tower",
+   "tower:type": "communication"
+  },
+  "typ": "way",
+  "id": 624261594,
+  "D": 619.8396742144912,
+  "cap": 67.0093899178645,
+  "off": 25.246392838506864
+ },
+ {
+  "lat": 45.5876711,
+  "lon": 5.7893026,
+  "name": "Château de l'Epine",
+  "tags": {
+   "historic": "castle",
+   "name": "Château de l'Epine"
+  },
+  "typ": "node",
+  "id": 6884988973,
+  "D": 596.726191620992,
+  "cap": 62.758194680136114,
+  "off": 25.452801556411032
+ },
+ {
+  "lat": 45.6482404,
+  "lon": 5.9436049,
+  "name": "",
+  "tags": {
+   "man_made": "tower",
+   "source": "IGN - 2023-12-15",
+   "tower:type": "bell_tower"
+  },
+  "typ": "node",
+  "id": 11821411868,
+  "D": 610.3902672852324,
+  "cap": 62.602804797126794,
+  "off": 25.577593792831145
+ },
+ {
+  "lat": 45.6371804,
+  "lon": 5.8835173,
+  "name": "",
+  "tags": {
+   "aeroway": "tower",
+   "building": "yes",
+   "building:levels": "5",
+   "light_source": "no",
+   "man_made": "tower",
+   "service": "aircraft_control"
+  },
+  "typ": "way",
+  "id": 301126209,
+  "D": 605.6046376061923,
+  "cap": 62.54089120445383,
+  "off": 25.894664952544197
+ },
+ {
+  "lat": 45.6377073,
+  "lon": 5.8834572,
+  "name": "Chemin de Ronde",
+  "tags": {
+   "access": "private",
+   "highway": "service",
+   "name": "Chemin de Ronde"
+  },
+  "typ": "way",
+  "id": 299487848,
+  "D": 605.622849109574,
+  "cap": 62.535596352210405,
+  "off": 25.950133055746587
+ },
+ {
+  "lat": 45.2360877,
+  "lon": 5.820786,
+  "name": "",
+  "tags": {
+   "building": "yes",
+   "castle_type": "manor",
+   "historic": "castle",
+   "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2010"
+  },
+  "typ": "way",
+  "id": 78547527,
+  "D": 585.2418336996797,
+  "cap": 66.39497178631672,
+  "off": 25.97820978653532
+ },
+ {
+  "lat": 45.243888,
+  "lon": 5.8054555,
+  "name": "Château de Montbives",
+  "tags": {
+   "building": "yes",
+   "historic": "castle",
+   "name": "Château de Montbives",
+   "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2012",
+   "wikidata": "Q136031682",
+   "wikimedia_commons": "Category:Château de Montbives"
+  },
+  "typ": "way",
+  "id": 155821324,
+  "D": 584.3867377043898,
+  "cap": 66.27634728466319,
+  "off": 26.032079944494168
+ },
+ {
+  "lat": 45.6459951,
+  "lon": 5.9078295,
+  "name": "Chemin des Hirondelles",
+  "tags": {
+   "highway": "residential",
+   "name": "Chemin des Hirondelles"
+  },
+  "typ": "way",
+  "id": 460569217,
+  "D": 607.7262553284264,
+  "cap": 62.52402882698641,
+  "off": 26.11227096471465
+ },
+ {
+  "lat": 45.2079415,
+  "lon": 5.877065,
+  "name": "Route de Pré Rondet",
+  "tags": {
+   "highway": "tertiary",
+   "lanes": "2",
+   "maxspeed": "50",
+   "name": "Route de Pré Rondet",
+   "ref": "D 11d",
+   "surface": "asphalt"
+  },
+  "typ": "way",
+  "id": 25553955,
+  "D": 588.4225900874013,
+  "cap": 66.82236081138092,
+  "off": 26.446406744483262
+ },
+ {
+  "lat": 45.2173313,
+  "lon": 5.8500167,
+  "name": "",
+  "tags": {
+   "aeroway": "tower",
+   "building": "yes",
+   "light_source": "no",
+   "man_made": "tower",
+   "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2010"
+  },
+  "typ": "way",
+  "id": 63131729,
+  "D": 586.7428179142127,
+  "cap": 66.66019554055208,
+  "off": 26.4823957753345
+ },
+ {
+  "lat": 45.2065674,
+  "lon": 5.8794673,
+  "name": "Route de Pré Rondet",
+  "tags": {
+   "highway": "tertiary",
+   "lanes": "2",
+   "maxspeed": "80",
+   "name": "Route de Pré Rondet",
+   "ref": "D 11d",
+   "source:maxspeed": "FR:rural",
+   "surface": "asphalt"
+  },
+  "typ": "way",
+  "id": 778357465,
+  "D": 588.5531589165394,
+  "cap": 66.84227485797032,
+  "off": 26.508198369422875
+ },
+ {
+  "lat": 45.6314275,
+  "lon": 5.8483545,
+  "name": "Château de la Serraz",
+  "tags": {
+   "building": "yes",
+   "historic": "castle",
+   "name": "Château de la Serraz",
+   "source": "cadastre-dgi-fr source : Direction Générale des Finances Publiques - Cadastre. Mise à jour : 2013",
+   "wikidata": "Q22968598"
+  },
+  "typ": "way",
+  "id": 252104179,
+  "D": 602.8351219694595,
+  "cap": 62.49700591300763,
+  "off": 26.56131578403969
+ },
+ {
+  "lat": 45.2075262,
+  "lon": 5.8747445,
+  "name": "Route de Pré Rondet",
+  "tags": {
+   "bridge": "yes",
+   "highway": "tertiary",
+   "layer": "1",
+   "maxspeed": "50",
+   "name": "Route de Pré Rondet",
+   "ref": "D 11d"
+  },
+  "typ": "way",
+  "id": 814992180,
+  "D": 588.2355051749078,
+  "cap": 66.82105364141233,
+  "off": 26.56436134269295
+ },
+ {
+  "lat": 45.23447,
+  "lon": 5.8093245,
+  "name": "Château de Serviantin",
+  "tags": {
+   "alt_name": "Château de Biviers;Château Servien",
+   "building": "yes",
+   "heritage": "3",
+   "heritage:operator": "mhs",
+   "historic": "castle",
+   "mhs:inscription_date": "1960-11-04",
+   "name": "Château de Serviantin",
+   "ref:mhs": "PA00117123",
+   "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2012",
+   "source:heritage": "data.gouv.fr:Ministère de la Culture - 04/2015",
+   "wikidata": "Q2970691",
+   "wikipedia": "fr:Château de Serviantin"
+  },
+  "typ": "way",
+  "id": 155819981,
+  "D": 584.3343241398819,
+  "cap": 66.38326328738833,
+  "off": 26.66169963514931
+ },
+ {
+  "lat": 45.23687,
+  "lon": 5.8028485,
+  "name": "Château de Franquières",
+  "tags": {
+   "building": "yes",
+   "heritage": "3",
+   "heritage:operator": "mhs",
+   "historic": "castle",
+   "mhs:inscription_date": "1948-10-27",
+   "name": "Château de Franquières",
+   "ref:mhs": "PA00117124",
+   "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2012",
+   "source:heritage": "data.gouv.fr:Ministère de la Culture - 04/2015",
+   "wikidata": "Q22966939"
+  },
+  "typ": "way",
+  "id": 155817952,
+  "D": 583.940708803209,
+  "cap": 66.34235878088896,
+  "off": 26.765866413776568
+ },
+ {
+  "lat": 45.2104382,
+  "lon": 5.8594001,
+  "name": "Tour d'Etape",
+  "tags": {
+   "building": "yes",
+   "historic:civilization": "medieval",
+   "man_made": "tower",
+   "name": "Tour d'Etape",
+   "roof:shape": "pyramidal",
+   "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2012",
+   "tower:construction": "freestanding"
+  },
+  "typ": "way",
+  "id": 151039873,
+  "D": 587.1969888914489,
+  "cap": 66.75403063313513,
+  "off": 26.80412184808487
+ },
+ {
+  "lat": 45.6011562,
+  "lon": 6.2552305,
+  "name": "",
+  "tags": {
+   "man_made": "tower",
+   "tower:type": "bell_tower"
+  },
+  "typ": "node",
+  "id": 8179373507,
+  "D": 630.9586955402235,
+  "cap": 63.88285554544717,
+  "off": 27.004472413172234
+ },
+ {
+  "lat": 45.233267,
+  "lon": 5.8001935,
+  "name": "Château du Bontoux",
+  "tags": {
+   "building": "yes",
+   "historic": "castle",
+   "name": "Château du Bontoux",
+   "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2012"
+  },
+  "typ": "way",
+  "id": 155821072,
+  "D": 583.6144348877355,
+  "cap": 66.37301256605957,
+  "off": 27.208463905287367
+ },
+ {
+  "lat": 45.6606618,
+  "lon": 5.926963,
+  "name": "",
+  "tags": {
+   "man_made": "tower",
+   "tower:type": "communication"
+  },
+  "typ": "node",
+  "id": 891059486,
+  "D": 609.7266598365306,
+  "cap": 62.43611563143418,
+  "off": 27.23260439749911
+ },
+ {
+  "lat": 45.6515103,
+  "lon": 5.8652681,
+  "name": "Tour de la Poterne",
+  "tags": {
+   "building": "yes",
+   "man_made": "tower",
+   "name": "Tour de la Poterne",
+   "tower:type": "defensive"
+  },
+  "typ": "way",
+  "id": 250235950,
+  "D": 604.911113315209,
+  "cap": 62.3496141177186,
+  "off": 27.933782908883305
+ },
+ {
+  "lat": 45.6517862,
+  "lon": 5.8652062,
+  "name": "Tour des Archives",
+  "tags": {
+   "building": "yes",
+   "man_made": "tower",
+   "name": "Tour des Archives",
+   "tower:type": "defensive"
+  },
+  "typ": "way",
+  "id": 629258381,
+  "D": 604.9185729575869,
+  "cap": 62.34675463022813,
+  "off": 27.96358549863227
+ },
+ {
+  "lat": 45.6517235,
+  "lon": 5.8647642,
+  "name": "Château de Thomas de Savoie",
+  "tags": {
+   "alt_name": "Château de Thomas II",
+   "barrier": "city_wall",
+   "heritage": "2",
+   "heritage:operator": "mhs",
+   "historic": "castle",
+   "mhs:inscription_date": "1983-03-21",
+   "name": "Château de Thomas de Savoie",
+   "ref:mhs": "PA00118216",
+   "ruins": "yes",
+   "source:heritage": "data.gouv.fr, Ministère de la Culture - 2016",
+   "start_date": "C13",
+   "tourism": "attraction",
+   "wikidata": "Q2968004",
+   "wikipedia": "fr:Château du Bourget"
+  },
+  "typ": "way",
+  "id": 238179046,
+  "D": 604.8842019044616,
+  "cap": 62.346100583738746,
+  "off": 27.971939668958115
+ },
+ {
+  "lat": 45.6519997,
+  "lon": 5.8646797,
+  "name": "Tour Nord",
+  "tags": {
+   "building": "yes",
+   "man_made": "tower",
+   "name": "Tour Nord",
+   "tower:type": "defensive"
+  },
+  "typ": "way",
+  "id": 250235944,
+  "D": 604.890057369072,
+  "cap": 62.343173477703715,
+  "off": 28.002514529836862
+ },
+ {
+  "lat": 45.6518876,
+  "lon": 5.8642624,
+  "name": "Donjon",
+  "tags": {
+   "building": "yes",
+   "man_made": "tower",
+   "name": "Donjon",
+   "tower:type": "defensive"
+  },
+  "typ": "way",
+  "id": 250235947,
+  "D": 604.8553262445445,
+  "cap": 62.34307014957608,
+  "off": 28.005115444099815
+ },
+ {
+  "lat": 45.2040662,
+  "lon": 5.8385788,
+  "name": "",
+  "tags": {
+   "man_made": "tower",
+   "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre ; mise à jour : 2011",
+   "tower:type": "communication"
+  },
+  "typ": "node",
+  "id": 1239950906,
+  "D": 585.4254717584921,
+  "cap": 66.76934692206021,
+  "off": 28.207575902456245
+ },
+ {
+  "lat": 45.2003375,
+  "lon": 5.8448847,
+  "name": "La Tour Ronde",
+  "tags": {
+   "building": "yes",
+   "man_made": "tower",
+   "name": "La Tour Ronde",
+   "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2010",
+   "tower:construction": "stone",
+   "tower:type": "defensive"
+  },
+  "typ": "way",
+  "id": 62849119,
+  "D": 585.763396427275,
+  "cap": 66.82317407510817,
+  "off": 28.329528414547834
+ },
+ {
+  "lat": 45.2268735,
+  "lon": 5.7846555,
+  "name": "Château de Rochebelle",
+  "tags": {
+   "building": "yes",
+   "historic": "castle",
+   "name": "Château de Rochebelle",
+   "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2011"
+  },
+  "typ": "way",
+  "id": 102936484,
+  "D": 582.233245227687,
+  "cap": 66.4005551815614,
+  "off": 28.528016506350625
+ },
+ {
+  "lat": 45.6735383,
+  "lon": 5.927298,
+  "name": "",
+  "tags": {
+   "man_made": "tower",
+   "tower:type": "communication"
+  },
+  "typ": "node",
+  "id": 891059461,
+  "D": 610.304177631998,
+  "cap": 62.3128455468439,
+  "off": 28.610921239887414
+ },
+ {
+  "lat": 45.228217,
+  "lon": 5.778401,
+  "name": "Château de Rochasson",
+  "tags": {
+   "building": "yes",
+   "historic": "castle",
+   "name": "Château de Rochasson",
+   "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2011"
+  },
+  "typ": "way",
+  "id": 102937552,
+  "D": 581.8179778779153,
+  "cap": 66.37101618751433,
+  "off": 28.7293947379594
+ },
+ {
+  "lat": 45.612093,
+  "lon": 5.7648219,
+  "name": "",
+  "tags": {
+   "man_made": "tower",
+   "source": "IGN - 2023-12-15",
+   "tower:type": "bell_tower"
+  },
+  "typ": "node",
+  "id": 11821354563,
+  "D": 596.0127185604908,
+  "cap": 62.446529115419594,
+  "off": 28.729728490831683
+ },
+ {
+  "lat": 45.241588,
+  "lon": 5.7543128,
+  "name": "",
+  "tags": {
+   "man_made": "tower",
+   "tower:type": "communication"
+  },
+  "typ": "node",
+  "id": 4756294095,
+  "D": 580.5177720493135,
+  "cap": 66.1716579729731,
+  "off": 28.92678444067007
+ },
+ {
+  "lat": 45.2352001,
+  "lon": 5.7626864,
+  "name": "Fort du Saint-Eynard",
+  "tags": {
+   "alt_name": "Fort Seras",
+   "historic": "fort",
+   "name": "Fort du Saint-Eynard",
+   "opening_hours": "May Th-Su 11:00-18:00; Jun-Aug Tu-Su 11:00-18:00; Sep-Oct Th-Su 11:00-18:00; Mo off",
+   "source": "bing",
+   "tourism": "attraction",
+   "wikidata": "Q3078375",
+   "wikipedia": "fr:Fort du Saint-Eynard"
+  },
+  "typ": "way",
+  "id": 188205647,
+  "D": 580.9058567624645,
+  "cap": 66.25912884202017,
+  "off": 28.975966550823568
+ },
+ {
+  "lat": 45.6709497,
+  "lon": 5.8938596,
+  "name": "Château de Tresserve",
+  "tags": {
+   "alt_name": "Château de Bonport",
+   "building": "yes",
+   "castle_type": "chateau",
+   "historic": "castle",
+   "name": "Château de Tresserve",
+   "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2012",
+   "website": "https://www.chateaudetresserve.com/",
+   "wikidata": "Q2968599",
+   "wikipedia": "fr:Château de Bonport"
+  },
+  "typ": "way",
+  "id": 166738036,
+  "D": 607.7981667092837,
+  "cap": 62.242780306226734,
+  "off": 29.090046996714843
+ },
+ {
+  "lat": 45.2246516,
+  "lon": 5.7735685,
+  "name": "Fort du Bourcet",
+  "tags": {
+   "barrier": "wall",
+   "historic": "fort",
+   "name": "Fort du Bourcet",
+   "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre;mise à jour : 2010",
+   "wikidata": "Q3078332",
+   "wikipedia": "fr:Fort du Bourcet"
+  },
+  "typ": "way",
+  "id": 51790164,
+  "D": 581.3316886685861,
+  "cap": 66.39596073287566,
+  "off": 29.276710143195434
+ },
+ {
+  "lat": 45.6843807,
+  "lon": 5.9500737,
+  "name": "",
+  "tags": {
+   "man_made": "tower",
+   "source": "IGN - 2023-12-15",
+   "tower:type": "bell_tower"
+  },
+  "typ": "node",
+  "id": 11821412742,
+  "D": 612.4026620707185,
+  "cap": 62.272935967142075,
+  "off": 29.411065095638122
+ },
+ {
+  "lat": 45.6807845,
+  "lon": 5.9123369,
+  "name": "Château de la Roche du Roi",
+  "tags": {
+   "addr:housenumber": "40",
+   "addr:postcode": "73100",
+   "addr:street": "Boulevard de la Roche du Roi",
+   "building": "yes",
+   "castle_type": "manor",
+   "heritage": "2",
+   "heritage:operator": "mhs",
+   "historic": "castle",
+   "mhs:inscription_date": "1986-04-23",
+   "name": "Château de la Roche du Roi",
+   "ref:mhs": "PA00118165",
+   "source": "extraction vectorielle v1 cadastre-dgi-fr source : Direction Générale des Impôts - Cadas. Mise à jour : 2010;data.gouv.fr:Ministère de la Culture - 08/2011",
+   "source:heritage": "Ministère de la Culture - 07/2018",
+   "wikidata": "Q2971371",
+   "wikipedia": "fr:Château de la Roche du Roi"
+  },
+  "typ": "way",
+  "id": 81656293,
+  "D": 609.5462228715929,
+  "cap": 62.20050425240606,
+  "off": 29.6934939951857
+ },
+ {
+  "lat": 45.659811,
+  "lon": 5.8213587,
+  "name": "Tour Hertzienne TDF - Mont du Chat",
+  "tags": {
+   "communication:microwave": "yes",
+   "communication:mobile_phone": "yes",
+   "communication:radio": "yes",
+   "communication:television": "yes",
+   "man_made": "tower",
+   "name": "Tour Hertzienne TDF - Mont du Chat",
+   "tower:type": "communication"
+  },
+  "typ": "node",
+  "id": 3530261562,
+  "D": 602.1276544965011,
+  "cap": 62.14237444368223,
+  "off": 30.34438188993834
+ },
+ {
+  "lat": 45.6598831,
+  "lon": 5.8211935,
+  "name": "",
+  "tags": {
+   "height": "55",
+   "man_made": "tower",
+   "owner": "TDF",
+   "ref:FR:ANFR": "568077",
+   "source": "ANFR 08/2019",
+   "tower:type": "communication"
+  },
+  "typ": "node",
+  "id": 6731753130,
+  "D": 602.118979650259,
+  "cap": 62.141192386331625,
+  "off": 30.357789968709316
+ },
+ {
+  "lat": 45.2235862,
+  "lon": 5.753969,
+  "name": "Château d'Arvilliers",
+  "tags": {
+   "access": "private",
+   "alt_name": "La Tour des Chiens",
+   "castle_type": "defensive",
+   "historic": "castle",
+   "name": "Château d'Arvilliers"
+  },
+  "typ": "node",
+  "id": 3124301804,
+  "D": 579.8408892784083,
+  "cap": 66.35796909339655,
+  "off": 30.385715413850036
+ },
+ {
+  "lat": 45.2148263,
+  "lon": 5.7573777,
+  "name": "Château de Bouquéron",
+  "tags": {
+   "access": "private",
+   "addr:housenumber": "53",
+   "addr:street": "Chemin de Malanot",
+   "building": "yes",
+   "heritage": "3",
+   "heritage:operator": "mhs",
+   "historic": "castle",
+   "mhs:inscription_date": "1988-05-03",
+   "name": "Château de Bouquéron",
+   "ref:mhs": "PA00117140",
+   "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2010",
+   "source:heritage": "data.gouv.fr:Ministère de la Culture - 04/2015",
+   "wikidata": "Q22966949"
+  },
+  "typ": "way",
+  "id": 63196798,
+  "D": 579.7788768443029,
+  "cap": 66.45772342984822,
+  "off": 30.93267531744002
+ },
+ {
+  "lat": 45.653119,
+  "lon": 5.7892907,
+  "name": "",
+  "tags": {
+   "man_made": "tower",
+   "source": "IGN - 2023-12-15",
+   "tower:type": "bell_tower"
+  },
+  "typ": "node",
+  "id": 11821366584,
+  "D": 599.5430596607385,
+  "cap": 62.11446725758191,
+  "off": 31.065588123395127
+ },
+ {
+  "lat": 45.2140544,
+  "lon": 5.7503366,
+  "name": "Collège Le Rondeau Montfleury",
+  "tags": {
+   "bus": "yes",
+   "description": "Arrêt Scolaire",
+   "highway": "platform",
+   "local_ref": "12",
+   "name": "Collège Le Rondeau Montfleury",
+   "network": "M réso",
+   "public_transport": "platform",
+   "ref:station": "12",
+   "tactile_paving": "no"
+  },
+  "typ": "way",
+  "id": 498043692,
+  "D": 579.2291062821315,
+  "cap": 66.44816564829534,
+  "off": 31.361928626272416
+ },
+ {
+  "lat": 45.2140229,
+  "lon": 5.7503415,
+  "name": "Collège Le Rondeau Montfleury",
+  "tags": {
+   "bus": "yes",
+   "description": "Arrêt Scolaire",
+   "highway": "platform",
+   "local_ref": "11",
+   "name": "Collège Le Rondeau Montfleury",
+   "network": "M réso",
+   "public_transport": "platform",
+   "ref:station": "11",
+   "tactile_paving": "no"
+  },
+  "typ": "way",
+  "id": 498043698,
+  "D": 579.2283401420547,
+  "cap": 66.44850632524827,
+  "off": 31.364286548108137
+ },
+ {
+  "lat": 45.2139924,
+  "lon": 5.7503475,
+  "name": "Collège Le Rondeau Montfleury",
+  "tags": {
+   "bus": "yes",
+   "description": "Arrêt Scolaire",
+   "highway": "platform",
+   "local_ref": "10",
+   "name": "Collège Le Rondeau Montfleury",
+   "network": "M réso",
+   "public_transport": "platform",
+   "ref:station": "10",
+   "tactile_paving": "no"
+  },
+  "typ": "way",
+  "id": 498043699,
+  "D": 579.227691441241,
+  "cap": 66.44883932927564,
+  "off": 31.36650435159849
+ },
+ {
+  "lat": 45.2139596,
+  "lon": 5.7503509,
+  "name": "Collège Le Rondeau Montfleury",
+  "tags": {
+   "bus": "yes",
+   "description": "Arrêt Scolaire",
+   "highway": "platform",
+   "local_ref": "9",
+   "name": "Collège Le Rondeau Montfleury",
+   "network": "M réso",
+   "public_transport": "platform",
+   "ref:station": "9",
+   "tactile_paving": "no"
+  },
+  "typ": "way",
+  "id": 498043700,
+  "D": 579.2267675083991,
+  "cap": 66.44918980892487,
+  "off": 31.36904879764291
+ },
+ {
+  "lat": 45.2139283,
+  "lon": 5.7503483,
+  "name": "Collège Le Rondeau Montfleury",
+  "tags": {
+   "bus": "yes",
+   "description": "Arrêt Scolaire",
+   "highway": "platform",
+   "local_ref": "8",
+   "name": "Collège Le Rondeau Montfleury",
+   "network": "M réso",
+   "public_transport": "platform",
+   "ref:station": "8",
+   "tactile_paving": "no"
+  },
+  "typ": "way",
+  "id": 498043701,
+  "D": 579.2254524849127,
+  "cap": 66.44950963930182,
+  "off": 31.37178179809061
+ },
+ {
+  "lat": 45.2139959,
+  "lon": 5.7501723,
+  "name": "Collège le Rondeau",
+  "tags": {
+   "bus": "yes",
+   "description": "Arrêt Scolaire",
+   "highway": "platform",
+   "name": "Collège le Rondeau",
+   "network": "M réso",
+   "public_transport": "platform",
+   "tactile_paving": "no"
+  },
+  "typ": "way",
+  "id": 498043687,
+  "D": 579.2148261425104,
+  "cap": 66.44836448328067,
+  "off": 31.37535157318643
+ },
+ {
+  "lat": 45.2138923,
+  "lon": 5.7503149,
+  "name": "Collège Le Rondeau Montfleury",
+  "tags": {
+   "bus": "yes",
+   "description": "Arrêt Scolaire",
+   "highway": "platform",
+   "local_ref": "7",
+   "name": "Collège Le Rondeau Montfleury",
+   "network": "M réso",
+   "public_transport": "platform",
+   "ref:station": "7",
+   "tactile_paving": "no"
+  },
+  "typ": "way",
+  "id": 498043702,
+  "D": 579.2216851775424,
+  "cap": 66.44980141664695,
+  "off": 31.376510733669175
+ },
+ {
+  "lat": 45.2139248,
+  "lon": 5.7501723,
+  "name": "Collège le Rondeau",
+  "tags": {
+   "bus": "yes",
+   "description": "Arrêt Scolaire",
+   "highway": "platform",
+   "local_ref": "0",
+   "name": "Collège le Rondeau",
+   "network": "M réso",
+   "public_transport": "platform",
+   "ref:station": "0",
+   "tactile_paving": "no"
+  },
+  "typ": "way",
+  "id": 498043689,
+  "D": 579.212276812105,
+  "cap": 66.44910578811562,
+  "off": 31.381249897532598
+ },
+ {
+  "lat": 45.2138535,
+  "lon": 5.7502539,
+  "name": "Collège Le Rondeau Montfleury",
+  "tags": {
+   "bus": "yes",
+   "description": "Arrêt Scolaire",
+   "highway": "platform",
+   "local_ref": "6",
+   "name": "Collège Le Rondeau Montfleury",
+   "network": "M réso",
+   "public_transport": "platform",
+   "ref:station": "6",
+   "tactile_paving": "no"
+  },
+  "typ": "way",
+  "id": 498043703,
+  "D": 579.2157709761592,
+  "cap": 66.45005333972006,
+  "off": 31.382910992379927
+ },
+ {
+  "lat": 45.1858084,
+  "lon": 5.8028855,
+  "name": "Champrondet",
+  "tags": {
+   "bench": "separate",
+   "bin": "yes",
+   "bus": "yes",
+   "highway": "platform",
+   "lit": "yes",
+   "mapillary": "773021686908111",
+   "name": "Champrondet",
+   "network": "M réso",
+   "public_transport": "platform",
+   "ref:FR:TAG": "43",
+   "shelter": "separate",
+   "survey:date": "2018-08-17",
+   "tactile_paving": "yes"
+  },
+  "typ": "way",
+  "id": 193561408,
+  "D": 582.1309118285369,
+  "cap": 66.87196173598034,
+  "off": 31.389801651720905
+ },
+ {
+  "lat": 45.2138116,
+  "lon": 5.7501787,
+  "name": "Collège Le Rondeau Montfleury",
+  "tags": {
+   "bus": "yes",
+   "description": "Arrêt Scolaire",
+   "highway": "platform",
+   "local_ref": "5",
+   "name": "Collège Le Rondeau Montfleury",
+   "network": "M réso",
+   "public_transport": "platform",
+   "ref:station": "5",
+   "tactile_paving": "no"
+  },
+  "typ": "way",
+  "id": 498043704,
+  "D": 579.2086927171933,
+  "cap": 66.4503020626197,
+  "off": 31.39030888983967
+ },
+ {
+  "lat": 45.2137726,
+  "lon": 5.7501169,
+  "name": "Collège Le Rondeau Montfleury",
+  "tags": {
+   "bus": "yes",
+   "description": "Arrêt Scolaire",
+   "highway": "platform",
+   "local_ref": "4",
+   "name": "Collège Le Rondeau Montfleury",
+   "network": "M réso",
+   "public_transport": "platform",
+   "ref:station": "4",
+   "tactile_paving": "no"
+  },
+  "typ": "way",
+  "id": 498043705,
+  "D": 579.2027120371978,
+  "cap": 66.45055407902544,
+  "off": 31.396767504853845
+ },
+ {
+  "lat": 45.1857198,
+  "lon": 5.8029149,
+  "name": "Champrondet",
+  "tags": {
+   "bench": "separate",
+   "bin": "yes",
+   "bus": "yes",
+   "check_date:shelter": "2023-10-30",
+   "highway": "platform",
+   "lit": "yes",
+   "name": "Champrondet",
+   "network": "M réso",
+   "public_transport": "platform",
+   "ref:FR:TAG": "331",
+   "shelter": "separate",
+   "tactile_paving": "yes"
+  },
+  "typ": "way",
+  "id": 193561407,
+  "D": 582.1299968285201,
+  "cap": 66.87295486782381,
+  "off": 31.396896759930854
+ },
+ {
+  "lat": 45.2137021,
+  "lon": 5.7501194,
+  "name": "Collège Le Rondeau Montfleury",
+  "tags": {
+   "bus": "yes",
+   "description": "Arrêt Scolaire",
+   "highway": "platform",
+   "local_ref": "3",
+   "name": "Collège Le Rondeau Montfleury",
+   "network": "M réso",
+   "public_transport": "platform",
+   "ref:station": "3",
+   "tactile_paving": "no"
+  },
+  "typ": "way",
+  "id": 498043684,
+  "D": 579.2003698717531,
+  "cap": 66.45129540727766,
+  "off": 31.402487937619807
+ },
+ {
+  "lat": 45.2136011,
+  "lon": 5.750042,
+  "name": "Collège Le Rondeau Montfleury",
+  "tags": {
+   "bus": "yes",
+   "description": "Arrêt Scolaire",
+   "highway": "platform",
+   "local_ref": "2",
+   "name": "Collège Le Rondeau Montfleury",
+   "network": "M réso",
+   "public_transport": "platform",
+   "ref:station": "2",
+   "tactile_paving": "no"
+  },
+  "typ": "way",
+  "id": 498043681,
+  "D": 579.1910097806419,
+  "cap": 66.45215487017094,
+  "off": 31.414905570775908
+ },
+ {
+  "lat": 45.2135011,
+  "lon": 5.7499586,
+  "name": "Collège Le Rondeau Montfleury",
+  "tags": {
+   "bus": "yes",
+   "description": "Arrêt Scolaire",
+   "highway": "platform",
+   "local_ref": "1",
+   "name": "Collège Le Rondeau Montfleury",
+   "network": "M réso",
+   "public_transport": "platform",
+   "ref:station": "1",
+   "tactile_paving": "no"
+  },
+  "typ": "way",
+  "id": 498043678,
+  "D": 579.1812407435801,
+  "cap": 66.452988922376,
+  "off": 31.427553200508108
+ },
+ {
+  "lat": 45.6847646,
+  "lon": 5.8580143,
+  "name": "Château de Bourdeau",
+  "tags": {
+   "building": "yes",
+   "castle_type": "chateau",
+   "historic": "castle",
+   "name": "Château de Bourdeau",
+   "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2012",
+   "tourism": "hotel",
+   "wikidata": "Q2968624",
+   "wikipedia": "fr:Château de Bourdeau"
+  },
+  "typ": "way",
+  "id": 163395657,
+  "D": 605.8361088768945,
+  "cap": 62.006078572563354,
+  "off": 31.536812159379696
+ },
+ {
+  "lat": 45.2023723,
+  "lon": 5.7648207,
+  "name": "",
+  "tags": {
+   "man_made": "tower",
+   "mimics": "tree",
+   "tower:construction": "concealed",
+   "tower:type": "communication"
+  },
+  "typ": "node",
+  "id": 12321500240,
+  "D": 579.8866392783597,
+  "cap": 66.60602144922245,
+  "off": 31.621824279491914
+ },
+ {
+  "lat": 45.6992741,
+  "lon": 5.9044018,
+  "name": "Place du Rondeau",
+  "tags": {
+   "highway": "primary",
+   "junction": "roundabout",
+   "name": "Place du Rondeau",
+   "surface": "asphalt"
+  },
+  "typ": "way",
+  "id": 1295400865,
+  "D": 609.7832549755947,
+  "cap": 61.999719195925024,
+  "off": 31.839745406790424
+ },
+ {
+  "lat": 45.6992657,
+  "lon": 5.9043441,
+  "name": "Place du Rondeau",
+  "tags": {
+   "highway": "primary",
+   "junction": "roundabout",
+   "name": "Place du Rondeau",
+   "surface": "asphalt"
+  },
+  "typ": "way",
+  "id": 732919831,
+  "D": 609.7787672348102,
+  "cap": 61.999634370294814,
+  "off": 31.840095186159186
+ },
+ {
+  "lat": 45.6993158,
+  "lon": 5.9044453,
+  "name": "Place du Rondeau",
+  "tags": {
+   "highway": "primary",
+   "junction": "roundabout",
+   "name": "Place du Rondeau",
+   "surface": "asphalt"
+  },
+  "typ": "way",
+  "id": 1295400866,
+  "D": 609.7881831930306,
+  "cap": 61.9994428179823,
+  "off": 31.843259698688378
+ },
+ {
+  "lat": 45.6993009,
+  "lon": 5.904299,
+  "name": "Place du Rondeau",
+  "tags": {
+   "highway": "primary",
+   "junction": "roundabout",
+   "name": "Place du Rondeau",
+   "surface": "asphalt"
+  },
+  "typ": "way",
+  "id": 732919833,
+  "D": 609.7770839205406,
+  "cap": 61.999166163775726,
+  "off": 31.844829543233715
+ },
+ {
+  "lat": 45.6993608,
+  "lon": 5.9044304,
+  "name": "Place du Rondeau",
+  "tags": {
+   "highway": "primary",
+   "junction": "roundabout",
+   "name": "Place du Rondeau",
+   "surface": "asphalt"
+  },
+  "typ": "way",
+  "id": 1295400867,
+  "D": 609.7890847930357,
+  "cap": 61.99896702247935,
+  "off": 31.84838790604899
+ },
+ {
+  "lat": 45.6993858,
+  "lon": 5.9045169,
+  "name": "Place du Rondeau",
+  "tags": {
+   "highway": "tertiary",
+   "name": "Place du Rondeau",
+   "oneway": "yes"
+  },
+  "typ": "way",
+  "id": 678738564,
+  "D": 609.7963544772178,
+  "cap": 61.998974802076134,
+  "off": 31.849191121311378
+ },
+ {
+  "lat": 45.6993579,
+  "lon": 5.9043099,
+  "name": "Place du Rondeau",
+  "tags": {
+   "highway": "primary",
+   "junction": "roundabout",
+   "name": "Place du Rondeau",
+   "surface": "asphalt"
+  },
+  "typ": "way",
+  "id": 1295400869,
+  "D": 609.780352324282,
+  "cap": 61.99864896279934,
+  "off": 31.850681511378898
+ },
+ {
+  "lat": 45.6994015,
+  "lon": 5.9044986,
+  "name": "Place du Rondeau",
+  "tags": {
+   "highway": "tertiary",
+   "lanes": "2",
+   "name": "Place du Rondeau",
+   "oneway": "yes",
+   "surface": "asphalt"
+  },
+  "typ": "way",
+  "id": 678738565,
+  "D": 609.7957333659417,
+  "cap": 61.998771189817546,
+  "off": 31.85126302020319
+ },
+ {
+  "lat": 45.6993471,
+  "lon": 5.9042117,
+  "name": "Place du Rondeau",
+  "tags": {
+   "highway": "service",
+   "name": "Place du Rondeau",
+   "service": "parking_aisle"
+  },
+  "typ": "way",
+  "id": 678738561,
+  "D": 609.7728673718954,
+  "cap": 61.998470940696166,
+  "off": 31.85165159370032
+ },
+ {
+  "lat": 45.6993811,
+  "lon": 5.9043775,
+  "name": "Place du Rondeau",
+  "tags": {
+   "highway": "primary",
+   "junction": "roundabout",
+   "name": "Place du Rondeau",
+   "surface": "asphalt"
+  },
+  "typ": "way",
+  "id": 1295400868,
+  "D": 609.7861935922467,
+  "cap": 61.998619804424095,
+  "off": 31.8516986402186
+ },
+ {
+  "lat": 45.6994917,
+  "lon": 5.9044021,
+  "name": "Place du Rondeau",
+  "tags": {
+   "highway": "residential",
+   "maxspeed": "30",
+   "name": "Place du Rondeau",
+   "oneway": "yes",
+   "oneway:bicycle": "no",
+   "surface": "asphalt"
+  },
+  "typ": "way",
+  "id": 1351629819,
+  "D": 609.7927819741162,
+  "cap": 61.99762618402269,
+  "off": 31.862980528642733
+ },
+ {
+  "lat": 45.6994643,
+  "lon": 5.9041023,
+  "name": "Place du Rondeau",
+  "tags": {
+   "cycleway:right": "track",
+   "highway": "primary",
+   "name": "Place du Rondeau",
+   "oneway": "yes",
+   "ref": "D 991",
+   "surface": "asphalt"
+  },
+  "typ": "way",
+  "id": 732919829,
+  "D": 609.7701743527676,
+  "cap": 61.99702903488014,
+  "off": 31.866534834278422
+ },
+ {
+  "lat": 45.6994984,
+  "lon": 5.9041954,
+  "name": "Place du Rondeau",
+  "tags": {
+   "cycleway:right": "track",
+   "highway": "primary",
+   "name": "Place du Rondeau",
+   "oneway": "yes",
+   "ref": "D 991",
+   "surface": "asphalt"
+  },
+  "typ": "way",
+  "id": 65752597,
+  "D": 609.778312919895,
+  "cap": 61.99696822515159,
+  "off": 31.868162318860513
+ },
+ {
+  "lat": 45.1983118,
+  "lon": 5.7613138,
+  "name": "",
+  "tags": {
+   "height": "32",
+   "man_made": "tower",
+   "owner": "Orange",
+   "ref:FR:ANFR": "784671",
+   "source": "ANFR 08/2019",
+   "tower:type": "communication"
+  },
+  "typ": "node",
+  "id": 2675293270,
+  "D": 579.4820357831179,
+  "cap": 66.6396811892647,
+  "off": 32.146120688900155
+ },
+ {
+  "lat": 45.1813888,
+  "lon": 5.7805905,
+  "name": "Chemin des Hirondelles",
+  "tags": {
+   "bicycle": "designated",
+   "foot": "designated",
+   "highway": "path",
+   "name": "Chemin des Hirondelles",
+   "segregated": "no",
+   "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre ; mise à jour : 2011 ; Mairie de Gières, 18/06/2012",
+   "surface": "asphalt",
+   "traffic_sign": "FR:C115"
+  },
+  "typ": "way",
+  "id": 99373950,
+  "D": 580.3177115833613,
+  "cap": 66.8636577044,
+  "off": 32.7615649370797
+ },
+ {
+  "lat": 45.1776439,
+  "lon": 5.7876009,
+  "name": "vieux chateau de Gières",
+  "tags": {
+   "historic": "castle",
+   "name": "vieux chateau de Gières",
+   "ruins": "yes"
+  },
+  "typ": "way",
+  "id": 1382586177,
+  "D": 580.7081876840799,
+  "cap": 66.91981603287667,
+  "off": 32.801636534003876
+ },
+ {
+  "lat": 45.1869189,
+  "lon": 5.7657891,
+  "name": "",
+  "tags": {
+   "height": "49.3",
+   "man_made": "tower",
+   "owner": "SFR",
+   "ref:FR:ANFR": "1568643",
+   "source": "ANFR 08/2019",
+   "survey:date": "2022-05-13",
+   "tower:type": "communication"
+  },
+  "typ": "node",
+  "id": 4906160740,
+  "D": 579.411553557499,
+  "cap": 66.76964922641486,
+  "off": 32.9358299063146
+ },
+ {
+  "lat": 45.6838595,
+  "lon": 5.807554,
+  "name": "Château de la Forest",
+  "tags": {
+   "building": "yes",
+   "heritage": "3",
+   "heritage:operator": "mhs",
+   "historic": "castle",
+   "mhs:inscription_date": "1995-06-03",
+   "name": "Château de la Forest",
+   "ref:mhs": "PA00135660",
+   "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2012",
+   "source:heritage": "data.gouv.fr, Ministère de la Culture - 2016",
+   "wikidata": "Q2969548",
+   "wikipedia": "fr:Château de La Forest (Saint-Jean-de-Chevelu)"
+  },
+  "typ": "way",
+  "id": 195103104,
+  "D": 602.1947152298582,
+  "cap": 61.86789522649127,
+  "off": 33.19656333209596
+ },
+ {
+  "lat": 45.1736803,
+  "lon": 5.7835176,
+  "name": "Fort du Mûrier",
+  "tags": {
+   "building": "yes",
+   "heritage": "3",
+   "heritage:operator": "mhs",
+   "historic": "fort",
+   "mhs:inscription_date": "1994-08-19",
+   "military": "barracks",
+   "name": "Fort du Mûrier",
+   "ref:mhs": "PA00132949",
+   "source:heritage": "data.gouv.fr:Ministère de la Culture - 04/2015",
+   "wikidata": "Q1438876",
+   "wikipedia": "fr:Fort du Mûrier"
+  },
+  "typ": "way",
+  "id": 236094216,
+  "D": 580.2659081755897,
+  "cap": 66.95124015273234,
+  "off": 33.34570651378672
+ },
+ {
+  "lat": 45.1523847,
+  "lon": 5.8371292,
+  "name": "",
+  "tags": {
+   "building": "yes",
+   "layer": "1",
+   "man_made": "tower",
+   "tower:type": "bell_tower"
+  },
+  "typ": "way",
+  "id": 1461795331,
+  "D": 583.5259336194556,
+  "cap": 67.30189581697226,
+  "off": 33.367266564224
+ },
+ {
+  "lat": 45.1740605,
+  "lon": 5.7718945,
+  "name": "Château des Alloves",
+  "tags": {
+   "building": "yes",
+   "historic": "castle",
+   "name": "Château des Alloves",
+   "ref:FR:RNB": "ERV9KZWB481T",
+   "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2012"
+  },
+  "typ": "way",
+  "id": 190067439,
+  "D": 579.4141955294118,
+  "cap": 66.91894956287831,
+  "off": 33.81920458555382
+ },
+ {
+  "lat": 45.6844574,
+  "lon": 5.7919579,
+  "name": "Château de Choisel",
+  "tags": {
+   "castle_type": "manor",
+   "historic": "castle",
+   "name": "Château de Choisel",
+   "wikidata": "Q15940424"
+  },
+  "typ": "node",
+  "id": 9870594710,
+  "D": 601.1088723069796,
+  "cap": 61.816253112371726,
+  "off": 33.86893121218221
+ },
+ {
+  "lat": 45.7239096,
+  "lon": 5.9320317,
+  "name": "Tour des Cancres",
+  "tags": {
+   "building": "yes",
+   "man_made": "tower",
+   "name": "Tour des Cancres",
+   "source": "extraction vectorielle v1 cadastre-dgi-fr source : Direction Générale des Impôts - Cadas. Mise à jour : 2010",
+   "tower:type": "defensive"
+  },
+  "typ": "way",
+  "id": 72581996,
+  "D": 612.8342120445502,
+  "cap": 61.84269948005715,
+  "off": 33.991994599048894
+ },
+ {
+  "lat": 45.1718317,
+  "lon": 5.7699337,
+  "name": "",
+  "tags": {
+   "emergency": "siren",
+   "man_made": "tower",
+   "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2014"
+  },
+  "typ": "node",
+  "id": 2611493334,
+  "D": 579.1903834003557,
+  "cap": 66.93746629076895,
+  "off": 34.11049011345975
+ },
+ {
+  "lat": 45.1446672,
+  "lon": 5.8323166,
+  "name": "Château d'Uriage",
+  "tags": {
+   "access": "private",
+   "building": "yes",
+   "castle_type": "chateau",
+   "heritage": "2",
+   "heritage:operator": "mhs",
+   "historic": "castle",
+   "historic:civilization": "medieval",
+   "level": "7",
+   "mhs:inscription_date": "1988-09-14",
+   "name": "Château d'Uriage",
+   "ref:mhs": "PA00117261",
+   "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre;mise à jour :2009",
+   "source:heritage": "data.gouv.fr:Ministère de la Culture - 04/2015",
+   "start_date": "C11",
+   "website": "https://chateauduriage.wordpress.com/",
+   "wikidata": "Q15944523",
+   "wikipedia": "fr:Château d'Uriage"
+  },
+  "typ": "way",
+  "id": 63083785,
+  "D": 582.9034240885145,
+  "cap": 67.37085524702769,
+  "off": 34.30451881937993
+ },
+ {
+  "lat": 45.7264329,
+  "lon": 5.9266156,
+  "name": "Château Brachet",
+  "tags": {
+   "building": "yes",
+   "historic": "castle",
+   "name": "Château Brachet",
+   "source": "extraction vectorielle v1 cadastre-dgi-fr source : Direction Générale des Impôts - Cadas. Mise à jour : 2010"
+  },
+  "typ": "way",
+  "id": 72580376,
+  "D": 612.5589766637023,
+  "cap": 61.802993557602406,
+  "off": 34.35181785526802
+ },
+ {
+  "lat": 45.1535846,
+  "lon": 5.805703,
+  "name": "Fort des Quatre Seigneurs",
+  "tags": {
+   "historic": "fort",
+   "name": "Fort des Quatre Seigneurs",
+   "wikidata": "Q3078323",
+   "wikipedia": "fr:Fort des Quatre Seigneurs"
+  },
+  "typ": "way",
+  "id": 183854080,
+  "D": 581.2227421592023,
+  "cap": 67.2145477210367,
+  "off": 34.36421844881641
+ },
+ {
+  "lat": 45.153844,
+  "lon": 5.8039063,
+  "name": "",
+  "tags": {
+   "communication:radio": "yes",
+   "communication:television": "yes",
+   "height": "42",
+   "man_made": "tower",
+   "operator": "TDF",
+   "owner": "TDF",
+   "ref:FR:ANFR": "2132619",
+   "source": "ANFR 04/2021;survey",
+   "tower:type": "communication"
+  },
+  "typ": "node",
+  "id": 8638487391,
+  "D": 581.0976786956851,
+  "cap": 67.20753828947227,
+  "off": 34.40711318553098
+ },
+ {
+  "lat": 45.1535855,
+  "lon": 5.8042806,
+  "name": "",
+  "tags": {
+   "building": "yes",
+   "historic": "fort"
+  },
+  "typ": "way",
+  "id": 28418209,
+  "D": 581.1167006772505,
+  "cap": 67.21113343833053,
+  "off": 34.41802026605209
+ },
+ {
+  "lat": 45.1133741,
+  "lon": 6.012212,
+  "name": "Chemin de la Planche Ronde",
+  "tags": {
+   "highway": "track",
+   "name": "Chemin de la Planche Ronde"
+  },
+  "typ": "way",
+  "id": 181435148,
+  "D": 595.3293135359587,
+  "cap": 68.10540858210697,
+  "off": 34.56295340480168
+ },
+ {
+  "lat": 45.166811,
+  "lon": 5.769129,
+  "name": "Château Pégoud",
+  "tags": {
+   "building": "yes",
+   "historic": "castle",
+   "name": "Château Pégoud",
+   "ref:FR:RNB": "B3ZJQHVMBTBE",
+   "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2012"
+  },
+  "typ": "way",
+  "id": 190020692,
+  "D": 578.9553206898722,
+  "cap": 66.98802625776256,
+  "off": 34.60702910944387
+ },
+ {
+  "lat": 45.112533,
+  "lon": 6.0073298,
+  "name": "Chemin de la Planche Ronde",
+  "tags": {
+   "highway": "unclassified",
+   "name": "Chemin de la Planche Ronde",
+   "surface": "asphalt"
+  },
+  "typ": "way",
+  "id": 181435140,
+  "D": 594.9355868793756,
+  "cap": 68.10324628922285,
+  "off": 34.66348449602505
+ },
+ {
+  "lat": 45.1655635,
+  "lon": 5.7696865,
+  "name": "Château des Alloves",
+  "tags": {
+   "addr:city": "Saint-Martin-d'Hères",
+   "addr:housenumber": "7",
+   "addr:street": "Rue du Souvenir",
+   "building": "yes",
+   "historic": "castle",
+   "name": "Château des Alloves",
+   "ref:FR:RNB": "S1M9AMRADJZH",
+   "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2012"
+  },
+  "typ": "way",
+  "id": 190020625,
+  "D": 578.9533792364588,
+  "cap": 67.00243802889361,
+  "off": 34.69752664204975
+ },
+ {
+  "lat": 45.1728523,
+  "lon": 5.7546814,
+  "name": "",
+  "tags": {
+   "building": "yes",
+   "man_made": "tower"
+  },
+  "typ": "way",
+  "id": 762328662,
+  "D": 578.0911969009119,
+  "cap": 66.8894822712819,
+  "off": 34.71110855888807
+ },
+ {
+  "lat": 45.6908155,
+  "lon": 5.783111,
+  "name": "Château de Volontaz",
+  "tags": {
+   "building": "yes",
+   "castle_type": "manor",
+   "historic": "castle",
+   "name": "Château de Volontaz",
+   "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2012"
+  },
+  "typ": "way",
+  "id": 184181379,
+  "D": 600.75963196805,
+  "cap": 61.728213309965156,
+  "off": 34.83102363838063
+ },
+ {
+  "lat": 45.7411879,
+  "lon": 5.9323881,
+  "name": "Château de Loche",
+  "tags": {
+   "building": "yes",
+   "heritage": "3",
+   "heritage:operator": "mhs",
+   "historic": "castle",
+   "mhs:inscription_date": "1964-04-28",
+   "name": "Château de Loche",
+   "ref:mhs": "PA00118259",
+   "source": "extraction vectorielle v1 cadastre-dgi-fr source : Direction Générale des Impôts - Cadas. Mise à jour : 2010",
+   "source:heritage": "data.gouv.fr, Ministère de la Culture - 2016",
+   "wikidata": "Q22968474"
+  },
+  "typ": "way",
+  "id": 72578860,
+  "D": 613.621075315943,
+  "cap": 61.67866193767293,
+  "off": 35.87239357470613
+ },
+ {
+  "lat": 45.693386,
+  "lon": 5.750065,
+  "name": "Château de la Dragonnière",
+  "tags": {
+   "building": "yes",
+   "castle_type": "manor",
+   "historic": "castle",
+   "historic:civilization": "medieval",
+   "name": "Château de la Dragonnière",
+   "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2012",
+   "start_date": "1300",
+   "wikidata": "Q15940170",
+   "wikipedia": "fr:Château de la Dragonnière"
+  },
+  "typ": "way",
+  "id": 184181488,
+  "D": 598.5211444853174,
+  "cap": 61.60496209132123,
+  "off": 36.481443542980145
+ },
+ {
+  "lat": 45.718863,
+  "lon": 5.811558,
+  "name": "Château de Billième",
+  "tags": {
+   "building": "yes",
+   "historic": "castle",
+   "name": "Château de Billième",
+   "wikidata": "Q15957656",
+   "wikipedia": "fr:Château de Billième"
+  },
+  "typ": "way",
+  "id": 209379772,
+  "D": 604.0315096607444,
+  "cap": 61.540071884364465,
+  "off": 36.49193244204953
+ },
+ {
+  "lat": 45.7017464,
+  "lon": 5.7613917,
+  "name": "",
+  "tags": {
+   "man_made": "tower",
+   "source": "IGN - 2023-12-15",
+   "tower:type": "bell_tower"
+  },
+  "typ": "node",
+  "id": 11821333554,
+  "D": 599.6998978537398,
+  "cap": 61.557209557322835,
+  "off": 36.760802086021116
+ },
+ {
+  "lat": 45.1487084,
+  "lon": 5.7544933,
+  "name": "Château d'Eybens",
+  "tags": {
+   "building": "yes",
+   "historic": "castle",
+   "name": "Château d'Eybens",
+   "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2010",
+   "wikidata": "Q17462026"
+  },
+  "typ": "way",
+  "id": 70896153,
+  "D": 577.2367271047888,
+  "cap": 67.14226699740772,
+  "off": 36.917600652609224
+ },
+ {
+  "lat": 45.7028115,
+  "lon": 5.7594381,
+  "name": "Chemin de Ronde",
+  "tags": {
+   "highway": "tertiary",
+   "maxspeed": "30",
+   "name": "Chemin de Ronde",
+   "oneway": "yes",
+   "ref": "D 44"
+  },
+  "typ": "way",
+  "id": 38620387,
+  "D": 599.6085355217368,
+  "cap": 61.54099996855007,
+  "off": 36.94280529094946
+ },
+ {
+  "lat": 45.7028451,
+  "lon": 5.7594204,
+  "name": "Chemin de Ronde",
+  "tags": {
+   "highway": "tertiary",
+   "maxspeed": "30",
+   "name": "Chemin de Ronde",
+   "oneway": "yes",
+   "ref": "D 44"
+  },
+  "typ": "way",
+  "id": 38620388,
+  "D": 599.6087781046327,
+  "cap": 61.54061971121769,
+  "off": 36.94668587513953
+ },
+ {
+  "lat": 45.7028463,
+  "lon": 5.75843,
+  "name": "Chemin de Ronde",
+  "tags": {
+   "highway": "tertiary",
+   "maxspeed": "30",
+   "name": "Chemin de Ronde",
+   "ref": "D 44"
+  },
+  "typ": "way",
+  "id": 8457756,
+  "D": 599.5384040310229,
+  "cap": 61.53765018102507,
+  "off": 36.98884648934892
+ },
+ {
+  "lat": 45.703655,
+  "lon": 5.7569297,
+  "name": "Chemin de Ronde",
+  "tags": {
+   "highway": "secondary",
+   "maxspeed": "30",
+   "name": "Chemin de Ronde"
+  },
+  "typ": "way",
+  "id": 27165919,
+  "D": 599.4678729820205,
+  "cap": 61.52528667165211,
+  "off": 37.12791181027821
+ },
+ {
+  "lat": 45.720713,
+  "lon": 5.79087,
+  "name": "Château de Grand Lagneux",
+  "tags": {
+   "building": "yes",
+   "historic": "castle",
+   "name": "Château de Grand Lagneux",
+   "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2012"
+  },
+  "typ": "way",
+  "id": 184181486,
+  "D": 602.6436098012963,
+  "cap": 61.46075554617323,
+  "off": 37.40982428832578
+ },
+ {
+  "lat": 45.1379694,
+  "lon": 5.7635428,
+  "name": "",
+  "tags": {
+   "man_made": "tower",
+   "tower:construction": "lattice",
+   "tower:type": "communication"
+  },
+  "typ": "node",
+  "id": 8786425651,
+  "D": 577.54161172695,
+  "cap": 67.2769369472295,
+  "off": 37.535154429037334
+ },
+ {
+  "lat": 45.1375504,
+  "lon": 5.7633671,
+  "name": "",
+  "tags": {
+   "communication:mobile_phone": "yes",
+   "man_made": "tower",
+   "tower:construction": "lattice",
+   "tower:type": "communication"
+  },
+  "typ": "node",
+  "id": 8786425650,
+  "D": 577.5141246742296,
+  "cap": 67.28091704774982,
+  "off": 37.581987168507865
+ },
+ {
+  "lat": 45.1375532,
+  "lon": 5.7515883,
+  "name": "Château Charlon",
+  "tags": {
+   "building": "yes",
+   "historic": "castle",
+   "name": "Château Charlon",
+   "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2010"
+  },
+  "typ": "way",
+  "id": 71134166,
+  "D": 576.6354954876015,
+  "cap": 67.25251490173412,
+  "off": 38.07808869207708
+ },
+ {
+  "lat": 45.1337442,
+  "lon": 5.7590186,
+  "name": "Fort de Montavie",
+  "tags": {
+   "access": "private",
+   "historic": "fort",
+   "military": "yes",
+   "name": "Fort de Montavie",
+   "wikidata": "Q17628482"
+  },
+  "typ": "way",
+  "id": 236085382,
+  "D": 577.0591417593645,
+  "cap": 67.31047714614391,
+  "off": 38.121612225760884
+ },
+ {
+  "lat": 45.1336747,
+  "lon": 5.7517643,
+  "name": "Château de Montavie",
+  "tags": {
+   "building": "yes",
+   "historic": "castle",
+   "name": "Château de Montavie",
+   "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2010"
+  },
+  "typ": "way",
+  "id": 71134114,
+  "D": 576.5154317383175,
+  "cap": 67.29375618105507,
+  "off": 38.43270955831853
+ },
+ {
+  "lat": 45.1148353,
+  "lon": 5.7646338,
+  "name": "Domaine des Rollands de Haute-Jarrie",
+  "tags": {
+   "heritage": "3",
+   "heritage:operator": "mhs",
+   "historic": "castle",
+   "mhs:inscription_date": "2006-12-12",
+   "name": "Domaine des Rollands de Haute-Jarrie",
+   "ref:mhs": "PA38000024",
+   "source": "data.gouv.fr:Ministère de la Culture - 08/2011",
+   "source:heritage": "data.gouv.fr:Ministère de la Culture - 04/2015",
+   "wikidata": "Q22979289"
+  },
+  "typ": "node",
+  "id": 2108706889,
+  "D": 576.8343857686099,
+  "cap": 67.52293485048801,
+  "off": 39.69897547925964
+ },
+ {
+  "lat": 45.1149335,
+  "lon": 5.7617876,
+  "name": "free mobile",
+  "tags": {
+   "man_made": "tower",
+   "name": "free mobile",
+   "survey:date": "2024-12-08",
+   "tower:type": "communication"
+  },
+  "typ": "node",
+  "id": 12404903458,
+  "D": 576.6249894929709,
+  "cap": 67.51513172208422,
+  "off": 39.80119765293753
+ },
+ {
+  "lat": 45.113944,
+  "lon": 5.7588245,
+  "name": "Château des Simianes",
+  "tags": {
+   "historic": "castle",
+   "name": "Château des Simianes",
+   "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre ; mise à jour : 2011"
+  },
+  "typ": "way",
+  "id": 125935492,
+  "D": 576.3700069093029,
+  "cap": 67.5185101215103,
+  "off": 40.0133734621612
+ },
+ {
+  "lat": 45.110343,
+  "lon": 5.7564882,
+  "name": "Château de Bon Repos",
+  "tags": {
+   "building": "yes",
+   "heritage": "3",
+   "heritage:operator": "mhs",
+   "historic": "castle",
+   "mhs:inscription_date": "1986-10-08",
+   "name": "Château de Bon Repos",
+   "opening_hours": "Su[3] 10:00-12:00,14:00-18:00; Aug off",
+   "phone": "+33 6 88 43 72 21",
+   "ref:mhs": "PA00117208",
+   "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2010;data.gouv.fr:Ministère de la Culture - 08/2011",
+   "source:heritage": "data.gouv.fr:Ministère de la Culture - 04/2015",
+   "wikidata": "Q2968587",
+   "wikipedia": "fr:Château de Bon Repos"
+  },
+  "typ": "way",
+  "id": 78575047,
+  "D": 576.0734704735863,
+  "cap": 67.55092892250877,
+  "off": 40.451571813755535
+ }
+]

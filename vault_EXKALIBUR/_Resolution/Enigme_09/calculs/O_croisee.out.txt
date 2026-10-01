@@ -1,0 +1,24 @@
+garde É1 (León–Foix) × É5 Carnac–Stonehenge (royaume des pierres dressées)
+   croisée 42.6793,-4.5456 (sur segment garde: True, royaume: False)
+   +340,9 km Est : grand cercle → 42.6037,-0.3787 ; parallèle → 42.6793,-0.3754
+garde É1 (León–Foix) × É4 Tintagel–Silchester
+   croisée 32.3225,-43.3912 (sur segment garde: False, royaume: False)
+   +340,9 km Est : grand cercle → 32.2706,-39.7647 ; parallèle → 32.3225,-39.7633
+garde É1 (León–Foix) × É4 Silchester–Westminster
+   croisée 30.6013,-46.7584 (sur segment garde: False, royaume: False)
+   +340,9 km Est : grand cercle → 30.5528,-43.1978 ; parallèle → 30.6013,-43.1966
+garde É1 (León–Foix) × É1 lame Urquhart–Valence
+   croisée 42.8867,-0.9553 (sur segment garde: True, royaume: True)
+   +340,9 km Est : grand cercle → 42.8106,3.2255 ; parallèle → 42.8867,3.2289
+garde É7 (Sainte-Chapelle–Lorient) × É5 Carnac–Stonehenge (royaume des pierres dressées)
+   croisée 47.8321,-3.0050 (sur segment garde: True, royaume: True)
+   +340,9 km Est : grand cercle → 47.7417,1.5566 ; parallèle → 47.8321,1.5619
+garde É7 (Sainte-Chapelle–Lorient) × É4 Tintagel–Silchester
+   croisée 29.3512,82.9254 (sur segment garde: False, royaume: False)
+   +340,9 km Est : grand cercle → 29.3051,86.4416 ; parallèle → 29.3512,86.4427
+garde É7 (Sainte-Chapelle–Lorient) × É4 Silchester–Westminster
+   croisée 39.8777,66.8704 (sur segment garde: False, royaume: False)
+   +340,9 km Est : grand cercle → 39.8092,70.8627 ; parallèle → 39.8777,70.8653
+garde É7 (Sainte-Chapelle–Lorient) × É1 lame Urquhart–Valence
+   croisée 48.0529,-1.9698 (sur segment garde: True, royaume: True)
+   +340,9 km Est : grand cercle → 47.9617,2.6112 ; parallèle → 48.0529,2.6166

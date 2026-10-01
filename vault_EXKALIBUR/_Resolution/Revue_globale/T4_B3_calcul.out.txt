@@ -1,0 +1,121 @@
+Stade 185 m -> fenêtre [1831.5 ; 1868.5] m
+
+== Paires (3e,11e) par forêt (ordre 3 et 11 ; lettres: C=3, K=11)
+Forêt domaniale R.T.M. Boutat                           3->11  centroïdes    8128 m | bords    7035 m 
+Forêt communale du Touvet                               3->11  centroïdes    2227 m | bords    1839 m   <== BORDS
+Forêt communale de Pontcharra                           C->K  centroïdes    1688 m | bords    1458 m 
+Forêt communale d'Allevard                              3->11  centroïdes    2072 m | bords    1568 m 
+Forêt communale de Le-Haut-Bréda-Pinsot                 C->K  centroïdes    3293 m | bords    2672 m 
+Forêt communale de La-Chapelle-Du-Bard                  3->K  centroïdes    1318 m | bords     917 m 
+Forêt communale de Barraux                              C->K  centroïdes    1945 m | bords    1570 m 
+Forêt communale de Chapareillan                         3->11  centroïdes     959 m | bords     597 m 
+Forêt communale de Saint-Maximin                        C->K  centroïdes    2022 m | bords    1786 m 
+Forêt communale d'Apremont                              3->11  centroïdes    1031 m | bords     703 m 
+
+== Test du hasard: toutes paires (k,k+8), toutes forêts: n=244 ; centroïde dans fenêtre: 3 (1.2 %) ; bords: 3 (1.2 %)
+  HIT Forêt communale du Touvet                          1->9 (rangs 1->9) c=2265 e=1835
+  HIT Forêt communale du Touvet                          3->11 (rangs 3->11) c=2227 e=1839
+  HIT Forêt communale du Touvet                          7->15 (rangs 7->15) c=1845 e=1161
+  HIT Forêt communale d'Allevard                         17->25 (rangs 17->25) c=1866 e=1406
+  HIT Forêt communale d'Allevard                         18->26 (rangs 18->26) c=1842 e=1417
+  HIT Forêt communale de Le-Haut-Bréda-Pinsot            G->15 (rangs 7->15) c=2395 e=1832
+
+-- Forêt communale de Saint-Maximin centroïdes (cap/dist depuis tour)
+   A   2403 m E,    93 m N  (tour->centroïde 2405 m) aire 6.3 ha
+   B   2718 m E,   -95 m N  (tour->centroïde 2719 m) aire 3.5 ha
+   C   2670 m E,  -482 m N  (tour->centroïde 2713 m) aire 2.7 ha
+   D   2464 m E,  -534 m N  (tour->centroïde 2521 m) aire 3.9 ha
+   E   2379 m E,  -582 m N  (tour->centroïde 2450 m) aire 4.1 ha
+   F   2414 m E,  -726 m N  (tour->centroïde 2521 m) aire 3.9 ha
+   G   2370 m E,  -850 m N  (tour->centroïde 2518 m) aire 2.3 ha
+   H   2247 m E,  -741 m N  (tour->centroïde 2366 m) aire 3.5 ha
+   I   2158 m E,  -701 m N  (tour->centroïde 2269 m) aire 2.0 ha
+   J   1505 m E, -1891 m N  (tour->centroïde 2416 m) aire 2.3 ha
+   K   1405 m E, -2060 m N  (tour->centroïde 2493 m) aire 3.8 ha
+   L   1200 m E, -2008 m N  (tour->centroïde 2339 m) aire 7.4 ha
+   M   1273 m E, -2342 m N  (tour->centroïde 2666 m) aire 4.5 ha
+   N   1168 m E, -2222 m N  (tour->centroïde 2511 m) aire 3.7 ha
+   O    970 m E, -1540 m N  (tour->centroïde 1820 m) aire 3.3 ha
+   P   -108 m E,  2358 m N  (tour->centroïde 2360 m) aire 2.9 ha
+
+-- Forêt communale de Pontcharra centroïdes (cap/dist depuis tour)
+   A   1680 m E, -1245 m N  (tour->centroïde 2091 m) aire 8.7 ha
+   B   1985 m E, -1515 m N  (tour->centroïde 2498 m) aire 5.1 ha
+   C   1726 m E, -1429 m N  (tour->centroïde 2240 m) aire 7.4 ha
+   D   1857 m E, -1757 m N  (tour->centroïde 2556 m) aire 5.2 ha
+   E   1690 m E, -1612 m N  (tour->centroïde 2336 m) aire 4.8 ha
+   F   1653 m E, -1937 m N  (tour->centroïde 2547 m) aire 4.1 ha
+   G   1552 m E, -1638 m N  (tour->centroïde 2257 m) aire 6.7 ha
+   H    955 m E, -2734 m N  (tour->centroïde 2896 m) aire 2.9 ha
+   I    548 m E, -2432 m N  (tour->centroïde 2493 m) aire 21.4 ha
+   J    343 m E, -2559 m N  (tour->centroïde 2582 m) aire 5.8 ha
+   K    702 m E, -2771 m N  (tour->centroïde 2859 m) aire 8.6 ha
+   L    654 m E, -2887 m N  (tour->centroïde 2960 m) aire 7.1 ha
+   M    656 m E, -3053 m N  (tour->centroïde 3123 m) aire 5.8 ha
+   N    603 m E, -3222 m N  (tour->centroïde 3278 m) aire 1.6 ha
+   O    397 m E, -2988 m N  (tour->centroïde 3014 m) aire 10.5 ha
+   P    327 m E, -3205 m N  (tour->centroïde 3221 m) aire 7.8 ha
+   Q    180 m E, -3345 m N  (tour->centroïde 3350 m) aire 6.6 ha
+   R    152 m E, -2591 m N  (tour->centroïde 2596 m) aire 4.2 ha
+   S   -187 m E, -2413 m N  (tour->centroïde 2421 m) aire 5.9 ha
+   T     77 m E, -3455 m N  (tour->centroïde 3456 m) aire 9.1 ha
+   U   -107 m E, -3695 m N  (tour->centroïde 3696 m) aire 15.3 ha
+   V   -263 m E, -4018 m N  (tour->centroïde 4026 m) aire 21.9 ha
+
+-- Forêt communale du Moutaret centroïdes (cap/dist depuis tour)
+   A   3973 m E,  1375 m N  (tour->centroïde 4204 m) aire 1.7 ha
+   B   3826 m E,   687 m N  (tour->centroïde 3887 m) aire 0.5 ha
+   C   3470 m E,  -273 m N  (tour->centroïde 3480 m) aire 5.0 ha
+   D   3007 m E,  -291 m N  (tour->centroïde 3021 m) aire 3.8 ha
+   E   2875 m E,  -595 m N  (tour->centroïde 2936 m) aire 4.4 ha
+   F   2811 m E,  -531 m N  (tour->centroïde 2860 m) aire 2.1 ha
+   G   2696 m E,  -738 m N  (tour->centroïde 2796 m) aire 2.1 ha
+   H   2625 m E,  -903 m N  (tour->centroïde 2776 m) aire 6.8 ha
+   I   2469 m E, -1053 m N  (tour->centroïde 2684 m) aire 4.2 ha
+   J   2351 m E, -1058 m N  (tour->centroïde 2578 m) aire 1.1 ha
+
+-- Forêt communale de Chapareillan centroïdes (cap/dist depuis tour)
+   1  -6181 m E,  1737 m N  (tour->centroïde 6421 m) aire 2.8 ha
+   2  -5941 m E,  2121 m N  (tour->centroïde 6308 m) aire 9.1 ha
+   3  -6487 m E,  5393 m N  (tour->centroïde 8436 m) aire 3.2 ha
+   4  -6576 m E,  5566 m N  (tour->centroïde 8615 m) aire 10.7 ha
+   5  -6792 m E,  5238 m N  (tour->centroïde 8577 m) aire 11.7 ha
+   6  -7018 m E,  5413 m N  (tour->centroïde 8863 m) aire 4.8 ha
+   7  -7117 m E,  5174 m N  (tour->centroïde 8799 m) aire 13.6 ha
+   8  -7405 m E,  5107 m N  (tour->centroïde 8995 m) aire 12.8 ha
+   9  -7095 m E,  5587 m N  (tour->centroïde 9031 m) aire 8.6 ha
+   10  -7157 m E,  5741 m N  (tour->centroïde 9175 m) aire 8.4 ha
+   11  -7445 m E,  5444 m N  (tour->centroïde 9223 m) aire 4.3 ha
+   12  -7685 m E,  5083 m N  (tour->centroïde 9213 m) aire 12.7 ha
+   13  -7875 m E,  5208 m N  (tour->centroïde 9441 m) aire 13.3 ha
+   14  -7742 m E,  5533 m N  (tour->centroïde 9516 m) aire 7.7 ha
+   15  -6048 m E,  3772 m N  (tour->centroïde 7128 m) aire 2.4 ha
+   16  -8173 m E,  5463 m N  (tour->centroïde 9831 m) aire 9.3 ha
+   17  -7718 m E,  5887 m N  (tour->centroïde 9707 m) aire 46.6 ha
+   18  -7475 m E,  5651 m N  (tour->centroïde 9371 m) aire 5.0 ha
+   19  -6940 m E,  6059 m N  (tour->centroïde 9213 m) aire 22.0 ha
+   20  -6759 m E,  5767 m N  (tour->centroïde 8885 m) aire 11.6 ha
+   21  -6300 m E,  5929 m N  (tour->centroïde 8651 m) aire 20.5 ha
+   22  -6184 m E,  5579 m N  (tour->centroïde 8329 m) aire 12.9 ha
+   23  -5623 m E,  5829 m N  (tour->centroïde 8099 m) aire 23.6 ha
+   24  -5914 m E,  4066 m N  (tour->centroïde 7177 m) aire 1.8 ha
+   25  -6464 m E,  1363 m N  (tour->centroïde 6606 m) aire 4.1 ha
+   26  -8338 m E,  4933 m N  (tour->centroïde 9688 m) aire 92.5 ha
+   27  -6644 m E,  6324 m N  (tour->centroïde 9172 m) aire 24.2 ha
+   28  -2014 m E,  2796 m N  (tour->centroïde 3446 m) aire 27.2 ha
+
+-- Forêt communale de Barraux centroïdes (cap/dist depuis tour)
+   A  -6083 m E,  2470 m N  (tour->centroïde 6565 m) aire 0.4 ha
+   B  -6007 m E,  1620 m N  (tour->centroïde 6221 m) aire 6.4 ha
+   C  -6347 m E,  1091 m N  (tour->centroïde 6440 m) aire 1.8 ha
+   D  -5014 m E,  1156 m N  (tour->centroïde 5145 m) aire 8.7 ha
+   E  -6197 m E,   493 m N  (tour->centroïde 6216 m) aire 7.1 ha
+   F  -6263 m E,   295 m N  (tour->centroïde 6270 m) aire 6.5 ha
+   G  -6282 m E,  -117 m N  (tour->centroïde 6284 m) aire 8.1 ha
+   H  -6661 m E,  -650 m N  (tour->centroïde 6692 m) aire 13.8 ha
+   I  -6801 m E,  -446 m N  (tour->centroïde 6816 m) aire 8.0 ha
+   J  -6319 m E,  -618 m N  (tour->centroïde 6349 m) aire 12.5 ha
+   K  -6563 m E,  -841 m N  (tour->centroïde 6617 m) aire 4.2 ha
+   L  -6908 m E, -1176 m N  (tour->centroïde 7007 m) aire 11.4 ha
+   M  -6774 m E, -1378 m N  (tour->centroïde 6913 m) aire 8.2 ha
+   N  -7033 m E, -1722 m N  (tour->centroïde 7241 m) aire 12.1 ha

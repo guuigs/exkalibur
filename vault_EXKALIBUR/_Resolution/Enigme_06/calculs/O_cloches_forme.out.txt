@@ -1,0 +1,7 @@
+lieux: 111 ; chaînes en U (1:1,85:1, virages 60-120° même sens): 23286 ; dont ±1 % de 341.61 km: 5
+   (341.3, ('Cambremer', 'Carentan', 'Carisbrooke', 'Crawley'))
+   (342.77, ('Carisbrooke', 'Chertsey2', 'Chepstow', 'Cerne Abbas'))
+   (343.56, ('Carisbrooke', 'Chertsey', 'Chepstow', 'Cerne Abbas'))
+   (343.84, ('Crowborough', 'Colchester', 'Cassel', 'Crécy'))
+   (344.04, ('Crowborough', 'Colchester2', 'Cassel', 'Crécy'))
+contrôle (20 D aléatoires 250-450 km), hits en U à ±1 % : [0, 0, 1, 2, 2, 2, 2, 3, 3, 5, 8, 8, 15, 17, 17, 20, 31, 37, 37, 45]

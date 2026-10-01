@@ -1,0 +1,49 @@
+LIENS EXTERNES:
+   https://unsolvedhunts.com/customer_authentication/redirect?locale=fr&region_country=FR
+   https://unsolvedhunts.com/pages/exkalibur
+   https://unsolvedhunts.goaffpro.com/
+
+CONtexte 'Site de la chasse':
+op: 20px;
+  padding-bottom: 20px;
+  --text-color: #ffffff;
+  --gap: true;
+">
+  
+
+  <div class="content-container page-width" style="flex-direction: row-reverse;">
+    <div class="content-column">
+      
+        
+        <div class="block-title">
+          <h2 style="--title-size: 50px;">
+            Site dédié
+          </h2>
+        </div>
+        
+        
+      
+        
+        <div class="block-text">
+          <p>Vous souhaitez en savoir davantage sur cette chasse au trésor et plonger plus profondément dans son univers captivant ? Vous pouvez aller visiter le site dédié à la chasse !</p>
+        </div>
+        
+        
+      
+        
+        <div class="block-button">
+          <a href="https://exkalibur.puydufou.com/" id="block-button-button_dc8F9D" class="button">
+            Le Site de la chasse
+          </a>
+        </div>
+        
+        
+      
+        <div class="corner top-left"></div>
+        <div class="corner top-right"></div>
+        <div class="corner bottom-left"></div>
+        <div class="corner bottom-right"></div>
+    </div>
+
+    <div class="image-column">
+      <img src="//unsolvedhunts.com/cdn/shop/files/DSC_9800_copie_cropped_2000x.jpg?v=1734706300" />

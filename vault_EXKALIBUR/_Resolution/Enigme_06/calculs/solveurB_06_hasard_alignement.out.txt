@@ -1,0 +1,97 @@
+AXE PRINCIPAL cap 149.099° : 605 pages vues, tronquées 0, échecs 251; dans la bande ±1 km : 433 pages, dont 65 'sacrées' (regex)
+    ('Battle, East Sussex', 0.069, 76.0)
+    ('Battle Abbey', 0.0, 76.7)
+    ('Battle Abbey School', -0.016, 76.8)
+    ('Crowhurst, East Sussex', 0.551, 79.6)
+    ('Crowhurst railway station', 0.547, 79.7)
+    ('Church in the Wood, Hollington', -0.863, 82.4)
+    ('Church Wood and Robsack Wood', -0.492, 82.5)
+    ('The St Leonards Academy', 0.348, 84.1)
+    ('East Sussex Cricket Ground', 0.788, 84.3)
+    ('West St Leonards railway station', 0.215, 84.6)
+    ('St Leonards West Marina railway station', 0.432, 84.6)
+    ("St John the Evangelist's Church, St Leonards-on-Sea", -0.735, 84.7)
+    ('St Leonards-on-Sea', -0.686, 84.8)
+    ("St Leonard's Church, St Leonards-on-Sea", -0.38, 85.1)
+    ('St Leonards Pier', -0.395, 85.2)
+    ('Crown House, St Leonards-on-Sea', -0.424, 85.2)
+    ('Christ Church, St Leonards-on-Sea', -0.999, 85.2)
+    ('Saint-Pierre-des-Jonquières', -0.094, 213.3)
+    ('Sainte-Beuve-en-Rivière', 0.073, 224.7)
+    ('Institution Notre-Dame de Sainte-Croix', 0.462, 336.0)
+    ('Sainte-Odile, Paris', -0.399, 336.7)
+    ('Notre-Dame-de-la-Compassion, Paris', 0.529, 336.9)
+    ('Church of Saint-Ferdinand des Ternes, Paris', 0.195, 337.4)
+    ('Saint-Pierre-de-Chaillot', 0.298, 338.7)
+    ('Saint-Philippe du Roule station', -0.669, 338.7)
+    ('American Cathedral in Paris', 0.159, 338.8)
+    ('Bust of Jayavarman VII', 0.723, 338.8)
+    ("St. Stephen's Greek Orthodox Cathedral, Paris", 0.353, 338.9)
+    ('Musée Yves Saint Laurent Paris', 0.34, 339.0)
+    ('List of ambassadors of Kenya to France', 0.432, 339.0)
+    ('Armenian Cathedral of St. John the Baptist', -0.143, 339.2)
+    ('Chapel of Notre-Dame-de-Consolation, Paris', -0.071, 339.2)
+    ('Holy Trinity Cathedral and the Russian Orthodox Spiritual and Cultural Center', 0.439, 339.4)
+    ('Statue of Winston Churchill, Paris', -0.562, 339.5)
+    ('American Church in Paris', 0.077, 339.6)
+    ('List of ambassadors of Thailand to France', -0.095, 339.8)
+    ('Saint-Pierre-du-Gros-Caillou', 0.302, 339.8)
+    ('Rue Saint-Dominique', -0.057, 339.9)
+    ('List of ambassadors of Poland to France', -0.317, 340.2)
+    ('Chapelle de Jesus-Enfant', -0.501, 340.3)
+    ('Sainte-Clotilde, Paris', -0.518, 340.4)
+    ('Saint-Louis Chapel, Paris', 0.792, 340.4)
+    ('Faubourg Saint-Germain', -0.553, 340.5)
+    ('Yves Saint Laurent (fashion house)', -0.604, 340.6)
+    ('Pentemont Abbey', -0.615, 340.6)
+    ('Saint-François-Xavier station', 0.127, 340.8)
+    ('Saint-François-Xavier, Paris', 0.275, 340.9)
+    ("Saint-Thomas-d'Aquin, Paris", -0.946, 340.9)
+    ('List of ambassadors of Libya to France', 0.96, 340.9)
+    ("Lycée Saint-Thomas-d'Aquin", -0.784, 341.1)
+    ('Chapel of Saint-Louis-de-la-Salpetriere, Paris', -0.415, 341.3)
+    ('Chapel of Our Lady of the Miraculous Medal', -0.415, 341.3)
+    ('Abbaye-aux-Bois', -0.726, 341.3)
+    ('Saint Vincent de Paul Chapel', -0.171, 341.4)
+    ('Church of Saint-Ignace, Paris', -0.558, 341.4)
+    ('Saint-Sulpice station (Paris Metro)', -0.851, 341.5)
+    ('Saint-Joseph-des-Carmes', -0.699, 341.7)
+    ('Saint-Placide station', -0.393, 341.8)
+    ('Musée "Bible et Terre Sainte"', -0.67, 341.8)
+    ('Church of Saint John the Baptiste of La Salle', 0.841, 341.8)
+    ('Notre-Dame-des-Champs, Paris', -0.23, 342.1)
+    ('Notre-Dame-des-Champs station', -0.39, 342.1)
+    ('Notre-Dame-du-Travail, Paris', 0.821, 342.5)
+    ('Port-Royal Abbey, Paris', -0.679, 343.0)
+    ('Saint-Clément-de-Vers', 0.35, 672.1)
+contrôle -15° (cap 134.1) : bande ±1 km : 19 pages, 2 sacrées (dont 1 à ±0,5 km) ; tronq 0 échecs 95
+contrôle -14° (cap 135.1) : bande ±1 km : 20 pages, 1 sacrées (dont 1 à ±0,5 km) ; tronq 0 échecs 95
+contrôle -13° (cap 136.1) : bande ±1 km : 35 pages, 4 sacrées (dont 2 à ±0,5 km) ; tronq 0 échecs 95
+contrôle -12° (cap 137.1) : bande ±1 km : 18 pages, 0 sacrées (dont 0 à ±0,5 km) ; tronq 0 échecs 95
+contrôle -11° (cap 138.1) : bande ±1 km : 17 pages, 5 sacrées (dont 0 à ±0,5 km) ; tronq 0 échecs 95
+contrôle -10° (cap 139.1) : bande ±1 km : 15 pages, 3 sacrées (dont 2 à ±0,5 km) ; tronq 0 échecs 95
+contrôle  -9° (cap 140.1) : bande ±1 km : 16 pages, 2 sacrées (dont 1 à ±0,5 km) ; tronq 0 échecs 96
+contrôle  -8° (cap 141.1) : bande ±1 km : 10 pages, 2 sacrées (dont 0 à ±0,5 km) ; tronq 0 échecs 96
+contrôle  -7° (cap 142.1) : bande ±1 km : 19 pages, 3 sacrées (dont 2 à ±0,5 km) ; tronq 0 échecs 95
+contrôle  -6° (cap 143.1) : bande ±1 km : 15 pages, 0 sacrées (dont 0 à ±0,5 km) ; tronq 0 échecs 95
+contrôle  -5° (cap 144.1) : bande ±1 km : 13 pages, 4 sacrées (dont 2 à ±0,5 km) ; tronq 0 échecs 95
+contrôle  -4° (cap 145.1) : bande ±1 km : 11 pages, 2 sacrées (dont 0 à ±0,5 km) ; tronq 0 échecs 95
+contrôle  -3° (cap 146.1) : bande ±1 km : 11 pages, 1 sacrées (dont 1 à ±0,5 km) ; tronq 0 échecs 95
+contrôle  -2° (cap 147.1) : bande ±1 km : 18 pages, 2 sacrées (dont 1 à ±0,5 km) ; tronq 0 échecs 95
+contrôle  -1° (cap 148.1) : bande ±1 km : 9 pages, 2 sacrées (dont 1 à ±0,5 km) ; tronq 0 échecs 95
+contrôle  +1° (cap 150.1) : bande ±1 km : 17 pages, 0 sacrées (dont 0 à ±0,5 km) ; tronq 0 échecs 95
+contrôle  +2° (cap 151.1) : bande ±1 km : 9 pages, 0 sacrées (dont 0 à ±0,5 km) ; tronq 0 échecs 95
+contrôle  +3° (cap 152.1) : bande ±1 km : 16 pages, 3 sacrées (dont 1 à ±0,5 km) ; tronq 0 échecs 95
+contrôle  +4° (cap 153.1) : bande ±1 km : 16 pages, 1 sacrées (dont 0 à ±0,5 km) ; tronq 0 échecs 95
+contrôle  +5° (cap 154.1) : bande ±1 km : 17 pages, 3 sacrées (dont 2 à ±0,5 km) ; tronq 0 échecs 95
+contrôle  +6° (cap 155.1) : bande ±1 km : 19 pages, 4 sacrées (dont 3 à ±0,5 km) ; tronq 0 échecs 95
+contrôle  +7° (cap 156.1) : bande ±1 km : 14 pages, 4 sacrées (dont 3 à ±0,5 km) ; tronq 0 échecs 95
+contrôle  +8° (cap 157.1) : bande ±1 km : 14 pages, 3 sacrées (dont 3 à ±0,5 km) ; tronq 0 échecs 95
+contrôle  +9° (cap 158.1) : bande ±1 km : 26 pages, 4 sacrées (dont 2 à ±0,5 km) ; tronq 0 échecs 95
+contrôle +10° (cap 159.1) : bande ±1 km : 12 pages, 2 sacrées (dont 1 à ±0,5 km) ; tronq 0 échecs 95
+contrôle +11° (cap 160.1) : bande ±1 km : 15 pages, 5 sacrées (dont 3 à ±0,5 km) ; tronq 0 échecs 95
+contrôle +12° (cap 161.1) : bande ±1 km : 15 pages, 1 sacrées (dont 0 à ±0,5 km) ; tronq 0 échecs 95
+contrôle +13° (cap 162.1) : bande ±1 km : 17 pages, 1 sacrées (dont 0 à ±0,5 km) ; tronq 0 échecs 95
+contrôle +14° (cap 163.1) : bande ±1 km : 10 pages, 2 sacrées (dont 0 à ±0,5 km) ; tronq 0 échecs 95
+contrôle +15° (cap 164.1) : bande ±1 km : 13 pages, 1 sacrées (dont 1 à ±0,5 km) ; tronq 0 échecs 95
+axe principal fenêtre 100-500 km (mêmes paramètres que contrôles) : 24 pages, 2 sacrées

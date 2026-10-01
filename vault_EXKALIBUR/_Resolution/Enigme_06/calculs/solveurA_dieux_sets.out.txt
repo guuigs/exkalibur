@@ -1,0 +1,12 @@
+11819 lieux en C
+planetes_lat: reel=0  nul(15)=[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+planetes_fr: reel=0  nul(15)=[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+planetes_gr: reel=0  nul(15)=[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+jours_fr: reel=0  nul(15)=[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+olympiens_gr: reel=0  nul(15)=[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+olympiens_lat: reel=1  nul(15)=[2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2]
+    (['Ceres'], 'S', 'Cressé', 'FR')
+titans: reel=0  nul(15)=[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+ciel_pere: reel=2  nul(15)=[3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3]
+    (['Caelus'], '', 'Cuélas', 'FR')
+    (['Ciel'], 'S', 'Celsi', 'GB')

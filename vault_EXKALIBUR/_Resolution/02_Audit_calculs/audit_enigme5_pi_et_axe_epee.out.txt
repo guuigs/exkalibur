@@ -1,0 +1,14 @@
+   9 ->  3 -> C
+   1 ->  1 -> A
+ 7x9 -> 18 -> R
+ 1&2 -> 14 -> N
+   3 ->  1 -> A
+   C -> C
+Mot : CARNAC
+controle e: [8, 7, 64, 71, 8] -> HG??HC
+controle sqrt2: [2, 4, 10, 41, 4] -> BDJ?DC
+
+## Enigme 1 - axe de l'epee
+- Ecart de Lombrives a l'axe Valence->Urquhart : -207.4 km
+- Intersection garde (Leon->Château de Foix) x axe (Valence->Urquhart) : 42.8868, -0.9550
+- Intersection garde (Leon->Château de Montségur) x axe (Valence->Urquhart) : 42.8282, -0.9445

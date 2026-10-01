@@ -1,0 +1,160 @@
+# FAQ officielle de l'auteur : extraits liés à l'énigme 6
+
+Source : https://faq.unsolvedhunts.com/?chasse=exkalibur (récupérée le 29/09/2026). Q = question d'un joueur (hypothèse), R = réponse de l'auteur [OFFICIEL].
+
+- **FAQ01-017** `#ENLUMINURES` — Q : Quand vous parlez d 'enluminures, vous parlez de l'encadré en haut avec le cheval noir, etc ou des lettrines qui commencent chaque énigme ? Une lettrine peut être une enluminure.
+  - R : En effet, je parle de l'encadré avec le cheval noir, le lion, donc les dessins. Et les lettrines, bien qu'elles soient importantes et qu'elles fassent partie des énigmes et du jeu, ne sont pas sur les enluminures mais plutôt sur la partie calligraphiée.
+- **FAQ01-055** `#STRUCTURE` — Q : Est-on d'accord que l’énigme une c’est le dessin à gauche ainsi que “In principio” ? Et l’énigme deux c’est le dessin à droite et “Terra incognita” ?
+  - R : Oui, tout à fait.
+- **FAQ01-073** `#RÉFÉRENCESEXTERNES` — Q : Faut-il se référer à une version précise des légendes arthuriennes ou toutes les prendre en compte ?
+  - R : Toutes les prendre en compte ça me semble impossible puisque c'est infini. Je me suis basé sur les récits les plus connus qui font référence, notamment Chrétien de Troyes, Geoffroy de Monmouth pour la partie la plus importante. Et après, j'ai également puisé dans pas mal de légendes et mythes celtiques, bretons divers pour pouvoir égayer le tout.
+- **FAQ02-021** `#EXKALIBUR` — Q : Pourquoi un K au lieu d'un C , Excalibur, Exkalibur?
+  - R : Pour des raisons, il me semble, d'après le service juridique du Puy du Fou, pour des raisons de marque, de dépôt de marque.
+- **FAQ02-023** `#NARRATEUR` — Q : Et si le narrateur des énigmes était Merlin l’enchanteur, dans une prison d'air sous un rocher?
+  - R : Là-dessus, c 'est une belle hypothèse que je ne peux ni confirmer, ni infirmer.
+- **FAQ02-034** `#ANACHRONISMES` — Q : Vous avez dit dans la FAQ une qu'il n'y aurait pas d'anachronisme béant dans la chasse. En est-il de même pour les cryptos? Par exemple, il peut y avoir un code César, pourquoi pas un Vigenère qui aurait pu être inventé avant la Renaissance, mais en aucun cas un codage sur la longueur d'onde des couleurs.
+  - R : Oui, tout à fait. Il n'y aura pas non plus d'anachronisme béant sur la partie cryptographique.
+- **FAQ02-039** `#TERRAINCOGNITA` — Q : Est-ce également LAC qui dit “Au centre dès Guillaume, la tour Krak boréale s’éleva et le joyau du trône” ?
+  - R : Oui, c'est LAC à travers le ou la narrateur, narratrice.
+- **FAQ02-090** `#INPRINCIPIO` — Q : "Est-on d'accord que l’énigme une c’est le dessin à gauche ainsi que “In principio” ? Et l’énigme deux c’est le dessin à droite et “Terra incognita” ?" vous avez répondu "Oui tout à fait". Le cheval noir est donc bien un élément de l'énigme 1 ?
+  - R : Il s'agit bien de l'enluminure une, mais par abus de langage, j'ai compris que c'était à cela que vous faisiez référence. Et non, le Cheval noir ne fait pas partie de l'enluminure une, tout comme le blason et le lion. Ils font partie d'une sorte de frontispice, d'un en-tête qui fait partie du cadre des douze enluminures.
+- **FAQ02-114** `#TERRAINCOGNITA` — Q : Dans dernière phrase de l’énigme Terra Incognita, que doit-on lire “tour-krak boréale” ?
+  - R : Oui, c 'est ça.
+- **FAQ02-169** `#TERRAINCOGNITA` — Q : Dans la phrase “la tour Krak boréale”, peut-on considérer l’écriture du mot “Krak” comme un effet de style et l'écrire autrement?
+  - R : Non, le mot “krak” a été soigneusement choisi pour le coup.
+- **FAQ02-180** `#RÉFÉRENCESEXTERNES` — Q : Quel support écrit nous conseillez-vous d'acquérir?
+  - R : Je ne peux pas vous recommander une bibliothèque ou des références sans donner des indices. Ce que j'ai dit, c 'est que je m'étais appuyé sur principalement Chrétien de Troyes et Geoffroy de Monmouth pour la partie on va dire historique entre guillemets de la légende Arthurienne. Puis sur le reste, vous me laisserez un peu de mystère sur, sur les sources que j'ai pu utiliser.
+- **FAQ02-246** `#TERRAINCOGNITA` — Q : Énigme 2 : Je trouve le Krak des Chevaliers, mais pour moi ça ne correspond pas trop au contexte de l'énigme. Il existe un autre "Krak" ou c'est quelque chose à interpréter?
+  - R : Là-dessus, je ne peux pas répondre.
+- **FAQ02-304** `#TERRAINCOGNITA` — Q : "Au centre, dès Guillaume, la Tour-Krak boréale s'éleva, et les joyaux du trône." Ne manque-t-il pas un verbe à la fin?
+  - R : Non. Non, il faut comprendre que les joyaux du trône se trouvent au centre, au même endroit que la tour Krak. C'est tout.
+- **FAQ02-309** `#ENLUMINURE3` — Q : Dans l 'enluminure trois, est-ce qu'il faut retrouver les deux compagnons pour avoir les éléments pour remplir le carré et/ou trouver le lieu, même si le carré est bien connu et le lieu également?
+  - R : Il faut que vous trouviez les quatre compagnons.
+- **FAQ03-005** `##LIBERANOSAMALO` — Q : Est-ce que le lieu très sainte de libera nos a malo est le même lieu que le lieu très saint de Sub Rosa?
+  - R : Oui, tout à fait. Même si l'orthographe varie un minimum, il s'agit bien du même lieu.
+- **FAQ03-026** `#REXDEIGRATIA` — Q : Quand on déplace les quillons, doivent-ils avoir la même distance qu'avant entre eux ou bien cela peut-il changer?
+  - R : J'ai eu plusieurs fois cette question, je préfère y répondre de façon groupée. Non, je ne peux pas répondre à cette question. Elle est trop précise.
+- **FAQ03-038** `#LIBERANOSAMALO` — Q : Enigme six : aurait-on pu dire “passer par le lieu qui porte le nom du champ de bataille”?
+  - R : Oui, tout à fait.
+- **FAQ03-047** `#NOLIMETANGERE` — Q : Dans l'énigme Noli Me Tangere, parcours la même distance des quatre C aurait pu être écrit parcours la même distance que les quatre C ou parcours la même distance depuis les quatre C?
+  - R : Première option, à savoir parcours la même distance que les quatre C.
+- **FAQ03-050** `#COFFRE` — Q : En parallèle de la résolution des énigmes, je me concentre beaucoup sur les éléments extérieurs aux énigmes et aux enluminures. Exemple portrait de profil dans les quatre coins, Exkalibur à la verticale, mini échiquier situé en bas des énigmes. Est-ce indispensable pour trouver le coffre ou sont-ils présents pour une autre raison?
+  - R : Tout n'est pas utile. Il y a des éléments superflus, décoratifs qui ont été rajoutés par l'enlumineuse, et par contre les éléments utiles le sont véritablement. Vous ne pourrez pas en faire l'impasse.
+- **FAQ03-061** `#NOLIMETANGERE` — Q : Avons-nous trouvé tous les C lorsque nous commençons noli me tangere afin de pouvoir trouver l'avant-dernier C de cette énigme?
+  - R : Eh bien, vous avez trouvé en effet tous les C, jusqu'à l'avant-dernier. Donc, il en reste deux.
+- **FAQ03-062** `#NOLIMETANGERE` — Q : Noli me tangere, s'agit-il bien de la même distance quatre C à l'est et non à l'ouest? Ou cela signifie-t-il qu'il faut revenir au point de départ à l'ouest pour se retourner vers l'est?
+  - R : Donc, en effet, il s'agit de la même distance des quatre C.
+- **FAQ03-066** `#CONSUMMATUMEST` — Q : Consummatum est, comment comprendre la coquille, parcourt la même distance mm fois très parfaitement ?
+  - R : Il n'y a pas de coquille à ce moment du jeu.
+- **FAQ03-070** `#ULTIMACENA` — Q : Est-ce que l'île très sainte peut avoir une orthographe portant à confusion?
+  - R : La réponse est non. Le “e” à “sainte” est une aide pour vous permettre d'identifier plus facilement ce lieu.
+- **FAQ03-071** `#ENLUMINURE6` — Q : Dans l'enluminure 6, sur la tapisserie, il est écrit “hic mil tes”. Doit-on considérer qu'il s'agit d 'une coquille et lire “hic milites” ou bien est-ce normal?
+  - R : Il s'agit de Hic milites.
+- **FAQ03-084** `#LIBERANOSAMALO` — Q : Est-ce que les quatre C sont de même nature?
+  - R : Je ne répondrais pas à cette question.
+- **FAQ03-085** `#LIBERANOSAMALO` — Q : Est-ce que dans l'énigme Libera nos a malo le jeu du moulin relève seulement un seul des quatre C ou les quatre?
+  - R : Je ne peux pas confirmer la nature du jeu et je ne peux pas non plus vous dire la façon dont vous trouvez les quatre C dans cette énigme.
+- **FAQ03-092** `#LIBERANOSAMALO` — Q : Les quatre C de l'énigme sont-ils connus avant l'énigme, un peu avant, un peu pendant, pendant l'énigme, dans Libera nos a malo?
+  - R : Les quatre C sont à identifier dans cette énigme.
+- **FAQ03-099** `#ULTIMACENA` — Q : Le lieu très sainte peut-il faire partie des quatre C ?
+  - R : Non.
+- **FAQ03-100** `#NOLIMETANGERE` — Q : Tu as les quatre C, relie-les une à une, puis dans noli me tangere jusqu'à l'avant-dernier C. Ce passage au masculin pour le genre des C est-il logique, une erreur utile volontaire?
+  - R : En l'occurrence, ce n'est pas une erreur. Ça aurait pu. Mais ce n'est pas une erreur.
+- **FAQ03-101** `#NOLIMETANGERE` — Q : Tu as les quatre C, relie-les une à une. Une fois C connu, l'ordre pour les relier est-il évident, y a -t-il d'autres choses à comprendre ou résoudre afin de pouvoir les relier?
+  - R : Il y a un ordre évident pour les relier.
+- **FAQ03-107** `#LIBERANOSAMALO` — Q : Y a -t-il un lien entre l'énigme "Libera nos a malo" et les vagues présentes sur la carte?
+  - R : Non.
+- **FAQ03-108** `#ULTIMACENA` — Q : La rose du lieu très Sainte nous amène-t-elle à compter dans l'enigme Ultima Cena?
+  - R : Je ne pourrais pas répondre à cette question.
+- **FAQ03-109** `#ENLUMINURE6` — Q : La tente présente dans l'enluminure six est-elle une référence directe aux écrits de Chrétiens de Troyes? Cette piste est-elle à creuser?
+  - R : Je ne pourrais pas répondre à cette question.
+- **FAQ03-144** `#LIBERANOSAMALO` — Q : Le saint-siège du pape doit-il être identifié?
+  - R : Je ne peux pas répondre là-dessus.
+- **FAQ03-159** `#ENLUMINURE6` — Q : Les motifs sur le couvre-lit de l'enluminure six font-ils partie du cahier des charges ou est-ce une liberté de l’enlumineuse?
+  - R : Il s'agit d 'une liberté de l’enlumineuse ainsi que d 'un clin d 'œil au Puy du Fou.
+- **FAQ03-180** `#CALLIGRAPHIE` — Q : Dans la partie écrite des énigmes, il est plusieurs fois mentionné le mot “Roi”. Est-ce que cela désigne à chaque fois la même personne?
+  - R : C'est une très bonne question à laquelle je ne peux pas répondre non plus.
+- **FAQ03-192** `#ENLUMINURE6` — Q : La posture du roi dans l'enluminure 6 a -t-elle une importance ?
+  - R : Sa posture non. Sa blessure oui.
+- **FAQ03-232** `#LIBERANOSAMALO` — Q : Dans Libera nos a malo, le s et le e de Sainte semble être d'une teinte différente des autres lettres. Est-ce à prendre en compte ou est-ce une liberté de la calligraphie?
+  - R : Non, ce n'est pas à prendre en compte. Vous pouvez simplement imaginer que, notamment s'agissant du e, que c'est un élément plus important.
+- **FAQ03-241** `#ENLUMINURE6` — Q : Enluminure six, voit-on des lettres sur la couronne ou est-ce du décor?
+  - R : Non, je ne vois pas, il n'y a pas de lettres sur la couronne, c'est du décor.
+- **FAQ03-259** `#LIBERANOSAMALO` — Q : Nous devons trouvez les 4C ou les possédons dés le départ en notre possession graçe aux éléments en notre possession, ou les trouverons nous plus tard?
+  - R : Si vous parlez des quatre C de l'énigme Libera nos a malo, en effet, dans cette énigme, il y a quatre C à identifier. Ça ne veut pas dire qu'il n'y en a que quatre dans le jeu ou qu'à ce moment-là, vous n'en avez que quatre.
+- **FAQ03-266** `#ADVITAMAETERNAM` — Q : Hormis la dernière énigme, de quelle énigme es-tu le plus fier?
+  - R : J'aime beaucoup la dernière énigme, Ad Vitam Eternam. Et j'aime également beaucoup l'énigme Libera nos a malo.
+- **FAQ03-279** `#LIBERANOSAMALO` — Q : Dans Libera nos a malo, par rapport aux quatre C sur Google Maps, doit-il être placé à l'identique que sur l’enluminure, c'est-à-dire droit? Ou peuvent-ils être tournés dans un autre sens?
+  - R : Vous pouvez les placer dans l'ordre. Vous n'aurez pas besoin de faire des allers-retours.
+- **FAQ03-288** `#ULTIMACENA` — Q : Depuis le lieu très saint, cela n'aurait-il pas dû être depuis un lieu très sainte?
+  - R : Oui, ça aurait pu, mais en l'occurrence, j'ai mis un e à sainte une fois, ce qui n'est pas correct grammaticalement pour donner un indice. Il s'agit bien du même lieu.
+- **FAQ03-312** `#ENLUMINURES` — Q : Le lion aurait-il pu porter les anneaux à la place du cheval sur la partie haute des enluminures?
+  - R : Là-dessus, je ne vais pas répondre tout de suite.
+- **FAQ03-322** `#OMNIAVINCITAMOR` — Q : Énigme dix : Parler ou comprendre un dialecte insulaire m’aidera-t-il à décrypter la partie texte et les trous à compléter?
+  - R : Non.
+- **FAQ03-326** `#LIBERANOSAMALO` — Q : Est-ce que le jeu du moulin est en rapport avec un moulin?
+  - R : Là-dessus, je ne pourrais pas répondre parce que vous partiez du principe que c 'est le jeu du moulin.
+- **FAQ03-332** `#LIBERANOSAMALO` — Q : Concernant l'énigme six, il y est écrit “observe la partie”, mais est-ce qu'il faut continuer à la jouer ou on peut juste simplement l'observer?
+  - R : En l'occurrence, dans l'énigme six, on vous demande simplement d'observer la partie.
+- **FAQ04-010** `#LIBERANOSAMALO` — Q : Dans l'énigme Libera nos a malo, il faut partir de la tour Krak et passer par le champ de bataille pour se rendre dans le lieu très sainte. La tour Krak n'étant pas qualifié de la même façon que dans l'énigme Terra Incognita. Il n'y a plus le terme boréal. Doit-on considérer que ce sont deux tours Krak différentes?
+  - R : Non, c'est la même tour.
+- **FAQ04-028** `#SUBROSA` — Q : Est-ce que le lieu de Très Sainte et l 'Île-Sainte sont un même lieu?
+  - R : Là-dessus, je ne répondrais pas.
+- **FAQ04-043** `#LIBERANOSAMALO` — Q : Ma question porte sur Libera nos a malo, y a -t-il un rapport avec le temple d'Ezechiel?
+  - R : Immédiat et facile à trouver, non.
+- **FAQ04-089** `#LIBERANOSAMALO` — Q : Peux-tu affirmer que Libera nos a malo donne un ou plusieurs indices pour identifier le narrateur?
+  - R : Non, pas vraiment. Je pense que certaines énigmes donnent plus d'informations sur le narrateur que d'autres et je n'aurais pas dit que c'était Libera nos a malo.
+- **FAQ04-104** `#ULTIMACENA` — Q : Dans l'énigme Ultima cena, si je devais continuer mon chemin et atteindre la Jérusalem terrestre, aurais-je rejoint les chevaliers de l'énigme “Libera nos a Malo”, ou mon trajet serait-il plus modeste?
+  - R : Là-dessus, je ne peux pas répondre.
+- **FAQ04-149** `#ENLUMINURE6` — Q : Enluminure 6, voit-on des chevaux ou des juments sur la balance?
+  - R : Il s 'agit de juments.
+- **FAQ04-189** `#LIBERANOSAMALO` — Q : Dans Libera, le jeu donne-t-il des anagrammes exacts? Reste-t-il des lettres de côté?
+  - R : Oui. L'anagramme vous permet en effet de correctement identifier le lieu sans problème. Pas forcément que le lieu d 'ailleurs.
+- **FAQ04-190** `#NOLIMETANGERE` — Q : Pourquoi le féminin des quatre C et le masculin avec les deux derniers est-il plus important que saint et sainte ? Est-ce que c'est pareil pour les majuscules? Tous les nords/Sud/Couchant/Tour Krak sans parler de Orient.
+  - R : Oui, alors là-dessus, je préfère vous prévenir : L'orthographe n'est pas mon fort, donc je ne sais jamais s'il faut mettre une L'orthographe n'est pas mon fort, donc je ne sais jamais s'il faut mettre une majuscule ou une minuscule à des termes d'orientation géographique comme ça. C'est possible que ce soit une erreur de ma part, je m'en excuse.
+- **FAQ05-100** `#LIBERANOSAMALO` — Q : Si les 4C sont dans le même pays, peut-on considérer que les autres C le sont aussi ?
+  - R : NRP
+- **FAQ05-112** `#CONSUMMATUMEST` — Q : Laisser le palais s'éloigner implique-t'il qu'une droite joint ce palais puis Monrsalvage puis un lieu à 1f' fois la même distance ? Ou bien il faut avoir ce palais dans le dos dans un rayon de quelques dizaine de degrés ?
+  - R : Le Palais et Montsalvage désignent le même lieu, et oui, vous allez ensuite à vol d'oiseau en ligne droite.
+- **FAQ05-134** `#ENLUMINURE6` — Q : Enluminure 6, le tissu bleu au dessus du lit fait il partie du cahier des charges ?
+  - R : Non
+- **FAQ05-183** `#ENLUMINURE9` — Q : L 'animal représenté dans le ciel sur la partie gauche de l 'enluminure 9 est-il plutôt un loup, une louve ou bien un chien ?
+  - R : Un loup.
+- **FAQ06-089** `#LIBERANOSAMALO` — Q : La forme de l'épée que porte le personnage de la lettrine de Libera Nos A Malo fait-elle partie du cahier des charges ?
+  - R : Non.
+- **FAQ06-100** `#ENLUMINURE11` — Q : Dans l'enluminure onze, une fois le point d'interrogation remplacé, les quatre chiffres se suffisent-t-il à eux-mêmes ?
+  - R : Non, les trois chiffres vous aiguillent sur le chiffre. C'est important.
+- **FAQ06-240** `#ENLUMINURE12` — Q : Dans l'enluminure douze, un cinquième C ? N’y a -t-il pas une contradiction avec la réponse de ce soir ?
+  - R : Je ne vois pas en quoi ma réponse était contradictoire. Ce que j'ai expliqué, c'est qu'en effet, la cloche n'est pas indicative d'un C, mais va vous aider en ce qu'elle est accolée au bâtiment.
+- **FAQ07-038** `#C` — Q : Dans les énigmes, les C que nous devons trouver ont-ils un ordre à respecter ?
+  - R : Oui, je vous les donne dans un certain ordre. Après ceci dit, les C vous amènent à trouver plusieurs choses et vous sont utiles de différentes façons. Parfois parce que vous suivez l'ordre dans lequel vous les trouvez pour obtenir le résultat d'un décryptage. Et puis vous vous doutez bien que s'il y a tous ces C dans le jeu à trouver, c'est parce qu'à la fin, peut-être visuellement en tout cas, ça va vous donner une indication supplémentaire.
+- **FAQ07-058** `#C` — Q : Le dernier C est-il toujours un C aujourd'hui ?
+  - R : Oui.
+- **FAQ07-066** `#ENLUMINURE6` — Q : Dans l'enluminure 6, peux-tu nous indiquer de quelle espèce est le cervidé ? Renne, cerf, peu importe…
+  - R : Il s'agit d 'un cerf.
+- **FAQ07-160** `#C` — Q : Ai-je raison de m'intéresser à la distance des 4C en dehors de Libera nos Amalo et de Noli me tangere ?
+  - R : Je ne peux pas répondre à cette question, mais oui, vous avez raison de vous intéresser à cette distance, elle vous sera utile à plusieurs reprises.
+- **FAQ07-166** `#C` — Q : Si l'on s'amuse à relier tous les C pour ainsi dire les quatre C, avant-dernier C, dernier C entre eux, parvient-on à croiser la lame de l'épée ?
+  - R : Il ne me semble pas.
+- **FAQ07-178** `#C` — Q : Pourriez-vous nous dire si le dernier C peut nous aider pour Consummatum Est ?
+  - R : Oui, il va vous aider.
+- **FAQ07-181** `#C` — Q : Avons-nous le dernier C lorsque nous cherchons le nom de Dieu ?
+  - R : Non, vous ne l'avez pas encore.
+- **FAQ07-191** `#ENLUMINURE6` — Q : Dans l 'enluminure 6, les juments sur la balance auraient-elles pu être remplacées par des chevaux mâles ?
+  - R : Non.
+- **FAQ07-193** `#C` — Q : Puis-je utiliser mes 5 C pour trouver ma gardienne de lumière ?
+  - R : Non, ce n'est pas relié.
+- **FAQ07-195** `#LIBERANOSAMALO` — Q : Dans Libera nos a malo, l'enchanteur annonce une quête sans fin afin de protéger la coupe de vie tandis que Ad Vitam Æternam nous amène à trouverl a coupe du charpentier en un point précis. Faut-il y avoir deux quêtes et deux objets distincts ou la découverte finale comme l'aboutissement d'une première quête ouvrant sur une mission plus vaste et sans fin ?
+  - R : Il s'agit de la seule et même quête qui en effet connaît des rebondissements.
+- **FAQ07-230** `#MONTSALVAGE` — Q : Les C aident-ils à trouver Montsalvage ?
+  - R : Non.
+- **FAQ07-247** `#C` — Q : Après avoir trouvé tous les C jusqu'à l'avant-dernier, le dernier s'en déduit-il facilement ?
+  - R : Là-dessus, je ne pourrais pas vous répondre.
+- **FAQ07-252** `#C` — Q : Le dernier C est-il représenté en enluminure 12 ?
+  - R : Je ne pourrais pas répondre là-dessus non plus.
+- **FAQ07-271** `#C` — Q : Le dernier C peut-il être notre Montsalvage ?
+  - R : Non.
+- **FAQ07-275** `#OMNIAVINCITAMOR` — Q : Peut-on trouver le nombre de lettres à trouver pour la partie Rome et Amour ?
+  - R : Oui.
+- **FAQ07-280** `#C` — Q : À l'exception du dernier et avant-dernier C, à chaque fois que je passe sur un C, puis-je croquer une pomme, qu'elle soit rouge, grise ou jaune ?
+  - R : Non, mais vous pouvez sûrement boire à chaque fois.

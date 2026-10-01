@@ -1,0 +1,142 @@
+{
+  "conclusions": "Recherche documentaire TERMINÉE. CANDIDAT PRINCIPAL identifié pour « la grande roche » + « les eaux enchantées » + « la jonction des chemins » : LA PIERRE TOMBANTE (45.40918, 6.09798 ; alt. ~675 m ; hameau du Guillet, commune d'Allevard, limite Allevard/La Chapelle-du-Bard), à 5,68 km à vol d'oiseau de la tour d'Avalon (45.4288, 6.03078). OSM y documente TROIS objets au même point : (1) une pierre naturelle natural=stone nommée « La Pierre Tombante », (2) une cascade waterway=waterfall « La Pierre Tombante » (chute du ruisseau du Buisson), (3) un nœud numéroté lwn_name « La Pierre Tombante » appartenant au « Réseau pédestre du Grésivaudan » (réseau de carrefours pédestres, Wikidata Q137260796) = la « jonction des chemins ». Le toponyme « Tombante » (= pierre qui tombe, branlante ou en surplomb) correspond à une grande roche remarquable « difficile à manquer sur place ». « la souche-majesté » (souche où s'asseoir) et « la clairière » sont des repères de terrain forestiers NON cartographiables. AUCUNE légende écrite spécifique à la Pierre Tombante n'a pu être retrouvée : tous les moteurs de recherche étaient bloqués (Firecrawl keyless 403 pour web_search/web_extract, DuckDuckGo captcha, Bing sans résultats organiques, Mojeek 403, SearX bloqué) ; seules attestations fiables = OSM (API map + relation), Wikidata, Nominatim, open-elevation et Wikipédia (« La Chapelle-du-Bard » mentionne la cascade de la Pierre Tombante sur le ruisseau du Buisson). Roche légendaire régionale la plus proche : la Pierre à cupules de Saint-Hilaire-du-Touvet (bloc erratique ~100 cupules, plateau des Petites Roches, Grésivaudan) ; autres roches légendaires du Dauphiné recensées (La Pierre Percée, Pierres ophtalmiques de Sassenage, Chaise du Seigneur/Fromage de Gargantua). 14 toponymes cadastraux pierre/roche ≤ 12 km listés ; 8 objets OSM rock/stone/bare_rock + falaises à moins de 6 km.",
+  "pierres_remarquables": [
+    {
+      "nom": "La Pierre Tombante (rocher + cascade + carrefour pédestre)",
+      "type": "natural=stone + waterway=waterfall + nœud réseau pédestre",
+      "lat": 45.40918,
+      "lon": 6.09798,
+      "altitude_m": 675,
+      "commune": "Allevard (hameau du Guillet, limite La Chapelle-du-Bard)",
+      "dist_tour_km": 5.68,
+      "description": "Rocher remarquable nommé, cascade du ruisseau du Buisson et carrefour numéroté du Réseau pédestre du Grésivaudan, tous au même point. Candidat n°1 pour « la grande roche », « les eaux enchantées » (cascade/ruisseau) et « la jonction des chemins ».",
+      "confiance": "haute (3 objets OSM co-localisés)",
+      "source": "OSM API node 11144183804 (natural=stone), node 3263354462 (waterway=waterfall), node 9990521354 (lwn_name, network:wikidata=Q137260796) ; Wikipédia fr « La Chapelle-du-Bard » ; Wikidata Q137260796 ; Nominatim ; open-elevation"
+    },
+    {
+      "nom": "Rocher Peyron",
+      "type": "lieu-dit (rocher)",
+      "lat": 45.35909,
+      "lon": 5.93351,
+      "commune": "Le Touvet",
+      "dist_tour_km": 10.85,
+      "description": "Toponyme « peyron » = gros caillou/rocher (occitan pèira). Sur le versant Chartreuse.",
+      "confiance": "moyenne (toponyme seul)",
+      "source": "cadastre data.gouv (lieux-dits)"
+    },
+    {
+      "nom": "Rocher du Roux",
+      "type": "lieu-dit (rocher)",
+      "lat": 45.35943,
+      "lon": 5.92894,
+      "commune": "Le Touvet",
+      "dist_tour_km": 11.08,
+      "description": "Toponyme rocher, versant Chartreuse (Le Touvet).",
+      "confiance": "moyenne",
+      "source": "cadastre data.gouv (lieux-dits)"
+    },
+    {
+      "nom": "Pierre à cupules de Saint-Hilaire-du-Touvet",
+      "type": "bloc erratique à ~100 cupules (néolithique)",
+      "lat": 45.30799,
+      "lon": 5.88694,
+      "commune": "Saint-Hilaire-du-Touvet (plateau des Petites Roches)",
+      "dist_tour_km": null,
+      "description": "Roche légendaire régionale du Grésivaudan : bloc erratique à cupules découvert en 1987 en forêt des Dioux, hypothèses « pierre à sacrifice / carte du ciel / site funéraire ». Déplacée près de l'église et du funiculaire.",
+      "confiance": "haute (article dédié)",
+      "source": "Wikipédia fr « Pierre à cupules de Saint-Hilaire du Touvet »"
+    },
+    {
+      "nom": "La Pierre Percée (Pierre-Châtel)",
+      "type": "roche percée légendaire",
+      "lat": null,
+      "lon": null,
+      "commune": "Pierre-Châtel (Matheysine, Isère)",
+      "dist_tour_km": null,
+      "description": "Une des Sept merveilles du Dauphiné (liste de Gervais de Tilbury, XIIIe s.), roche percée chargée de légendes.",
+      "confiance": "haute (merveille du Dauphiné)",
+      "source": "Wikipédia fr « Sept merveilles du Dauphiné »"
+    },
+    {
+      "nom": "Chaise du Seigneur / Fromage de Gargantua",
+      "type": "bloc erratique + pierre à cupules",
+      "lat": null,
+      "lon": null,
+      "commune": "Chozeau (Isère)",
+      "dist_tour_km": null,
+      "description": "Pierre erratique à cupules, dite « Fromage de Gargantua » (légende gargantuesque), inscrite MH 2007.",
+      "confiance": "haute",
+      "source": "Wikipédia fr « Chaise du Seigneur »"
+    },
+    {
+      "nom": "Pierres ophtalmiques de Sassenage",
+      "type": "pierres légendaires (vertus curatives)",
+      "lat": null,
+      "lon": null,
+      "commune": "Sassenage (Isère)",
+      "dist_tour_km": null,
+      "description": "Mentionnées dans l'article des Sept merveilles du Dauphiné.",
+      "confiance": "moyenne",
+      "source": "Wikipédia fr « Sept merveilles du Dauphiné »"
+    },
+    {
+      "nom": "Objets OSM natural=rock/stone/bare_rock (anonymes)",
+      "type": "rochers/affleurements",
+      "lat": null,
+      "lon": null,
+      "commune": "alentours tour d'Avalon",
+      "dist_tour_km": "4,95 à 5,98",
+      "description": "1 nœud natural=rock (barrier) 45.45181/6.10004 (5,98 km), 1 nœud natural=stone 45.45154/5.97253 (5,20 km), 5 chemins natural=bare_rock côté Chartreuse (lon ~5,96, 4,95–5,43 km). Falaises natural=cliff sur Brame-Farine (lon 6,08–6,10) près de la Pierre Tombante.",
+      "confiance": "haute (OSM)",
+      "source": "Overpass / OSM API"
+    }
+  ],
+  "legendes_locales": [
+    {
+      "sujet": "Tour d'Avalon / Hugues d'Avalon (saint Hugues de Lincoln)",
+      "contenu": "Tour érigée par les chartreux en 1895 sur les ruines du château médiéval d'Avalon (donjon) pour honorer saint Hugues d'Avalon (1140-1200), né au château d'Avalon, fils d'Anne de Theys et de Guillaume Romestang. Éduqué à Villard-Benoît, diacre de Saint-Maximin, entre à la Grande Chartreuse (1163), évêque de Lincoln (1186). Légende anglaise du cygne blanc. AUCUNE mention de roche/souche/clairière/ruisseau locale dans la biographie.",
+      "confiance": "haute",
+      "source": "Wikipédia fr « Tour d'Avalon », « Hugues d'Avalon », en « Hugh of Lincoln »"
+    },
+    {
+      "sujet": "Cascade de la Pierre Tombante (ruisseau du Buisson)",
+      "contenu": "La commune de La Chapelle-du-Bard est « limitée par le ruisseau du Buisson, qui forme la cascade de la Pierre Tombante ». Confirme l'existence d'un ruisseau + cascade nommés, sur la limite Allevard/La Chapelle-du-Bard (Brame-Farine). C'est le « ruisseau féerique » le plus probable (« eaux enchantées ») coulant jusqu'à la grande roche.",
+      "confiance": "haute (OSM + Wikipédia)",
+      "source": "Wikipédia fr « La Chapelle-du-Bard » ; OSM way 319864561 « Le Buisson »"
+    },
+    {
+      "sujet": "Réseau pédestre du Grésivaudan",
+      "contenu": "Réseau de carrefours pédestres numérotés (système « points-nœuds »/knooppunten) en France, Wikidata Q137260796 ; relation OSM 13478859. Le nœud « La Pierre Tombante » en est un carrefour. Correspond exactement à « la jonction des chemins » de l'énigme.",
+      "confiance": "haute",
+      "source": "Wikidata Q137260796 ; OSM relation 13478859"
+    },
+    {
+      "sujet": "Sept merveilles du Dauphiné",
+      "contenu": "Liste (XIIIe s., Gervais de Tilbury ; reprise par Symphorien Champier) : mont Aiguille, Fontaine ardente, tour sans Venin, Cuves de Sassenage, Grottes de la Balme, Pont Lesdiguières, Pierre Percée — plus Manne de Briançon et Pierres ophtalmiques de Sassenage. Roches légendaires du Dauphiné, hors zone Saint-Maximin.",
+      "confiance": "haute",
+      "source": "Wikipédia fr « Sept merveilles du Dauphiné »"
+    },
+    {
+      "sujet": "Roches « qui sonnent » / branlantes du Grésivaudan",
+      "contenu": "Aucune « roche qui sonne » ni « roche branlante » documentée spécifiquement dans le Grésivaudan/Saint-Maximin. Le terme générique « pierre branlante » existe (Wikipédia) mais sans exemple local. La « Pierre Tombante » (qui tombe) est le seul rocher nommé à connotation instable trouvé sur zone.",
+      "confiance": "moyenne (absence de source = non trouvé, recherche limitée par blocage des moteurs)",
+      "source": "Wikipédia fr « Pierre branlante » ; recherche négative"
+    }
+  ],
+  "toponymes_pierre_roche": [
+    {"nom": "LE CHENE LA ROCHE ET LE VIVIER", "commune": "Saint-Maximin", "code_insee": "38426", "lat": 45.42827, "lon": 6.03232, "dist_tour_km": 0.13, "racine": "roche", "confiance": "haute", "source": "cadastre data.gouv (lieux-dits)"},
+    {"nom": "PIERRE GROS", "commune": "Saint-Maximin", "code_insee": "38426", "lat": 45.43208, "lon": 6.03398, "dist_tour_km": 0.44, "racine": "pierre", "confiance": "haute", "source": "cadastre data.gouv"},
+    {"nom": "LA PERRIERE ET VEILLARD", "commune": "Pontcharra", "code_insee": "38314", "lat": 45.41819, "lon": 6.02118, "dist_tour_km": 1.4, "racine": "perrière (carrière de pierre)", "confiance": "haute", "source": "cadastre data.gouv"},
+    {"nom": "LE ROCHAT", "commune": "Saint-Maximin", "code_insee": "38426", "lat": 45.41607, "lon": 6.02909, "dist_tour_km": 1.42, "racine": "rochat (lieu rocheux)", "confiance": "haute", "source": "cadastre data.gouv"},
+    {"nom": "COTE ROCHAT", "commune": "Saint-Maximin", "code_insee": "38426", "lat": 45.43136, "lon": 6.05886, "dist_tour_km": 2.21, "racine": "rochat", "confiance": "haute", "source": "cadastre data.gouv"},
+    {"nom": "PERROSAN", "commune": "Saint-Maximin", "code_insee": "38426", "lat": 45.43763, "lon": 6.0674, "dist_tour_km": 3.02, "racine": "perro (Pierre/Perrot ?)", "confiance": "moyenne (anthroponyme probable)", "source": "cadastre data.gouv"},
+    {"nom": "ROCHE MORTE", "commune": "Pontcharra", "code_insee": "38314", "lat": 45.40386, "lon": 6.01396, "dist_tour_km": 3.07, "racine": "roche", "confiance": "haute", "source": "cadastre data.gouv"},
+    {"nom": "MAUPERRIER", "commune": "Barraux", "code_insee": "38027", "lat": 45.44325, "lon": 5.9781, "dist_tour_km": 4.41, "racine": "perrier (pierrier ou poirier, ambigu)", "confiance": "moyenne (ambigu)", "source": "cadastre data.gouv"},
+    {"nom": "PEYRAT", "commune": "La Buissiere", "code_insee": "38062", "lat": 45.39939, "lon": 5.97979, "dist_tour_km": 5.15, "racine": "peyrat (pèira = pierre)", "confiance": "haute", "source": "cadastre data.gouv"},
+    {"nom": "LA ROCHETTE ET CHEVANILLE", "commune": "Barraux", "code_insee": "38027", "lat": 45.45287, "lon": 5.97383, "dist_tour_km": 5.19, "racine": "rochette (petite roche)", "confiance": "haute", "source": "cadastre data.gouv"},
+    {"nom": "PERROTTE", "commune": "Saint-Vincent-de-Mercuze", "code_insee": "38466", "lat": null, "lon": null, "dist_tour_km": 8.5, "racine": "perrotte (Perrot = Pierre ?)", "confiance": "moyenne", "source": "cadastre data.gouv"},
+    {"nom": "LA PERRIERE", "commune": "Le Touvet", "code_insee": "38511", "lat": 45.36411, "lon": 5.95096, "dist_tour_km": 9.52, "racine": "perrière", "confiance": "haute", "source": "cadastre data.gouv"},
+    {"nom": "ROCHER PEYRON", "commune": "Le Touvet", "code_insee": "38511", "lat": 45.35909, "lon": 5.93351, "dist_tour_km": 10.85, "racine": "rocher + peyron", "confiance": "haute", "source": "cadastre data.gouv"},
+    {"nom": "ROCHER DU ROUX", "commune": "Le Touvet", "code_insee": "38511", "lat": 45.35943, "lon": 5.92894, "dist_tour_km": 11.08, "racine": "rocher", "confiance": "haute", "source": "cadastre data.gouv"}
+  ]
+}

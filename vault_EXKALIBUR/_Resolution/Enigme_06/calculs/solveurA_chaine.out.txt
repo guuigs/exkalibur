@@ -1,0 +1,7 @@
+chaines monotones testees: 24198 ; dans +-1 %: 7
+Cluny-Clermont-Cadouin 345.2
+  contient Cluny+Clermont: 340.6 ('Conques', 'Clermont-Ferrand', 'Cluny', 'Cousance')
+  contient Cluny+Clermont: 340.9 ('Clairvaux', 'Cîteaux', 'Cluny', 'Clermont-Ferrand')
+quelques hits: [(338.3, ('Chaumont', 'Clairvaux', 'Cambrai', 'Corbie')), (340.3, ('Chaumont', 'Clairvaux', 'Clichy', 'Corbie')), (340.6, ('Conques', 'Clermont-Ferrand', 'Cluny', 'Cousance')), (340.8, ('Cherbourg', 'Caen', 'Chartres', 'Clichy')), (340.9, ('Clairvaux', 'Cîteaux', 'Cluny', 'Clermont-Ferrand')), (341.0, ('Clairvaux', 'Châtillon-sur-Seine', 'Cîteaux', 'Clermont-Ferrand')), (343.4, ('Chaumont', 'Châtillon-sur-Seine', 'Clairvaux', 'Corbie'))]
+villes C pop>=5000: 235
+taux de base: 26/20000 = 0.13 % des 4-sous-ensembles de villes en C (FR) ont une chaine monotone de 341.6 km +-1 %

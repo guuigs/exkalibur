@@ -1,0 +1,44 @@
+Vérif : 21 mars 2026 (équinoxe) et 21 juin 2026 : 
+  équinoxe 20/03/2026: dec -0.14 lever 89.36 coucher 270.64
+  solstice 21/06/2026: dec +23.44 lever 54.44 coucher 305.56
+  solstice 21/12/2026: dec -23.44 lever 123.51 coucher 236.49
+
+date                                                 | Avalon lever / coucher | Saint-Palais lever / coucher | ChâteauBayard lever/coucher
+Bayard † 30/04/1524 JULIEN (=10/05 grég.)            | dec +17.60 |  63.66/296.34 |  64.69/295.31 |  63.67/296.33
+30/04/1524 en grégorien proleptique                  | dec +14.74 |  67.97/292.03 |  68.81/291.19 |  67.97/292.03
+30/04 actuel (grég. 2026)                            | dec +14.87 |  67.78/292.22 |  68.63/291.37 |  67.78/292.22
+Marignan 13/09/1515 julien (jour gloire?)            | dec  +0.32 |  88.56/271.44 |  88.64/271.36 |  88.56/271.44
+Marignan 14/09/1515 julien                           | dec  -0.07 |  89.12/270.88 |  89.18/270.82 |  89.12/270.88
+Colomb † 20/05/1506 julien                           | dec +21.68 |  57.31/302.69 |  58.63/301.37 |  57.32/302.68
+Jacques Cœur † 25/11/1456 julien                     | dec -22.38 | 121.83/238.17 | 120.62/239.38 | 121.82/238.18
+Tibère † 16/03/37 julien                             | dec  -2.44 |  92.78/267.22 |  92.71/267.29 |  92.78/267.22
+Hugues d'Avalon † 16/11/1200 julien                  | dec -20.58 | 119.03/240.97 | 117.95/242.05 | 119.03/240.97
+Bayard né ~ 1476 (sans jour)                         | dec  +7.77 |  78.17/281.83 |  78.62/281.38 |  78.17/281.83
+Jeanne d'Arc / Vendredi 13 -> 13/10/1307 jul         | dec -10.58 | 104.17/255.83 | 103.69/256.31 | 104.17/255.83
+Charlemagne † 28/01/814 jul                          | dec -17.08 | 113.91/246.09 | 113.05/246.95 | 113.90/246.10
+Solstice été (21/06 grég.)                           | dec +23.44 |  54.44/305.56 |  55.90/304.10 |  54.44/305.56
+Solstice hiver (21/12)                               | dec -23.44 | 123.51/236.49 | 122.22/237.78 | 123.50/236.50
+Équinoxe (20/03)                                     | dec  -0.04 |  89.36/270.64 |  89.41/270.59 |  89.36/270.64
+31/12 (dernier jour de l'an)                         | dec -23.07 | 122.96/237.04 | 121.70/238.30 | 122.96/237.04
+Vendredi saint / Consummatum est (~03/04/33 jul)     | dec  +4.55 |  82.81/277.19 |  83.09/276.91 |  82.81/277.19
+
+=== Scan année : jours où l'azimut du LEVER à Saint-Palais est à ±0,35° de 64,99° (angle É11) — hasard
+  jours (n° du jour de l'année 2026, tropical) : [(128, 65.31), (129, 64.92), (215, 64.72), (216, 65.1)]
+  soit 4 jours sur 365 (~ 1.1 %)
+
+=== Bayard † : lever à Saint-Palais pour 30/04/1524 jul : 64.690 (cible 64.99, écart -0.300)
+   horizon -0,833 (std): 64.690
+   horizon 0° géom.: 65.558
+   horizon -0,567: 64.969
+   horizon -1°: 64.515
+
+=== Fenêtre de dates julien 1524 (Saint-Palais lever) : 26/04..04/05
+   26 avril jul 66.27
+   27 avril jul 65.87
+   28 avril jul 65.47
+   29 avril jul 65.08
+   30 avril jul 64.69
+   1 mai jul 64.31
+   2 mai jul 63.94
+   3 mai jul 63.57
+   4 mai jul 63.21

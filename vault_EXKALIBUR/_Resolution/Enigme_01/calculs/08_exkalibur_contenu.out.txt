@@ -1,0 +1,185 @@
+[carte] ...2 énigmes à résoudre
+ Pour participer à "Exkalibur", procurez-vous un exemplaire du jeu puis mesurez-vous aux 12 énigmes .
+ Un coffre à trouver
+ Un coffre est enterré en Europe de l’Ouest. Grâce à la carte au trésor, aux 12 énigmes calligraphiées et aux 12 enluminures, soyez le premier à le déterrer !
+ Un trésor de 250 000€ à gagner
+ La première personne à trouver le coffre met un terme à la chasse et remporte l’épée du roi Arthur "Exkalibur".
+ Je commande ! 
+ 12 énigmes enluminées
+ Pour remport...
+
+[énigme] ...r est vide
+ Continuer les achats
+ Vous possédez un compte ?
+ Connectez-vous pour payer plus vite.
+ Votre panier
+ Chargement en cours...
+ Coffret Exkalibur - 39€ 
+ Ajouter au panier 
+ Le parchemin des énigmes - 29,99€ 
+ Ajouter au panier 
+ Le jeu du Naga d'or - 15€ 
+ Ajouter au panier 
+ Coffret Chevalier - 49€ 
+ Ajouter au panier 
+ Pack Multichasses - 70€ 
+ Ajouter au panier 
+ Coffret Quête du Graal - 144€ 
+ Ajouter au panier 
+ Coffret Lancelot - 94€ 
+ Ajouter au panier 
+ Coffret Merlin - 69€ 
+ A...
+
+[Exkalibur] ...Exkalibur
+ – Unsolved Hunts 
+ Ignorer et passer au contenu
+ Votre panier est vide
+ Continuer les achats
+ Vous possédez un compte ?
+ Connectez-vous pour payer plus vite.
+ Votre panier
+ Chargement en cours...
+ Coffret Exkalibur - 39€ 
+ Ajouter au panier 
+ Le parchemin des énigmes - 29,99€ 
+ Ajouter au...
+
+[récompense] ...participe
+ Le concept
+ Avant de rendre l’âme, le roi Arthur confie aux chevaliers de la Table Ronde une dernière quête : trouver le Graal. Quiconque y parviendra, et s’en montrera digne, recevra pour récompense le symbole suprême de l’autorité royale : son épée. La légendaire Exkalibur, couverte d’or massif et sertie d’une pierre précieuse.
+ Je commande !
+ Le trésor
+ Exkalibur, épée royale d’une valeur de 250 000 euros, a été créée par deux forgerons de l’Atelier Thibaud. Fruit de six mois de tr...
+
+[trouv] ...t 
+ Validation 
+ Connexion 
+ Panier 
+ Soulèveras-tu l'épée du Roi Arthur ?
+ Je participe
+ Le concept
+ Avant de rendre l’âme, le roi Arthur confie aux chevaliers de la Table Ronde une dernière quête : trouver le Graal. Quiconque y parviendra, et s’en montrera digne, recevra pour récompense le symbole suprême de l’autorité royale : son épée. La légendaire Exkalibur, couverte d’or massif et sertie d’une pierre précieuse.
+ Je commande !
+ Le trésor
+ Exkalibur, épée royale d’une valeur de 250 000 euro...
+
+[enterr] ...sse.
+ Je commande
+ Comment ça marche ?
+ 12 énigmes à résoudre
+ Pour participer à "Exkalibur", procurez-vous un exemplaire du jeu puis mesurez-vous aux 12 énigmes .
+ Un coffre à trouver
+ Un coffre est enterré en Europe de l’Ouest. Grâce à la carte au trésor, aux 12 énigmes calligraphiées et aux 12 enluminures, soyez le premier à le déterrer !
+ Un trésor de 250 000€ à gagner
+ La première personne à trouver le coffre met un terme à la chasse et remporte l’épée du roi Arthur "Exkalibur".
+ Je command...
+
+[solution] ...s vous indiqueront un emplacement extrêmement précis en Europe, où a été enterré un coffre. C’est ce coffre qu’il vous faut trouver en premier pour remporter la chasse, et le trésor.
+ Qui connait les solutions ?
+ Etienne Picand, l’auteur des 12 énigmes.
+ Quelle est la durée prévue de la chasse ?
+ Entre 2 et 5 ans.
+ Comment poser des questions à l’auteur des énigmes ?
+ Vous pouvez rejoindre la communauté des chercheurs directement sur le serveur Discord officiel de la chasse. Un forum de question...
+
+### BLOG sitemap
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+  <url>
+    <loc>https://unsolvedhunts.com/blogs/news</loc>
+    <lastmod>2024-11-15T11:47:18+01:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url>
+</urlset>
+
+### PAGES sitemap
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+  <url>
+    <loc>https://unsolvedhunts.com/pages/contact</loc>
+    <lastmod>2024-11-15T11:47:18+01:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url>
+  <url>
+    <loc>https://unsolvedhunts.com/pages/lelixir-dor</loc>
+    <lastmod>2024-11-20T14:14:28+01:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url>
+  <url>
+    <loc>https://unsolvedhunts.com/pages/exkalibur</loc>
+    <lastmod>2024-11-28T14:15:50+01:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url>
+  <url>
+    <loc>https://unsolvedhunts.com/pages/naga-dor</loc>
+    <lastmod>2024-11-28T14:37:37+01:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url>
+  <url>
+    <loc>https://unsolvedhunts.com/pages/travailler-avec-nous</loc>
+    <lastmod>2024-11-28T16:32:02+01:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url>
+  <url>
+    <loc>https://unsolvedhunts.com/pages/validation</loc>
+    <lastmod>2024-12-04T20:16:09+01:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url>
+  <url>
+    <loc>https://unsolvedhunts.com/pages/data-sharing-opt-out</loc>
+    <lastmod>2026-01-28T16:55:09+01:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url>
+  <url>
+    <loc>https://unsolvedhunts.com/pages/conditions-generales-de-prestation</loc>
+    <lastmod>2025-01-13T11:42:59+01:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url>
+  <url>
+    <loc>https://unsolvedhunts.com/pages/mentions-legales</loc>
+    <lastmod>2025-01-13T11:48:03+01:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url>
+  <url>
+    <loc>https://unsolvedhunts.com/pages/conditions-dutilisation</loc>
+    <lastmod>2025-01-13T11:47:43+01:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url>
+  <url>
+    <loc>https://unsolvedhunts.com/pages/politique-de-remboursement</loc>
+    <lastmod>2025-01-13T11:46:59+01:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url>
+  <url>
+    <loc>https://unsolvedhunts.com/pages/politique-de-confidentialite</loc>
+    <lastmod>2025-01-13T11:47:10+01:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url>
+  <url>
+    <loc>https://unsolvedhunts.com/pages/boutique</loc>
+    <lastmod>2025-01-15T12:41:23+01:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url>
+  <url>
+    <loc>https://unsolvedhunts.com/pages/choix-de-la-chasse</loc>
+    <lastmod>2025-01-15T19:04:54+01:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url>
+  <url>
+    <loc>https://unsolvedhunts.com/pages/choix-du-coffret</loc>
+    <lastmod>2025-01-15T19:05:08+01:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url>
+  <url>
+    <loc>https://unsolvedhunts.com/pages/landing-page</loc>
+    <lastmod>2025-01-16T19:02:10+01:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url>
+  <url>
+    <loc>https://unsolvedhunts.com/pages/gold-crystal</loc>
+    <lastmod>2026-05-29T16:38:04+02:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url>
+  <url>
+  

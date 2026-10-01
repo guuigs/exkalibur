@@ -1,0 +1,69 @@
+LD 1.19 km 139° LES TILLES                               Polygon pts=77
+LD 1.01 km 110° VERANGER                                 Polygon pts=166
+LD 0.84 km 133° LE RAMPEAU                               Polygon pts=146
+LD 1.11 km 123° LES TILLES                               Polygon pts=70
+LD 0.62 km 130° REPIDON                                  Polygon pts=92
+LD 0.69 km 150° L'ECHINAL                                Polygon pts=49
+LD 0.97 km 141° LE MOURET                                Polygon pts=74
+LD 0.98 km  97° GRIBAUDAN                                Polygon pts=46
+LD 1.13 km  86° LES ROJONS                               Polygon pts=80
+LD 1.07 km  80° BELONCIN                                 Polygon pts=52
+LD 0.95 km  42° PRE BREDAL                               Polygon pts=76
+LD 0.97 km  70° MURAILLAT                                Polygon pts=117
+LD 0.78 km  50° RATIER                                   Polygon pts=56
+LD 0.57 km  37° PLANCHERIE                               Polygon pts=113
+LD 0.44 km  34° PIERRE GROS                              Polygon pts=121
+LD 0.67 km  84° LA DOBO                                  Polygon pts=73
+LD 0.61 km 102° REPIDON                                  Polygon pts=62
+LD 0.87 km  91° GRIBAUDAN                                Polygon pts=42
+LD 0.31 km  33° LA BRUTA                                 Polygon pts=65
+LD 0.33 km  74° LA PRURAS                                Polygon pts=45
+LD 0.48 km  65° LE CHAPELA                               Polygon pts=65
+LD 0.41 km  91° GODAS                                    Polygon pts=48
+LD 0.62 km  53° LE BOUQUET                               Polygon pts=33
+LD 0.70 km  65° LA SERVE                                 Polygon pts=35
+LD 0.68 km 177° LE PLANTIER                              Polygon pts=136
+LD 0.47 km 181° LE CHATELARD                             Polygon pts=148
+LD 0.55 km 158° LA CORVA                                 Polygon pts=92
+LD 0.13 km 116° LE CHENE LA ROCHE ET LE VIVIER           Polygon pts=88
+LD 0.42 km 119° REPIDON                                  Polygon pts=54
+LD 0.51 km 241° LE PICHET                                Polygon pts=97
+LD 0.19 km 302° LE CHENE                                 Polygon pts=162
+LD 0.39 km 224° LE SAUZET                                Polygon pts=70
+LD 0.32 km 209° LES COTES                                Polygon pts=87
+LD 0.09 km  24° AVALON                                   Polygon pts=77
+LD 0.89 km 199° LA COMBE                                 Polygon pts=140
+LD 1.04 km 212° BEGU                                     Polygon pts=86
+LD 1.19 km 199° LA CROVA ET BARLETTES                    Polygon pts=73
+LD 0.77 km 220° L'HISTOIRE ET LA TUILERIE                Polygon pts=86
+LD 0.96 km 188° LE CARRON                                Polygon pts=50
+LD 0.96 km 164° SAINT-MAXIMIN                            Polygon pts=121
+LD 1.15 km 184° LES BERDONNANCHES                        Polygon pts=56
+LD 1.16 km 160° LE ROSSAN                                Polygon pts=85
+LD 1.11 km 150° LE GRAND PLAN                            Polygon pts=82
+LD 1.00 km 176° BELLETRE                                 Polygon pts=41
+LD 0.95 km 153° PRE RIPET                                Polygon pts=54
+tour->PierreGros 442 m brg 34 ; tour->Chene Roche Vivier 134 m
+Pierre Gros -> Vivier 443 m
+troncon_hydrographique_12km 126 m {'cleabs': 'TRON_EAU0000002007474859', 'nature': 'Conduit forcé', 'etat_de_l_objet': 'En service', 'persistance': 'Permanent'}
+troncon_hydrographique_12km 105 m {'cleabs': 'TRON_EAU0000002007474908', 'nature': 'Conduit forcé', 'etat_de_l_objet': 'En service', 'persistance': 'Permanent'}
+troncon_hydrographique_12km 191 m {'cleabs': 'TRON_EAU0000000007481642', 'nature': 'Canal', 'etat_de_l_objet': 'En service', 'persistance': 'Permanent'}
+troncon_hydrographique_12km 198 m {'cleabs': 'TRON_EAU0000002007474915', 'nature': 'Conduit forcé', 'etat_de_l_objet': 'En service', 'persistance': 'Permanent'}
+troncon_hydrographique_12km 105 m {'cleabs': 'TRON_EAU0000002007474901', 'nature': 'Conduit forcé', 'etat_de_l_objet': 'En service', 'persistance': 'Permanent'}
+troncon_hydrographique_12km 256 m {'cleabs': 'TRON_EAU0000000007481645', 'nature': 'Ecoulement naturel', 'etat_de_l_objet': 'En service', 'persistance': 'Permanent'}
+troncon_hydrographique_12km 419 m {'cleabs': 'TRON_EAU0000000007481641', 'nature': 'Canal', 'etat_de_l_objet': 'En service', 'persistance': 'Permanent'}
+detail_hydrographique_12km 400 m {'cleabs': 'PAIHYDRO0000000035780265', 'nature': 'Marais', 'etat_de_l_objet': 'En service'}
+surface_hydrographique_12km 348 m {'cleabs': 'SURF_EAU0000000007503398', 'nature': 'Retenue', 'etat_de_l_objet': 'En service', 'persistance': 'Intermittent'}
+surface_hydrographique_12km 325 m {'cleabs': 'SURF_EAU0000000043562932', 'nature': 'Retenue', 'etat_de_l_objet': 'En service', 'persistance': 'Intermittent'}
+surface_hydrographique_12km 247 m {'cleabs': 'SURF_EAU0000000007503397', 'nature': 'Ecoulement naturel', 'etat_de_l_objet': 'En service', 'persistance': 'Permanent'}
+detail_orographique_12km 389 m {'cleabs': 'PAIOROGR0000000007453781', 'nature': 'Sommet', 'toponyme': 'Ratier'}
+toponymie_12km 127 m {}
+toponymie_12km 274 m {}
+toponymie_12km 274 m {}
+toponymie_12km 339 m {}
+toponymie_12km 425 m {}
+toponymie_12km 389 m {}
+toponymie_12km 389 m {}
+toponymie_12km 420 m {}
+toponymie_12km 291 m {}
+construction_ponctuelle_12km 159 m {'cleabs': 'CONSPONC0000000342994430', 'nature': 'Croix', 'etat_de_l_objet': 'En service'}

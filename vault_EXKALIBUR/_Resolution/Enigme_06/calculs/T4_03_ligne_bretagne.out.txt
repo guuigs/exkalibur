@@ -1,0 +1,54 @@
+cap Caen(Dames)->Dol 235.85  d(Caen,Dol) 124.2  d(Caen,Lorient) 273.2
+pas de coord: Forêt de Camors
+pas de coord: Forêt de Duault
+pas de coord: Forêt de Coëtquidan
+pas de coord: Forêt de Lanvaux
+pas de coord: Port-Louis, Morbihan
+pas de coord: Josselin
+pas de coord: Baud, Morbihan
+pas de coord: Trinité-Porhoët
+pas de coord: Le Faouët, Morbihan
+pas de coord: Forêt d'Hennebont
+pas de coord: Brocéliande
+pas de coord: Paimpont Forest
+pas de coord: Forêt de Brocéliande
+Broons                       ecart   +0.71 km  abscisse  169.9 km (48.3181,-2.2595)
+Hennebont                    ecart   -1.37 km  abscisse  265.1 km (47.8000,-3.2800)
+Lorient                      ecart   -2.31 km  abscisse  273.2 km (47.7500,-3.3600)
+Lorient                      ecart   -2.31 km  abscisse  273.2 km (47.7500,-3.3600)
+Dinan                        ecart   +4.19 km  abscisse  148.3 km (48.4564,-2.0489)
+Caulnes                      ecart   -6.41 km  abscisse  165.3 km (48.2897,-2.1536)
+Port-Louis, Morbihan         ecart   -6.50 km  abscisse  275.5 km (47.7072,-3.3519)
+Camors                       ecart   -9.38 km  abscisse  245.0 km (47.8486,-2.9997)
+Pontivy                      ecart   +9.63 km  abscisse  229.3 km (48.0700,-2.9800)
+Forêt de Lanouée             ecart  -11.33 km  abscisse  207.0 km (48.0356,-2.5708)
+Plouay                       ecart  +11.36 km  abscisse  260.7 km (47.9156,-3.3339)
+Combourg                     ecart  -12.82 km  abscisse  133.5 km (48.4086,-1.7517)
+Locminé                      ecart  -13.15 km  abscisse  232.5 km (47.8875,-2.8344)
+Forêt de Villecartier        ecart  -15.11 km  abscisse  117.6 km (48.4738,-1.5580)
+Guémené-sur-Scorff           ecart  +19.29 km  abscisse  242.7 km (48.0692,-3.2017)
+Saint-Malo                   ecart  +19.78 km  abscisse  133.6 km (48.6472,-2.0089)
+Château de Josselin          ecart  -19.87 km  abscisse  211.0 km (47.9522,-2.5472)
+Hédé-Bazouges                ecart  -21.00 km  abscisse  143.8 km (48.2947,-1.8025)
+Forêt de Quénécan            ecart  +25.06 km  abscisse  229.1 km (48.1833,-3.1000)
+Auray                        ecart  -26.36 km  abscisse  255.7 km (47.6686,-2.9814)
+Ploërmel                     ecart  -28.23 km  abscisse  203.1 km (47.9325,-2.3961)
+Forêt de Lorge               ecart  +28.68 km  abscisse  203.0 km (48.3480,-2.8439)
+Forêt de Paimpont            ecart  -30.05 km  abscisse  184.1 km (48.0189,-2.1740)
+La Trinité-sur-Mer           ecart  -31.69 km  abscisse  264.0 km (47.5861,-3.0283)
+Quiberon                     ecart  -36.81 km  abscisse  276.2 km (47.4842,-3.1192)
+Forêt de Fougères            ecart  -39.08 km  abscisse   98.9 km (48.3936,-1.1636)
+Forêt de Rennes              ecart  -40.43 km  abscisse  136.5 km (48.1900,-1.5700)
+Landes de Lanvaux            ecart  -42.10 km  abscisse  217.3 km (47.7569,-2.4417)
+
+Points de la droite (grand cercle Dames->Dol) :
+120 48.573,-1.703
+160 48.365,-2.145
+200 48.155,-2.584
+240 47.943,-3.020
+280 47.730,-3.451
+320 47.516,-3.880
+360 47.300,-4.305
+400 47.082,-4.726
+440 46.862,-5.144
+480 46.642,-5.558

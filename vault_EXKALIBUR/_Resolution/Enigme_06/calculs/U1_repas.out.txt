@@ -1,0 +1,3 @@
+ordre repas : ['Cassis', 'Chablis', 'Chinon', 'Cahors', 'Champagne-Chalons', 'Cambremer', 'Chateauneuf-du-Pape', 'Cognac', 'Caen', 'Chartreuse']
+sous-ensembles 210 hits 0
+hasard : hits moyens à D aléatoire = 0.00 sur 210

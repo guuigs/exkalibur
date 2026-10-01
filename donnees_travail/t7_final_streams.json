@@ -1,0 +1,201 @@
+{
+ "ruisseaux": [
+  {
+   "nom": "Ruisseau de Rebouchet",
+   "position": "45.42554, 6.03362",
+   "cap_general": "E–O ; coule ONO",
+   "dist_tour": "0.42 km",
+   "source": "IGN BD TOPO (cours_d_eau, statut Validé) ; dist château Bayard 0.18 km ; identifiable: oui"
+  },
+  {
+   "nom": "le Bréda",
+   "position": "45.43323, 6.02982",
+   "cap_general": "SSE–NNO ; coule NNO",
+   "dist_tour": "0.49 km",
+   "source": "IGN BD TOPO (cours_d_eau, statut Validé) ; dist château Bayard 1.14 km ; identifiable: oui"
+  },
+  {
+   "nom": "Ruisseau de la Perrière",
+   "position": "45.42090, 6.02234",
+   "cap_general": "ESE–ONO ; coule ONO",
+   "dist_tour": "1.11 km",
+   "source": "IGN BD TOPO (cours_d_eau, statut Validé) ; dist château Bayard 0.32 km ; identifiable: oui"
+  },
+  {
+   "nom": "Ruisseau de Tapon",
+   "position": "45.43577, 6.04681",
+   "cap_general": "SE–NO ; coule NNO",
+   "dist_tour": "1.45 km",
+   "source": "IGN BD TOPO (cours_d_eau, statut Validé) ; dist château Bayard 2.57 km ; identifiable: oui"
+  },
+  {
+   "nom": "Ruisseau de la Burge",
+   "position": "45.43893, 6.05265",
+   "cap_general": "SE–NO ; coule NO",
+   "dist_tour": "2.03 km",
+   "source": "IGN BD TOPO (cours_d_eau, statut Validé) ; dist château Bayard 3.15 km ; identifiable: oui"
+  },
+  {
+   "nom": "l'Isère",
+   "position": "45.43168, 6.00384",
+   "cap_general": "NE–SO ; coule SSO",
+   "dist_tour": "2.14 km",
+   "source": "IGN BD TOPO (cours_d_eau, statut Validé) ; dist château Bayard 1.40 km ; identifiable: oui"
+  },
+  {
+   "nom": "Ruisseau de Beau Magny",
+   "position": "45.41146, 6.01463",
+   "cap_general": "SE–NO ; coule NO",
+   "dist_tour": "2.32 km",
+   "source": "IGN BD TOPO (cours_d_eau, statut Validé) ; dist château Bayard 1.37 km ; identifiable: oui"
+  },
+  {
+   "nom": "Ruisseau de la Chanelle",
+   "position": "45.44888, 6.04466",
+   "cap_general": "ENE–OSO ; coule O",
+   "dist_tour": "2.47 km",
+   "source": "IGN BD TOPO (cours_d_eau, statut Validé) ; dist château Bayard 3.47 km ; identifiable: oui"
+  },
+  {
+   "nom": "Ruisseau des Lanches",
+   "position": "45.40463, 6.03595",
+   "cap_general": "E–O ; coule O",
+   "dist_tour": "2.72 km",
+   "source": "IGN BD TOPO (cours_d_eau, statut Validé) ; dist château Bayard 2.45 km ; identifiable: oui"
+  },
+  {
+   "nom": "Ruisseau du Papet",
+   "position": "45.40440, 6.03485",
+   "cap_general": "SE–NO ; coule NO",
+   "dist_tour": "2.74 km",
+   "source": "IGN BD TOPO (cours_d_eau, statut Validé) ; dist château Bayard 2.41 km ; identifiable: oui"
+  },
+  {
+   "nom": "Ruisseau de Bessut",
+   "position": "45.40417, 6.03325",
+   "cap_general": "SSE–NNO ; coule NNO",
+   "dist_tour": "2.75 km",
+   "source": "IGN BD TOPO (cours_d_eau, statut Validé) ; dist château Bayard 2.41 km ; identifiable: oui"
+  },
+  {
+   "nom": "Ruisseau du Furet",
+   "position": "45.44650, 6.00490",
+   "cap_general": "E–O ; coule ENE",
+   "dist_tour": "2.83 km",
+   "source": "IGN BD TOPO (cours_d_eau, statut Validé) ; dist château Bayard 2.80 km ; identifiable: oui"
+  },
+  {
+   "nom": "Ancien Lit de l'Isère",
+   "position": "45.45654, 6.01583",
+   "cap_general": "NE–SO ; coule SO",
+   "dist_tour": "3.30 km",
+   "source": "IGN BD TOPO (cours_d_eau, statut Validé) ; dist château Bayard 3.70 km ; identifiable: oui"
+  },
+  {
+   "nom": "Ruisseau des Teppes",
+   "position": "45.40114, 6.01588",
+   "cap_general": "ESE–ONO ; coule ONO",
+   "dist_tour": "3.30 km",
+   "source": "IGN BD TOPO (cours_d_eau, statut Validé) ; dist château Bayard 2.48 km ; identifiable: oui"
+  },
+  {
+   "nom": "Ruisseau Pluvigny",
+   "position": "45.43384, 6.07294",
+   "cap_general": "NNE–SSO ; coule N",
+   "dist_tour": "3.32 km",
+   "source": "IGN BD TOPO (cours_d_eau, statut Validé) ; dist château Bayard 4.35 km ; identifiable: oui"
+  },
+  {
+   "nom": "Ruisseau de Maupas",
+   "position": "45.40259, 6.00633",
+   "cap_general": "ESE–ONO ; coule ONO",
+   "dist_tour": "3.50 km",
+   "source": "IGN BD TOPO (cours_d_eau, statut Validé) ; dist château Bayard 2.51 km ; identifiable: oui"
+  },
+  {
+   "nom": "Ruisseau de la Fourchette",
+   "position": "45.44596, 5.99279",
+   "cap_general": "E–O ; coule E",
+   "dist_tour": "3.54 km",
+   "source": "IGN BD TOPO (cours_d_eau, statut Validé) ; dist château Bayard 3.24 km ; identifiable: oui"
+  },
+  {
+   "nom": "Ruisseau du Bon de Loge",
+   "position": "45.45860, 6.01106",
+   "cap_general": "NNE–SSO ; coule SSO",
+   "dist_tour": "3.65 km",
+   "source": "IGN BD TOPO (cours_d_eau, statut Validé) ; dist château Bayard 3.96 km ; identifiable: oui"
+  },
+  {
+   "nom": "Ruisseau de la Bâtie",
+   "position": "45.39693, 6.05143",
+   "cap_general": "ESE–ONO ; coule ESE",
+   "dist_tour": "3.89 km",
+   "source": "IGN BD TOPO (cours_d_eau, statut Validé) ; dist château Bayard 3.88 km ; identifiable: oui"
+  },
+  {
+   "nom": "Ruisseau des Dégoutés",
+   "position": "45.42330, 5.98025",
+   "cap_general": "ESE–ONO ; coule E",
+   "dist_tour": "4.01 km",
+   "source": "IGN BD TOPO (cours_d_eau, statut Validé) ; dist château Bayard 3.02 km ; identifiable: oui"
+  },
+  {
+   "nom": "Ruisseau du Trouillet",
+   "position": "45.39292, 6.01053",
+   "cap_general": "ESE–ONO ; coule ONO",
+   "dist_tour": "4.31 km",
+   "source": "IGN BD TOPO (cours_d_eau, statut Validé) ; dist château Bayard 3.45 km ; identifiable: oui"
+  },
+  {
+   "nom": "le Cernon",
+   "position": "45.46521, 6.01103",
+   "cap_general": "ENE–OSO ; coule ENE",
+   "dist_tour": "4.33 km",
+   "source": "IGN BD TOPO (cours_d_eau, statut Validé) ; dist château Bayard 4.47 km ; identifiable: oui"
+  },
+  {
+   "nom": "Canal de Renevier",
+   "position": "45.39413, 5.99799",
+   "cap_general": "NNE–SSO ; coule SSO",
+   "dist_tour": "4.64 km",
+   "source": "IGN BD TOPO (cours_d_eau, statut Validé) ; dist château Bayard 3.64 km ; identifiable: oui"
+  },
+  {
+   "nom": "Ruisseau du Villard",
+   "position": "45.38832, 6.01638",
+   "cap_general": "E–O ; coule O",
+   "dist_tour": "4.65 km",
+   "source": "IGN BD TOPO (cours_d_eau, statut Validé) ; dist château Bayard 3.86 km ; identifiable: oui"
+  },
+  {
+   "nom": "(sans nom)",
+   "position": "45.42418, 6.03268",
+   "cap_general": "coule NO",
+   "dist_tour": "0.54 km",
+   "source": "IGN BD TOPO (tronçon Ecoulement naturel sans toponyme) ; dist château Bayard 1.08 km ; identifiable: non"
+  },
+  {
+   "nom": "(sans nom)",
+   "position": "45.42418, 6.03268",
+   "cap_general": "coule O",
+   "dist_tour": "0.54 km",
+   "source": "IGN BD TOPO (tronçon Ecoulement naturel sans toponyme) ; dist château Bayard 0.93 km ; identifiable: non"
+  },
+  {
+   "nom": "(sans nom)",
+   "position": "45.42212, 6.02808",
+   "cap_general": "coule NO",
+   "dist_tour": "0.78 km",
+   "source": "IGN BD TOPO (tronçon Ecoulement naturel sans toponyme) ; dist château Bayard 0.73 km ; identifiable: non"
+  },
+  {
+   "nom": "(sans nom)",
+   "position": "45.43171, 6.04198",
+   "cap_general": "coule NE",
+   "dist_tour": "0.91 km",
+   "source": "IGN BD TOPO (tronçon Ecoulement naturel sans toponyme) ; dist château Bayard 2.02 km ; identifiable: non"
+  }
+ ],
+ "n_unnamed_5km": 193
+}

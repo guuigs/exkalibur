@@ -1,0 +1,26 @@
+A Cluny>Clermont>Cîteaux>Clairvaux (dates : 1095 oct, 1095 nov, 1098 fondation Cîteaux, 1115 Clairvaux)
+    L= 471.93  +38.15 % (SC)  +37.99 % (ND)  lame:False  jambes:Cluny-Clermont 141.5, Clermont-Cîteaux 214.8, Cîteaux-Clairvaux 115.6
+B Clermont>Cluny>Cîteaux>Clairvaux (piste joueurs)
+    L= 340.99  -0.18 % (SC)  -0.30 % (ND)  lame:False  jambes:Clermont-Cluny 141.5, Cluny-Cîteaux 83.9, Cîteaux-Clairvaux 115.6
+C Cluny>Clermont>Clairvaux (3 C)
+    L= 434.83  +27.29 % (SC)  +27.14 % (ND)  lame:False  jambes:Cluny-Clermont 141.5, Clermont-Clairvaux 293.3
+D Cluny>Clermont>Cîteaux>Clairvaux>Châlons(-Troyes?)
+    L= 567.27  +66.06 % (SC)  +65.86 % (ND)  lame:False  jambes:Cluny-Clermont 141.5, Clermont-Cîteaux 214.8, Cîteaux-Clairvaux 115.6, Clairvaux-Châlons-en-Champagne 95.3
+E Templiers 1127-29 : Chinon>Caen>Canterbury>Cassel>Clairvaux (Anjou,Normandie,Angleterre,Flandre,Champagne) [C non attestés]
+    L= 934.00  +173.42 % (SC)  +173.09 % (ND)  lame:False  jambes:Chinon-Caen 228.4, Caen-Canterbury 255.2, Canterbury-Cassel 111.8, Cassel-Clairvaux 338.6
+F Clermont>Cluny>Clairvaux>Cîteaux (mêmes 4 C, autre ordre)
+    L= 447.76  +31.08 % (SC)  +30.92 % (ND)  lame:False  jambes:Clermont-Cluny 141.5, Cluny-Clairvaux 190.7, Clairvaux-Cîteaux 115.6
+
+Toutes permutations des 4 C {Cluny,Clermont,Cîteaux,Clairvaux} :
+   Cluny > Clermont > Clairvaux > Cîteaux         550.43 
+   Cluny > Clairvaux > Clermont > Cîteaux         698.85 
+   Clermont > Cluny > Clairvaux > Cîteaux         447.76 
+   Clermont > Cîteaux > Clairvaux > Cluny         521.10 
+   Clermont > Clairvaux > Cluny > Cîteaux         567.91 
+   Clermont > Clairvaux > Cîteaux > Cluny         492.84 
+   Clairvaux > Cluny > Clermont > Cîteaux         546.99 
+   Clairvaux > Cluny > Cîteaux > Clermont         489.40 
+   Clairvaux > Clermont > Cluny > Cîteaux         518.73 
+   Clairvaux > Clermont > Cîteaux > Cluny         592.08 
+   Clairvaux > Cîteaux > Cluny > Clermont         340.99 <== ±1 %
+   Clairvaux > Cîteaux > Clermont > Cluny         471.93 

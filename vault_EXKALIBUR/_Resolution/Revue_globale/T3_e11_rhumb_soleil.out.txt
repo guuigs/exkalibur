@@ -1,0 +1,32 @@
+== cap géodésique / loxodromique SP -> cibles
+  geo.api centre 43.3173,-1.041    -> tour Avalon 45.4288,6.0308   géod 64.881  loxo 67.326  dist 608.88
+  geo.api centre 43.3173,-1.041    -> château Bayard               géod 64.902  loxo 67.343  dist 607.80
+  43.3283,-1.0347 (exk)            -> tour Avalon 45.4288,6.0308   géod 64.970  loxo 67.412  dist 607.90
+  43.3283,-1.0347 (exk)            -> château Bayard               géod 64.991  loxo 67.429  dist 606.82
+  mairie ~43.3290,-1.0360          -> tour Avalon 45.4288,6.0308   géod 64.979  loxo 67.422  dist 607.96
+  mairie ~43.3290,-1.0360          -> château Bayard               géod 65.001  loxo 67.439  dist 606.89
+
+== Azimut lever soleil à Saint-Palais, 30/04/1524 julien, selon horizon h0 :
+  h0 -0.833 64.69
+  h0 -0.6 64.934
+  h0 -0.567 64.968
+  h0 -0.5 65.038
+  h0 0.0 65.558
+
+== Date (julien 1524) où lever SP = cap loxodromique / géodésique (h0=-0.833) :
+  géod 64.991 -> jour 29.2 avril julien (résidu 0.008)
+  loxo 67.429 -> jour 23.2 avril julien (résidu 0.004)
+
+== Combien de jours/an (tropical, h0=-0.833) ont lever SP à ±0,3° de 64,90 / 64,99 ? (test du hasard)
+  cible 64.9 : 3 jours /365 = 0.82 %
+  cible 64.99 : 3 jours /365 = 0.82 %
+
+== Coucher : azimut coucher Avalon le 30/04/1524 jul = 296.34 ; angle "opposé" SP->CB+180 = 244.99
+
+== Autres dates de la vie de Bayard (lever à Avalon / SP)
+  Marignan 13/09/1515        Avalon lever 88.56  coucher 271.44 | SP lever 88.64
+  Marignan 14/09/1515        Avalon lever 89.12  coucher 270.88 | SP lever 89.18
+  Brescia 19/02/1512         Avalon lever 100.70  coucher 259.30 | SP lever 100.35
+  Garigliano 29/12/1503      Avalon lever 121.98  coucher 238.02 | SP lever 120.76
+  Mézières 1521 (~27/09)     Avalon lever 96.67  coucher 263.33 | SP lever 96.47
+  Rebec = † 30/04/1524       Avalon lever 63.66  coucher 296.34 | SP lever 64.69

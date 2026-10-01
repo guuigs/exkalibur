@@ -1,0 +1,668 @@
+{
+"Carnac": [
+47.5918383,
+-3.0835991,
+"Alignements du Ménec [carte Guilhem]",
+"chasse É5"
+],
+"Clermont": [
+45.7787583,
+3.0858573,
+"Clermont-Ferrand Cathedral [coord carte Guilhem]",
+"Urbain II 1095"
+],
+"Cluny": [
+46.4348054,
+4.6585012,
+"Cluny Abbey [coord carte Guilhem]",
+"Urbain II"
+],
+"Cadouin": [
+44.8114955,
+0.8737598,
+"Cadouin Abbey [coord carte Guilhem]",
+"Suaire, croisade"
+],
+"Cîteaux": [
+47.12805556,
+5.09333333,
+"Cîteaux Abbey",
+"cistercien"
+],
+"Clairvaux": [
+48.14722222,
+4.78888889,
+"Clairvaux Abbey",
+"Bernard, Templiers"
+],
+"Chartres": [
+48.4478,
+1.4878,
+"Chartres Cathedral",
+"voile de la Vierge"
+],
+"Cahors": [
+44.44722222,
+1.44305556,
+"Cahors Cathedral",
+"cathédrale"
+],
+"Carcassonne": [
+43.21333333,
+2.35083333,
+"Carcassonne",
+"cité, Templiers"
+],
+"Caen": [
+49.18166667,
+-0.37277778,
+"Abbey of Saint-Étienne, Caen",
+"Guillaume le Conquérant"
+],
+"Chinon": [
+47.16805556,
+0.23611111,
+"Château de Chinon",
+"Templiers, Plantagenêt"
+],
+"Cambrai": [
+50.17222222,
+3.23333333,
+"Cambrai Cathedral",
+"cathédrale"
+],
+"Châlons-en-Champagne": [
+48.9575,
+4.365,
+"Châlons-en-Champagne",
+"Champagne"
+],
+"Charroux": [
+46.14341667,
+0.40441667,
+"Charroux Abbey",
+"abbaye"
+],
+"Compiègne": [
+49.4149,
+2.8231,
+"Compiègne",
+"roi"
+],
+"Corbie": [
+49.90888889,
+2.51027778,
+"Corbie Abbey",
+"abbaye"
+],
+"Combourg": [
+48.4094,
+-1.7506,
+"Combourg",
+"Bretagne"
+],
+"Cognac": [
+45.7,
+-0.33,
+"Cognac, France",
+"Charente"
+],
+"Coutances": [
+49.04777778,
+-1.44583333,
+"Coutances Cathedral",
+"cathédrale"
+],
+"Cherbourg": [
+49.639,
+-1.625,
+"Cherbourg-en-Cotentin",
+"port"
+],
+"Clisson": [
+47.0878,
+-1.2825,
+"Clisson",
+"château"
+],
+"Cerisy": [
+49.1972,
+-0.9332,
+"Cerisy Abbey",
+"abbaye normande"
+],
+"Chalon-sur-Saône": [
+46.7806,
+4.8528,
+"Chalon-sur-Saône",
+"ville"
+],
+"Chauvigny": [
+46.5694,
+0.6475,
+"Chauvigny",
+"château"
+],
+"Cléry-Saint-André": [
+47.8211,
+1.755,
+"Cléry-Saint-André",
+"basilique"
+],
+"Chambord": [
+47.61611111,
+1.51722222,
+"Château de Chambord",
+"château"
+],
+"Cassel": [
+50.8006,
+2.4883,
+"Cassel, Nord",
+"bataille"
+],
+"Crécy": [
+50.2531,
+1.8839,
+"Crécy-en-Ponthieu",
+"champ de bataille"
+],
+"Compostelle": [
+42.88055556,
+-8.54444444,
+"Santiago de Compostela Cathedral",
+"pèlerinage"
+],
+"Clunia": [
+41.78055556,
+-3.37055556,
+"Clunia",
+"site"
+],
+"Chaumont": [
+48.1117,
+5.1389,
+"Chaumont, Haute-Marne",
+"ville"
+],
+"Clamecy": [
+47.4608,
+3.5203,
+"Clamecy, Nièvre",
+"ville"
+],
+"Chambéry": [
+45.57,
+5.9118,
+"Chambéry",
+"ville"
+],
+"Clermont-en-Beauvaisis": [
+49.3797,
+2.4133,
+"Clermont, Oise",
+"homonyme Clermont"
+],
+"Colmar": [
+48.0817,
+7.3556,
+"Colmar",
+"ville"
+],
+"Chalon": [
+46.7806,
+4.8528,
+"Chalon-sur-Saône",
+"doublon"
+],
+"Chenonceau": [
+47.3247,
+1.0704,
+"Château de Chenonceau",
+"château"
+],
+"Cluses": [
+46.0611,
+6.5794,
+"Cluses",
+"ville"
+],
+"Cîteaux-Vougeot": [
+47.17492222,
+4.95548333,
+"Clos de Vougeot",
+"cistercien"
+],
+"Cormery": [
+47.2681,
+0.8372,
+"Cormery",
+"abbaye"
+],
+"Cassis": [
+43.2167,
+5.5389,
+"Cassis",
+"ville"
+],
+"Cannes": [
+43.5513,
+7.0128,
+"Cannes",
+"ville"
+],
+"Calais": [
+50.94805556,
+1.85638889,
+"Calais",
+"port"
+],
+"Cambrai2": [
+50.1767,
+3.2356,
+"Cambrai",
+"ville"
+],
+"Chelles": [
+48.8833,
+2.6,
+"Chelles, Seine-et-Marne",
+"Sainte-Bathilde"
+],
+"Choisy": [
+48.763,
+2.409,
+"Choisy-le-Roi",
+"banlieue Paris"
+],
+"Créteil": [
+48.7911,
+2.4628,
+"Créteil",
+"banlieue Paris"
+],
+"Clichy": [
+48.9044,
+2.3064,
+"Clichy, Hauts-de-Seine",
+"banlieue Paris"
+],
+"Courbevoie": [
+48.8978,
+2.2531,
+"Courbevoie",
+"banlieue Paris"
+],
+"Chantilly": [
+49.2,
+2.4667,
+"Chantilly, Oise",
+"château"
+],
+"Clairefontaine": [
+48.6131,
+1.9086,
+"Clairefontaine-en-Yvelines",
+"village"
+],
+"Cergy": [
+49.0361,
+2.0631,
+"Cergy",
+"ville"
+],
+"Chevreuse": [
+48.7083,
+2.0392,
+"Chevreuse",
+"château"
+],
+"Chaource": [
+48.0594,
+4.1389,
+"Chaource",
+"Sépulcre (mise au tombeau)"
+],
+"Champmol": [
+47.321681,
+5.017333,
+"Champmol",
+"chartreuse"
+],
+"Chartreuse": [
+45.36333333,
+5.79361111,
+"Grande Chartreuse",
+"Chartreux"
+],
+"Cambremer": [
+49.1528,
+0.0483,
+"Cambremer",
+"village"
+],
+"Cerisy-la-Salle": [
+49.0269,
+-1.2811,
+"Cerisy-la-Salle",
+"village"
+],
+"Cabourg": [
+49.287981,
+-0.116292,
+"Cabourg",
+"plage"
+],
+"Carentan": [
+49.304,
+-1.247,
+"Carentan-les-Marais",
+"ville"
+],
+"Condé-sur-Noireau": [
+48.851,
+-0.553,
+"Condé-en-Normandie",
+"ville"
+],
+"Canterbury": [
+51.2797,
+1.0831,
+"Canterbury Cathedral",
+"Becket"
+],
+"Caerleon": [
+51.6103,
+-2.9558,
+"Caerleon",
+"Arthur, Camelot gallois"
+],
+"Cadbury Castle (Camelot)": [
+51.0242,
+-2.5317,
+"Cadbury Castle, Somerset",
+"Camelot"
+],
+"Carlisle": [
+54.89472222,
+-2.93861111,
+"Carlisle Cathedral",
+"Carduel arthurien"
+],
+"Colchester": [
+51.890589,
+0.903047,
+"Colchester Castle",
+"Camulodunum"
+],
+"Chester": [
+53.1919,
+-2.8906,
+"Chester Cathedral",
+"Deva"
+],
+"Chichester": [
+50.8363,
+-0.7808,
+"Chichester Cathedral",
+"cathédrale"
+],
+"Cambridge": [
+52.205,
+0.1225,
+"Cambridge",
+"ville"
+],
+"Camelford (Camlann)": [
+50.617,
+-4.683,
+"Camelford",
+"Camlann"
+],
+"Caernarfon": [
+53.1393,
+-4.2769,
+"Caernarfon Castle",
+"château"
+],
+"Conwy": [
+53.28,
+-3.825556,
+"Conwy Castle",
+"château"
+],
+"Corfe": [
+50.64,
+-2.058,
+"Corfe Castle",
+"château"
+],
+"Cardiff": [
+51.4823,
+-3.1812,
+"Cardiff Castle",
+"château"
+],
+"Carmarthen": [
+51.856,
+-4.316,
+"Carmarthen",
+"Myrddin/Merlin"
+],
+"Chepstow": [
+51.6439,
+-2.6757,
+"Chepstow Castle",
+"Normands"
+],
+"Cressing Temple": [
+51.83723611,
+0.610975,
+"Cressing Temple",
+"Templiers"
+],
+"Canterbury St Augustine": [
+51.27888889,
+1.08708333,
+"St Augustine's Abbey",
+"abbaye"
+],
+"Castle Rising": [
+52.793,
+0.469,
+"Castle Rising",
+"château"
+],
+"Chelmsford": [
+51.73,
+0.48,
+"Chelmsford",
+"ville"
+],
+"Cirencester": [
+51.71666667,
+-1.96666667,
+"Cirencester",
+"Corinium"
+],
+"Carisbrooke": [
+50.6874,
+-1.3133,
+"Carisbrooke Castle",
+"château"
+],
+"Carew": [
+51.69833333,
+-4.83055556,
+"Carew Castle",
+"château"
+],
+"Cerne Abbas": [
+50.8095,
+-2.481,
+"Cerne Abbas",
+"géant"
+],
+"Colchester2": [
+51.8917,
+0.903,
+"Colchester",
+"ville"
+],
+"Chatham": [
+51.37,
+0.52,
+"Chatham, Kent",
+"ville"
+],
+"Camber Castle": [
+50.93305,
+0.73248,
+"Camber Castle",
+"château"
+],
+"Chertsey": [
+51.395,
+-0.5031,
+"Chertsey Abbey",
+"abbaye"
+],
+"Cranbrook": [
+51.09666667,
+0.53555556,
+"Cranbrook, Kent",
+"ville"
+],
+"Canterbury (ville)": [
+51.28,
+1.08,
+"Canterbury",
+"ville"
+],
+"Crowborough": [
+51.06,
+0.16,
+"Crowborough",
+"ville"
+],
+"Crawley": [
+51.10916667,
+-0.18722222,
+"Crawley",
+"ville"
+],
+"Croydon": [
+51.3714,
+-0.1038,
+"Croydon",
+"banlieue Londres"
+],
+"Cheam": [
+51.36,
+-0.21,
+"Cheam",
+"banlieue Londres"
+],
+"Chertsey2": [
+51.3902,
+-0.5074,
+"Chertsey",
+"ville"
+],
+"Cologne": [
+50.94138889,
+6.95833333,
+"Cologne Cathedral",
+"Rois mages"
+],
+"Constantinople (Sainte-Sophie)": [
+41.00833333,
+28.98,
+"Hagia Sophia",
+"croisade"
+],
+"Cordoue": [
+37.87916667,
+-4.77972222,
+"Mosque–Cathedral of Córdoba",
+"Espagne"
+],
+"Cuenca": [
+40.06666667,
+-2.15,
+"Cuenca, Spain",
+"Espagne"
+],
+"Covadonga": [
+43.316667,
+-5.05,
+"Covadonga",
+"Reconquista"
+],
+"Calatrava": [
+39.074,
+-3.835,
+"Calatrava la Vieja",
+"ordre militaire"
+],
+"Cassino": [
+41.49,
+13.81388889,
+"Monte Cassino",
+"abbaye"
+],
+"Canossa": [
+44.576,
+10.456,
+"Canossa Castle",
+"Grégoire VII"
+],
+"Cefalù": [
+38.03972222,
+14.02388889,
+"Cefalù Cathedral",
+"Normands"
+],
+"Caesarea": [
+32.5,
+34.89166667,
+"Caesarea Maritima",
+"croisade"
+],
+"Cairo": [
+30.04444444,
+31.23583333,
+"Cairo",
+"Égypte"
+],
+"Clunia2": [
+41.78055556,
+-3.37055556,
+"Clunia",
+"doublon"
+],
+"Cadix": [
+36.535,
+-6.2975,
+"Cádiz",
+"Espagne"
+],
+"Ceuta": [
+35.88833333,
+-5.31555556,
+"Ceuta",
+"Espagne"
+],
+"Copenhague": [
+55.67611111,
+12.56833333,
+"Copenhagen",
+"Danemark"
+],
+"Cambrai/Compiègne": [
+49.4149,
+2.8231,
+"Compiègne",
+"doublon"
+]
+}

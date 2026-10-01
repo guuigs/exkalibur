@@ -1,0 +1,40 @@
+cap Tour->Battle 149.07 | Tour->Hastings 147.84
+lieu                                              D km ecart lat km     cap
+Sainte-Chapelle (Paris, Ile de la Cite)          341.6         -1.9  148.76
+Notre-Dame de Paris                              342.0         -2.0  148.73
+Ile Saint-Honorat (Lerins)                      1036.6        -50.3  146.28
+Ile Sainte-Marguerite (Cannes)                  1036.1        -50.9  146.24
+Reichenau (Ile, lac de Constance)                782.1       -388.8  119.21
+Mont-Saint-Michel                                335.4        254.1  198.34
+Lindisfarne (Holy Island)                        476.4       -145.5  346.87
+Iona                                             676.7         49.3  324.88
+Chartres cathedrale                              358.2         75.3  161.21
+Reims cathedrale                                 384.3       -131.2  129.11
+Vezelay                                          527.4        -19.5  146.95
+Cluny                                            661.2        -27.4  146.70
+Taize                                            655.3        -31.3  146.33
+Ars/Paray-le-Monial                              639.6          8.6  149.85
+Lourdes                                          935.3        478.1  179.91
+Assise                                          1337.0       -443.1  129.59
+Rome Vatican                                    1429.1       -381.8  133.46
+Saint-Denis basilique                            334.4         -7.1  147.85
+Saint-Germain-des-Pres                           341.3         -1.1  148.90
+Ile Sainte-Helene / Ile Saint-Louis              342.4         -2.5  148.66
+Isola San Giulio (Orta)                          889.0       -256.4  132.26
+Ile de Sein                                      516.0        497.0  223.48
+Sainte-Baume                                    1010.2         57.7  152.36
+Saintes-Maries-de-la-Mer                         957.1        141.5  157.61
+Gniezno                                         1211.8      -1147.7   77.69
+Sainte-Chapelle                          T->B->lieu =   341.6 km ; direct T->lieu   341.6
+Mont-Saint-Michel                        T->B->lieu =   367.9 km ; direct T->lieu   335.4
+Lindisfarne                              T->B->lieu =   626.8 km ; direct T->lieu   476.4
+Iona                                     T->B->lieu =   830.1 km ; direct T->lieu   676.7
+Ile Saint-Honorat                        T->B->lieu =  1036.7 km ; direct T->lieu  1036.6
+Skellig Michael                          T->B->lieu =   847.9 km ; direct T->lieu   722.1
+Saint Michael s Mount (Cornouailles)     T->B->lieu =   507.7 km ; direct T->lieu   409.8
+Glastonbury Tor                          T->B->lieu =   301.0 km ; direct T->lieu   186.7
+Ile de Sein                              T->B->lieu =   577.7 km ; direct T->lieu   516.0
+Bardsey                                  T->B->lieu =   493.6 km ; direct T->lieu   350.8
+Holy Island Anglesey                     T->B->lieu =   515.8 km ; direct T->lieu   367.9
+Ile-Tudy/Belle-Ile                       T->B->lieu =   554.9 km ; direct T->lieu   514.5
+Reichenau                                T->B->lieu =   793.4 km ; direct T->lieu   782.1

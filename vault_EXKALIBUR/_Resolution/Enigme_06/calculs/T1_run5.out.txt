@@ -1,0 +1,7 @@
+C:\Users\Admin\Guilhem workspace\EXKALIBUR\_Resolution\Enigme_06\calculs\T1_lib.py:115: RuntimeWarning: overflow encountered in scalar add
+  for ch in w: h = h + HL[ord(ch) - 65]
+REEL (a) R et B chacun un nom: 0
+REEL (b) R+B(+S,T) = 2 noms: 0
+1s
+HASARD (a) x12: moy=0.0 max=0 rang 12/12 >= réel(0)
+HASARD (b) x12: moy=0.0 max=0 rang 12/12 >= réel(0)

@@ -1,0 +1,22 @@
+peint élongation (petit/grand axe) 0.58
+n comparés 62
+IoU de contrôle (peint vs peint): 1.0
+0.88 - Retenue Intermittent 3.04km cap326 aire1356 m2 elong 0.66 SURF_EAU0000002330709375
+0.87 - Plan d'eau de gravière Intermittent 3.36km cap303 aire458 m2 elong 0.68 SURF_EAU0000002003273243
+0.87 - Réservoir-bassin Intermittent 2.37km cap236 aire1060 m2 elong 0.53 SURF_EAU0000000290275409
+0.86 - Retenue Permanent 3.72km cap215 aire7642 m2 elong 0.70 SURF_EAU0000000007503763
+0.84 - Réservoir-bassin d'orage Permanent 2.77km cap306 aire969 m2 elong 0.59 SURF_EAU0000000007503206
+0.84 - Retenue Permanent 4.32km cap218 aire1163 m2 elong 0.67 SURF_EAU0000000007503767
+0.83 - Retenue Intermittent 4.41km cap218 aire9536 m2 elong 0.54 SURF_EAU0000000292946248
+0.83 - Retenue Permanent 3.60km cap215 aire11202 m2 elong 0.46 SURF_EAU0000000007503764
+0.83 Étangs du Maupas Retenue None 3.60km cap215 aire11202 m2 elong 0.46 PLANDEAU0000000007457911
+0.83 - Réservoir-bassin Intermittent 3.33km cap308 aire324 m2 elong 0.67 SURF_EAU0000000292946095
+0.82 - Réservoir-bassin Intermittent 5.32km cap138 aire528 m2 elong 0.67 SURF_EAU0000000208699938
+0.82 - Réservoir-bassin Intermittent 1.91km cap41 aire681 m2 elong 0.47 SURF_EAU0000002330709405
+0.82 - Retenue Permanent 3.18km cap334 aire157708 m2 elong 0.71 SURF_EAU0000000012581195
+0.82 - Réservoir-bassin Intermittent 1.73km cap70 aire104 m2 elong 0.73 SURF_EAU0000002003582962
+0.81 - Plan d'eau de gravière Intermittent 3.17km cap300 aire7408 m2 elong 0.73 SURF_EAU0000002480312188
+NOMMÉ Étangs du Maupas       IoU 0.83 elong 0.46 aire 11202 dist 3.60
+NOMMÉ Bassin du Cheylas      IoU 0.60 elong 0.28 aire 499089 dist 5.98
+NOMMÉ Plan d'Eau des Lônes   IoU 0.48 elong 0.19 aire 131154 dist 2.72
+IoU médiane 0.74, max 0.88, nb>=0.80: 18, nb>=0.75: 29

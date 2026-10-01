@@ -1,0 +1,457 @@
+NB entrées FAQ = 1852
+clés item: ['ref', 'theme', 'q', 'a'] | exemple: {'ref': 'FAQ01-001', 'theme': '#DISCORD', 'q': "Qu'est-ce qui est prévu par l'organisati", 'a': 'Il y aura un événement qui sera organisé'}
+
+### 'coupe' -> 11 entrée(s)
+  Q: Le Graal est-il un objet tangible ou une réalisation intérieure ?
+  A: Et je suis tenté de vous répondre que c 'est d'abord un objet tangible puisqu'il s'agit d'un calice ou d'une coupe, selon les versions, qui aurait recueilli le 
+  Q: Concernant les pas qu'on doit compter sur le terrain pour déterrer la coupe, la valeur du pas à sa mesure exacte a -t-el
+  A: Je ne peux pas répondre à cette question. En l'occurrence, j'ai gardé cette question pour vous préciser que les questions concernant le Pile-Poil étaient beauco
+  Q: La dernière phrase “là, tu trouveras la coupe du charpentier” est-elle le but de notre quête ou une étape?
+  A: Il s 'agit du but de votre quête.
+  Q: “tu trouveras la coupe du charpentier”. Est-ce que cette coupe a des dimensions qui lui permettraient de rentrer dans le
+  A: Oui, tout à fait.
+  Q: Ad vitam aeternam, trouver la coupe du charpentier à côté d'une souche, voilà un beau pléonasme. Cependant peut-on dire 
+  A: Alors le terme de coupe de charpentier est en effet correct et bien choisi, mais sur le fait que ce soit relié au nom du lieu, je ne pourrais pas vous dire.
+  Q: J'ai rencontré LAC, puis j'ai vu Jésus, l'arbre et la coupe du charpentier dressée devant l'abbaye. J'ai acquitté l’obol
+  A: On dirait une version Exkalibur de Sylvain Durif. Je ne sais pas quoi vous répondre, mais en tout cas, si vous chassez Exkalibur jour et nuit ou la nuit dans vo
+  Q: Est-ce que le lieu de la cache est sous une autre douche d 'arbres coupés ?
+  A: Je ne répondrais pas.
+  Q: La coupe représentée sur l'enluminure 9 est-elle la coupe du charpentier que nous devons déterrer à la fin de l'énigme A
+  A: Je vous confirme que c'est le cas.
+  Q: Dans Libera nos a malo, l'enchanteur annonce une quête sans fin afin de protéger la coupe de vie tandis que Ad Vitam Æte
+  A: Il s'agit de la seule et même quête qui en effet connaît des rebondissements.
+  Q: Est-ce que l 'expression coupe du charpentier de l 'énigme douze est un anachronisme ?
+  A: Non.
+  Q: La coupe du charpentier est-elle un lieu en soi ?
+  A: Il s 'agit du trésor.
+
+### 'charpentier' -> 8 entrée(s)
+  Q: La dernière phrase “là, tu trouveras la coupe du charpentier” est-elle le but de notre quête ou une étape?
+  A: Il s 'agit du but de votre quête.
+  Q: “tu trouveras la coupe du charpentier”. Est-ce que cette coupe a des dimensions qui lui permettraient de rentrer dans le
+  A: Oui, tout à fait.
+  Q: Ad vitam aeternam, trouver la coupe du charpentier à côté d'une souche, voilà un beau pléonasme. Cependant peut-on dire 
+  A: Alors le terme de coupe de charpentier est en effet correct et bien choisi, mais sur le fait que ce soit relié au nom du lieu, je ne pourrais pas vous dire.
+  Q: J'ai rencontré LAC, puis j'ai vu Jésus, l'arbre et la coupe du charpentier dressée devant l'abbaye. J'ai acquitté l’obol
+  A: On dirait une version Exkalibur de Sylvain Durif. Je ne sais pas quoi vous répondre, mais en tout cas, si vous chassez Exkalibur jour et nuit ou la nuit dans vo
+  Q: La coupe représentée sur l'enluminure 9 est-elle la coupe du charpentier que nous devons déterrer à la fin de l'énigme A
+  A: Je vous confirme que c'est le cas.
+  Q: Dans Libera nos a malo, l'enchanteur annonce une quête sans fin afin de protéger la coupe de vie tandis que Ad Vitam Æte
+  A: Il s'agit de la seule et même quête qui en effet connaît des rebondissements.
+  Q: Est-ce que l 'expression coupe du charpentier de l 'énigme douze est un anachronisme ?
+  A: Non.
+  Q: La coupe du charpentier est-elle un lieu en soi ?
+  A: Il s 'agit du trésor.
+
+### 'stade' -> 20 entrée(s)
+  Q: L'épée est encore dans son rocher, est-ce une métaphore d'image ou le tracé passe-t-il par un endroit où l'épée pourrait
+  A: Il s'agit d'une métaphore. Il n'y a pas de rocher à trouver sur la carte du jeu. A ce stade du jeu en tout cas.
+  Q: A ce stade du jeu peut-on trouver qui est LAC de manière plutôt sûre ou faut-il l'ensemble des énigmes pour le savoir?
+  A: Vous pouvez avancer en effet sur LAC. Et en effet, vous avez raison, vous n'aurez pas une maîtrise parfaite de ce terme sans avoir le reste du jeu, qui va venir
+  Q: À ce stade, à ce que vous pouvez lire dans les différents salons, trouvez-vous que les recherches sont plutôt en avance 
+  A: J'ai essayé de le faire sur les deux premières chasses et j'ai rapidement abandonné puisque le volume de message ne me permet pas de suivre. Et c'est d'autant p
+  Q: Vous avez évoqué lors des précédentes FAQ qu'un seul narrateur était présent, mais il pouvait ne pas être de l'époque ou
+  A: Oui, le narrateur est très clairement identifié dans une période donnée. Après, je ne peux pas en dire plus sans donner trop d'informations sur ce qu'est ce nar
+  Q: Dix stades romains séparent les troisième et onzième, aurait-on pu écrire séparer le troisième et le onzième ou plutôt l
+  A: Oui. C'est les deux, donc on aurait pu dire les ou on aurait pu dire séparer le troisième, la troisième et la onzième à la destination finale ou seulement deux 
+  Q: Penses-tu aujourd'hui que les chercheurs trouvent beaucoup plus vite des solutions très intéressantes, au point que le j
+  A: Sur la question de la durée du jeu, non, je pense que le calibrage se tient bien pour le moment. Mais en effet, je ne m'attendais pas à des percées significativ
+  Q: 10 stades romains entre les troisième et onzième sont-ils à faire en ligne droite sur le chemin de rempart ?
+  A: Oui, il y a bien une, une distance en ligne droite qui sépare les troisième et onzième. Toute la question, c'est de savoir quels sont ces troisième et onzième e
+  Q: Un point virgule permet généralement de séparer deux propositions indépendantes mais liées par le sens. Ai-je raison de 
+  A: Non pas nécessairement.
+  Q: Est-ce que sur les enluminures, hormis la neuf, je peux voir les stades romains et le troisième et onzième, le jeu de le
+  A: Pareil, impossible de vous répondre là-dessus.
+  Q: Je me demandais si à ce stade de la quête, il était déjà possible de repérer des éléments afin d'identifier l'auteur du 
+  A: Oui, mais ce ne sera pas suffisant pour l'identifier à coup sûr.
+  Q: Est-il normal qu'à ce stade du jeu, tous les éléments ajoutés sur la carte ne soient pas identifiables? Seuls certains d
+  A: Oui, c'est tout à fait normal. La carte au trésor concerne l'ensemble du jeu et non pas uniquement les quatre premières énigmes.
+  Q: Où peut-on savoir si on a la bonne réponse à l'énigme?
+  A: Il y a des éléments de confirmation qui sont présents à tous les stades du jeu et qui vous serviront à déterminer si vous avez la bonne réponse ou non.
+
+### 'stades' -> 10 entrée(s)
+  Q: Dix stades romains séparent les troisième et onzième, aurait-on pu écrire séparer le troisième et le onzième ou plutôt l
+  A: Oui. C'est les deux, donc on aurait pu dire les ou on aurait pu dire séparer le troisième, la troisième et la onzième à la destination finale ou seulement deux 
+  Q: 10 stades romains entre les troisième et onzième sont-ils à faire en ligne droite sur le chemin de rempart ?
+  A: Oui, il y a bien une, une distance en ligne droite qui sépare les troisième et onzième. Toute la question, c'est de savoir quels sont ces troisième et onzième e
+  Q: Un point virgule permet généralement de séparer deux propositions indépendantes mais liées par le sens. Ai-je raison de 
+  A: Non pas nécessairement.
+  Q: Est-ce que sur les enluminures, hormis la neuf, je peux voir les stades romains et le troisième et onzième, le jeu de le
+  A: Pareil, impossible de vous répondre là-dessus.
+  Q: Où peut-on savoir si on a la bonne réponse à l'énigme?
+  A: Il y a des éléments de confirmation qui sont présents à tous les stades du jeu et qui vous serviront à déterminer si vous avez la bonne réponse ou non.
+  Q: Ma question porte sur Ad vitam aeternam : est-ce que les enluminures nous donnent un ou des indices sur qui ou quoi sont
+  A: Les enluminures, la carte ou les énigmes, oui, bien sûr qu'il y a des indices qui peuvent tout à fait vous permettre de comprendre ça. Tout est codé et vous per
+  Q: Entre les troisième et onzième, faut-il passer par les quatrième, cinquième, sixième pour parcourir la distance des stad
+  A: Vous allez directement de la troisième à la onzième, mais en fait ça va vous amener vous verrez à passer par des étapes intermédiaires.
+  Q: Est ce qu'une multiplication est à prévoir pour les stades romains ?
+  A: Vous en avez 10 (des stades romains)
+  Q: Dernière énigme: 10 stades romains, très précisément?
+  A: Oui, à 1% près.
+  Q: On note de nombreuses unités de mesure romaines citées dans la chasse, millia, stades, faut-il obligatoirement rester da
+  A: Je vous laisse libre de trouver votre bonne mesure de pas. Je pourrais pas dire si c 'est un pas romain.
+
+### 'palindrome' -> 0 entrée(s)
+
+### 'acrostiche' -> 0 entrée(s)
+
+### 'anagramme' -> 7 entrée(s)
+  Q: S'il devait y avoir des anagrammes à trouver dans un jeu, seraient-elles imparfaites, lettres manquantes ou lettres en t
+  A: S'il y a des anagrammes à trouver dans le jeu, les anagrammes sont parfaites. La façon d'y arriver, par contre, peut vous amener à parfois décomposer. Mais à la
+  Q: Tu as dit que les anagrammes étaient parfaits, cette règle peut-elle avoir une exception avec le langage des oiseaux?
+  A: Non.
+  Q: Tu avais dit qu’un anagramme doit être parfait. Phonétiquement ou alphabétiquement?
+  A: Pas forcément alphabétiquement, ça dépend des langues et de la prononciation. Mais oui, les anagrammes ça dépend des langues et de la prononciation. Mais oui, l
+  Q: Dans Libera, le jeu donne-t-il des anagrammes exacts? Reste-t-il des lettres de côté?
+  A: Oui. L'anagramme vous permet en effet de correctement identifier le lieu sans problème. Pas forcément que le lieu d 'ailleurs.
+  Q: Les quatre tirets-lettres présents dans Omnia vincit amor se suffisent-ils à eux-mêmes dans l'ordre ou anagrammé? Ou bie
+  A: Non, ils ne se suffisent pas à eux-mêmes.
+  Q: Je me permets de revenir sur la notion d'anagramme parfaite, discutée lors des FAQs précédentes. Dans la chasse en génér
+  A: Tout dépend de l'étymologie, notamment, je pense à un terme en particulier, qui va énormément varier selon les langues et les zones. Et si c'est parfaitement co
+  Q: Dans l'enluminure cinq, j'identifie un anagramme imparfait. Or, vous aviez précisé que tous les anagrammes du jeu étaien
+  A: Là-dessus, j'ai déjà répondu un peu plus tôt. Ça dépend de l'étymologie.
+
+### 'double lecture' -> 2 entrée(s)
+  Q: Est-ce qu'une énigme donne au moins un lieu pour compléter le tracé en complément d'autres informations à double lecture
+  A: Pas nécessairement. Une réponse dans le jeu peut avoir un autre format qu'un lieu.
+  Q: Dans Noli Me Tangere, est-ce que l'adversaire du roi est la même personne que celui qui l' a trahi ?
+  A: Alors, certains passages du jeu sont à double lecture et par ce fait, il m'est difficile de vous répondre aussi directement.
+
+### 'double sens' -> 0 entrée(s)
+
+### 'initiales' -> 3 entrée(s)
+  Q: Je voulais juste savoir si dans la dénomination de “dit LAC” ça pouvait avoir une interprétation latine ou pas ?
+  A: Oui, ça peut tout à fait avoir une interprétation latine, comme ça peut être des initiales, comme ça peut être un nom propre. Comme tu peux le deviner ça peut a
+  Q: Dans la deuxième enluminure, les initiales E X K A L sont chacune accompagnées d'un certain nombre de fleurs de lys. Cel
+  A: Je ne peux pas répondre à cette question.
+  Q: Est-ce qu'il faut prendre les initiales de chaque couple dans l 'énigme trois ou rechercher autre chose ?
+  A: Là-dessus, je ne peux pas répondre.
+
+### 'traduit' -> 10 entrée(s)
+  Q: Si l'énigme devait me faire découvrir le Colisée, l'énigme me dira-t-elle Coliseum du nom latin Colisée en français, lan
+  A: Alors je ne peux pas répondre à cela, mais comme vous le savez, le jeu est traduit en trois langues, en anglais et en espagnol, et il était important pour certa
+  Q: Est-ce que la boîte en elle-même pourrait-elle contenir des indices?
+  A: Non. Non, parce que certains joueurs n'ont que la version digitale et d 'autres peuvent peut-être participer uniquement via les trois parchemins qui sont conten
+  Q: Serait-il possible de décoder un cryptage qui produise une réponse en anglais ou cela fonctionnerait il mieux avec une l
+  A: Évidemment, sur des choses qui sont traduites en plusieurs langues, ma préférence va nettement aux solutions qui sont universelles. Après, je ne peux pas exclur
+  Q: Peut-on trouver un lien matériel et historique concret entre le narrateur et un lien déjà identifié dans les énigmes ?
+  A: Oui, tout à fait. Vous n'aurez jamais corrélé le narrateur avec tous les lieux de la chasse, qui sont des lieux à cheval entre la légende et les suites historiq
+  Q: Le narrateur a -t-il traduit vers sa langue natale un ouvrage clé dans la compréhension de l'enluminure neuf ?
+  A: Je ne répondrais pas là-dessus.
+  Q: Y a -t-il une importance dans la ponctuation des textes ?
+  A: Non. De façon générale, j'essaie de ne pas mettre trop d'indices, d'énigmes dans la ponctuation, dans les tournures de phrases, tout simplement parce que la cha
+  Q: Si la chasse est traduite en anglais ou en espagnol, les cryptos que nous allons découvrir seront-ils identiques d'une l
+  A: La formulation, la forme, peut-être pas, mais vous allez découvrir les mêmes réponses.
+  Q: Serait-il possible d'avoir accès depuis notre espace numérique aux versions traduites en anglais et espagnol des énigmes
+  A: Tout à fait.
+  Q: Dans la traduction anglaise de Ad Vitam Æternam, "Dieu sut se montrer favorable" n'est pas traduit en anglais mais est r
+  A: Oui, tout à fait.
+  Q: Les énigmes vont être traduites dans plusieurs langues, pourrait-il y avoir des jeux de mots décryptables ou compris uni
+  A: Si ils sont facilement identifiables par les non francophones, oui, sinon en règle générale plutôt non.
+
+### 'traduction' -> 6 entrée(s)
+  Q: Faut-il considérer le texte du narrateur comme une potentielle traduction pour les besoins du jeu de ce qu'il aurait écr
+  A: Je ne peux pas répondre puisque ça donnerait une information cruciale sur le narrateur.
+  Q: Dans Rex dei gratia, la traduction anglaise a amené un doute nouveau sur la compréhension de la calligraphie. La formule
+  A: Non, il n'initie pas de trajet en partant de la ville de Rome, mais il est en filiation, il a un lien particulier et historique avec Rome.
+  Q: Dans Sub rosa y a -t-il une traduction à faire avec EVAD.ECFV?
+  A: Une traduction, non. Une complétion, oui.
+  Q: Dans la traduction anglaise de Ad Vitam Æternam, "Dieu sut se montrer favorable" n'est pas traduit en anglais mais est r
+  A: Oui, tout à fait.
+  Q: Dans l 'énigme Sub Rosa, est-ce que les personnes utilisant la traduction anglaise de " l 'Orient" (the East) ne sont pa
+  A: Les anglais ne sont pas lésés dans la chasse, les versions ont bien été équilibrées.
+  Q: Est-ce que ça peut m 'apporter des éléments intéressants si je révise mon espagnol, mon anglais, mon breton en prévision
+  A: Non, ça ne vous sera pas très utile.
+
+### 'coupe du' -> 8 entrée(s)
+  Q: La dernière phrase “là, tu trouveras la coupe du charpentier” est-elle le but de notre quête ou une étape?
+  A: Il s 'agit du but de votre quête.
+  Q: “tu trouveras la coupe du charpentier”. Est-ce que cette coupe a des dimensions qui lui permettraient de rentrer dans le
+  A: Oui, tout à fait.
+  Q: Ad vitam aeternam, trouver la coupe du charpentier à côté d'une souche, voilà un beau pléonasme. Cependant peut-on dire 
+  A: Alors le terme de coupe de charpentier est en effet correct et bien choisi, mais sur le fait que ce soit relié au nom du lieu, je ne pourrais pas vous dire.
+  Q: J'ai rencontré LAC, puis j'ai vu Jésus, l'arbre et la coupe du charpentier dressée devant l'abbaye. J'ai acquitté l’obol
+  A: On dirait une version Exkalibur de Sylvain Durif. Je ne sais pas quoi vous répondre, mais en tout cas, si vous chassez Exkalibur jour et nuit ou la nuit dans vo
+  Q: La coupe représentée sur l'enluminure 9 est-elle la coupe du charpentier que nous devons déterrer à la fin de l'énigme A
+  A: Je vous confirme que c'est le cas.
+  Q: Dans Libera nos a malo, l'enchanteur annonce une quête sans fin afin de protéger la coupe de vie tandis que Ad Vitam Æte
+  A: Il s'agit de la seule et même quête qui en effet connaît des rebondissements.
+  Q: Est-ce que l 'expression coupe du charpentier de l 'énigme douze est un anachronisme ?
+  A: Non.
+  Q: La coupe du charpentier est-elle un lieu en soi ?
+  A: Il s 'agit du trésor.
+
+### 'souche' -> 27 entrée(s)
+  Q: La souche majesté devant avoir une certaine taille à partir d'où exactement avez-vous compté les huit derniers pas?
+  A: Et bien, c'est le premier pas qui va être le plus important puisqu'il va vous donner une direction. Et donc, si vous commencez au nord, vous vous placez au nord
+  Q: Dernière énigme : si on prend des mesures parce qu'un chemin débouche sur un rocher, comment peut-on réussir à être préc
+  A: Vous n'aurez pas de ce genre de questionnement.
+  Q: Le passage "Arrivé à la souche-majesté" est-il bien écrit sans faute grammaticale?
+  A: Je pense qu'il n'y a pas de faute, s'il y en a une, ça n' a pas d'importance, ce n'est pas volontaire.
+  Q: Disons que j'ai trouvé la souche majesté dans le monde réel et que je me pose au camping du camp pendant un mois. Je lou
+  A: En effet, je vous confirme. Si vous retournez toute l'Europe de l'Ouest avec une tractopelle, ça ne fonctionnera pas.
+  Q: La souche Majesté dans le monde réel est-elle vraiment une souche d 'arbre ou peut-elle être un autre point de repère?
+  A: Là-dessus, je ne pourrais pas répondre.
+  Q: Pouvez-vous me dire sur quoi est entouré le serpent de l'enluminure quatre?
+  A: Il s'agit d 'un animal, enfin d 'un mix entre un animal et une souche, un arbuste.
+  Q: Ad vitam aeternam, trouver la coupe du charpentier à côté d'une souche, voilà un beau pléonasme. Cependant peut-on dire 
+  A: Alors le terme de coupe de charpentier est en effet correct et bien choisi, mais sur le fait que ce soit relié au nom du lieu, je ne pourrais pas vous dire.
+  Q: Si j'ai bien compris, la souche Majesté n'est visible que sur place et pas de Google Maps, comment soumettre une solutio
+  A: Il est logique que je ne vous aie pas mis des éléments qui soient trouvables facilement sur Google Maps pour éviter des raccourcis informatiques. Ceci dit, c'ét
+  Q: Est-ce que conformément au visuel de l'enluminure neuf, la souche majestueuse se trouve entre l'étang et ce que représen
+  A: Ce que vous voyez dans l'enluminure neuf, ce qui sera intéressant pour vous, c'est de localiser ce que vous cherchez, c'est-à-dire l'objectif de votre quête. Et
+  Q: Les dix pas au nord, autant à l'est, à partir de la grande roche, nous amènent-ils précisément sur la souche majesté ou 
+  A: Là-dessus, je ne répondrais pas.
+  Q: Il y a des branches qui ont l’air de se croiser, enfin un arbre, il y a une souche d'arbre avec des branches qui se croi
+  A: Non, ça n' a pas d'importance, c'est décoratif.
+  Q: Est-ce qu'il y a des plumes blanches sur la souche de l'enluminure onze?
+  A: Non, ça n' a pas d'importance.
+
+### 'majeste' -> 15 entrée(s)
+  Q: La souche majesté devant avoir une certaine taille à partir d'où exactement avez-vous compté les huit derniers pas?
+  A: Et bien, c'est le premier pas qui va être le plus important puisqu'il va vous donner une direction. Et donc, si vous commencez au nord, vous vous placez au nord
+  Q: Dernière énigme : si on prend des mesures parce qu'un chemin débouche sur un rocher, comment peut-on réussir à être préc
+  A: Vous n'aurez pas de ce genre de questionnement.
+  Q: Le passage "Arrivé à la souche-majesté" est-il bien écrit sans faute grammaticale?
+  A: Je pense qu'il n'y a pas de faute, s'il y en a une, ça n' a pas d'importance, ce n'est pas volontaire.
+  Q: Disons que j'ai trouvé la souche majesté dans le monde réel et que je me pose au camping du camp pendant un mois. Je lou
+  A: En effet, je vous confirme. Si vous retournez toute l'Europe de l'Ouest avec une tractopelle, ça ne fonctionnera pas.
+  Q: La souche Majesté dans le monde réel est-elle vraiment une souche d 'arbre ou peut-elle être un autre point de repère?
+  A: Là-dessus, je ne pourrais pas répondre.
+  Q: Les vestiges centenaires ont-ils cotoyés le 10ème Père et la 12ème Majesté et parle- t -on bien de la même Majesté ?
+  A: Je ne comprends pas de quoi vous parlez.
+  Q: Si j'ai bien compris, la souche Majesté n'est visible que sur place et pas de Google Maps, comment soumettre une solutio
+  A: Il est logique que je ne vous aie pas mis des éléments qui soient trouvables facilement sur Google Maps pour éviter des raccourcis informatiques. Ceci dit, c'ét
+  Q: Les dix pas au nord, autant à l'est, à partir de la grande roche, nous amènent-ils précisément sur la souche majesté ou 
+  A: Là-dessus, je ne répondrais pas.
+  Q: Dans l'enigme Ad vitam æternam, pour faire les 8 derniers pas, faut-il partir précisément du point d'arrivée des 10 pas 
+  A: Plutôt de la souche-majesté (mais qui se trouve bien au point d'arrivée des 10 pas à l'Est)
+  Q: A votre connaissance, la souche-majesté, la grande roche, la jonction des chemins et la clairière ont elles été découver
+  A: La zone a été trouvée, mais les joueurs l'ayant trouvée n'en ont pas fait grand-chose pour l'instant.
+  Q: Au bout des huit derniers pas depuis la souche majesté, puis-je planter directement ma pelle et creuser ? Ou une dernièr
+  A: Non, c'est ça la dernière action. Donc à ce moment-là, vous pouvez creuser directement.
+  Q: La souche-majesté est-elle une véritable représentation de la royauté ou simplement de quelque chose de beau ou suscitan
+  A: C 'est une appellation très concrète.
+
+### 'astre' -> 9 entrée(s)
+  Q: J'ai rencontré LAC, puis j'ai vu Jésus, l'arbre et la coupe du charpentier dressée devant l'abbaye. J'ai acquitté l’obol
+  A: On dirait une version Exkalibur de Sylvain Durif. Je ne sais pas quoi vous répondre, mais en tout cas, si vous chassez Exkalibur jour et nuit ou la nuit dans vo
+  Q: Je ne constate pas de cratère sur les astres des enluminures une et trois. Ai-je raison d 'y voir des astres gazeux et n
+  A: Le point clé dans ces astres est davantage la couleur que les cratères.
+  Q: La dernière ronde sur le chemin de rempart se fait-elle en partant de la zone définie par les troisième et onzième ?
+  A: Pas exactement. Le chemin de rempart est un point de départ, comme l'indique l'énigme douze. Et après, c 'est l'astre glorieux qui vous indique où aller. C 'est
+  Q: Le narrateur dit que l 'astre glorieux magnifia le ruisseau. Aurait-il pu dire l 'astre glorieux qui protégeait le ruiss
+  A: Non.
+  Q: L'astre glorieux qui nous indique la direction à suivre depuis le rempart nous donne-il une orientation précise au degré
+  A: Je ne sais plus ce que j'ai dû répondre à cette question, c'était peut-être la dernière FAQ, mais à proprement parler l'astre glorieux, il y a une relation avec
+  Q: Doit-on résoudre la direction de l'astre glorieux à partir de la ligne précédente ou de manière indépendante simplement 
+  A: Ne soyez pas obnubilé par la direction de l'astre glorieux. Je pense que si ça se trouve, c'est moi qui ai dû vous dire ça, mais, je vois ça revenir pour la qua
+  Q: Votre narrateur a -t-il les connaissances scientifiques et le matériel nécessaire pour observer Jupiter tel qu'elle nous
+  A: J'ai en effet demandé à représenter certains astres sur les enluminures. Après je ne vous donnerai pas plus de détails que ça.
+  Q: Les troisième et onzième servent-elles uniquement à confirmer la direction donnée par l'astre glorieux ?
+  A: Alors quand vous parlez de direction donnée par l'astre glorieux, je ne comprends pas très bien ce que vous voulez dire. Quand on parle d'astre glorieux, on par
+  Q: Une fois la direction de l'astre glorieux identifiée, troisième onzième nous permet-elle directement identifier la clair
+  A: Oui tout à fait, les troisième et onzième sont d'une aide plus que précieuse pour euh, pour terminer la chasse.
+
+### 'clairiere' -> 15 entrée(s)
+  Q: Enigme 12, "Dans la clairière, à la jonction des chemins, j'ai suivi à senestre les eaux enchantées", cela signifie t-il
+  A: Si vous avez la bonne croisée vous aurez votre réponse.
+  Q: À votre connaissance, un joueur a -t-il déjà trouvé la clairière ?
+  A: Non, aucun. En fait, si vous voulez, la clairière, c'est logique que personne ne l'ait trouvée parce que une fois qu'on a trouvé la clairière, on trouve globale
+  Q: Doit-on trouver le jour de honte pour identifier le lieu de la dernière bataille ou inversement ?
+  A: Le fait d'identifier le jour de honte vous est autrement plus utile que d'identifier le lieu de la dernière bataille. Si vous comprenez ce que vous avez découve
+  Q: Si j'ai bien compris, la souche Majesté n'est visible que sur place et pas de Google Maps, comment soumettre une solutio
+  A: Il est logique que je ne vous aie pas mis des éléments qui soient trouvables facilement sur Google Maps pour éviter des raccourcis informatiques. Ceci dit, c'ét
+  Q: Dans Ad Vitam Æternam, la clairière ou la grande roche ont-elles été trouvées par un ou plusieurs joueurs ?
+  A: Non, parce que si c 'était le cas, la chasse serait terminée.
+  Q: Est-ce que les symboles dans le ciel dans l'enluminure 9 décrivent le chemin menant à la clairière ?
+  A: Ça vous donne quelque chose de très important. Ça peut vous aider à avoir un déclic en fin de jeu.
+  Q: Le chemin de rempart est-il un point précis sur Maps ou bien une zone plus vaste que la clairière ?
+  A: Il s'agit d 'un point précis.
+  Q: A votre connaissance, la souche-majesté, la grande roche, la jonction des chemins et la clairière ont elles été découver
+  A: La zone a été trouvée, mais les joueurs l'ayant trouvée n'en ont pas fait grand-chose pour l'instant.
+  Q: la clairière, à la jonction des chemins et "l'endroit m'est apparu" concernent -ils un même lieu ?
+  A: Oui
+  Q: Quelqu'un a -t-il déjà trouvé la clairière ?
+  A: Non.
+  Q: Une fois la direction de l'astre glorieux identifiée, troisième onzième nous permet-elle directement identifier la clair
+  A: Oui tout à fait, les troisième et onzième sont d'une aide plus que précieuse pour euh, pour terminer la chasse.
+  Q: Si ma jonction de chemin n'est pas vraiment dans une clairière, fais-je fausse route. Il s'agit d'identifier une jonctio
+  A: Il s'agit d'identifier une jonction de chemin. Après, vous verrez une fois sur place. Il n'y a plus beaucoup de doute après.
+
+### 'troisieme et onzieme' -> 31 entrée(s)
+  Q: Dix stades romains séparent les troisième et onzième, aurait-on pu écrire séparer le troisième et le onzième ou plutôt l
+  A: Oui. C'est les deux, donc on aurait pu dire les ou on aurait pu dire séparer le troisième, la troisième et la onzième à la destination finale ou seulement deux 
+  Q: Dans la FAQ précédente, vous aviez dit que les troisième et onzième n'était pas visible sur maps malgré le fait qu'une m
+  A: Oui
+  Q: Dans Ad Vitam Æternam, identifier le "roi ayant rejoint les fées" m'aide t'il à identifier les troisième et onzième ?
+  A: Non
+  Q: Dans une précédente FAQ, vous disiez qu'il nous fallait trouver seulement deux points dans Consummatum Est. L'ultime tra
+  A: Non, vous avez Montsalvage et le point d 'arrivée de votre ultime traversée, ce qui fait deux points.
+  Q: Dans Ad Vitam, il est fait mention des troisième et onzième. Aurait-on pu aller jusqu'au treizième ?
+  A: Oui, tout à fait, mais il y a une bonne raison pour laquelle j'ai mentionné le onzième, c'est que le treizième ne vous mènerait pas au bon endroit.
+  Q: La dernière ronde sur le chemin de rempart se fait-elle en partant de la zone définie par les troisième et onzième ?
+  A: Pas exactement. Le chemin de rempart est un point de départ, comme l'indique l'énigme douze. Et après, c 'est l'astre glorieux qui vous indique où aller. C 'est
+  Q: 10 stades romains entre les troisième et onzième sont-ils à faire en ligne droite sur le chemin de rempart ?
+  A: Oui, il y a bien une, une distance en ligne droite qui sépare les troisième et onzième. Toute la question, c'est de savoir quels sont ces troisième et onzième e
+  Q: Ad Vitam Æternam, les troisième et onzième font-ils partie d 'un ensemble de 52 sur le chemin des remparts ?
+  A: Non.
+  Q: Doit-on résoudre la direction de l'astre glorieux à partir de la ligne précédente ou de manière indépendante simplement 
+  A: Ne soyez pas obnubilé par la direction de l'astre glorieux. Je pense que si ça se trouve, c'est moi qui ai dû vous dire ça, mais, je vois ça revenir pour la qua
+  Q: Un point virgule permet généralement de séparer deux propositions indépendantes mais liées par le sens. Ai-je raison de 
+  A: Non pas nécessairement.
+  Q: Est-ce que la personne la plus avancée dans le jeu a réussi à trouver les troisième et onzième ?
+  A: Non.
+  Q: L'enluminure 11 nous aide-t-elle à placer le troisième et onzième ?
+  A: Une partie. Oui.
+
+### 'troisième et onzième' -> 31 entrée(s)
+  Q: Dix stades romains séparent les troisième et onzième, aurait-on pu écrire séparer le troisième et le onzième ou plutôt l
+  A: Oui. C'est les deux, donc on aurait pu dire les ou on aurait pu dire séparer le troisième, la troisième et la onzième à la destination finale ou seulement deux 
+  Q: Dans la FAQ précédente, vous aviez dit que les troisième et onzième n'était pas visible sur maps malgré le fait qu'une m
+  A: Oui
+  Q: Dans Ad Vitam Æternam, identifier le "roi ayant rejoint les fées" m'aide t'il à identifier les troisième et onzième ?
+  A: Non
+  Q: Dans une précédente FAQ, vous disiez qu'il nous fallait trouver seulement deux points dans Consummatum Est. L'ultime tra
+  A: Non, vous avez Montsalvage et le point d 'arrivée de votre ultime traversée, ce qui fait deux points.
+  Q: Dans Ad Vitam, il est fait mention des troisième et onzième. Aurait-on pu aller jusqu'au treizième ?
+  A: Oui, tout à fait, mais il y a une bonne raison pour laquelle j'ai mentionné le onzième, c'est que le treizième ne vous mènerait pas au bon endroit.
+  Q: La dernière ronde sur le chemin de rempart se fait-elle en partant de la zone définie par les troisième et onzième ?
+  A: Pas exactement. Le chemin de rempart est un point de départ, comme l'indique l'énigme douze. Et après, c 'est l'astre glorieux qui vous indique où aller. C 'est
+  Q: 10 stades romains entre les troisième et onzième sont-ils à faire en ligne droite sur le chemin de rempart ?
+  A: Oui, il y a bien une, une distance en ligne droite qui sépare les troisième et onzième. Toute la question, c'est de savoir quels sont ces troisième et onzième e
+  Q: Ad Vitam Æternam, les troisième et onzième font-ils partie d 'un ensemble de 52 sur le chemin des remparts ?
+  A: Non.
+  Q: Doit-on résoudre la direction de l'astre glorieux à partir de la ligne précédente ou de manière indépendante simplement 
+  A: Ne soyez pas obnubilé par la direction de l'astre glorieux. Je pense que si ça se trouve, c'est moi qui ai dû vous dire ça, mais, je vois ça revenir pour la qua
+  Q: Un point virgule permet généralement de séparer deux propositions indépendantes mais liées par le sens. Ai-je raison de 
+  A: Non pas nécessairement.
+  Q: Est-ce que la personne la plus avancée dans le jeu a réussi à trouver les troisième et onzième ?
+  A: Non.
+  Q: L'enluminure 11 nous aide-t-elle à placer le troisième et onzième ?
+  A: Une partie. Oui.
+
+### 'dix stades' -> 3 entrée(s)
+  Q: Dix stades romains séparent les troisième et onzième, aurait-on pu écrire séparer le troisième et le onzième ou plutôt l
+  A: Oui. C'est les deux, donc on aurait pu dire les ou on aurait pu dire séparer le troisième, la troisième et la onzième à la destination finale ou seulement deux 
+  Q: Un point virgule permet généralement de séparer deux propositions indépendantes mais liées par le sens. Ai-je raison de 
+  A: Non pas nécessairement.
+  Q: Ma question porte sur Ad vitam aeternam : est-ce que les enluminures nous donnent un ou des indices sur qui ou quoi sont
+  A: Les enluminures, la carte ou les énigmes, oui, bien sûr qu'il y a des indices qui peuvent tout à fait vous permettre de comprendre ça. Tout est codé et vous per
+
+### 'romains' -> 11 entrée(s)
+  Q: Les lignes de couleur et leurs directions qui sortent de la rose des vents sur la carte ont-elles une importance ?
+  A: Non. Ce qui est vraiment important sur la rose des vents ça va le remplacement des directions par des chiffres romains.
+  Q: Il existe différentes sortes de pieds, les Grecs, les Égyptiens et les Romains. Comment qualifieriez-vous celui du perso
+  A: Je ne peux pas répondre à cette question.
+  Q: Dix stades romains séparent les troisième et onzième, aurait-on pu écrire séparer le troisième et le onzième ou plutôt l
+  A: Oui. C'est les deux, donc on aurait pu dire les ou on aurait pu dire séparer le troisième, la troisième et la onzième à la destination finale ou seulement deux 
+  Q: Dans Rex dei gratia, la traduction anglaise a amené un doute nouveau sur la compréhension de la calligraphie. La formule
+  A: Non, il n'initie pas de trajet en partant de la ville de Rome, mais il est en filiation, il a un lien particulier et historique avec Rome.
+  Q: 10 stades romains entre les troisième et onzième sont-ils à faire en ligne droite sur le chemin de rempart ?
+  A: Oui, il y a bien une, une distance en ligne droite qui sépare les troisième et onzième. Toute la question, c'est de savoir quels sont ces troisième et onzième e
+  Q: Un point virgule permet généralement de séparer deux propositions indépendantes mais liées par le sens. Ai-je raison de 
+  A: Non pas nécessairement.
+  Q: Est-ce que sur les enluminures, hormis la neuf, je peux voir les stades romains et le troisième et onzième, le jeu de le
+  A: Pareil, impossible de vous répondre là-dessus.
+  Q: Ma question porte sur Ad vitam aeternam : est-ce que les enluminures nous donnent un ou des indices sur qui ou quoi sont
+  A: Les enluminures, la carte ou les énigmes, oui, bien sûr qu'il y a des indices qui peuvent tout à fait vous permettre de comprendre ça. Tout est codé et vous per
+  Q: Entre les troisième et onzième, faut-il passer par les quatrième, cinquième, sixième pour parcourir la distance des stad
+  A: Vous allez directement de la troisième à la onzième, mais en fait ça va vous amener vous verrez à passer par des étapes intermédiaires.
+  Q: Est ce qu'une multiplication est à prévoir pour les stades romains ?
+  A: Vous en avez 10 (des stades romains)
+  Q: Dernière énigme: 10 stades romains, très précisément?
+  A: Oui, à 1% près.
+
+### 'enlum' -> 384 entrée(s)
+  Q: Il me semble avoir compris qu'il y aurait douze enluminures, mais la première enluminure dévoilée semble être liée aux é
+  A: Alors il y a deux enluminures qu’ont été dévoilées, qui sont séparées par un cordon vert et rouge. Vous avez une première enluminure à gauche et la deuxième à d
+  Q: 1 - Est-ce que le contenu déjà délivré permet de résoudre partiellement une future énigme ? 2 - Ce qui suggère également
+  A: 1 - Oui. 2 - Tout à fait.
+  Q: Quand vous parlez d 'enluminures, vous parlez de l'encadré en haut avec le cheval noir, etc ou des lettrines qui commenc
+  A: En effet, je parle de l'encadré avec le cheval noir, le lion, donc les dessins. Et les lettrines, bien qu'elles soient importantes et qu'elles fassent partie de
+  Q: Dans la première enluminure, le soleil rouge indique- t -il une direction ?
+  A: Non.
+  Q: Enluminure un, concernant les différents animaux, vaut-il mieux accorder plus d'importance à la représentation symboliqu
+  A: Ce qui est le plus important pour les animaux, c'est leur signification plutôt que leur couleur.
+  Q: Les enluminures et le dessin ont-ils des dimensions à respecter ou peuvent-ils être agrandis ou réduits sans aucune inci
+  A: Oui, certains éléments avaient des dimensions, des indications de taille à respecter.
+  Q: Sur la première enluminure à gauche, le saint ne tient qu'une clé. Faut-il chercher la seconde clé ?
+  A: Non.
+  Q: A gauche de la carte, il y a une dame en tunique rouge dans l'océan tenant une épée sur la première enluminure. Est-ce V
+  A: Je ne pourrais pas vous dire, mais le texte de l’énigme une devrait vous aider à identifier cette dame.
+  Q: Faut-il absolument la carte au trésor pour avancer ou pas pour chaque énigme ? Une barque peut très bien indiquer une di
+  A: Les visuels peuvent comporter des fausses pistes comme les enluminures et la calligraphie. Et la carte au trésor vous est indispensable pour avancer dans le jeu
+  Q: De manière générale, dois-je avoir une confiance absolue dans ce que je vois sur les enluminures et la carte au trésor ?
+  A: Vous avez raison de vous méfier des apparences. Même si le jeu ne vous prendra pas non plus tout le temps en traître. La plupart des informations qui sont commu
+  Q: Les deux premières énigmes relient-elles la lame des trois royaumes et un lieu de sacrifice ?
+  A: Je ne sais pas de quoi vous parlez. Est-ce qu’il s'agit des trois royaumes de Chine, j'imagine que non. S'il s'agit de France, Espagne, Royaume-Uni, ce sera à v
+  Q: Les deux saints représentés, à gauche et à droite sur l'enluminure une, tiennent-ils leur livre respectif dans le bon se
+  A: Alors, je ne pourrais pas confirmer qu'il s'agit de saints. Ce qui fait partie d'un présupposé de votre question. Les deux personnages tiennent un livre et ça n
+
+### 'lettrine' -> 25 entrée(s)
+  Q: Quand vous parlez d 'enluminures, vous parlez de l'encadré en haut avec le cheval noir, etc ou des lettrines qui commenc
+  A: En effet, je parle de l'encadré avec le cheval noir, le lion, donc les dessins. Et les lettrines, bien qu'elles soient importantes et qu'elles fassent partie de
+  Q: Est-ce que la première lettre sous forme d'enluminure de chaque énigme contribue à la résolution des énigmes ?
+  A: Les lettrines ont toute leur place dans le jeu, en effet.
+  Q: Est-ce que ce sont des symboles sur le casque du personnage représenté sur la lettrine de l 'énigme 2?
+  A: Là-dessus, je ne peux pas répondre.
+  Q: Énigme 2, charade, le personnage de la lettrine est-il LAC?
+  A: Je ne peux pas répondre.
+  Q: Existe-t-il un lien entre le personnage représenté sur une lettrine et l 'énigme qui commence par celle-ci?
+  A: Ce n'est pas systématique, mais oui, il peut y avoir un lien.
+  Q: Visiblement, vous disiez que l’orthographe n' a pas d'importance, les accents y compris?
+  A: Oui, ce n'est pas majeur. Les lettrines ont leur Oui, ce n'est pas majeur. Les lettrines ont leur importance. Le style, la calligraphie a son importance, mais p
+  Q: Est-ce que le dessin du château derrière la lettrine de l’énigme trois est fidèle à la réalité?
+  A: Sur l'enluminure, c'est assez fidèle à la réalité, sur la lettrine, je ne peux pas répondre.
+  Q: Dans l'énigme Noli Me Tangere, la lettrine est-elle bien bleue et violette?
+  A: Oui, tout à fait. Un bleu royal tirant vers le violet.
+  Q: Dans l'énigme Ultima cena, le dragon sur la lettrine a -t-il un lien avec l'énigme et en particulier avec le lieu corres
+  A: Il n' a pas de lien particulier avec l'humble serviteur du Graal.
+  Q: Concernant la représentation des ruines sur les lettrines de l’enluminure quatre, cela signifie-t-il que le narrateur le
+  A: Pas forcément. Notamment sur les éléments architecturaux, il peut y avoir des éléments modernes pour éviter que la plupart d'entre vous ne trouvent pas le lieu 
+  Q: Lettrine de Ecce Homo, le château de Ecce Homo est-il à identifier?
+  A: Oui, tout à fait.
+  Q: La différence de calligraphie entre les lettrines des énigmes et les lettres centrales d 'Exkalibur est-elle une liberté
+  A: Sur les couleurs, non. Sur le reste, oui.
+
+
+===== FAQ8.TXT =====
+
+### faq8 'coupe' -> 5 occurrence(s)
+   ... z plus tard ? Non. Vous avez toutes les informations depuis le premier jour pour euh, pour le lieu final. Est-ce que la coupe du charpentier en quatre mots dans l'énigme, mais que j'ai traduite en deux mots en respectant la coupe, est une philosophie de vie qui nous est transmise ...
+   ... . Est-ce que la coupe du charpentier en quatre mots dans l'énigme, mais que j'ai traduite en deux mots en respectant la coupe, est une philosophie de vie qui nous est transmise ? Euh, je ne vois pas de quoi vous parlez, donc je ne pourrai pas vous répondre. Les quatre personnages ...
+   ... partie du cahier des charges ? Non. Au milieu de l'épée géante par les dragons sur les enluminures représente-t-elle la coupe tenue au milieu de l'épée géante ? Elle représentait la même chose que celle représentée sur l'enluminure neuf. C'est une excellente question et la répons ...
+   ... euf, symbole dans le ciel. Non, il n'y a pas de lien entre les deux. Nous devons prononcer le nom de Dieu et trouver la coupe du charpentier. Dois-je en déduire que nous devons aussi faire le saut de la foi ? J'apprécie énormément vos références et je suis tenté de vous répondre  ...
+   ...  tout intérêt, en effet, à relier les six C. En effet. Avalon serait-il une abbaye à proximité de laquelle se trouve la coupe du charpentier ? Là-dessus, je ne pourrais pas répondre. Le narrateur s'est-il particulièrement intéressé aux histoires dynastiques anglaises ou n'est-il  ...
+
+### faq8 'charpentier' -> 3 occurrence(s)
+   ... rd ? Non. Vous avez toutes les informations depuis le premier jour pour euh, pour le lieu final. Est-ce que la coupe du charpentier en quatre mots dans l'énigme, mais que j'ai traduite en deux mots en respectant la coupe, est une philosophie de vie qui nous est transmise ? Euh, j ...
+   ... ole dans le ciel. Non, il n'y a pas de lien entre les deux. Nous devons prononcer le nom de Dieu et trouver la coupe du charpentier. Dois-je en déduire que nous devons aussi faire le saut de la foi ? J'apprécie énormément vos références et je suis tenté de vous répondre que oui.  ...
+   ... érêt, en effet, à relier les six C. En effet. Avalon serait-il une abbaye à proximité de laquelle se trouve la coupe du charpentier ? Là-dessus, je ne pourrais pas répondre. Le narrateur s'est-il particulièrement intéressé aux histoires dynastiques anglaises ou n'est-il raccroché ...
+
+### faq8 'stade' -> 1 occurrence(s)
+   ... » pour la prochaine FAQ. Ainsi que sur des points sensibles de l'énigme douze, il sera impossible de vous répondre à ce stade. L'obole a-t-elle son importance ? Non, pas particulièrement. Dans Consumatum es, est-ce que la barque est à Montsalvage ? Oui. Au départ en tout cas. La  ...
+
+### faq8 'palindrome' -> 2 occurrence(s)
+   ... t et neuf est le même arbre qui traverse les saisons ? Euh non, ça n'a pas d'importance. Le narrateur a-t-il écrire des palindromes ? C'est une très bonne question et la réponse est oui. Y a-t-il plusieurs sens de lecture pour le jour de honte et le jour de gloire ? Oui, tout à f ...
+   ...  géographiquement qu'historiquement ? Euh, là-dessus, je ne répondrai pas. Quand tu dis que le narrateur aime faire des palindromes, aime-t-il aussi faire des anagrammes ? Oui, tout à fait. Bonjour, question peut-être un peu bête, mais si on trouve l'épée sur lui-même directement ...
+
+### faq8 'traduit' -> 2 occurrence(s)
+   ... emier jour pour euh, pour le lieu final. Est-ce que la coupe du charpentier en quatre mots dans l'énigme, mais que j'ai traduite en deux mots en respectant la coupe, est une philosophie de vie qui nous est transmise ? Euh, je ne vois pas de quoi vous parlez, donc je ne pourrai pa ...
+   ... rle-nous bien du parchemin comme des énigmes textuelles. Si oui, puis-je trouver Montsalvage sans m'intéresser au texte traduit des énigmes ? Euh si, oui. Oui, tout à fait. Bonsoir Étienne, est-ce que la cloche accolée à la tour de l'enluminure douze n'est pas anachronique par ra ...
+
+### faq8 'acrostiche' -> 0 occurrence(s)
+
+### faq8 'anagramme' -> 1 occurrence(s)
+   ... uh, là-dessus, je ne répondrai pas. Quand tu dis que le narrateur aime faire des palindromes, aime-t-il aussi faire des anagrammes ? Oui, tout à fait. Bonjour, question peut-être un peu bête, mais si on trouve l'épée sur lui-même directement, une justification des résolutions des ...
+
+### faq8 'majesté' -> 1 occurrence(s)
+   ... res de la nuit et de légendes gardées par un homme qui médite au pied de géants martyrisés, suis-je proche de la souche majesté ? Ouh là. Il n'y a rien de ce que vous dites qui me semble vraiment familier. Donc, je vais plutôt vous dire non. Bonsoir Étienne, est-ce que les lettre ...
+
+### faq8 'majeste' -> 1 occurrence(s)
+   ... res de la nuit et de légendes gardées par un homme qui médite au pied de géants martyrisés, suis-je proche de la souche majesté ? Ouh là. Il n'y a rien de ce que vous dites qui me semble vraiment familier. Donc, je vais plutôt vous dire non. Bonsoir Étienne, est-ce que les lettre ...
+
+### faq8 'souche' -> 2 occurrence(s)
+   ...  créatures de la nuit et de légendes gardées par un homme qui médite au pied de géants martyrisés, suis-je proche de la souche majesté ? Ouh là. Il n'y a rien de ce que vous dites qui me semble vraiment familier. Donc, je vais plutôt vous dire non. Bonsoir Étienne, est-ce que les ...
+   ... s bonne question. Je ne pourrais pas y répondre. Bonsoir, penses-tu que l'on pourrait aisément confondre la roche et la souche ? Euh non. N'irais-je pas avoir mal aux pieds à force de marcher si je veux visiter chaque pièce et faire le tour de Montsalvage ? Euh oui, tout à fait.  ...

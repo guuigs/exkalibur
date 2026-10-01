@@ -1,0 +1,6 @@
+11819 lieux en C
+REEL preux x dieux (9 x 225 paires): 2
+('Cesar', 'Iovis', 'T', 'Corveissiat', 'FR')
+('Cesar', 'Set', 'T', 'Casterets', 'FR')
+NUL (20 tirages, dieux mélangés): [2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2]
+preux+preux: []

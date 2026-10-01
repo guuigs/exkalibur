@@ -1,0 +1,6266 @@
+{
+ "ponts": {
+  "n_4km": 66,
+  "items": [
+   {
+    "lat": 45.4506,
+    "lon": 6.04259,
+    "nature": "Pont",
+    "detail": "Pont isolé",
+    "toponyme": null,
+    "cleabs": "CONSLINE0000000128703924"
+   },
+   {
+    "lat": 45.42002,
+    "lon": 6.01462,
+    "nature": "Pont",
+    "detail": "Pont isolé",
+    "toponyme": null,
+    "cleabs": "CONSLINE0000000007526177"
+   },
+   {
+    "lat": 45.43566,
+    "lon": 6.03903,
+    "nature": "Pont",
+    "detail": "Pont isolé",
+    "toponyme": null,
+    "cleabs": "CONSLINE0000000007525983"
+   },
+   {
+    "lat": 45.42677,
+    "lon": 5.98074,
+    "nature": "Pont",
+    "detail": null,
+    "toponyme": null,
+    "cleabs": "CONSLINE0000000007526094"
+   },
+   {
+    "lat": 45.44956,
+    "lon": 6.04945,
+    "nature": "Pont",
+    "detail": null,
+    "toponyme": null,
+    "cleabs": "CONSLINE0000000012594920"
+   },
+   {
+    "lat": 45.43715,
+    "lon": 6.01572,
+    "nature": "Pont",
+    "detail": null,
+    "toponyme": null,
+    "cleabs": "CONSLINE0000000217045053"
+   },
+   {
+    "lat": 45.44762,
+    "lon": 6.02666,
+    "nature": "Pont",
+    "detail": null,
+    "toponyme": null,
+    "cleabs": "CONSLINE0000000012594916"
+   },
+   {
+    "lat": 45.45193,
+    "lon": 6.05529,
+    "nature": "Pont",
+    "detail": null,
+    "toponyme": "Pont Mathieu",
+    "cleabs": "CONSLINE0000000012594918"
+   },
+   {
+    "lat": 45.43949,
+    "lon": 6.05303,
+    "nature": "Pont",
+    "detail": null,
+    "toponyme": "Pont des Bretonnières",
+    "cleabs": "CONSLINE0000000012594917"
+   },
+   {
+    "lat": 45.42666,
+    "lon": 6.00822,
+    "nature": "Pont",
+    "detail": null,
+    "toponyme": null,
+    "cleabs": "CONSLINE0000000007526093"
+   },
+   {
+    "lat": 45.41895,
+    "lon": 6.00914,
+    "nature": "Pont",
+    "detail": null,
+    "toponyme": null,
+    "cleabs": "CONSLINE0000000007526180"
+   },
+   {
+    "lat": 45.41615,
+    "lon": 5.99051,
+    "nature": "Pont",
+    "detail": null,
+    "toponyme": null,
+    "cleabs": "CONSLINE0000000007526317"
+   },
+   {
+    "lat": 45.41663,
+    "lon": 6.0091,
+    "nature": "Pont",
+    "detail": null,
+    "toponyme": null,
+    "cleabs": "CONSLINE0000000007526313"
+   },
+   {
+    "lat": 45.41173,
+    "lon": 6.01503,
+    "nature": "Pont",
+    "detail": null,
+    "toponyme": null,
+    "cleabs": "CONSLINE0000000007526311"
+   },
+   {
+    "lat": 45.41163,
+    "lon": 6.00959,
+    "nature": "Pont",
+    "detail": null,
+    "toponyme": null,
+    "cleabs": "CONSLINE0000000007526310"
+   },
+   {
+    "lat": 45.41681,
+    "lon": 6.00805,
+    "nature": "Pont",
+    "detail": null,
+    "toponyme": null,
+    "cleabs": "CONSLINE0000000007526316"
+   },
+   {
+    "lat": 45.42357,
+    "lon": 6.01098,
+    "nature": "Pont",
+    "detail": null,
+    "toponyme": null,
+    "cleabs": "CONSLINE0000000007526179"
+   },
+   {
+    "lat": 45.42232,
+    "lon": 6.01118,
+    "nature": "Pont",
+    "detail": null,
+    "toponyme": null,
+    "cleabs": "CONSLINE0000000007526178"
+   },
+   {
+    "lat": 45.42227,
+    "lon": 6.0087,
+    "nature": "Pont",
+    "detail": null,
+    "toponyme": null,
+    "cleabs": "CONSLINE0000000007526182"
+   },
+   {
+    "lat": 45.40708,
+    "lon": 5.99614,
+    "nature": "Pont",
+    "detail": null,
+    "toponyme": null,
+    "cleabs": "CONSLINE0000000007526443"
+   },
+   {
+    "lat": 45.40987,
+    "lon": 6.00586,
+    "nature": "Pont",
+    "detail": null,
+    "toponyme": null,
+    "cleabs": "CONSLINE0000000007526441"
+   },
+   {
+    "lat": 45.4402,
+    "lon": 6.0116,
+    "nature": "Pont",
+    "detail": null,
+    "toponyme": null,
+    "cleabs": "CONSLINE0000000007525986"
+   },
+   {
+    "lat": 45.43494,
+    "lon": 6.02176,
+    "nature": "Pont",
+    "detail": null,
+    "toponyme": null,
+    "cleabs": "CONSLINE0000000007525985"
+   },
+   {
+    "lat": 45.4393,
+    "lon": 6.01089,
+    "nature": "Pont",
+    "detail": null,
+    "toponyme": null,
+    "cleabs": "CONSLINE0000000007525989"
+   },
+   {
+    "lat": 45.44341,
+    "lon": 6.00337,
+    "nature": "Pont",
+    "detail": null,
+    "toponyme": null,
+    "cleabs": "CONSLINE0000000007525910"
+   },
+   {
+    "lat": 45.44341,
+    "lon": 6.00354,
+    "nature": "Pont",
+    "detail": null,
+    "toponyme": null,
+    "cleabs": "CONSLINE0000000007525909"
+   },
+   {
+    "lat": 45.44657,
+    "lon": 6.01857,
+    "nature": "Pont",
+    "detail": null,
+    "toponyme": null,
+    "cleabs": "CONSLINE0000000007525906"
+   },
+   {
+    "lat": 45.44368,
+    "lon": 6.01427,
+    "nature": "Pont",
+    "detail": null,
+    "toponyme": null,
+    "cleabs": "CONSLINE0000000007525905"
+   },
+   {
+    "lat": 45.44624,
+    "lon": 6.01626,
+    "nature": "Pont",
+    "detail": null,
+    "toponyme": null,
+    "cleabs": "CONSLINE0000000007525904"
+   },
+   {
+    "lat": 45.45463,
+    "lon": 6.03738,
+    "nature": "Pont",
+    "detail": null,
+    "toponyme": null,
+    "cleabs": "CONSLINE0000000012594919"
+   },
+   {
+    "lat": 45.43133,
+    "lon": 6.0232,
+    "nature": "Pont",
+    "detail": null,
+    "toponyme": null,
+    "cleabs": "CONSLINE0000000007526091"
+   },
+   {
+    "lat": 45.43258,
+    "lon": 6.02569,
+    "nature": "Pont",
+    "detail": null,
+    "toponyme": null,
+    "cleabs": "CONSLINE0000000007526088"
+   },
+   {
+    "lat": 45.42491,
+    "lon": 6.00991,
+    "nature": "Pont",
+    "detail": null,
+    "toponyme": null,
+    "cleabs": "CONSLINE0000000007526181"
+   },
+   {
+    "lat": 45.44616,
+    "lon": 6.01584,
+    "nature": "Pont",
+    "detail": null,
+    "toponyme": null,
+    "cleabs": "CONSLINE0000000007525907"
+   },
+   {
+    "lat": 45.43646,
+    "lon": 6.0182,
+    "nature": "Pont",
+    "detail": null,
+    "toponyme": null,
+    "cleabs": "CONSLINE0000000035780776"
+   },
+   {
+    "lat": 45.42457,
+    "lon": 5.99798,
+    "nature": "Pont",
+    "detail": null,
+    "toponyme": null,
+    "cleabs": "CONSLINE0000000007526184"
+   },
+   {
+    "lat": 45.41189,
+    "lon": 6.00728,
+    "nature": "Pont",
+    "detail": null,
+    "toponyme": null,
+    "cleabs": "CONSLINE0000000007526314"
+   },
+   {
+    "lat": 45.41159,
+    "lon": 6.01246,
+    "nature": "Pont",
+    "detail": null,
+    "toponyme": null,
+    "cleabs": "CONSLINE0000000007526312"
+   },
+   {
+    "lat": 45.45392,
+    "lon": 6.06456,
+    "nature": "Pont",
+    "detail": null,
+    "toponyme": null,
+    "cleabs": "CONSLINE0000000231404851"
+   },
+   {
+    "lat": 45.45478,
+    "lon": 6.06541,
+    "nature": "Pont",
+    "detail": null,
+    "toponyme": null,
+    "cleabs": "CONSLINE0000000012594899"
+   },
+   {
+    "lat": 45.41236,
+    "lon": 6.00561,
+    "nature": "Pont",
+    "detail": null,
+    "toponyme": null,
+    "cleabs": "CONSLINE0000000007526315"
+   },
+   {
+    "lat": 45.43113,
+    "lon": 6.02222,
+    "nature": "Pont",
+    "detail": null,
+    "toponyme": null,
+    "cleabs": "CONSLINE0000000253540154"
+   },
+   {
+    "lat": 45.43548,
+    "lon": 5.98638,
+    "nature": "Pont",
+    "detail": null,
+    "toponyme": null,
+    "cleabs": "CONSLINE0000000253554687"
+   },
+   {
+    "lat": 45.43921,
+    "lon": 6.01113,
+    "nature": "Pont",
+    "detail": null,
+    "toponyme": null,
+    "cleabs": "CONSLINE0000000007525987"
+   },
+   {
+    "lat": 45.4237,
+    "lon": 6.02257,
+    "nature": "Pont",
+    "detail": null,
+    "toponyme": null,
+    "cleabs": "CONSLINE0000000351525378"
+   },
+   {
+    "lat": 45.41075,
+    "lon": 6.01504,
+    "nature": "Pont",
+    "detail": null,
+    "toponyme": null,
+    "cleabs": "CONSLINE0000000351547378"
+   },
+   {
+    "lat": 45.40537,
+    "lon": 6.00355,
+    "nature": "Pont",
+    "detail": null,
+    "toponyme": null,
+    "cleabs": "CONSLINE0000000354084195"
+   },
+   {
+    "lat": 45.44297,
+    "lon": 6.00764,
+    "nature": "Pont",
+    "detail": null,
+    "toponyme": null,
+    "cleabs": "CONSLINE0000000354084692"
+   },
+   {
+    "lat": 45.41247,
+    "lon": 6.07446,
+    "nature": "Pont",
+    "detail": null,
+    "toponyme": null,
+    "cleabs": "CONSLINE0000000354084850"
+   },
+   {
+    "lat": 45.43258,
+    "lon": 6.02576,
+    "nature": "Pont",
+    "detail": "Passerelle",
+    "toponyme": null,
+    "cleabs": "CONSLINE0000000358027326"
+   },
+   {
+    "lat": 45.42244,
+    "lon": 5.9981,
+    "nature": "Pont",
+    "detail": null,
+    "toponyme": null,
+    "cleabs": "CONSLINE0000000358024693"
+   },
+   {
+    "lat": 45.41452,
+    "lon": 6.022,
+    "nature": "Pont",
+    "detail": null,
+    "toponyme": null,
+    "cleabs": "CONSLINE0000000351571910"
+   },
+   {
+    "lat": 45.44082,
+    "lon": 6.00818,
+    "nature": "Pont",
+    "detail": null,
+    "toponyme": null,
+    "cleabs": "CONSLINE0000002003582957"
+   },
+   {
+    "lat": 45.459,
+    "lon": 6.05816,
+    "nature": "Pont",
+    "detail": null,
+    "toponyme": null,
+    "cleabs": "CONSLINE0000002009106221"
+   },
+   {
+    "lat": 45.42646,
+    "lon": 6.01524,
+    "nature": "Pont",
+    "detail": null,
+    "toponyme": null,
+    "cleabs": "CONSLINE0000000226406646"
+   },
+   {
+    "lat": 45.41931,
+    "lon": 5.98244,
+    "nature": "Pont",
+    "detail": "Passerelle",
+    "toponyme": null,
+    "cleabs": "CONSLINE0000002499355100"
+   },
+   {
+    "lat": 45.4627,
+    "lon": 6.04667,
+    "nature": "Pont",
+    "detail": null,
+    "toponyme": "Pont des Mollettes",
+    "cleabs": "CONSLINE0000000012593177"
+   },
+   {
+    "lat": 45.43543,
+    "lon": 6.00421,
+    "nature": "Pont",
+    "detail": null,
+    "toponyme": "Pont de la Gache",
+    "cleabs": "CONSLINE0000000007525988"
+   },
+   {
+    "lat": 45.44695,
+    "lon": 5.99927,
+    "nature": "Pont",
+    "detail": null,
+    "toponyme": "Pont du Furet",
+    "cleabs": "CONSLINE0000000007525911"
+   },
+   {
+    "lat": 45.45236,
+    "lon": 6.03427,
+    "nature": "Pont",
+    "detail": null,
+    "toponyme": "Pont des Lots",
+    "cleabs": "CONSLINE0000000012594915"
+   },
+   {
+    "lat": 45.40458,
+    "lon": 6.04325,
+    "nature": "Pont",
+    "detail": null,
+    "toponyme": null,
+    "cleabs": "CONSLINE0000000007526440"
+   },
+   {
+    "lat": 45.40647,
+    "lon": 5.99775,
+    "nature": "Pont",
+    "detail": null,
+    "toponyme": null,
+    "cleabs": "CONSSURF0000000007535636"
+   },
+   {
+    "lat": 45.41252,
+    "lon": 5.9994,
+    "nature": "Pont",
+    "detail": null,
+    "toponyme": null,
+    "cleabs": "CONSSURF0000000007535635"
+   },
+   {
+    "lat": 45.4333,
+    "lon": 6.00761,
+    "nature": "Pont",
+    "detail": null,
+    "toponyme": null,
+    "cleabs": "CONSSURF0000002203819709"
+   },
+   {
+    "lat": 45.43564,
+    "lon": 6.00294,
+    "nature": "Pont",
+    "detail": null,
+    "toponyme": null,
+    "cleabs": "CONSSURF0000000007535633"
+   },
+   {
+    "lat": 45.43255,
+    "lon": 6.02706,
+    "nature": "Pont",
+    "detail": null,
+    "toponyme": null,
+    "cleabs": "CONSSURF0000000043954130"
+   }
+  ],
+  "pairs": [
+   [
+    0,
+    39,
+    1839.4
+   ],
+   [
+    1,
+    34,
+    1848.7
+   ],
+   [
+    1,
+    46,
+    1844.1
+   ],
+   [
+    2,
+    44,
+    1848.6
+   ],
+   [
+    6,
+    25,
+    1863.4
+   ],
+   [
+    6,
+    41,
+    1865.3
+   ],
+   [
+    8,
+    38,
+    1840.0
+   ],
+   [
+    9,
+    45,
+    1847.5
+   ],
+   [
+    12,
+    63,
+    1857.1
+   ],
+   [
+    15,
+    63,
+    1833.9
+   ],
+   [
+    16,
+    21,
+    1849.7
+   ],
+   [
+    18,
+    65,
+    1833.0
+   ],
+   [
+    27,
+    59,
+    1834.5
+   ],
+   [
+    35,
+    37,
+    1833.2
+   ],
+   [
+    41,
+    51,
+    1847.2
+   ],
+   [
+    42,
+    47,
+    1856.5
+   ],
+   [
+    45,
+    50,
+    1853.6
+   ],
+   [
+    55,
+    61,
+    1861.8
+   ]
+  ]
+ },
+ "croix": {
+  "n_4km": 8,
+  "items": [
+   {
+    "lat": 45.43798,
+    "lon": 5.98371,
+    "nature": "Croix",
+    "detail": null,
+    "toponyme": "Croix de Mission",
+    "cleabs": "CONSPONC0000000007460091"
+   },
+   {
+    "lat": 45.45036,
+    "lon": 6.05757,
+    "nature": "Croix",
+    "detail": null,
+    "toponyme": null,
+    "cleabs": "CONSPONC0000000231404853"
+   },
+   {
+    "lat": 45.43042,
+    "lon": 6.04703,
+    "nature": "Croix",
+    "detail": null,
+    "toponyme": null,
+    "cleabs": "CONSPONC0000000255862601"
+   },
+   {
+    "lat": 45.44916,
+    "lon": 6.06523,
+    "nature": "Croix",
+    "detail": null,
+    "toponyme": null,
+    "cleabs": "CONSPONC0000000279106092"
+   },
+   {
+    "lat": 45.44203,
+    "lon": 6.03185,
+    "nature": "Croix",
+    "detail": null,
+    "toponyme": null,
+    "cleabs": "CONSPONC0000000292406406"
+   },
+   {
+    "lat": 45.43077,
+    "lon": 6.0348,
+    "nature": "Croix",
+    "detail": null,
+    "toponyme": null,
+    "cleabs": "CONSPONC0000000342994430"
+   },
+   {
+    "lat": 45.42123,
+    "lon": 6.02592,
+    "nature": "Croix",
+    "detail": null,
+    "toponyme": null,
+    "cleabs": "CONSPONC0000002009756618"
+   },
+   {
+    "lat": 45.42834,
+    "lon": 6.03781,
+    "nature": "Croix",
+    "detail": null,
+    "toponyme": null,
+    "cleabs": "CONSPONC0000002206213701"
+   }
+  ],
+  "pairs": []
+ },
+ "fontaines_sources_lavoirs": {
+  "n_4km": 36,
+  "items": [
+   {
+    "lat": 45.44689,
+    "lon": 5.9892,
+    "nature": "Fontaine",
+    "detail": null,
+    "toponyme": null,
+    "cleabs": "PAIHYDRO0000000320268753"
+   },
+   {
+    "lat": 45.42922,
+    "lon": 6.04547,
+    "nature": "Fontaine",
+    "detail": null,
+    "toponyme": null,
+    "cleabs": "PAIHYDRO0000000320268767"
+   },
+   {
+    "lat": 45.44053,
+    "lon": 6.02741,
+    "nature": "Fontaine",
+    "detail": null,
+    "toponyme": null,
+    "cleabs": "PAIHYDRO0000000320268768"
+   },
+   {
+    "lat": 45.44805,
+    "lon": 6.07198,
+    "nature": "Fontaine",
+    "detail": null,
+    "toponyme": null,
+    "cleabs": "PAIHYDRO0000000320268777"
+   },
+   {
+    "lat": 45.43224,
+    "lon": 5.98867,
+    "nature": "Source captée",
+    "detail": null,
+    "toponyme": null,
+    "cleabs": "PAIHYDRO0000000320268783"
+   },
+   {
+    "lat": 45.43113,
+    "lon": 6.08164,
+    "nature": "Source",
+    "detail": null,
+    "toponyme": null,
+    "cleabs": "PAIHYDRO0000000320268792"
+   },
+   {
+    "lat": 45.45034,
+    "lon": 6.05354,
+    "nature": "Source captée",
+    "detail": null,
+    "toponyme": null,
+    "cleabs": "PAIHYDRO0000000320268795"
+   },
+   {
+    "lat": 45.44898,
+    "lon": 5.99756,
+    "nature": "Point d'eau",
+    "detail": null,
+    "toponyme": null,
+    "cleabs": "PAIHYDRO0000000320268837"
+   },
+   {
+    "lat": 45.43282,
+    "lon": 6.0782,
+    "nature": "Point d'eau",
+    "detail": null,
+    "toponyme": null,
+    "cleabs": "PAIHYDRO0000000320268846"
+   },
+   {
+    "lat": 45.42088,
+    "lon": 6.03355,
+    "nature": "Fontaine",
+    "detail": null,
+    "toponyme": null,
+    "cleabs": "PAIHYDRO0000000320269962"
+   },
+   {
+    "lat": 45.42129,
+    "lon": 6.0258,
+    "nature": "Fontaine",
+    "detail": null,
+    "toponyme": null,
+    "cleabs": "PAIHYDRO0000000320269963"
+   },
+   {
+    "lat": 45.42776,
+    "lon": 6.01612,
+    "nature": "Fontaine",
+    "detail": null,
+    "toponyme": null,
+    "cleabs": "PAIHYDRO0000000320269964"
+   },
+   {
+    "lat": 45.41242,
+    "lon": 6.01403,
+    "nature": "Fontaine",
+    "detail": null,
+    "toponyme": null,
+    "cleabs": "PAIHYDRO0000000320269965"
+   },
+   {
+    "lat": 45.40627,
+    "lon": 6.02168,
+    "nature": "Fontaine",
+    "detail": null,
+    "toponyme": null,
+    "cleabs": "PAIHYDRO0000000320269966"
+   },
+   {
+    "lat": 45.41348,
+    "lon": 6.01294,
+    "nature": "Fontaine",
+    "detail": null,
+    "toponyme": null,
+    "cleabs": "PAIHYDRO0000000320269974"
+   },
+   {
+    "lat": 45.40781,
+    "lon": 6.01469,
+    "nature": "Fontaine",
+    "detail": null,
+    "toponyme": null,
+    "cleabs": "PAIHYDRO0000000320269975"
+   },
+   {
+    "lat": 45.42071,
+    "lon": 6.03385,
+    "nature": "Fontaine",
+    "detail": null,
+    "toponyme": null,
+    "cleabs": "PAIHYDRO0000000320269977"
+   },
+   {
+    "lat": 45.39641,
+    "lon": 6.0517,
+    "nature": "Fontaine",
+    "detail": null,
+    "toponyme": null,
+    "cleabs": "PAIHYDRO0000000320269985"
+   },
+   {
+    "lat": 45.41181,
+    "lon": 6.06635,
+    "nature": "Source",
+    "detail": null,
+    "toponyme": null,
+    "cleabs": "PAIHYDRO0000000320269991"
+   },
+   {
+    "lat": 45.42393,
+    "lon": 6.08064,
+    "nature": "Source",
+    "detail": null,
+    "toponyme": null,
+    "cleabs": "PAIHYDRO0000000320269993"
+   },
+   {
+    "lat": 45.42177,
+    "lon": 6.04019,
+    "nature": "Source",
+    "detail": null,
+    "toponyme": null,
+    "cleabs": "PAIHYDRO0000000320269994"
+   },
+   {
+    "lat": 45.421,
+    "lon": 6.03987,
+    "nature": "Source",
+    "detail": null,
+    "toponyme": null,
+    "cleabs": "PAIHYDRO0000000320269995"
+   },
+   {
+    "lat": 45.42759,
+    "lon": 6.04072,
+    "nature": "Source captée",
+    "detail": null,
+    "toponyme": null,
+    "cleabs": "PAIHYDRO0000000320270019"
+   },
+   {
+    "lat": 45.40679,
+    "lon": 6.06498,
+    "nature": "Source captée",
+    "detail": null,
+    "toponyme": null,
+    "cleabs": "PAIHYDRO0000000320270023"
+   },
+   {
+    "lat": 45.41346,
+    "lon": 6.02489,
+    "nature": "Point d'eau",
+    "detail": null,
+    "toponyme": null,
+    "cleabs": "PAIHYDRO0000000320270053"
+   },
+   {
+    "lat": 45.41164,
+    "lon": 6.04726,
+    "nature": "Point d'eau",
+    "detail": null,
+    "toponyme": null,
+    "cleabs": "PAIHYDRO0000000320270054"
+   },
+   {
+    "lat": 45.41639,
+    "lon": 6.02216,
+    "nature": "Point d'eau",
+    "detail": null,
+    "toponyme": null,
+    "cleabs": "PAIHYDRO0000000320270056"
+   },
+   {
+    "lat": 45.41839,
+    "lon": 6.07221,
+    "nature": "Point d'eau",
+    "detail": null,
+    "toponyme": null,
+    "cleabs": "PAIHYDRO0000000320270059"
+   },
+   {
+    "lat": 45.41383,
+    "lon": 6.06318,
+    "nature": "Point d'eau",
+    "detail": "Abreuvoir",
+    "toponyme": null,
+    "cleabs": "PAIHYDRO0000000320270062"
+   },
+   {
+    "lat": 45.45022,
+    "lon": 6.0634,
+    "nature": "Lavoir",
+    "detail": null,
+    "toponyme": null,
+    "cleabs": "PAIHYDRO0000000351472771"
+   },
+   {
+    "lat": 45.42234,
+    "lon": 6.03446,
+    "nature": "Lavoir",
+    "detail": null,
+    "toponyme": null,
+    "cleabs": "PAIHYDRO0000000351541416"
+   },
+   {
+    "lat": 45.41157,
+    "lon": 6.06584,
+    "nature": "Source",
+    "detail": null,
+    "toponyme": null,
+    "cleabs": "PAIHYDRO0000000353520101"
+   },
+   {
+    "lat": 45.4116,
+    "lon": 6.06777,
+    "nature": "Source",
+    "detail": null,
+    "toponyme": null,
+    "cleabs": "PAIHYDRO0000000353520111"
+   },
+   {
+    "lat": 45.44883,
+    "lon": 6.07048,
+    "nature": "Fontaine",
+    "detail": null,
+    "toponyme": null,
+    "cleabs": "PAIHYDRO0000000354083838"
+   },
+   {
+    "lat": 45.43012,
+    "lon": 6.05118,
+    "nature": "Fontaine",
+    "detail": null,
+    "toponyme": null,
+    "cleabs": "PAIHYDRO0000000354084586"
+   },
+   {
+    "lat": 45.4388,
+    "lon": 6.03041,
+    "nature": "Fontaine",
+    "detail": null,
+    "toponyme": null,
+    "cleabs": "PAIHYDRO0000000354084718"
+   }
+  ],
+  "pairs": [
+   [
+    13,
+    16,
+    1866.4
+   ],
+   [
+    22,
+    25,
+    1845.5
+   ],
+   [
+    30,
+    35,
+    1857.5
+   ]
+  ]
+ },
+ "barrages": {
+  "n_4km": 1,
+  "items": [
+   {
+    "lat": 45.43584,
+    "lon": 6.03972,
+    "nature": "Barrage",
+    "detail": null,
+    "toponyme": null,
+    "cleabs": "CONSLINE0000000007525984"
+   }
+  ],
+  "pairs": []
+ },
+ "arbres": {
+  "n_4km": 0,
+  "items": [],
+  "pairs": []
+ },
+ "rochers": {
+  "n_4km": 0,
+  "items": [],
+  "pairs": []
+ },
+ "route_empierree": {
+  "n_4km": 361,
+  "items": [
+   {
+    "lat": 45.4046,
+    "lon": 6.04744,
+    "nature": "Route empierrée",
+    "detail": null,
+    "toponyme": null,
+    "cleabs": "TRONROUT0000000007955157"
+   },
+   {
+    "lat": 45.42059,
+    "lon": 6.02551,
+    "nature": "Route empierrée",
+    "detail": null,
+    "toponyme": null,
+    "cleabs": "TRONROUT0000000007950249"
+   },
+   {
+    "lat": 45.44903,
+    "lon": 6.01133,
+    "nature": "Route empierrée",
+    "detail": null,
+    "toponyme": null,
+    "cleabs": "TRONROUT0000000007941424"
+   },
+   {
+    "lat": 45.45713,
+    "lon": 6.00167,
+    "nature": "Route empierrée",
+    "detail": null,
+    "toponyme": null,
+    "cleabs": "TRONROUT0000000007941431"
+   },
+   {
+    "lat": 45.45495,
+    "lon": 6.00071,
+    "nature": "Route empierrée",
+    "detail": null,
+    "toponyme": null,
+    "cleabs": "TRONROUT0000000007941443"
+   },
+   {
+    "lat": 45.45236,
+    "lon": 5.99371,
+    "nature": "Route empierrée",
+    "detail": null,
+    "toponyme": null,
+    "cleabs": "TRONROUT0000000007941444"
+   },
+   {
+    "lat": 45.45244,
+    "lon": 5.99525,
+    "nature": "Route empierrée",
+    "detail": null,
+    "toponyme": null,
+    "cleabs": "TRONROUT0000000007941450"
+   },
+   {
+    "lat": 45.44001,
+    "lon": 6.06178,
+    "nature": "Route empierrée",
+    "detail": null,
+    "toponyme": null,
+    "cleabs": "TRONROUT0000000007943200"
+   },
+   {
+    "lat": 45.44077,
+    "lon": 6.04154,
+    "nature": "Route empierrée",
+    "detail": null,
+    "toponyme": null,
+    "cleabs": "TRONROUT0000000007943230"
+   },
+   {
+    "lat": 45.44147,
+    "lon": 6.0326,
+    "nature": "Route empierrée",
+    "detail": null,
+    "toponyme": null,
+    "cleabs": "TRONROUT0000000007943235"
+   },
+   {
+    "lat": 45.441,
+    "lon": 6.03186,
+    "nature": "Route empierrée",
+    "detail": null,
+    "toponyme": null,
+    "cleabs": "TRONROUT0000000007943259"
+   },
+   {
+    "lat": 45.44796,
+    "lon": 6.01866,
+    "nature": "Route empierrée",
+    "detail": null,
+    "toponyme": null,
+    "cleabs": "TRONROUT0000000007943265"
+   },
+   {
+    "lat": 45.44275,
+    "lon": 6.01949,
+    "nature": "Route empierrée",
+    "detail": null,
+    "toponyme": null,
+    "cleabs": "TRONROUT0000000007943287"
+   },
+   {
+    "lat": 45.44722,
+    "lon": 6.01415,
+    "nature": "Route empierrée",
+    "detail": null,
+    "toponyme": null,
+    "cleabs": "TRONROUT0000000007943293"
+   },
+   {
+    "lat": 45.4417,
+    "lon": 6.01258,
+    "nature": "Route empierrée",
+    "detail": null,
+    "toponyme": null,
+    "cleabs": "TRONROUT0000000007943305"
+   },
+   {
+    "lat": 45.44499,
+    "lon": 6.01513,
+    "nature": "Route empierrée",
+    "detail": null,
+    "toponyme": null,
+    "cleabs": "TRONROUT0000000007943306"
+   },
+   {
+    "lat": 45.45265,
+    "lon": 6.00912,
+    "nature": "Route empierrée",
+    "detail": null,
+    "toponyme": null,
+    "cleabs": "TRONROUT0000000007943317"
+   },
+   {
+    "lat": 45.4421,
+    "lon": 6.00562,
+    "nature": "Route empierrée",
+    "detail": null,
+    "toponyme": null,
+    "cleabs": "TRONROUT0000000007943318"
+   },
+   {
+    "lat": 45.44541,
+    "lon": 6.00894,
+    "nature": "Route empierrée",
+    "detail": null,
+    "toponyme": null,
+    "cleabs": "TRONROUT0000000007943333"
+   },
+   {
+    "lat": 45.4451,
+    "lon": 6.00297,
+    "nature": "Route empierrée",
+    "detail": null,
+    "toponyme": null,
+    "cleabs": "TRONROUT0000000007943336"
+   },
+   {
+    "lat": 45.44396,
+    "lon": 6.00228,
+    "nature": "Route empierrée",
+    "detail": null,
+    "toponyme": null,
+    "cleabs": "TRONROUT0000000007943337"
+   },
+   {
+    "lat": 45.44392,
+    "lon": 6.00843,
+    "nature": "Route empierrée",
+    "detail": null,
+    "toponyme": null,
+    "cleabs": "TRONROUT0000000007943339"
+   },
+   {
+    "lat": 45.44728,
+    "lon": 6.00289,
+    "nature": "Route empierrée",
+    "detail": null,
+    "toponyme": null,
+    "cleabs": "TRONROUT0000000007943341"
+   },
+   {
+    "lat": 45.44921,
+    "lon": 5.99727,
+    "nature": "Route empierrée",
+    "detail": null,
+    "toponyme": null,
+    "cleabs": "TRONROUT0000000007943352"
+   },
+   {
+    "lat": 45.44821,
+    "lon": 5.98955,
+    "nature": "Route empierrée",
+    "detail": null,
+    "toponyme": null,
+    "cleabs": "TRONROUT0000000007943385"
+   },
+   {
+    "lat": 45.43532,
+    "lon": 6.06527,
+    "nature": "Route empierrée",
+    "detail": null,
+    "toponyme": null,
+    "cleabs": "TRONROUT0000000007945333"
+   },
+   {
+    "lat": 45.43785,
+    "lon": 6.06956,
+    "nature": "Route empierrée",
+    "detail": null,
+    "toponyme": null,
+    "cleabs": "TRONROUT0000000007945334"
+   },
+   {
+    "lat": 45.4344,
+    "lon": 6.0643,
+    "nature": "Route empierrée",
+    "detail": null,
+    "toponyme": null,
+    "cleabs": "TRONROUT0000000007945335"
+   },
+   {
+    "lat": 45.438,
+    "lon": 6.0721,
+    "nature": "Route empierrée",
+    "detail": null,
+    "toponyme": null,
+    "cleabs": "TRONROUT0000000007945330"
+   },
+   {
+    "lat": 45.43678,
+    "lon": 6.06769,
+    "nature": "Route empierrée",
+    "detail": null,
+    "toponyme": null,
+    "cleabs": "TRONROUT0000000007945332"
+   },
+   {
+    "lat": 45.43924,
+    "lon": 6.07788,
+    "nature": "Route empierrée",
+    "detail": null,
+    "toponyme": null,
+    "cleabs": "TRONROUT0000000007945329"
+   },
+   {
+    "lat": 45.43618,
+    "lon": 6.06642,
+    "nature": "Route empierrée",
+    "detail": null,
+    "toponyme": null,
+    "cleabs": "TRONROUT0000000007945336"
+   },
+   {
+    "lat": 45.4344,
+    "lon": 6.0602,
+    "nature": "Route empierrée",
+    "detail": null,
+    "toponyme": null,
+    "cleabs": "TRONROUT0000000007945357"
+   },
+   {
+    "lat": 45.43319,
+    "lon": 6.06291,
+    "nature": "Route empierrée",
+    "detail": null,
+    "toponyme": null,
+    "cleabs": "TRONROUT0000000007945358"
+   },
+   {
+    "lat": 45.4319,
+    "lon": 6.06165,
+    "nature": "Route empierrée",
+    "detail": null,
+    "toponyme": null,
+    "cleabs": "TRONROUT0000000007945360"
+   },
+   {
+    "lat": 45.43148,
+    "lon": 6.0615,
+    "nature": "Route empierrée",
+    "detail": null,
+    "toponyme": null,
+    "cleabs": "TRONROUT0000000007945361"
+   },
+   {
+    "lat": 45.43273,
+    "lon": 6.04805,
+    "nature": "Route empierrée",
+    "detail": null,
+    "toponyme": null,
+    "cleabs": "TRONROUT0000000007945372"
+   },
+   {
+    "lat": 45.4328,
+    "lon": 6.03785,
+    "nature": "Route empierrée",
+    "detail": null,
+    "toponyme": null,
+    "cleabs": "TRONROUT0000000007945385"
+   },
+   {
+    "lat": 45.44011,
+    "lon": 6.02381,
+    "nature": "Route empierrée",
+    "detail": null,
+    "toponyme": null,
+    "cleabs": "TRONROUT0000000007945401"
+   },
+   {
+    "lat": 45.43547,
+    "lon": 6.0253,
+    "nature": "Route empierrée",
+    "detail": null,
+    "toponyme": null,
+    "cleabs": "TRONROUT0000000007945434"
+   },
+   {
+    "lat": 45.43433,
+    "lon": 6.01454,
+    "nature": "Route empierrée",
+    "detail": null,
+    "toponyme": null,
+    "cleabs": "TRONROUT0000000007945577"
+   },
+   {
+    "lat": 45.43403,
+    "lon": 6.01819,
+    "nature": "Route empierrée",
+    "detail": null,
+    "toponyme": null,
+    "cleabs": "TRONROUT0000000007945580"
+   },
+   {
+    "lat": 45.44048,
+    "lon": 6.01079,
+    "nature": "Route empierrée",
+    "detail": null,
+    "toponyme": null,
+    "cleabs": "TRONROUT0000000007945605"
+   },
+   {
+    "lat": 45.44061,
+    "lon": 6.00534,
+    "nature": "Route empierrée",
+    "detail": null,
+    "toponyme": null,
+    "cleabs": "TRONROUT0000000007945619"
+   },
+   {
+    "lat": 45.43835,
+    "lon": 6.00643,
+    "nature": "Route empierrée",
+    "detail": null,
+    "toponyme": null,
+    "cleabs": "TRONROUT0000000007945634"
+   },
+   {
+    "lat": 45.43873,
+    "lon": 6.01029,
+    "nature": "Route empierrée",
+    "detail": null,
+    "toponyme": null,
+    "cleabs": "TRONROUT0000000007945688"
+   },
+   {
+    "lat": 45.43816,
+    "lon": 6.00527,
+    "nature": "Route empierrée",
+    "detail": null,
+    "toponyme": null,
+    "cleabs": "TRONROUT0000000007945700"
+   },
+   {
+    "lat": 45.43858,
+    "lon": 5.99635,
+    "nature": "Route empierrée",
+    "detail": null,
+    "toponyme": null,
+    "cleabs": "TRONROUT0000000007945718"
+   },
+   {
+    "lat": 45.44139,
+    "lon": 5.987,
+    "nature": "Route empierrée",
+    "detail": null,
+    "toponyme": null,
+    "cleabs": "TRONROUT0000000007945736"
+   },
+   {
+    "lat": 45.43031,
+    "lon": 6.082,
+    "nature": "Route empierrée",
+    "detail": null,
+    "toponyme": null,
+    "cleabs": "TRONROUT0000000007947608"
+   },
+   {
+    "lat": 45.4274,
+    "lon": 6.08108,
+    "nature": "Route empierrée",
+    "detail": null,
+    "toponyme": null,
+    "cleabs": "TRONROUT0000000007947581"
+   },
+   {
+    "lat": 45.4287,
+    "lon": 6.08125,
+    "nature": "Route empierrée",
+    "detail": null,
+    "toponyme": null,
+    "cleabs": "TRONROUT0000000007947582"
+   },
+   {
+    "lat": 45.42594,
+    "lon": 6.07394,
+    "nature": "Route empierrée",
+    "detail": null,
+    "toponyme": null,
+    "cleabs": "TRONROUT0000000007947596"
+   },
+   {
+    "lat": 45.42505,
+    "lon": 6.07384,
+    "nature": "Route empierrée",
+    "detail": null,
+    "toponyme": null,
+    "cleabs": "TRONROUT0000000007947602"
+   },
+   {
+    "lat": 45.43148,
+    "lon": 6.06114,
+    "nature": "Route empierrée",
+    "detail": null,
+    "toponyme": null,
+    "cleabs": "TRONROUT0000000007947634"
+   },
+   {
+    "lat": 45.42551,
+    "lon": 6.05793,
+    "nature": "Route empierrée",
+    "detail": null,
+    "toponyme": null,
+    "cleabs": "TRONROUT0000000007947635"
+   },
+   {
+    "lat": 45.42611,
+    "lon": 6.05673,
+    "nature": "Route empierrée",
+    "detail": null,
+    "toponyme": null,
+    "cleabs": "TRONROUT0000000007947636"
+   },
+   {
+    "lat": 45.42674,
+    "lon": 6.05781,
+    "nature": "Route empierrée",
+    "detail": null,
+    "toponyme": null,
+    "cleabs": "TRONROUT0000000007947637"
+   },
+   {
+    "lat": 45.43185,
+    "lon": 6.0395,
+    "nature": "Route empierrée",
+    "detail": null,
+    "toponyme": null,
+    "cleabs": "TRONROUT0000000007947698"
+   },
+   {
+    "lat": 45.43163,
+    "lon": 6.04224,
+    "nature": "Route empierrée",
+    "detail": null,
+    "toponyme": null,
+    "cleabs": "TRONROUT0000000007947700"
+   },
+   {
+    "lat": 45.42947,
+    "lon": 6.02461,
+    "nature": "Route empierrée",
+    "detail": null,
+    "toponyme": null,
+    "cleabs": "TRONROUT0000000007947750"
+   },
+   {
+    "lat": 45.4307,
+    "lon": 6.01767,
+    "nature": "Route empierrée",
+    "detail": null,
+    "toponyme": null,
+    "cleabs": "TRONROUT0000000007947828"
+   },
+   {
+    "lat": 45.431,
+    "lon": 6.01507,
+    "nature": "Route empierrée",
+    "detail": null,
+    "toponyme": null,
+    "cleabs": "TRONROUT0000000007947830"
+   },
+   {
+    "lat": 45.43108,
+    "lon": 6.01936,
+    "nature": "Route empierrée",
+    "detail": null,
+    "toponyme": null,
+    "cleabs": "TRONROUT0000000007947832"
+   },
+   {
+    "lat": 45.42727,
+    "lon": 6.00991,
+    "nature": "Route empierrée",
+    "detail": null,
+    "toponyme": null,
+    "cleabs": "TRONROUT0000000007947898"
+   },
+   {
+    "lat": 45.42811,
+    "lon": 5.99312,
+    "nature": "Route empierrée",
+    "detail": null,
+    "toponyme": null,
+    "cleabs": "TRONROUT0000000007947938"
+   },
+   {
+    "lat": 45.43226,
+    "lon": 5.98799,
+    "nature": "Route empierrée",
+    "detail": null,
+    "toponyme": null,
+    "cleabs": "TRONROUT0000000007947957"
+   },
+   {
+    "lat": 45.43198,
+    "lon": 5.98621,
+    "nature": "Route empierrée",
+    "detail": null,
+    "toponyme": null,
+    "cleabs": "TRONROUT0000000007947958"
+   },
+   {
+    "lat": 45.42677,
+    "lon": 5.98074,
+    "nature": "Route empierrée",
+    "detail": null,
+    "toponyme": null,
+    "cleabs": "TRONROUT0000000007947961"
+   },
+   {
+    "lat": 45.42744,
+    "lon": 5.98034,
+    "nature": "Route empierrée",
+    "detail": null,
+    "toponyme": null,
+    "cleabs": "TRONROUT0000000007947966"
+   },
+   {
+    "lat": 45.42785,
+    "lon": 5.98305,
+    "nature": "Route empierrée",
+    "detail": null,
+    "toponyme": null,
+    "cleabs": "TRONROUT0000000007947967"
+   },
+   {
+    "lat": 45.4224,
+    "lon": 6.07758,
+    "nature": "Route empierrée",
+    "detail": null,
+    "toponyme": null,
+    "cleabs": "TRONROUT0000000007950139"
+   },
+   {
+    "lat": 45.42125,
+    "lon": 6.07643,
+    "nature": "Route empierrée",
+    "detail": null,
+    "toponyme": null,
+    "cleabs": "TRONROUT0000000007950140"
+   },
+   {
+    "lat": 45.42084,
+    "lon": 6.07601,
+    "nature": "Route empierrée",
+    "detail": null,
+    "toponyme": null,
+    "cleabs": "TRONROUT0000000007950141"
+   },
+   {
+    "lat": 45.42384,
+    "lon": 6.07397,
+    "nature": "Route empierrée",
+    "detail": null,
+    "toponyme": null,
+    "cleabs": "TRONROUT0000000007950124"
+   },
+   {
+    "lat": 45.42356,
+    "lon": 6.07827,
+    "nature": "Route empierrée",
+    "detail": null,
+    "toponyme": null,
+    "cleabs": "TRONROUT0000000007950142"
+   },
+   {
+    "lat": 45.41874,
+    "lon": 6.07299,
+    "nature": "Route empierrée",
+    "detail": null,
+    "toponyme": null,
+    "cleabs": "TRONROUT0000000007950146"
+   },
+   {
+    "lat": 45.4192,
+    "lon": 6.07402,
+    "nature": "Route empierrée",
+    "detail": null,
+    "toponyme": null,
+    "cleabs": "TRONROUT0000000007950147"
+   },
+   {
+    "lat": 45.42003,
+    "lon": 6.06592,
+    "nature": "Route empierrée",
+    "detail": null,
+    "toponyme": null,
+    "cleabs": "TRONROUT0000000007950175"
+   },
+   {
+    "lat": 45.41952,
+    "lon": 6.06544,
+    "nature": "Route empierrée",
+    "detail": null,
+    "toponyme": null,
+    "cleabs": "TRONROUT0000000007950176"
+   },
+   {
+    "lat": 45.42588,
+    "lon": 6.05258,
+    "nature": "Route empierrée",
+    "detail": null,
+    "toponyme": null,
+    "cleabs": "TRONROUT0000000007950200"
+   },
+   {
+    "lat": 45.41865,
+    "lon": 6.04874,
+    "nature": "Route empierrée",
+    "detail": null,
+    "toponyme": null,
+    "cleabs": "TRONROUT0000000007950202"
+   },
+   {
+    "lat": 45.42084,
+    "lon": 6.04777,
+    "nature": "Route empierrée",
+    "detail": null,
+    "toponyme": null,
+    "cleabs": "TRONROUT0000000007950204"
+   },
+   {
+    "lat": 45.42017,
+    "lon": 6.04372,
+    "nature": "Route empierrée",
+    "detail": null,
+    "toponyme": null,
+    "cleabs": "TRONROUT0000000007950205"
+   },
+   {
+    "lat": 45.41989,
+    "lon": 6.04213,
+    "nature": "Route empierrée",
+    "detail": null,
+    "toponyme": null,
+    "cleabs": "TRONROUT0000000007950206"
+   },
+   {
+    "lat": 45.41913,
+    "lon": 6.04863,
+    "nature": "Route empierrée",
+    "detail": null,
+    "toponyme": null,
+    "cleabs": "TRONROUT0000000007950208"
+   },
+   {
+    "lat": 45.42529,
+    "lon": 6.03312,
+    "nature": "Route empierrée",
+    "detail": null,
+    "toponyme": null,
+    "cleabs": "TRONROUT0000000007950215"
+   },
+   {
+    "lat": 45.42395,
+    "lon": 6.03246,
+    "nature": "Route empierrée",
+    "detail": null,
+    "toponyme": null,
+    "cleabs": "TRONROUT0000000007950221"
+   },
+   {
+    "lat": 45.42303,
+    "lon": 6.03431,
+    "nature": "Route empierrée",
+    "detail": null,
+    "toponyme": null,
+    "cleabs": "TRONROUT0000000007950223"
+   },
+   {
+    "lat": 45.41869,
+    "lon": 6.01617,
+    "nature": "Route empierrée",
+    "detail": null,
+    "toponyme": null,
+    "cleabs": "TRONROUT0000000007950260"
+   },
+   {
+    "lat": 45.42297,
+    "lon": 6.01291,
+    "nature": "Route empierrée",
+    "detail": null,
+    "toponyme": null,
+    "cleabs": "TRONROUT0000000007950288"
+   },
+   {
+    "lat": 45.42086,
+    "lon": 6.01082,
+    "nature": "Route empierrée",
+    "detail": null,
+    "toponyme": null,
+    "cleabs": "TRONROUT0000000007950304"
+   },
+   {
+    "lat": 45.42202,
+    "lon": 6.0072,
+    "nature": "Route empierrée",
+    "detail": null,
+    "toponyme": null,
+    "cleabs": "TRONROUT0000000007950339"
+   },
+   {
+    "lat": 45.42207,
+    "lon": 6.00832,
+    "nature": "Route empierrée",
+    "detail": null,
+    "toponyme": null,
+    "cleabs": "TRONROUT0000000007950340"
+   },
+   {
+    "lat": 45.42166,
+    "lon": 5.99925,
+    "nature": "Route empierrée",
+    "detail": null,
+    "toponyme": null,
+    "cleabs": "TRONROUT0000000007950381"
+   },
+   {
+    "lat": 45.4228,
+    "lon": 5.99956,
+    "nature": "Route empierrée",
+    "detail": null,
+    "toponyme": null,
+    "cleabs": "TRONROUT0000000007950385"
+   },
+   {
+    "lat": 45.4213,
+    "lon": 5.99971,
+    "nature": "Route empierrée",
+    "detail": null,
+    "toponyme": null,
+    "cleabs": "TRONROUT0000000007950386"
+   },
+   {
+    "lat": 45.42665,
+    "lon": 5.98234,
+    "nature": "Route empierrée",
+    "detail": null,
+    "toponyme": null,
+    "cleabs": "TRONROUT0000000007950388"
+   },
+   {
+    "lat": 45.41827,
+    "lon": 6.04041,
+    "nature": "Route empierrée",
+    "detail": null,
+    "toponyme": null,
+    "cleabs": "TRONROUT0000000007952542"
+   },
+   {
+    "lat": 45.41655,
+    "lon": 6.06072,
+    "nature": "Route empierrée",
+    "detail": null,
+    "toponyme": null,
+    "cleabs": "TRONROUT0000000007952516"
+   },
+   {
+    "lat": 45.41243,
+    "lon": 6.05673,
+    "nature": "Route empierrée",
+    "detail": null,
+    "toponyme": null,
+    "cleabs": "TRONROUT0000000007952518"
+   },
+   {
+    "lat": 45.41167,
+    "lon": 6.05619,
+    "nature": "Route empierrée",
+    "detail": null,
+    "toponyme": null,
+    "cleabs": "TRONROUT0000000007952519"
+   },
+   {
+    "lat": 45.41094,
+    "lon": 6.05556,
+    "nature": "Route empierrée",
+    "detail": null,
+    "toponyme": null,
+    "cleabs": "TRONROUT0000000007952521"
+   },
+   {
+    "lat": 45.41241,
+    "lon": 6.0388,
+    "nature": "Route empierrée",
+    "detail": null,
+    "toponyme": null,
+    "cleabs": "TRONROUT0000000007952556"
+   },
+   {
+    "lat": 45.41547,
+    "lon": 6.03863,
+    "nature": "Route empierrée",
+    "detail": null,
+    "toponyme": null,
+    "cleabs": "TRONROUT0000000007952557"
+   },
+   {
+    "lat": 45.41437,
+    "lon": 6.03957,
+    "nature": "Route empierrée",
+    "detail": null,
+    "toponyme": null,
+    "cleabs": "TRONROUT0000000007952559"
+   },
+   {
+    "lat": 45.41345,
+    "lon": 6.04066,
+    "nature": "Route empierrée",
+    "detail": null,
+    "toponyme": null,
+    "cleabs": "TRONROUT0000000007952562"
+   },
+   {
+    "lat": 45.41748,
+    "lon": 6.02969,
+    "nature": "Route empierrée",
+    "detail": null,
+    "toponyme": null,
+    "cleabs": "TRONROUT0000000007952586"
+   },
+   {
+    "lat": 45.41666,
+    "lon": 6.02868,
+    "nature": "Route empierrée",
+    "detail": null,
+    "toponyme": null,
+    "cleabs": "TRONROUT0000000007952587"
+   },
+   {
+    "lat": 45.41185,
+    "lon": 6.0194,
+    "nature": "Route empierrée",
+    "detail": null,
+    "toponyme": null,
+    "cleabs": "TRONROUT0000000007952620"
+   },
+   {
+    "lat": 45.41639,
+    "lon": 6.0106,
+    "nature": "Route empierrée",
+    "detail": null,
+    "toponyme": null,
+    "cleabs": "TRONROUT0000000007952624"
+   },
+   {
+    "lat": 45.41509,
+    "lon": 6.01006,
+    "nature": "Route empierrée",
+    "detail": null,
+    "toponyme": null,
+    "cleabs": "TRONROUT0000000007952627"
+   },
+   {
+    "lat": 45.41547,
+    "lon": 6.00965,
+    "nature": "Route empierrée",
+    "detail": null,
+    "toponyme": null,
+    "cleabs": "TRONROUT0000000007952628"
+   },
+   {
+    "lat": 45.41681,
+    "lon": 6.00805,
+    "nature": "Route empierrée",
+    "detail": null,
+    "toponyme": null,
+    "cleabs": "TRONROUT0000000007952640"
+   },
+   {
+    "lat": 45.41673,
+    "lon": 6.0022,
+    "nature": "Route empierrée",
+    "detail": null,
+    "toponyme": null,
+    "cleabs": "TRONROUT0000000007952649"
+   },
+   {
+    "lat": 45.4161,
+    "lon": 6.00765,
+    "nature": "Route empierrée",
+    "detail": null,
+    "toponyme": null,
+    "cleabs": "TRONROUT0000000007952650"
+   },
+   {
+    "lat": 45.41683,
+    "lon": 6.00798,
+    "nature": "Route empierrée",
+    "detail": null,
+    "toponyme": null,
+    "cleabs": "TRONROUT0000000007952652"
+   },
+   {
+    "lat": 45.41679,
+    "lon": 6.0081,
+    "nature": "Route empierrée",
+    "detail": null,
+    "toponyme": null,
+    "cleabs": "TRONROUT0000000007952654"
+   },
+   {
+    "lat": 45.4199,
+    "lon": 5.99287,
+    "nature": "Route empierrée",
+    "detail": null,
+    "toponyme": null,
+    "cleabs": "TRONROUT0000000007952672"
+   },
+   {
+    "lat": 45.41518,
+    "lon": 5.99704,
+    "nature": "Route empierrée",
+    "detail": null,
+    "toponyme": null,
+    "cleabs": "TRONROUT0000000007952673"
+   },
+   {
+    "lat": 45.40524,
+    "lon": 6.04732,
+    "nature": "Route empierrée",
+    "detail": null,
+    "toponyme": null,
+    "cleabs": "TRONROUT0000000007955158"
+   },
+   {
+    "lat": 45.40651,
+    "lon": 6.05059,
+    "nature": "Route empierrée",
+    "detail": null,
+    "toponyme": null,
+    "cleabs": "TRONROUT0000000007955140"
+   },
+   {
+    "lat": 45.40729,
+    "lon": 6.05102,
+    "nature": "Route empierrée",
+    "detail": null,
+    "toponyme": null,
+    "cleabs": "TRONROUT0000000007955144"
+   },
+   {
+    "lat": 45.40285,
+    "lon": 6.04737,
+    "nature": "Route empierrée",
+    "detail": null,
+    "toponyme": null,
+    "cleabs": "TRONROUT0000000007955154"
+   },
+   {
+    "lat": 45.40543,
+    "lon": 6.03106,
+    "nature": "Route empierrée",
+    "detail": null,
+    "toponyme": null,
+    "cleabs": "TRONROUT0000000007955194"
+   },
+   {
+    "lat": 45.40825,
+    "lon": 6.03042,
+    "nature": "Route empierrée",
+    "detail": null,
+    "toponyme": null,
+    "cleabs": "TRONROUT0000000007955195"
+   },
+   {
+    "lat": 45.4075,
+    "lon": 6.02538,
+    "nature": "Route empierrée",
+    "detail": null,
+    "toponyme": null,
+    "cleabs": "TRONROUT0000000007955197"
+   },
+   {
+    "lat": 45.40651,
+    "lon": 6.02778,
+    "nature": "Route empierrée",
+    "detail": null,
+    "toponyme": null,
+    "cleabs": "TRONROUT0000000007955198"
+   },
+   {
+    "lat": 45.4072,
+    "lon": 6.02384,
+    "nature": "Route empierrée",
+    "detail": null,
+    "toponyme": null,
+    "cleabs": "TRONROUT0000000007955200"
+   },
+   {
+    "lat": 45.40688,
+    "lon": 6.01615,
+    "nature": "Route empierrée",
+    "detail": null,
+    "toponyme": null,
+    "cleabs": "TRONROUT0000000007955214"
+   },
+   {
+    "lat": 45.40751,
+    "lon": 6.01473,
+    "nature": "Route empierrée",
+    "detail": null,
+    "toponyme": null,
+    "cleabs": "TRONROUT0000000007955221"
+   },
+   {
+    "lat": 45.41092,
+    "lon": 6.00656,
+    "nature": "Route empierrée",
+    "detail": null,
+    "toponyme": null,
+    "cleabs": "TRONROUT0000000007955225"
+   },
+   {
+    "lat": 45.40987,
+    "lon": 6.00586,
+    "nature": "Route empierrée",
+    "detail": null,
+    "toponyme": null,
+    "cleabs": "TRONROUT0000000007955227"
+   },
+   {
+    "lat": 45.40759,
+    "lon": 6.00461,
+    "nature": "Route empierrée",
+    "detail": null,
+    "toponyme": null,
+    "cleabs": "TRONROUT0000000007955233"
+   },
+   {
+    "lat": 45.41046,
+    "lon": 5.99584,
+    "nature": "Route empierrée",
+    "detail": null,
+    "toponyme": null,
+    "cleabs": "TRONROUT0000000007955247"
+   },
+   {
+    "lat": 45.40151,
+    "lon": 6.0563,
+    "nature": "Route empierrée",
+    "detail": null,
+    "toponyme": null,
+    "cleabs": "TRONROUT0000000007957600"
+   },
+   {
+    "lat": 45.40179,
+    "lon": 6.05732,
+    "nature": "Route empierrée",
+    "detail": null,
+    "toponyme": null,
+    "cleabs": "TRONROUT0000000007957603"
+   },
+   {
+    "lat": 45.39938,
+    "lon": 6.05647,
+    "nature": "Route empierrée",
+    "detail": null,
+    "toponyme": null,
+    "cleabs": "TRONROUT0000000007957604"
+   },
+   {
+    "lat": 45.40048,
+    "lon": 6.05818,
+    "nature": "Route empierrée",
+    "detail": null,
+    "toponyme": null,
+    "cleabs": "TRONROUT0000000007957605"
+   },
+   {
+    "lat": 45.3992,
+    "lon": 6.05326,
+    "nature": "Route empierrée",
+    "detail": null,
+    "toponyme": null,
+    "cleabs": "TRONROUT0000000007957614"
+   },
+   {
+    "lat": 45.40231,
+    "lon": 6.04761,
+    "nature": "Route empierrée",
+    "detail": null,
+    "toponyme": null,
+    "cleabs": "TRONROUT0000000007957617"
+   },
+   {
+    "lat": 45.40208,
+    "lon": 6.04763,
+    "nature": "Route empierrée",
+    "detail": null,
+    "toponyme": null,
+    "cleabs": "TRONROUT0000000007957619"
+   },
+   {
+    "lat": 45.39683,
+    "lon": 6.04503,
+    "nature": "Route empierrée",
+    "detail": null,
+    "toponyme": null,
+    "cleabs": "TRONROUT0000000007957620"
+   },
+   {
+    "lat": 45.3971,
+    "lon": 6.04458,
+    "nature": "Route empierrée",
+    "detail": null,
+    "toponyme": null,
+    "cleabs": "TRONROUT0000000007957621"
+   },
+   {
+    "lat": 45.39661,
+    "lon": 6.04341,
+    "nature": "Route empierrée",
+    "detail": null,
+    "toponyme": null,
+    "cleabs": "TRONROUT0000000007957623"
+   },
+   {
+    "lat": 45.39654,
+    "lon": 6.04187,
+    "nature": "Route empierrée",
+    "detail": null,
+    "toponyme": null,
+    "cleabs": "TRONROUT0000000007957628"
+   },
+   {
+    "lat": 45.39954,
+    "lon": 6.04646,
+    "nature": "Route empierrée",
+    "detail": null,
+    "toponyme": null,
+    "cleabs": "TRONROUT0000000007957631"
+   },
+   {
+    "lat": 45.39602,
+    "lon": 6.03863,
+    "nature": "Route empierrée",
+    "detail": null,
+    "toponyme": null,
+    "cleabs": "TRONROUT0000000007957635"
+   },
+   {
+    "lat": 45.39968,
+    "lon": 6.02779,
+    "nature": "Route empierrée",
+    "detail": null,
+    "toponyme": null,
+    "cleabs": "TRONROUT0000000007957661"
+   },
+   {
+    "lat": 45.40057,
+    "lon": 6.00089,
+    "nature": "Route empierrée",
+    "detail": null,
+    "toponyme": null,
+    "cleabs": "TRONROUT0000000007957688"
+   },
+   {
+    "lat": 45.40101,
+    "lon": 6.00447,
+    "nature": "Route empierrée",
+    "detail": null,
+    "toponyme": null,
+    "cleabs": "TRONROUT0000000007957698"
+   },
+   {
+    "lat": 45.39646,
+    "lon": 6.04973,
+    "nature": "Route empierrée",
+    "detail": null,
+    "toponyme": null,
+    "cleabs": "TRONROUT0000000007960181"
+   },
+   {
+    "lat": 45.3943,
+    "lon": 6.0435,
+    "nature": "Route empierrée",
+    "detail": null,
+    "toponyme": null,
+    "cleabs": "TRONROUT0000000007960184"
+   },
+   {
+    "lat": 45.39391,
+    "lon": 6.02016,
+    "nature": "Route empierrée",
+    "detail": null,
+    "toponyme": null,
+    "cleabs": "TRONROUT0000000007960220"
+   },
+   {
+    "lat": 45.3946,
+    "lon": 6.0195,
+    "nature": "Route empierrée",
+    "detail": null,
+    "toponyme": null,
+    "cleabs": "TRONROUT0000000007960221"
+   },
+   {
+    "lat": 45.39616,
+    "lon": 6.01158,
+    "nature": "Route empierrée",
+    "detail": null,
+    "toponyme": null,
+    "cleabs": "TRONROUT0000000007960230"
+   },
+   {
+    "lat": 45.39568,
+    "lon": 6.01694,
+    "nature": "Route empierrée",
+    "detail": null,
+    "toponyme": null,
+    "cleabs": "TRONROUT0000000007960251"
+   },
+   {
+    "lat": 45.45783,
+    "lon": 6.03937,
+    "nature": "Route empierrée",
+    "detail": null,
+    "toponyme": null,
+    "cleabs": "TRONROUT0000000012854237"
+   },
+   {
+    "lat": 45.44949,
+    "lon": 6.06743,
+    "nature": "Route empierrée",
+    "detail": null,
+    "toponyme": null,
+    "cleabs": "TRONROUT0000000012850581"
+   },
+   {
+    "lat": 45.46355,
+    "lon": 6.02987,
+    "nature": "Route empierrée",
+    "detail": null,
+    "toponyme": null,
+    "cleabs": "TRONROUT0000000012853700"
+   },
+   {
+    "lat": 45.44762,
+    "lon": 6.04419,
+    "nature": "Route empierrée",
+    "detail": null,
+    "toponyme": null,
+    "cleabs": "TRONROUT0000000012854202"
+   },
+   {
+    "lat": 45.4487,
+    "lon": 6.05817,
+    "nature": "Route empierrée",
+    "detail": null,
+    "toponyme": null,
+    "cleabs": "TRONROUT0000000012854021"
+   },
+   {
+    "lat": 45.44763,
+    "lon": 6.05962,
+    "nature": "Route empierrée",
+    "detail": null,
+    "toponyme": null,
+    "cleabs": "TRONROUT0000000012854026"
+   },
+   {
+    "lat": 45.45214,
+    "lon": 6.04644,
+    "nature": "Route empierrée",
+    "detail": null,
+    "toponyme": null,
+    "cleabs": "TRONROUT0000000012854106"
+   },
+   {
+    "lat": 45.45342,
+    "lon": 6.0474,
+    "nature": "Route empierrée",
+    "detail": null,
+    "toponyme": null,
+    "cleabs": "TRONROUT0000000012854109"
+   },
+   {
+    "lat": 45.46382,
+    "lon": 6.02574,
+    "nature": "Route empierrée",
+    "detail": null,
+    "toponyme": null,
+    "cleabs": "TRONROUT0000000012854112"
+   },
+   {
+    "lat": 45.46067,
+    "lon": 6.04171,
+    "nature": "Route empierrée",
+    "detail": null,
+    "toponyme": null,
+    "cleabs": "TRONROUT0000000012854113"
+   },
+   {
+    "lat": 45.4541,
+    "lon": 6.04022,
+    "nature": "Route empierrée",
+    "detail": null,
+    "toponyme": null,
+    "cleabs": "TRONROUT0000000012854116"
+   },
+   {
+    "lat": 45.45772,
+    "lon": 6.02003,
+    "nature": "Route empierrée",
+    "detail": null,
+    "toponyme": null,
+    "cleabs": "TRONROUT0000000012854124"
+   },
+   {
+    "lat": 45.4629,
+    "lon": 6.02785,
+    "nature": "Route empierrée",
+    "detail": null,
+    "toponyme": null,
+    "cleabs": "TRONROUT0000000012854139"
+   },
+   {
+    "lat": 45.44576,
+    "lon": 6.05351,
+    "nature": "Route empierrée",
+    "detail": null,
+    "toponyme": null,
+    "cleabs": "TRONROUT0000000012854164"
+   },
+   {
+    "lat": 45.44581,
+    "lon": 6.04439,
+    "nature": "Route empierrée",
+    "detail": null,
+    "toponyme": null,
+    "cleabs": "TRONROUT0000000012854167"
+   },
+   {
+    "lat": 45.44728,
+    "lon": 6.0479,
+    "nature": "Route empierrée",
+    "detail": null,
+    "toponyme": null,
+    "cleabs": "TRONROUT0000000012854169"
+   },
+   {
+    "lat": 45.45121,
+    "lon": 6.04465,
+    "nature": "Route empierrée",
+    "detail": null,
+    "toponyme": null,
+    "cleabs": "TRONROUT0000000012854175"
+   },
+   {
+    "lat": 45.45085,
+    "lon": 6.02002,
+    "nature": "Route empierrée",
+    "detail": null,
+    "toponyme": null,
+    "cleabs": "TRONROUT0000000012854183"
+   },
+   {
+    "lat": 45.44695,
+    "lon": 6.03511,
+    "nature": "Route empierrée",
+    "detail": null,
+    "toponyme": null,
+    "cleabs": "TRONROUT0000000012854188"
+   },
+   {
+    "lat": 45.44743,
+    "lon": 6.04835,
+    "nature": "Route empierrée",
+    "detail": null,
+    "toponyme": null,
+    "cleabs": "TRONROUT0000000012854189"
+   },
+   {
+    "lat": 45.45168,
+    "lon": 6.02905,
+    "nature": "Route empierrée",
+    "detail": null,
+    "toponyme": null,
+    "cleabs": "TRONROUT0000000012854191"
+   },
+   {
+    "lat": 45.45723,
+    "lon": 6.03869,
+    "nature": "Route empierrée",
+    "detail": null,
+    "toponyme": null,
+    "cleabs": "TRONROUT0000000012854193"
+   },
+   {
+    "lat": 45.46352,
+    "lon": 6.02678,
+    "nature": "Route empierrée",
+    "detail": null,
+    "toponyme": null,
+    "cleabs": "TRONROUT0000000012854199"
+   },
+   {
+    "lat": 45.44767,
+    "lon": 6.0543,
+    "nature": "Route empierrée",
+    "detail": null,
+    "toponyme": null,
+    "cleabs": "TRONROUT0000000012854206"
+   },
+   {
+    "lat": 45.44676,
+    "lon": 6.05393,
+    "nature": "Route empierrée",
+    "detail": null,
+    "toponyme": null,
+    "cleabs": "TRONROUT0000000012854221"
+   },
+   {
+    "lat": 45.44765,
+    "lon": 6.02658,
+    "nature": "Route empierrée",
+    "detail": null,
+    "toponyme": null,
+    "cleabs": "TRONROUT0000000012854277"
+   },
+   {
+    "lat": 45.44758,
+    "lon": 6.02672,
+    "nature": "Route empierrée",
+    "detail": null,
+    "toponyme": null,
+    "cleabs": "TRONROUT0000000012854278"
+   },
+   {
+    "lat": 45.45849,
+    "lon": 6.03985,
+    "nature": "Route empierrée",
+    "detail": null,
+    "toponyme": null,
+    "cleabs": "TRONROUT0000000012854280"
+   },
+   {
+    "lat": 45.44612,
+    "lon": 6.049,
+    "nature": "Route empierrée",
+    "detail": null,
+    "toponyme": null,
+    "cleabs": "TRONROUT0000000012854284"
+   },
+   {
+    "lat": 45.44791,
+    "lon": 6.02663,
+    "nature": "Route empierrée",
+    "detail": null,
+    "toponyme": null,
+    "cleabs": "TRONROUT0000000012854285"
+   },
+   {
+    "lat": 45.45024,
+    "lon": 6.02895,
+    "nature": "Route empierrée",
+    "detail": null,
+    "toponyme": null,
+    "cleabs": "TRONROUT0000000012854287"
+   },
+   {
+    "lat": 45.448,
+    "lon": 6.04392,
+    "nature": "Route empierrée",
+    "detail": null,
+    "toponyme": null,
+    "cleabs": "TRONROUT0000000012854289"
+   },
+   {
+    "lat": 45.44767,
+    "lon": 6.04758,
+    "nature": "Route empierrée",
+    "detail": null,
+    "toponyme": null,
+    "cleabs": "TRONROUT0000000012854292"
+   },
+   {
+    "lat": 45.44815,
+    "lon": 6.04881,
+    "nature": "Route empierrée",
+    "detail": null,
+    "toponyme": null,
+    "cleabs": "TRONROUT0000000012854294"
+   },
+   {
+    "lat": 45.44428,
+    "lon": 6.05038,
+    "nature": "Route empierrée",
+    "detail": null,
+    "toponyme": null,
+    "cleabs": "TRONROUT0000000012854299"
+   },
+   {
+    "lat": 45.45809,
+    "lon": 6.03467,
+    "nature": "Route empierrée",
+    "detail": null,
+    "toponyme": null,
+    "cleabs": "TRONROUT0000000012854321"
+   },
+   {
+    "lat": 45.45227,
+    "lon": 6.03027,
+    "nature": "Route empierrée",
+    "detail": null,
+    "toponyme": null,
+    "cleabs": "TRONROUT0000000012854346"
+   },
+   {
+    "lat": 45.45612,
+    "lon": 6.0235,
+    "nature": "Route empierrée",
+    "detail": null,
+    "toponyme": null,
+    "cleabs": "TRONROUT0000000012854349"
+   },
+   {
+    "lat": 45.44762,
+    "lon": 6.02666,
+    "nature": "Route empierrée",
+    "detail": null,
+    "toponyme": null,
+    "cleabs": "TRONROUT0000000012854375"
+   },
+   {
+    "lat": 45.4302,
+    "lon": 6.05876,
+    "nature": "Route empierrée",
+    "detail": null,
+    "toponyme": null,
+    "cleabs": "TRONROUT0000000035780261"
+   },
+   {
+    "lat": 45.41394,
+    "lon": 6.01838,
+    "nature": "Route empierrée",
+    "detail": null,
+    "toponyme": null,
+    "cleabs": "TRONROUT0000000043954065"
+   },
+   {
+    "lat": 45.41678,
+    "lon": 6.01282,
+    "nature": "Route empierrée",
+    "detail": null,
+    "toponyme": null,
+    "cleabs": "TRONROUT0000000043954067"
+   },
+   {
+    "lat": 45.41375,
+    "lon": 6.01817,
+    "nature": "Route empierrée",
+    "detail": null,
+    "toponyme": null,
+    "cleabs": "TRONROUT0000000043954069"
+   },
+   {
+    "lat": 45.43516,
+    "lon": 5.99632,
+    "nature": "Route empierrée",
+    "detail": null,
+    "toponyme": null,
+    "cleabs": "TRONROUT0000000045062573"
+   },
+   {
+    "lat": 45.44242,
+    "lon": 6.01915,
+    "nature": "Route empierrée",
+    "detail": null,
+    "toponyme": null,
+    "cleabs": "TRONROUT0000000096393575"
+   },
+   {
+    "lat": 45.44752,
+    "lon": 6.03148,
+    "nature": "Route empierrée",
+    "detail": null,
+    "toponyme": null,
+    "cleabs": "TRONROUT0000000200116263"
+   },
+   {
+    "lat": 45.42927,
+    "lon": 6.01752,
+    "nature": "Route empierrée",
+    "detail": null,
+    "toponyme": null,
+    "cleabs": "TRONROUT0000000208611981"
+   },
+   {
+    "lat": 45.44742,
+    "lon": 6.01597,
+    "nature": "Route empierrée",
+    "detail": null,
+    "toponyme": null,
+    "cleabs": "TRONROUT0000000216438514"
+   },
+   {
+    "lat": 45.43583,
+    "lon": 6.02753,
+    "nature": "Route empierrée",
+    "detail": null,
+    "toponyme": null,
+    "cleabs": "TRONROUT0000000217045028"
+   },
+   {
+    "lat": 45.42902,
+    "lon": 6.03846,
+    "nature": "Route empierrée",
+    "detail": null,
+    "toponyme": null,
+    "cleabs": "TRONROUT0000000217205658"
+   },
+   {
+    "lat": 45.42203,
+    "lon": 6.0237,
+    "nature": "Route empierrée",
+    "detail": null,
+    "toponyme": null,
+    "cleabs": "TRONROUT0000000217205669"
+   },
+   {
+    "lat": 45.40252,
+    "lon": 6.04772,
+    "nature": "Route empierrée",
+    "detail": null,
+    "toponyme": null,
+    "cleabs": "TRONROUT0000000220880839"
+   },
+   {
+    "lat": 45.3981,
+    "lon": 6.05122,
+    "nature": "Route empierrée",
+    "detail": null,
+    "toponyme": null,
+    "cleabs": "TRONROUT0000000220880842"
+   },
+   {
+    "lat": 45.4458,
+    "lon": 6.04553,
+    "nature": "Route empierrée",
+    "detail": null,
+    "toponyme": null,
+    "cleabs": "TRONROUT0000000231415642"
+   },
+   {
+    "lat": 45.44784,
+    "lon": 6.06231,
+    "nature": "Route empierrée",
+    "detail": null,
+    "toponyme": null,
+    "cleabs": "TRONROUT0000000231404828"
+   },
+   {
+    "lat": 45.45041,
+    "lon": 6.06844,
+    "nature": "Route empierrée",
+    "detail": null,
+    "toponyme": null,
+    "cleabs": "TRONROUT0000000231404839"
+   },
+   {
+    "lat": 45.44972,
+    "lon": 6.0679,
+    "nature": "Route empierrée",
+    "detail": null,
+    "toponyme": null,
+    "cleabs": "TRONROUT0000000231404840"
+   },
+   {
+    "lat": 45.44562,
+    "lon": 6.04573,
+    "nature": "Route empierrée",
+    "detail": null,
+    "toponyme": null,
+    "cleabs": "TRONROUT0000000231415641"
+   },
+   {
+    "lat": 45.45191,
+    "lon": 6.00892,
+    "nature": "Route empierrée",
+    "detail": null,
+    "toponyme": null,
+    "cleabs": "TRONROUT0000000231415647"
+   },
+   {
+    "lat": 45.44881,
+    "lon": 6.00728,
+    "nature": "Route empierrée",
+    "detail": null,
+    "toponyme": null,
+    "cleabs": "TRONROUT0000000231415648"
+   },
+   {
+    "lat": 45.44427,
+    "lon": 6.00586,
+    "nature": "Route empierrée",
+    "detail": null,
+    "toponyme": null,
+    "cleabs": "TRONROUT0000000231415651"
+   },
+   {
+    "lat": 45.45033,
+    "lon": 6.00782,
+    "nature": "Route empierrée",
+    "detail": null,
+    "toponyme": null,
+    "cleabs": "TRONROUT0000000231415652"
+   },
+   {
+    "lat": 45.44755,
+    "lon": 6.0065,
+    "nature": "Route empierrée",
+    "detail": null,
+    "toponyme": null,
+    "cleabs": "TRONROUT0000000231415653"
+   },
+   {
+    "lat": 45.43119,
+    "lon": 5.9993,
+    "nature": "Route empierrée",
+    "detail": null,
+    "toponyme": null,
+    "cleabs": "TRONROUT0000000246603353"
+   },
+   {
+    "lat": 45.41872,
+    "lon": 6.02593,
+    "nature": "Route empierrée",
+    "detail": null,
+    "toponyme": null,
+    "cleabs": "TRONROUT0000000246605316"
+   },
+   {
+    "lat": 45.41034,
+    "lon": 6.03084,
+    "nature": "Route empierrée",
+    "detail": null,
+    "toponyme": null,
+    "cleabs": "TRONROUT0000000246605320"
+   },
+   {
+    "lat": 45.42816,
+    "lon": 6.0096,
+    "nature": "Route empierrée",
+    "detail": null,
+    "toponyme": null,
+    "cleabs": "TRONROUT0000000253540147"
+   },
+   {
+    "lat": 45.42227,
+    "lon": 6.02294,
+    "nature": "Route empierrée",
+    "detail": null,
+    "toponyme": null,
+    "cleabs": "TRONROUT0000000253540151"
+   },
+   {
+    "lat": 45.43365,
+    "lon": 6.06133,
+    "nature": "Route empierrée",
+    "detail": null,
+    "toponyme": null,
+    "cleabs": "TRONROUT0000000253553747"
+   },
+   {
+    "lat": 45.43677,
+    "lon": 5.98444,
+    "nature": "Route empierrée",
+    "detail": null,
+    "toponyme": null,
+    "cleabs": "TRONROUT0000000253554678"
+   },
+   {
+    "lat": 45.42306,
+    "lon": 6.07803,
+    "nature": "Route empierrée",
+    "detail": null,
+    "toponyme": null,
+    "cleabs": "TRONROUT0000000255862624"
+   },
+   {
+    "lat": 45.41991,
+    "lon": 6.01248,
+    "nature": "Route empierrée",
+    "detail": null,
+    "toponyme": null,
+    "cleabs": "TRONROUT0000000256285988"
+   },
+   {
+    "lat": 45.44371,
+    "lon": 6.0059,
+    "nature": "Route empierrée",
+    "detail": null,
+    "toponyme": null,
+    "cleabs": "TRONROUT0000000292946071"
+   },
+   {
+    "lat": 45.42647,
+    "lon": 6.08059,
+    "nature": "Route empierrée",
+    "detail": null,
+    "toponyme": null,
+    "cleabs": "TRONROUT0000000292941788"
+   },
+   {
+    "lat": 45.42497,
+    "lon": 6.02611,
+    "nature": "Route empierrée",
+    "detail": null,
+    "toponyme": null,
+    "cleabs": "TRONROUT0000000292941798"
+   },
+   {
+    "lat": 45.44545,
+    "lon": 6.00597,
+    "nature": "Route empierrée",
+    "detail": null,
+    "toponyme": null,
+    "cleabs": "TRONROUT0000000292946070"
+   },
+   {
+    "lat": 45.44259,
+    "lon": 6.00571,
+    "nature": "Route empierrée",
+    "detail": null,
+    "toponyme": null,
+    "cleabs": "TRONROUT0000000292946073"
+   },
+   {
+    "lat": 45.4304,
+    "lon": 6.00098,
+    "nature": "Route empierrée",
+    "detail": null,
+    "toponyme": null,
+    "cleabs": "TRONROUT0000000292946079"
+   },
+   {
+    "lat": 45.43109,
+    "lon": 6.02143,
+    "nature": "Route empierrée",
+    "detail": null,
+    "toponyme": null,
+    "cleabs": "TRONROUT0000000293937409"
+   },
+   {
+    "lat": 45.43712,
+    "lon": 6.02666,
+    "nature": "Route empierrée",
+    "detail": null,
+    "toponyme": null,
+    "cleabs": "TRONROUT0000000293937423"
+   },
+   {
+    "lat": 45.43212,
+    "lon": 5.98613,
+    "nature": "Route empierrée",
+    "detail": null,
+    "toponyme": null,
+    "cleabs": "TRONROUT0000000323351109"
+   },
+   {
+    "lat": 45.43315,
+    "lon": 5.98726,
+    "nature": "Route empierrée",
+    "detail": null,
+    "toponyme": null,
+    "cleabs": "TRONROUT0000000323351110"
+   },
+   {
+    "lat": 45.43206,
+    "lon": 5.98583,
+    "nature": "Route empierrée",
+    "detail": null,
+    "toponyme": null,
+    "cleabs": "TRONROUT0000000323351112"
+   },
+   {
+    "lat": 45.43439,
+    "lon": 5.98866,
+    "nature": "Route empierrée",
+    "detail": null,
+    "toponyme": null,
+    "cleabs": "TRONROUT0000000323351113"
+   },
+   {
+    "lat": 45.42014,
+    "lon": 6.07336,
+    "nature": "Route empierrée",
+    "detail": null,
+    "toponyme": null,
+    "cleabs": "TRONROUT0000000327759916"
+   },
+   {
+    "lat": 45.44847,
+    "lon": 6.03822,
+    "nature": "Route empierrée",
+    "detail": null,
+    "toponyme": null,
+    "cleabs": "TRONROUT0000000327938304"
+   },
+   {
+    "lat": 45.41071,
+    "lon": 6.03141,
+    "nature": "Route empierrée",
+    "detail": null,
+    "toponyme": null,
+    "cleabs": "TRONROUT0000000329357514"
+   },
+   {
+    "lat": 45.4014,
+    "lon": 6.03298,
+    "nature": "Route empierrée",
+    "detail": null,
+    "toponyme": null,
+    "cleabs": "TRONROUT0000000329357516"
+   },
+   {
+    "lat": 45.39974,
+    "lon": 6.02935,
+    "nature": "Route empierrée",
+    "detail": null,
+    "toponyme": null,
+    "cleabs": "TRONROUT0000000329357518"
+   },
+   {
+    "lat": 45.4008,
+    "lon": 6.03037,
+    "nature": "Route empierrée",
+    "detail": null,
+    "toponyme": null,
+    "cleabs": "TRONROUT0000000329357519"
+   },
+   {
+    "lat": 45.40699,
+    "lon": 6.03354,
+    "nature": "Route empierrée",
+    "detail": null,
+    "toponyme": null,
+    "cleabs": "TRONROUT0000000330813838"
+   },
+   {
+    "lat": 45.41025,
+    "lon": 6.03141,
+    "nature": "Route empierrée",
+    "detail": null,
+    "toponyme": null,
+    "cleabs": "TRONROUT0000000330813839"
+   },
+   {
+    "lat": 45.40634,
+    "lon": 6.03509,
+    "nature": "Route empierrée",
+    "detail": null,
+    "toponyme": null,
+    "cleabs": "TRONROUT0000000330813841"
+   },
+   {
+    "lat": 45.40868,
+    "lon": 6.03199,
+    "nature": "Route empierrée",
+    "detail": null,
+    "toponyme": null,
+    "cleabs": "TRONROUT0000000330813842"
+   },
+   {
+    "lat": 45.40752,
+    "lon": 6.03283,
+    "nature": "Route empierrée",
+    "detail": null,
+    "toponyme": null,
+    "cleabs": "TRONROUT0000000330813843"
+   },
+   {
+    "lat": 45.4538,
+    "lon": 5.99787,
+    "nature": "Route empierrée",
+    "detail": null,
+    "toponyme": null,
+    "cleabs": "TRONROUT0000000351472779"
+   },
+   {
+    "lat": 45.43672,
+    "lon": 5.9907,
+    "nature": "Route empierrée",
+    "detail": null,
+    "toponyme": null,
+    "cleabs": "TRONROUT0000000351500884"
+   },
+   {
+    "lat": 45.4297,
+    "lon": 6.00078,
+    "nature": "Route empierrée",
+    "detail": null,
+    "toponyme": null,
+    "cleabs": "TRONROUT0000000351525334"
+   },
+   {
+    "lat": 45.41206,
+    "lon": 6.03445,
+    "nature": "Route empierrée",
+    "detail": null,
+    "toponyme": null,
+    "cleabs": "TRONROUT0000000351571914"
+   },
+   {
+    "lat": 45.40427,
+    "lon": 6.04739,
+    "nature": "Route empierrée",
+    "detail": null,
+    "toponyme": null,
+    "cleabs": "TRONROUT0000000351583085"
+   },
+   {
+    "lat": 45.39572,
+    "lon": 6.04866,
+    "nature": "Route empierrée",
+    "detail": null,
+    "toponyme": null,
+    "cleabs": "TRONROUT0000000351583090"
+   },
+   {
+    "lat": 45.4083,
+    "lon": 6.05065,
+    "nature": "Route empierrée",
+    "detail": null,
+    "toponyme": null,
+    "cleabs": "TRONROUT0000000353598771"
+   },
+   {
+    "lat": 45.4047,
+    "lon": 6.00307,
+    "nature": "Route empierrée",
+    "detail": null,
+    "toponyme": null,
+    "cleabs": "TRONROUT0000000354084188"
+   },
+   {
+    "lat": 45.41896,
+    "lon": 6.04676,
+    "nature": "Route empierrée",
+    "detail": null,
+    "toponyme": null,
+    "cleabs": "TRONROUT0000000354084566"
+   },
+   {
+    "lat": 45.42338,
+    "lon": 6.04846,
+    "nature": "Route empierrée",
+    "detail": null,
+    "toponyme": null,
+    "cleabs": "TRONROUT0000000354084568"
+   },
+   {
+    "lat": 45.41118,
+    "lon": 6.03217,
+    "nature": "Route empierrée",
+    "detail": null,
+    "toponyme": null,
+    "cleabs": "TRONROUT0000000354084584"
+   },
+   {
+    "lat": 45.45334,
+    "lon": 6.00945,
+    "nature": "Route empierrée",
+    "detail": null,
+    "toponyme": null,
+    "cleabs": "TRONROUT0000000354084676"
+   },
+   {
+    "lat": 45.44359,
+    "lon": 6.00632,
+    "nature": "Route empierrée",
+    "detail": null,
+    "toponyme": null,
+    "cleabs": "TRONROUT0000000354084678"
+   },
+   {
+    "lat": 45.4432,
+    "lon": 6.00757,
+    "nature": "Route empierrée",
+    "detail": null,
+    "toponyme": null,
+    "cleabs": "TRONROUT0000000354084680"
+   },
+   {
+    "lat": 45.44297,
+    "lon": 6.00764,
+    "nature": "Route empierrée",
+    "detail": null,
+    "toponyme": null,
+    "cleabs": "TRONROUT0000000354084682"
+   },
+   {
+    "lat": 45.44304,
+    "lon": 6.00761,
+    "nature": "Route empierrée",
+    "detail": null,
+    "toponyme": null,
+    "cleabs": "TRONROUT0000000354084684"
+   },
+   {
+    "lat": 45.44366,
+    "lon": 6.00607,
+    "nature": "Route empierrée",
+    "detail": null,
+    "toponyme": null,
+    "cleabs": "TRONROUT0000000354084685"
+   },
+   {
+    "lat": 45.44342,
+    "lon": 6.00704,
+    "nature": "Route empierrée",
+    "detail": null,
+    "toponyme": null,
+    "cleabs": "TRONROUT0000000354084686"
+   },
+   {
+    "lat": 45.44297,
+    "lon": 6.00624,
+    "nature": "Route empierrée",
+    "detail": null,
+    "toponyme": null,
+    "cleabs": "TRONROUT0000000354084687"
+   },
+   {
+    "lat": 45.44278,
+    "lon": 6.00586,
+    "nature": "Route empierrée",
+    "detail": null,
+    "toponyme": null,
+    "cleabs": "TRONROUT0000000354084688"
+   },
+   {
+    "lat": 45.44318,
+    "lon": 6.00605,
+    "nature": "Route empierrée",
+    "detail": null,
+    "toponyme": null,
+    "cleabs": "TRONROUT0000000354084689"
+   },
+   {
+    "lat": 45.44312,
+    "lon": 6.00575,
+    "nature": "Route empierrée",
+    "detail": null,
+    "toponyme": null,
+    "cleabs": "TRONROUT0000000354084690"
+   },
+   {
+    "lat": 45.4326,
+    "lon": 6.02261,
+    "nature": "Route empierrée",
+    "detail": null,
+    "toponyme": null,
+    "cleabs": "TRONROUT0000000358027356"
+   },
+   {
+    "lat": 45.44052,
+    "lon": 6.03057,
+    "nature": "Route empierrée",
+    "detail": null,
+    "toponyme": null,
+    "cleabs": "TRONROUT0000002002029560"
+   },
+   {
+    "lat": 45.43238,
+    "lon": 6.01715,
+    "nature": "Route empierrée",
+    "detail": null,
+    "toponyme": null,
+    "cleabs": "TRONROUT0000002002242579"
+   },
+   {
+    "lat": 45.44152,
+    "lon": 5.99653,
+    "nature": "Route empierrée",
+    "detail": null,
+    "toponyme": null,
+    "cleabs": "TRONROUT0000002003273229"
+   },
+   {
+    "lat": 45.4541,
+    "lon": 5.99882,
+    "nature": "Route empierrée",
+    "detail": null,
+    "toponyme": null,
+    "cleabs": "TRONROUT0000002003277826"
+   },
+   {
+    "lat": 45.4529,
+    "lon": 5.99904,
+    "nature": "Route empierrée",
+    "detail": null,
+    "toponyme": null,
+    "cleabs": "TRONROUT0000002003277828"
+   },
+   {
+    "lat": 45.45429,
+    "lon": 6.00059,
+    "nature": "Route empierrée",
+    "detail": null,
+    "toponyme": null,
+    "cleabs": "TRONROUT0000002003277829"
+   },
+   {
+    "lat": 45.45492,
+    "lon": 5.998,
+    "nature": "Route empierrée",
+    "detail": null,
+    "toponyme": null,
+    "cleabs": "TRONROUT0000002003277830"
+   },
+   {
+    "lat": 45.45507,
+    "lon": 5.9998,
+    "nature": "Route empierrée",
+    "detail": null,
+    "toponyme": null,
+    "cleabs": "TRONROUT0000002003277831"
+   },
+   {
+    "lat": 45.42812,
+    "lon": 6.00901,
+    "nature": "Route empierrée",
+    "detail": null,
+    "toponyme": null,
+    "cleabs": "TRONROUT0000002003347716"
+   },
+   {
+    "lat": 45.40802,
+    "lon": 6.02112,
+    "nature": "Route empierrée",
+    "detail": null,
+    "toponyme": null,
+    "cleabs": "TRONROUT0000002003347823"
+   },
+   {
+    "lat": 45.44017,
+    "lon": 6.00794,
+    "nature": "Route empierrée",
+    "detail": null,
+    "toponyme": null,
+    "cleabs": "TRONROUT0000002003582947"
+   },
+   {
+    "lat": 45.43961,
+    "lon": 6.00601,
+    "nature": "Route empierrée",
+    "detail": null,
+    "toponyme": null,
+    "cleabs": "TRONROUT0000002003582949"
+   },
+   {
+    "lat": 45.43983,
+    "lon": 6.0069,
+    "nature": "Route empierrée",
+    "detail": null,
+    "toponyme": null,
+    "cleabs": "TRONROUT0000002003582950"
+   },
+   {
+    "lat": 45.44045,
+    "lon": 6.00737,
+    "nature": "Route empierrée",
+    "detail": null,
+    "toponyme": null,
+    "cleabs": "TRONROUT0000002003582951"
+   },
+   {
+    "lat": 45.44082,
+    "lon": 6.00818,
+    "nature": "Route empierrée",
+    "detail": null,
+    "toponyme": null,
+    "cleabs": "TRONROUT0000002003582952"
+   },
+   {
+    "lat": 45.459,
+    "lon": 6.05816,
+    "nature": "Route empierrée",
+    "detail": null,
+    "toponyme": null,
+    "cleabs": "TRONROUT0000002009106027"
+   },
+   {
+    "lat": 45.45894,
+    "lon": 6.05725,
+    "nature": "Route empierrée",
+    "detail": null,
+    "toponyme": null,
+    "cleabs": "TRONROUT0000002009106026"
+   },
+   {
+    "lat": 45.45877,
+    "lon": 6.058,
+    "nature": "Route empierrée",
+    "detail": null,
+    "toponyme": null,
+    "cleabs": "TRONROUT0000002009106028"
+   },
+   {
+    "lat": 45.43183,
+    "lon": 6.01805,
+    "nature": "Route empierrée",
+    "detail": null,
+    "toponyme": null,
+    "cleabs": "TRONROUT0000002009111524"
+   },
+   {
+    "lat": 45.44095,
+    "lon": 6.00851,
+    "nature": "Route empierrée",
+    "detail": null,
+    "toponyme": null,
+    "cleabs": "TRONROUT0000002009111527"
+   },
+   {
+    "lat": 45.44622,
+    "lon": 6.04528,
+    "nature": "Route empierrée",
+    "detail": null,
+    "toponyme": null,
+    "cleabs": "TRONROUT0000002009177442"
+   },
+   {
+    "lat": 45.44029,
+    "lon": 6.02176,
+    "nature": "Route empierrée",
+    "detail": null,
+    "toponyme": null,
+    "cleabs": "TRONROUT0000002011278049"
+   },
+   {
+    "lat": 45.43133,
+    "lon": 6.00856,
+    "nature": "Route empierrée",
+    "detail": null,
+    "toponyme": null,
+    "cleabs": "TRONROUT0000002101848452"
+   },
+   {
+    "lat": 45.44154,
+    "lon": 6.02463,
+    "nature": "Route empierrée",
+    "detail": null,
+    "toponyme": null,
+    "cleabs": "TRONROUT0000002101848458"
+   },
+   {
+    "lat": 45.4376,
+    "lon": 6.02577,
+    "nature": "Route empierrée",
+    "detail": null,
+    "toponyme": null,
+    "cleabs": "TRONROUT0000002101848460"
+   },
+   {
+    "lat": 45.45656,
+    "lon": 6.01117,
+    "nature": "Route empierrée",
+    "detail": null,
+    "toponyme": null,
+    "cleabs": "TRONROUT0000002203170570"
+   },
+   {
+    "lat": 45.43901,
+    "lon": 6.0231,
+    "nature": "Route empierrée",
+    "detail": null,
+    "toponyme": null,
+    "cleabs": "TRONROUT0000002203523654"
+   },
+   {
+    "lat": 45.43893,
+    "lon": 6.02314,
+    "nature": "Route empierrée",
+    "detail": null,
+    "toponyme": null,
+    "cleabs": "TRONROUT0000002203523656"
+   },
+   {
+    "lat": 45.43862,
+    "lon": 6.02301,
+    "nature": "Route empierrée",
+    "detail": null,
+    "toponyme": null,
+    "cleabs": "TRONROUT0000002203523657"
+   },
+   {
+    "lat": 45.42479,
+    "lon": 6.0793,
+    "nature": "Route empierrée",
+    "detail": null,
+    "toponyme": null,
+    "cleabs": "TRONROUT0000002205078811"
+   },
+   {
+    "lat": 45.41661,
+    "lon": 6.00375,
+    "nature": "Route empierrée",
+    "detail": null,
+    "toponyme": null,
+    "cleabs": "TRONROUT0000002215946885"
+   },
+   {
+    "lat": 45.41664,
+    "lon": 6.00484,
+    "nature": "Route empierrée",
+    "detail": null,
+    "toponyme": null,
+    "cleabs": "TRONROUT0000002215946938"
+   },
+   {
+    "lat": 45.4166,
+    "lon": 6.00233,
+    "nature": "Route empierrée",
+    "detail": null,
+    "toponyme": null,
+    "cleabs": "TRONROUT0000002215946948"
+   },
+   {
+    "lat": 45.41668,
+    "lon": 6.00531,
+    "nature": "Route empierrée",
+    "detail": null,
+    "toponyme": null,
+    "cleabs": "TRONROUT0000002215947046"
+   },
+   {
+    "lat": 45.41671,
+    "lon": 6.00507,
+    "nature": "Route empierrée",
+    "detail": null,
+    "toponyme": null,
+    "cleabs": "TRONROUT0000002215947132"
+   },
+   {
+    "lat": 45.41668,
+    "lon": 6.00427,
+    "nature": "Route empierrée",
+    "detail": null,
+    "toponyme": null,
+    "cleabs": "TRONROUT0000002215947188"
+   },
+   {
+    "lat": 45.43478,
+    "lon": 6.026,
+    "nature": "Route empierrée",
+    "detail": null,
+    "toponyme": null,
+    "cleabs": "TRONROUT0000002216118818"
+   },
+   {
+    "lat": 45.43319,
+    "lon": 6.0079,
+    "nature": "Route empierrée",
+    "detail": null,
+    "toponyme": null,
+    "cleabs": "TRONROUT0000002218421666"
+   },
+   {
+    "lat": 45.45259,
+    "lon": 6.00024,
+    "nature": "Route empierrée",
+    "detail": null,
+    "toponyme": null,
+    "cleabs": "TRONROUT0000002218812031"
+   },
+   {
+    "lat": 45.43957,
+    "lon": 5.99932,
+    "nature": "Route empierrée",
+    "detail": null,
+    "toponyme": null,
+    "cleabs": "TRONROUT0000002223543304"
+   },
+   {
+    "lat": 45.4409,
+    "lon": 5.99446,
+    "nature": "Route empierrée",
+    "detail": null,
+    "toponyme": null,
+    "cleabs": "TRONROUT0000002223543309"
+   },
+   {
+    "lat": 45.43995,
+    "lon": 5.99482,
+    "nature": "Route empierrée",
+    "detail": null,
+    "toponyme": null,
+    "cleabs": "TRONROUT0000002223543312"
+   },
+   {
+    "lat": 45.43436,
+    "lon": 6.02591,
+    "nature": "Route empierrée",
+    "detail": null,
+    "toponyme": null,
+    "cleabs": "TRONROUT0000002245138439"
+   },
+   {
+    "lat": 45.44364,
+    "lon": 5.99789,
+    "nature": "Route empierrée",
+    "detail": null,
+    "toponyme": null,
+    "cleabs": "TRONROUT0000002292861409"
+   },
+   {
+    "lat": 45.4175,
+    "lon": 5.9983,
+    "nature": "Route empierrée",
+    "detail": null,
+    "toponyme": null,
+    "cleabs": "TRONROUT0000002292861443"
+   },
+   {
+    "lat": 45.42047,
+    "lon": 6.01147,
+    "nature": "Route empierrée",
+    "detail": null,
+    "toponyme": null,
+    "cleabs": "TRONROUT0000002292901865"
+   },
+   {
+    "lat": 45.43015,
+    "lon": 6.03711,
+    "nature": "Route empierrée",
+    "detail": null,
+    "toponyme": null,
+    "cleabs": "TRONROUT0000002292901895"
+   },
+   {
+    "lat": 45.43077,
+    "lon": 6.03641,
+    "nature": "Route empierrée",
+    "detail": null,
+    "toponyme": null,
+    "cleabs": "TRONROUT0000002292901896"
+   },
+   {
+    "lat": 45.45129,
+    "lon": 5.99909,
+    "nature": "Route empierrée",
+    "detail": null,
+    "toponyme": null,
+    "cleabs": "TRONROUT0000002321353738"
+   },
+   {
+    "lat": 45.45248,
+    "lon": 5.9981,
+    "nature": "Route empierrée",
+    "detail": null,
+    "toponyme": null,
+    "cleabs": "TRONROUT0000002321353779"
+   },
+   {
+    "lat": 45.44076,
+    "lon": 6.02422,
+    "nature": "Route empierrée",
+    "detail": null,
+    "toponyme": null,
+    "cleabs": "TRONROUT0000002324009022"
+   },
+   {
+    "lat": 45.45625,
+    "lon": 6.02058,
+    "nature": "Route empierrée",
+    "detail": null,
+    "toponyme": null,
+    "cleabs": "TRONROUT0000002329078038"
+   },
+   {
+    "lat": 45.45731,
+    "lon": 6.01963,
+    "nature": "Route empierrée",
+    "detail": null,
+    "toponyme": null,
+    "cleabs": "TRONROUT0000002329078039"
+   },
+   {
+    "lat": 45.4545,
+    "lon": 6.01928,
+    "nature": "Route empierrée",
+    "detail": null,
+    "toponyme": null,
+    "cleabs": "TRONROUT0000002329078041"
+   },
+   {
+    "lat": 45.45775,
+    "lon": 6.01778,
+    "nature": "Route empierrée",
+    "detail": null,
+    "toponyme": null,
+    "cleabs": "TRONROUT0000002329078042"
+   },
+   {
+    "lat": 45.45709,
+    "lon": 6.0208,
+    "nature": "Route empierrée",
+    "detail": null,
+    "toponyme": null,
+    "cleabs": "TRONROUT0000002329078043"
+   },
+   {
+    "lat": 45.45656,
+    "lon": 6.02228,
+    "nature": "Route empierrée",
+    "detail": null,
+    "toponyme": null,
+    "cleabs": "TRONROUT0000002329078044"
+   },
+   {
+    "lat": 45.44912,
+    "lon": 6.03818,
+    "nature": "Route empierrée",
+    "detail": null,
+    "toponyme": null,
+    "cleabs": "TRONROUT0000002331646583"
+   },
+   {
+    "lat": 45.39485,
+    "lon": 6.0438,
+    "nature": "Route empierrée",
+    "detail": null,
+    "toponyme": null,
+    "cleabs": "TRONROUT0000002474958971"
+   },
+   {
+    "lat": 45.40431,
+    "lon": 6.04945,
+    "nature": "Route empierrée",
+    "detail": null,
+    "toponyme": null,
+    "cleabs": "TRONROUT0000002474958973"
+   },
+   {
+    "lat": 45.42787,
+    "lon": 6.01863,
+    "nature": "Route empierrée",
+    "detail": null,
+    "toponyme": null,
+    "cleabs": "TRONROUT0000002478901256"
+   },
+   {
+    "lat": 45.43302,
+    "lon": 6.01166,
+    "nature": "Route empierrée",
+    "detail": null,
+    "toponyme": null,
+    "cleabs": "TRONROUT0000002496090152"
+   },
+   {
+    "lat": 45.43296,
+    "lon": 6.01165,
+    "nature": "Route empierrée",
+    "detail": null,
+    "toponyme": null,
+    "cleabs": "TRONROUT0000002496090151"
+   },
+   {
+    "lat": 45.43299,
+    "lon": 6.01168,
+    "nature": "Route empierrée",
+    "detail": null,
+    "toponyme": null,
+    "cleabs": "TRONROUT0000002496090153"
+   },
+   {
+    "lat": 45.43272,
+    "lon": 6.01188,
+    "nature": "Route empierrée",
+    "detail": null,
+    "toponyme": null,
+    "cleabs": "TRONROUT0000002496090154"
+   },
+   {
+    "lat": 45.43225,
+    "lon": 6.01054,
+    "nature": "Route empierrée",
+    "detail": null,
+    "toponyme": null,
+    "cleabs": "TRONROUT0000002496090155"
+   },
+   {
+    "lat": 45.43194,
+    "lon": 6.01012,
+    "nature": "Route empierrée",
+    "detail": null,
+    "toponyme": null,
+    "cleabs": "TRONROUT0000002496090156"
+   },
+   {
+    "lat": 45.4329,
+    "lon": 6.01083,
+    "nature": "Route empierrée",
+    "detail": null,
+    "toponyme": null,
+    "cleabs": "TRONROUT0000002496090157"
+   },
+   {
+    "lat": 45.43299,
+    "lon": 6.01163,
+    "nature": "Route empierrée",
+    "detail": null,
+    "toponyme": null,
+    "cleabs": "TRONROUT0000002496090158"
+   },
+   {
+    "lat": 45.43197,
+    "lon": 6.01117,
+    "nature": "Route empierrée",
+    "detail": null,
+    "toponyme": null,
+    "cleabs": "TRONROUT0000002496090159"
+   },
+   {
+    "lat": 45.43314,
+    "lon": 6.01164,
+    "nature": "Route empierrée",
+    "detail": null,
+    "toponyme": null,
+    "cleabs": "TRONROUT0000002496090160"
+   },
+   {
+    "lat": 45.43282,
+    "lon": 6.01186,
+    "nature": "Route empierrée",
+    "detail": null,
+    "toponyme": null,
+    "cleabs": "TRONROUT0000002496090161"
+   },
+   {
+    "lat": 45.43296,
+    "lon": 6.01168,
+    "nature": "Route empierrée",
+    "detail": null,
+    "toponyme": null,
+    "cleabs": "TRONROUT0000002496090162"
+   },
+   {
+    "lat": 45.43293,
+    "lon": 6.01176,
+    "nature": "Route empierrée",
+    "detail": null,
+    "toponyme": null,
+    "cleabs": "TRONROUT0000002496090163"
+   },
+   {
+    "lat": 45.40666,
+    "lon": 5.99717,
+    "nature": "Route empierrée",
+    "detail": null,
+    "toponyme": null,
+    "cleabs": "TRONROUT0000002496090449"
+   },
+   {
+    "lat": 45.40689,
+    "lon": 5.99657,
+    "nature": "Route empierrée",
+    "detail": null,
+    "toponyme": null,
+    "cleabs": "TRONROUT0000002496090452"
+   },
+   {
+    "lat": 45.40653,
+    "lon": 6.01271,
+    "nature": "Route empierrée",
+    "detail": null,
+    "toponyme": null,
+    "cleabs": "TRONROUT0000002496090691"
+   },
+   {
+    "lat": 45.43969,
+    "lon": 5.99843,
+    "nature": "Route empierrée",
+    "detail": null,
+    "toponyme": null,
+    "cleabs": "TRONROUT0000002496090822"
+   },
+   {
+    "lat": 45.43969,
+    "lon": 5.99746,
+    "nature": "Route empierrée",
+    "detail": null,
+    "toponyme": null,
+    "cleabs": "TRONROUT0000002496090823"
+   },
+   {
+    "lat": 45.44016,
+    "lon": 5.99893,
+    "nature": "Route empierrée",
+    "detail": null,
+    "toponyme": null,
+    "cleabs": "TRONROUT0000002496090824"
+   },
+   {
+    "lat": 45.44608,
+    "lon": 6.00049,
+    "nature": "Route empierrée",
+    "detail": null,
+    "toponyme": null,
+    "cleabs": "TRONROUT0000002496090830"
+   },
+   {
+    "lat": 45.43407,
+    "lon": 6.00005,
+    "nature": "Route empierrée",
+    "detail": null,
+    "toponyme": null,
+    "cleabs": "TRONROUT0000002498093854"
+   },
+   {
+    "lat": 45.42257,
+    "lon": 6.07411,
+    "nature": "Route empierrée",
+    "detail": null,
+    "toponyme": null,
+    "cleabs": "TRONROUT0000002499254587"
+   },
+   {
+    "lat": 45.42133,
+    "lon": 6.07367,
+    "nature": "Route empierrée",
+    "detail": null,
+    "toponyme": null,
+    "cleabs": "TRONROUT0000002499254615"
+   },
+   {
+    "lat": 45.40362,
+    "lon": 6.03749,
+    "nature": "Route empierrée",
+    "detail": null,
+    "toponyme": null,
+    "cleabs": "TRONROUT0000002499254624"
+   },
+   {
+    "lat": 45.43218,
+    "lon": 6.01904,
+    "nature": "Route empierrée",
+    "detail": null,
+    "toponyme": null,
+    "cleabs": "TRONROUT0000002499691622"
+   }
+  ],
+  "pairs": [
+   [
+    0,
+    128,
+    1864.5
+   ],
+   [
+    1,
+    236,
+    1839.7
+   ],
+   [
+    1,
+    307,
+    1862.9
+   ],
+   [
+    1,
+    351,
+    1855.5
+   ],
+   [
+    2,
+    9,
+    1860.2
+   ],
+   [
+    2,
+    10,
+    1833.9
+   ],
+   [
+    2,
+    39,
+    1861.1
+   ],
+   [
+    2,
+    340,
+    1867.1
+   ],
+   [
+    3,
+    43,
+    1859.2
+   ],
+   [
+    4,
+    47,
+    1851.6
+   ],
+   [
+    4,
+    48,
+    1848.6
+   ],
+   [
+    5,
+    15,
+    1861.3
+   ],
+   [
+    5,
+    44,
+    1847.4
+   ],
+   [
+    6,
+    329,
+    1853.4
+   ],
+   [
+    7,
+    164,
+    1865.8
+   ],
+   [
+    8,
+    33,
+    1868.2
+   ],
+   [
+    8,
+    34,
+    1853.2
+   ],
+   [
+    8,
+    54,
+    1845.2
+   ],
+   [
+    8,
+    80,
+    1866.0
+   ],
+   [
+    8,
+    86,
+    1843.0
+   ],
+   [
+    8,
+    178,
+    1843.3
+   ],
+   [
+    9,
+    192,
+    1854.8
+   ],
+   [
+    9,
+    331,
+    1861.2
+   ],
+   [
+    9,
+    335,
+    1863.6
+   ],
+   [
+    10,
+    18,
+    1854.1
+   ],
+   [
+    10,
+    21,
+    1856.4
+   ],
+   [
+    10,
+    164,
+    1837.4
+   ],
+   [
+    10,
+    181,
+    1837.0
+   ],
+   [
+    10,
+    231,
+    1837.9
+   ],
+   [
+    10,
+    289,
+    1847.7
+   ],
+   [
+    11,
+    165,
+    1848.1
+   ],
+   [
+    11,
+    179,
+    1842.2
+   ],
+   [
+    11,
+    312,
+    1843.9
+   ],
+   [
+    11,
+    340,
+    1858.2
+   ],
+   [
+    12,
+    47,
+    1863.6
+   ],
+   [
+    12,
+    313,
+    1857.8
+   ],
+   [
+    12,
+    323,
+    1853.4
+   ],
+   [
+    13,
+    61,
+    1857.3
+   ],
+   [
+    13,
+    63,
+    1839.6
+   ],
+   [
+    14,
+    175,
+    1852.3
+   ],
+   [
+    14,
+    281,
+    1858.4
+   ],
+   [
+    15,
+    242,
+    1842.4
+   ],
+   [
+    15,
+    332,
+    1855.9
+   ],
+   [
+    16,
+    47,
+    1854.8
+   ],
+   [
+    16,
+    169,
+    1852.1
+   ],
+   [
+    16,
+    179,
+    1831.8
+   ],
+   [
+    16,
+    202,
+    1834.9
+   ],
+   [
+    16,
+    301,
+    1867.7
+   ],
+   [
+    17,
+    65,
+    1836.0
+   ],
+   [
+    17,
+    205,
+    1846.0
+   ],
+   [
+    18,
+    235,
+    1866.7
+   ],
+   [
+    18,
+    254,
+    1859.6
+   ],
+   [
+    19,
+    66,
+    1844.5
+   ],
+   [
+    19,
+    182,
+    1863.6
+   ],
+   [
+    19,
+    326,
+    1850.6
+   ],
+   [
+    20,
+    223,
+    1847.4
+   ],
+   [
+    20,
+    239,
+    1843.4
+   ],
+   [
+    20,
+    283,
+    1838.4
+   ],
+   [
+    20,
+    360,
+    1851.7
+   ],
+   [
+    21,
+    64,
+    1854.9
+   ],
+   [
+    21,
+    202,
+    1842.3
+   ],
+   [
+    22,
+    182,
+    1848.6
+   ],
+   [
+    22,
+    183,
+    1859.5
+   ],
+   [
+    22,
+    186,
+    1853.6
+   ],
+   [
+    22,
+    195,
+    1854.4
+   ],
+   [
+    22,
+    226,
+    1853.6
+   ],
+   [
+    22,
+    302,
+    1831.9
+   ],
+   [
+    22,
+    303,
+    1841.3
+   ],
+   [
+    23,
+    201,
+    1866.7
+   ],
+   [
+    23,
+    329,
+    1860.3
+   ],
+   [
+    24,
+    42,
+    1867.0
+   ],
+   [
+    25,
+    59,
+    1843.4
+   ],
+   [
+    25,
+    261,
+    1866.0
+   ],
+   [
+    26,
+    185,
+    1848.9
+   ],
+   [
+    26,
+    358,
+    1865.0
+   ],
+   [
+    27,
+    77,
+    1853.4
+   ],
+   [
+    28,
+    191,
+    1832.6
+   ],
+   [
+    28,
+    358,
+    1857.7
+   ],
+   [
+    29,
+    72,
+    1856.3
+   ],
+   [
+    29,
+    78,
+    1867.2
+   ],
+   [
+    30,
+    161,
+    1862.5
+   ],
+   [
+    31,
+    72,
+    1835.1
+   ],
+   [
+    31,
+    73,
+    1862.7
+   ],
+   [
+    31,
+    79,
+    1854.1
+   ],
+   [
+    31,
+    241,
+    1864.2
+   ],
+   [
+    32,
+    75,
+    1855.0
+   ],
+   [
+    32,
+    304,
+    1833.9
+   ],
+   [
+    32,
+    321,
+    1862.5
+   ],
+   [
+    33,
+    58,
+    1832.9
+   ],
+   [
+    33,
+    99,
+    1858.0
+   ],
+   [
+    33,
+    158,
+    1847.3
+   ],
+   [
+    34,
+    37,
+    1859.3
+   ],
+   [
+    34,
+    180,
+    1845.6
+   ],
+   [
+    34,
+    185,
+    1864.3
+   ],
+   [
+    34,
+    206,
+    1837.5
+   ],
+   [
+    34,
+    260,
+    1849.2
+   ],
+   [
+    35,
+    37,
+    1851.0
+   ],
+   [
+    36,
+    60,
+    1864.7
+   ],
+   [
+    37,
+    183,
+    1859.1
+   ],
+   [
+    37,
+    195,
+    1864.6
+   ],
+   [
+    37,
+    225,
+    1834.6
+   ],
+   [
+    38,
+    263,
+    1849.0
+   ],
+   [
+    38,
+    331,
+    1833.2
+   ],
+   [
+    39,
+    221,
+    1863.0
+   ],
+   [
+    40,
+    94,
+    1846.9
+   ],
+   [
+    40,
+    96,
+    1855.2
+   ],
+   [
+    40,
+    218,
+    1854.0
+   ],
+   [
+    41,
+    216,
+    1850.7
+   ],
+   [
+    42,
+    48,
+    1858.4
+   ],
+   [
+    42,
+    240,
+    1854.5
+   ],
+   [
+    42,
+    282,
+    1834.7
+   ],
+   [
+    43,
+    182,
+    1833.0
+   ],
+   [
+    43,
+    183,
+    1839.8
+   ],
+   [
+    43,
+    186,
+    1848.9
+   ],
+   [
+    43,
+    195,
+    1836.6
+   ],
+   [
+    44,
+    252,
+    1843.0
+   ],
+   [
+    44,
+    278,
+    1849.3
+   ],
+   [
+    45,
+    48,
+    1840.4
+   ],
+   [
+    45,
+    93,
+    1859.6
+   ],
+   [
+    46,
+    278,
+    1841.8
+   ],
+   [
+    47,
+    282,
+    1852.9
+   ],
+   [
+    47,
+    293,
+    1852.1
+   ],
+   [
+    48,
+    312,
+    1867.5
+   ],
+   [
+    51,
+    55,
+    1854.0
+   ],
+   [
+    51,
+    57,
+    1842.6
+   ],
+   [
+    54,
+    83,
+    1851.8
+   ],
+   [
+    55,
+    88,
+    1864.0
+   ],
+   [
+    56,
+    86,
+    1845.0
+   ],
+   [
+    56,
+    104,
+    1842.4
+   ],
+   [
+    56,
+    230,
+    1862.6
+   ],
+   [
+    58,
+    172,
+    1836.8
+   ],
+   [
+    58,
+    176,
+    1864.7
+   ],
+   [
+    58,
+    189,
+    1868.4
+   ],
+   [
+    58,
+    202,
+    1851.5
+   ],
+   [
+    58,
+    242,
+    1850.9
+   ],
+   [
+    59,
+    107,
+    1853.8
+   ],
+   [
+    59,
+    296,
+    1866.0
+   ],
+   [
+    60,
+    234,
+    1846.7
+   ],
+   [
+    60,
+    254,
+    1859.5
+   ],
+   [
+    60,
+    286,
+    1837.7
+   ],
+   [
+    61,
+    111,
+    1834.1
+   ],
+   [
+    61,
+    197,
+    1864.6
+   ],
+   [
+    61,
+    204,
+    1864.5
+   ],
+   [
+    61,
+    306,
+    1855.8
+   ],
+   [
+    61,
+    308,
+    1832.8
+   ],
+   [
+    61,
+    309,
+    1840.1
+   ],
+   [
+    61,
+    353,
+    1867.3
+   ],
+   [
+    62,
+    206,
+    1838.4
+   ],
+   [
+    62,
+    277,
+    1860.5
+   ],
+   [
+    62,
+    316,
+    1867.4
+   ],
+   [
+    63,
+    200,
+    1854.4
+   ],
+   [
+    63,
+    204,
+    1836.1
+   ],
+   [
+    64,
+    109,
+    1867.9
+   ],
+   [
+    64,
+    131,
+    1836.1
+   ],
+   [
+    64,
+    201,
+    1832.3
+   ],
+   [
+    64,
+    229,
+    1854.3
+   ],
+   [
+    64,
+    240,
+    1837.8
+   ],
+   [
+    64,
+    264,
+    1836.3
+   ],
+   [
+    64,
+    268,
+    1846.9
+   ],
+   [
+    64,
+    316,
+    1837.0
+   ],
+   [
+    65,
+    289,
+    1838.5
+   ],
+   [
+    65,
+    294,
+    1866.4
+   ],
+   [
+    66,
+    270,
+    1856.0
+   ],
+   [
+    66,
+    272,
+    1859.7
+   ],
+   [
+    66,
+    273,
+    1837.7
+   ],
+   [
+    66,
+    289,
+    1840.2
+   ],
+   [
+    66,
+    336,
+    1848.5
+   ],
+   [
+    66,
+    337,
+    1847.3
+   ],
+   [
+    66,
+    338,
+    1850.1
+   ],
+   [
+    66,
+    339,
+    1864.8
+   ],
+   [
+    66,
+    343,
+    1846.3
+   ],
+   [
+    66,
+    345,
+    1847.8
+   ],
+   [
+    66,
+    346,
+    1863.5
+   ],
+   [
+    66,
+    347,
+    1849.7
+   ],
+   [
+    66,
+    348,
+    1856.1
+   ],
+   [
+    67,
+    287,
+    1835.0
+   ],
+   [
+    67,
+    319,
+    1866.2
+   ],
+   [
+    67,
+    341,
+    1866.3
+   ],
+   [
+    69,
+    315,
+    1857.9
+   ],
+   [
+    70,
+    277,
+    1848.4
+   ],
+   [
+    70,
+    354,
+    1847.1
+   ],
+   [
+    73,
+    101,
+    1853.0
+   ],
+   [
+    74,
+    100,
+    1849.3
+   ],
+   [
+    78,
+    84,
+    1856.6
+   ],
+   [
+    78,
+    122,
+    1833.3
+   ],
+   [
+    79,
+    121,
+    1854.4
+   ],
+   [
+    80,
+    103,
+    1844.9
+   ],
+   [
+    81,
+    125,
+    1839.7
+   ],
+   [
+    81,
+    141,
+    1845.4
+   ],
+   [
+    82,
+    256,
+    1842.3
+   ],
+   [
+    82,
+    334,
+    1842.6
+   ],
+   [
+    84,
+    127,
+    1862.1
+   ],
+   [
+    84,
+    359,
+    1845.5
+   ],
+   [
+    85,
+    125,
+    1867.0
+   ],
+   [
+    85,
+    208,
+    1848.4
+   ],
+   [
+    86,
+    109,
+    1837.8
+   ],
+   [
+    86,
+    198,
+    1845.0
+   ],
+   [
+    86,
+    223,
+    1862.8
+   ],
+   [
+    86,
+    250,
+    1848.4
+   ],
+   [
+    86,
+    325,
+    1855.3
+   ],
+   [
+    86,
+    339,
+    1851.7
+   ],
+   [
+    86,
+    344,
+    1866.6
+   ],
+   [
+    86,
+    346,
+    1858.1
+   ],
+   [
+    87,
+    223,
+    1844.0
+   ],
+   [
+    87,
+    275,
+    1847.8
+   ],
+   [
+    88,
+    91,
+    1849.5
+   ],
+   [
+    88,
+    126,
+    1863.1
+   ],
+   [
+    88,
+    249,
+    1857.2
+   ],
+   [
+    89,
+    134,
+    1832.1
+   ],
+   [
+    89,
+    259,
+    1862.0
+   ],
+   [
+    93,
+    284,
+    1854.2
+   ],
+   [
+    94,
+    224,
+    1850.4
+   ],
+   [
+    94,
+    276,
+    1836.8
+   ],
+   [
+    94,
+    293,
+    1852.6
+   ],
+   [
+    95,
+    314,
+    1864.6
+   ],
+   [
+    95,
+    360,
+    1842.8
+   ],
+   [
+    96,
+    109,
+    1862.0
+   ],
+   [
+    96,
+    253,
+    1853.7
+   ],
+   [
+    96,
+    259,
+    1864.1
+   ],
+   [
+    96,
+    276,
+    1836.4
+   ],
+   [
+    96,
+    293,
+    1849.5
+   ],
+   [
+    97,
+    315,
+    1845.1
+   ],
+   [
+    98,
+    140,
+    1861.3
+   ],
+   [
+    98,
+    208,
+    1841.7
+   ],
+   [
+    99,
+    123,
+    1845.5
+   ],
+   [
+    99,
+    208,
+    1860.6
+   ],
+   [
+    100,
+    151,
+    1858.5
+   ],
+   [
+    101,
+    142,
+    1865.7
+   ],
+   [
+    101,
+    143,
+    1856.1
+   ],
+   [
+    101,
+    247,
+    1843.3
+   ],
+   [
+    101,
+    257,
+    1867.8
+   ],
+   [
+    101,
+    357,
+    1851.3
+   ],
+   [
+    102,
+    144,
+    1855.1
+   ],
+   [
+    102,
+    250,
+    1857.3
+   ],
+   [
+    103,
+    136,
+    1865.9
+   ],
+   [
+    103,
+    139,
+    1851.7
+   ],
+   [
+    103,
+    206,
+    1847.6
+   ],
+   [
+    103,
+    209,
+    1862.5
+   ],
+   [
+    105,
+    322,
+    1839.6
+   ],
+   [
+    106,
+    136,
+    1835.7
+   ],
+   [
+    106,
+    139,
+    1864.4
+   ],
+   [
+    106,
+    143,
+    1843.0
+   ],
+   [
+    107,
+    246,
+    1855.6
+   ],
+   [
+    107,
+    293,
+    1835.7
+   ],
+   [
+    107,
+    360,
+    1833.4
+   ],
+   [
+    108,
+    131,
+    1840.6
+   ],
+   [
+    108,
+    274,
+    1835.0
+   ],
+   [
+    108,
+    306,
+    1860.6
+   ],
+   [
+    108,
+    309,
+    1842.7
+   ],
+   [
+    109,
+    134,
+    1845.8
+   ],
+   [
+    109,
+    155,
+    1848.0
+   ],
+   [
+    109,
+    350,
+    1866.3
+   ],
+   [
+    110,
+    220,
+    1867.4
+   ],
+   [
+    110,
+    235,
+    1840.9
+   ],
+   [
+    110,
+    276,
+    1850.4
+   ],
+   [
+    110,
+    336,
+    1851.8
+   ],
+   [
+    110,
+    337,
+    1844.1
+   ],
+   [
+    110,
+    338,
+    1848.2
+   ],
+   [
+    110,
+    342,
+    1835.8
+   ],
+   [
+    110,
+    343,
+    1847.4
+   ],
+   [
+    110,
+    345,
+    1864.3
+   ],
+   [
+    110,
+    347,
+    1844.8
+   ],
+   [
+    110,
+    348,
+    1841.2
+   ],
+   [
+    111,
+    234,
+    1844.0
+   ],
+   [
+    111,
+    250,
+    1854.3
+   ],
+   [
+    112,
+    340,
+    1867.5
+   ],
+   [
+    112,
+    341,
+    1832.7
+   ],
+   [
+    112,
+    344,
+    1838.9
+   ],
+   [
+    113,
+    293,
+    1842.9
+   ],
+   [
+    113,
+    345,
+    1836.8
+   ],
+   [
+    114,
+    203,
+    1837.1
+   ],
+   [
+    114,
+    221,
+    1865.3
+   ],
+   [
+    114,
+    340,
+    1844.0
+   ],
+   [
+    114,
+    344,
+    1833.2
+   ],
+   [
+    116,
+    293,
+    1843.4
+   ],
+   [
+    116,
+    345,
+    1835.6
+   ],
+   [
+    117,
+    293,
+    1844.0
+   ],
+   [
+    117,
+    345,
+    1839.0
+   ],
+   [
+    118,
+    259,
+    1868.2
+   ],
+   [
+    120,
+    128,
+    1845.6
+   ],
+   [
+    124,
+    139,
+    1866.5
+   ],
+   [
+    124,
+    155,
+    1837.0
+   ],
+   [
+    125,
+    152,
+    1856.9
+   ],
+   [
+    126,
+    141,
+    1838.4
+   ],
+   [
+    126,
+    144,
+    1856.9
+   ],
+   [
+    126,
+    146,
+    1868.4
+   ],
+   [
+    128,
+    145,
+    1840.1
+   ],
+   [
+    128,
+    256,
+    1867.1
+   ],
+   [
+    128,
+    310,
+    1856.7
+   ],
+   [
+    132,
+    221,
+    1849.6
+   ],
+   [
+    133,
+    154,
+    1854.3
+   ],
+   [
+    137,
+    244,
+    1848.0
+   ],
+   [
+    137,
+    249,
+    1840.1
+   ],
+   [
+    139,
+    245,
+    1867.6
+   ],
+   [
+    139,
+    251,
+    1844.1
+   ],
+   [
+    140,
+    260,
+    1852.3
+   ],
+   [
+    142,
+    222,
+    1866.0
+   ],
+   [
+    142,
+    248,
+    1832.1
+   ],
+   [
+    143,
+    255,
+    1841.1
+   ],
+   [
+    143,
+    262,
+    1841.1
+   ],
+   [
+    144,
+    153,
+    1840.0
+   ],
+   [
+    144,
+    255,
+    1854.8
+   ],
+   [
+    144,
+    262,
+    1843.1
+   ],
+   [
+    148,
+    209,
+    1837.3
+   ],
+   [
+    152,
+    250,
+    1834.4
+   ],
+   [
+    153,
+    333,
+    1848.7
+   ],
+   [
+    154,
+    250,
+    1844.6
+   ],
+   [
+    156,
+    249,
+    1847.2
+   ],
+   [
+    156,
+    250,
+    1862.8
+   ],
+   [
+    158,
+    171,
+    1843.4
+   ],
+   [
+    158,
+    188,
+    1841.8
+   ],
+   [
+    160,
+    205,
+    1845.8
+   ],
+   [
+    160,
+    213,
+    1864.1
+   ],
+   [
+    161,
+    166,
+    1849.8
+   ],
+   [
+    163,
+    194,
+    1843.4
+   ],
+   [
+    164,
+    169,
+    1853.6
+   ],
+   [
+    165,
+    202,
+    1866.3
+   ],
+   [
+    165,
+    215,
+    1864.1
+   ],
+   [
+    166,
+    182,
+    1867.3
+   ],
+   [
+    166,
+    183,
+    1866.2
+   ],
+   [
+    166,
+    186,
+    1842.8
+   ],
+   [
+    166,
+    195,
+    1866.7
+   ],
+   [
+    167,
+    211,
+    1858.6
+   ],
+   [
+    167,
+    298,
+    1851.6
+   ],
+   [
+    168,
+    217,
+    1859.2
+   ],
+   [
+    168,
+    298,
+    1834.1
+   ],
+   [
+    169,
+    173,
+    1845.4
+   ],
+   [
+    169,
+    175,
+    1861.6
+   ],
+   [
+    171,
+    303,
+    1849.5
+   ],
+   [
+    172,
+    225,
+    1842.9
+   ],
+   [
+    173,
+    212,
+    1858.3
+   ],
+   [
+    173,
+    331,
+    1843.4
+   ],
+   [
+    174,
+    311,
+    1846.6
+   ],
+   [
+    176,
+    225,
+    1836.4
+   ],
+   [
+    177,
+    191,
+    1856.8
+   ],
+   [
+    182,
+    276,
+    1850.7
+   ],
+   [
+    182,
+    286,
+    1836.9
+   ],
+   [
+    183,
+    276,
+    1848.2
+   ],
+   [
+    183,
+    286,
+    1842.9
+   ],
+   [
+    186,
+    286,
+    1854.4
+   ],
+   [
+    186,
+    360,
+    1846.8
+   ],
+   [
+    187,
+    265,
+    1842.7
+   ],
+   [
+    187,
+    266,
+    1848.6
+   ],
+   [
+    187,
+    267,
+    1847.3
+   ],
+   [
+    188,
+    205,
+    1861.2
+   ],
+   [
+    191,
+    322,
+    1856.5
+   ],
+   [
+    192,
+    290,
+    1834.6
+   ],
+   [
+    192,
+    300,
+    1840.9
+   ],
+   [
+    193,
+    205,
+    1839.5
+   ],
+   [
+    193,
+    216,
+    1834.3
+   ],
+   [
+    194,
+    282,
+    1852.3
+   ],
+   [
+    194,
+    313,
+    1856.2
+   ],
+   [
+    195,
+    276,
+    1849.3
+   ],
+   [
+    195,
+    286,
+    1840.1
+   ],
+   [
+    197,
+    349,
+    1843.1
+   ],
+   [
+    198,
+    312,
+    1865.4
+   ],
+   [
+    199,
+    350,
+    1851.3
+   ],
+   [
+    201,
+    313,
+    1858.6
+   ],
+   [
+    201,
+    322,
+    1868.3
+   ],
+   [
+    201,
+    323,
+    1850.0
+   ],
+   [
+    202,
+    263,
+    1836.2
+   ],
+   [
+    203,
+    229,
+    1843.4
+   ],
+   [
+    203,
+    268,
+    1832.3
+   ],
+   [
+    203,
+    307,
+    1841.4
+   ],
+   [
+    204,
+    235,
+    1864.9
+   ],
+   [
+    204,
+    316,
+    1847.6
+   ],
+   [
+    205,
+    233,
+    1861.3
+   ],
+   [
+    205,
+    264,
+    1866.4
+   ],
+   [
+    205,
+    270,
+    1840.7
+   ],
+   [
+    205,
+    271,
+    1858.9
+   ],
+   [
+    205,
+    272,
+    1864.7
+   ],
+   [
+    206,
+    225,
+    1857.7
+   ],
+   [
+    207,
+    247,
+    1840.0
+   ],
+   [
+    207,
+    260,
+    1831.7
+   ],
+   [
+    207,
+    303,
+    1846.0
+   ],
+   [
+    210,
+    212,
+    1859.7
+   ],
+   [
+    210,
+    321,
+    1860.4
+   ],
+   [
+    212,
+    214,
+    1850.0
+   ],
+   [
+    212,
+    295,
+    1866.2
+   ],
+   [
+    213,
+    225,
+    1859.2
+   ],
+   [
+    214,
+    321,
+    1847.4
+   ],
+   [
+    215,
+    303,
+    1841.8
+   ],
+   [
+    216,
+    253,
+    1865.5
+   ],
+   [
+    216,
+    340,
+    1859.0
+   ],
+   [
+    217,
+    226,
+    1867.4
+   ],
+   [
+    217,
+    274,
+    1841.9
+   ],
+   [
+    217,
+    330,
+    1841.4
+   ],
+   [
+    219,
+    299,
+    1866.1
+   ],
+   [
+    221,
+    261,
+    1833.7
+   ],
+   [
+    221,
+    307,
+    1856.5
+   ],
+   [
+    223,
+    315,
+    1843.7
+   ],
+   [
+    224,
+    301,
+    1861.8
+   ],
+   [
+    224,
+    302,
+    1852.7
+   ],
+   [
+    226,
+    229,
+    1843.0
+   ],
+   [
+    226,
+    264,
+    1867.2
+   ],
+   [
+    226,
+    268,
+    1852.9
+   ],
+   [
+    226,
+    270,
+    1835.0
+   ],
+   [
+    226,
+    288,
+    1835.1
+   ],
+   [
+    228,
+    259,
+    1844.1
+   ],
+   [
+    228,
+    356,
+    1848.9
+   ],
+   [
+    229,
+    235,
+    1853.5
+   ],
+   [
+    229,
+    311,
+    1855.8
+   ],
+   [
+    229,
+    327,
+    1853.5
+   ],
+   [
+    231,
+    250,
+    1868.5
+   ],
+   [
+    231,
+    298,
+    1846.4
+   ],
+   [
+    231,
+    308,
+    1867.2
+   ],
+   [
+    232,
+    236,
+    1861.3
+   ],
+   [
+    235,
+    268,
+    1840.9
+   ],
+   [
+    237,
+    283,
+    1839.7
+   ],
+   [
+    237,
+    287,
+    1833.0
+   ],
+   [
+    238,
+    270,
+    1840.4
+   ],
+   [
+    238,
+    272,
+    1842.3
+   ],
+   [
+    238,
+    289,
+    1841.9
+   ],
+   [
+    238,
+    342,
+    1839.3
+   ],
+   [
+    239,
+    283,
+    1860.6
+   ],
+   [
+    239,
+    287,
+    1856.4
+   ],
+   [
+    242,
+    317,
+    1839.5
+   ],
+   [
+    253,
+    324,
+    1844.7
+   ],
+   [
+    260,
+    359,
+    1852.9
+   ],
+   [
+    261,
+    262,
+    1859.0
+   ],
+   [
+    264,
+    317,
+    1841.4
+   ],
+   [
+    264,
+    327,
+    1845.7
+   ],
+   [
+    265,
+    330,
+    1857.8
+   ],
+   [
+    266,
+    327,
+    1848.3
+   ],
+   [
+    267,
+    327,
+    1842.9
+   ],
+   [
+    268,
+    311,
+    1841.8
+   ],
+   [
+    268,
+    317,
+    1861.7
+   ],
+   [
+    268,
+    327,
+    1850.1
+   ],
+   [
+    269,
+    275,
+    1863.9
+   ],
+   [
+    269,
+    330,
+    1861.6
+   ],
+   [
+    270,
+    326,
+    1852.4
+   ],
+   [
+    272,
+    317,
+    1834.2
+   ],
+   [
+    272,
+    326,
+    1843.0
+   ],
+   [
+    272,
+    329,
+    1860.6
+   ],
+   [
+    273,
+    311,
+    1831.9
+   ],
+   [
+    273,
+    317,
+    1850.3
+   ],
+   [
+    273,
+    326,
+    1862.7
+   ],
+   [
+    275,
+    287,
+    1848.6
+   ],
+   [
+    275,
+    341,
+    1858.5
+   ],
+   [
+    278,
+    331,
+    1850.2
+   ],
+   [
+    279,
+    331,
+    1857.8
+   ],
+   [
+    283,
+    325,
+    1839.4
+   ],
+   [
+    285,
+    300,
+    1840.8
+   ],
+   [
+    291,
+    332,
+    1844.9
+   ],
+   [
+    295,
+    322,
+    1851.9
+   ],
+   [
+    301,
+    314,
+    1856.5
+   ],
+   [
+    302,
+    314,
+    1859.3
+   ],
+   [
+    303,
+    314,
+    1851.3
+   ],
+   [
+    303,
+    356,
+    1862.0
+   ],
+   [
+    306,
+    312,
+    1855.9
+   ],
+   [
+    306,
+    342,
+    1866.7
+   ],
+   [
+    307,
+    340,
+    1854.0
+   ],
+   [
+    307,
+    344,
+    1842.7
+   ],
+   [
+    308,
+    312,
+    1847.1
+   ],
+   [
+    308,
+    339,
+    1855.7
+   ],
+   [
+    308,
+    342,
+    1853.6
+   ],
+   [
+    308,
+    346,
+    1865.7
+   ],
+   [
+    309,
+    312,
+    1846.5
+   ],
+   [
+    309,
+    339,
+    1858.2
+   ],
+   [
+    309,
+    342,
+    1855.3
+   ],
+   [
+    309,
+    346,
+    1868.2
+   ],
+   [
+    310,
+    312,
+    1857.8
+   ],
+   [
+    311,
+    332,
+    1857.1
+   ],
+   [
+    319,
+    341,
+    1852.1
+   ],
+   [
+    319,
+    356,
+    1847.3
+   ],
+   [
+    324,
+    330,
+    1843.9
+   ],
+   [
+    325,
+    330,
+    1835.9
+   ],
+   [
+    329,
+    332,
+    1858.5
+   ]
+  ]
+ }
+}

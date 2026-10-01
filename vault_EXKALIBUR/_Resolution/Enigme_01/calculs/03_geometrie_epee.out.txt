@@ -1,0 +1,144 @@
+====================================================================================================
+POINTS (lat, lon)
+  Cathédrale de León                  42.5994,  -5.5672
+  Château de Foix                     42.9656,   1.6049
+  Cathédrale Sainte-Marie de Valence  39.4753,  -0.3755
+  Château d'Urquhart                  57.3241,  -4.4420
+  Tour de Londres                     51.5081,  -0.0759
+  Château de Tintagel                 50.6673,  -4.7585
+  Abbaye de Westminster               51.4994,  -0.1273
+  Silchester                          51.3538,  -1.1005
+  Stonehenge                          51.1789,  -1.8262
+  Alignements du Ménec                47.5918,  -3.0836
+  Hastings                            50.8543,   0.5735
+  Clermont                            45.7788,   3.0859
+  Abbaye de Cluny                     46.4348,   4.6585
+  Cloître de Cadouin                  44.8115,   0.8738
+  Sainte-Chapelle                     48.8554,   2.3450
+  Forêt de Brocéliande                48.0188,  -2.1740
+  Grotte de Lombrives                 42.8232,   1.6163
+  Rennes-le-Château                   42.9272,   2.2627
+  Château de Montségur                42.8757,   1.8325
+  Château de Roquefixade              42.9385,   1.7532
+  Château de Lordat                   42.7759,   1.7484
+  Château de Puivert                  42.9211,   2.0553
+  Château de Montaillou               42.7870,   1.8975
+  Château de Montréal-de-Sos          42.7634,   1.4896
+====================================================================================================
+
+### 1) Les 4 jambes de l'epee : longueurs et caps, globe vs carte Mercator
+jambe                                       km    cap |  km Merc cap Merc |  km loxo
+Leon -> Foix        (garde, hyp. Guilhem)   586.5   83.6 |    587.4     86.0 |    799.4
+Foix -> Valence     (??? )               421.9  203.8 |    422.6    203.1 |    561.2
+Urquhart -> Valence (Ligne 5)           2006.4  169.8 |   2038.4    171.5 |   3066.8
+Urquhart -> Lombrives (lame)            1667.8  162.6 |   1687.6    165.1 |   2626.6
+Valence -> Lombrives (poignee)           407.9   23.5 |    408.5     24.1 |    541.9
+Leon -> Usson/axe ?                      587.3   85.1 |    588.1     87.6 |    799.5
+
+### 2) Lombrives : sur l'axe de la lame ? (ecart perpendiculaire)
+  Lombrives / axe Urquhart->Valence (Ligne 5) : globe    207.4 km | Mercator   -214.4 km | (pied du point a 1655 km de  57.3241,  -4.4420)
+  Lombrives / axe Urquhart->RLC : globe    -53.9 km | Mercator     53.9 km
+  RLC / axe Urquhart->Valence   : globe    261.0 km | Mercator   -267.9 km
+  Leon / axe Urquhart->Valence  : globe   -376.9 km | Mercator    370.7 km
+  Foix / axe Urquhart->Valence  : globe    208.1 km | Mercator   -215.3 km
+  Valence->Lombrives  : cap globe  23.5   cap Mercator  24.1
+  Lombrives->Urquhart : cap globe 347.3   cap Mercator 345.1
+  => coude de la lame a Lombrives : 36.2 degres
+
+### 3) Ou la GARDE (Leon -> quillon est) coupe-t-elle l'AXE Urquhart->Valence (Ligne 5) ?
+   (globe = intersection de grands cercles ; Mercator = intersection de droites de carte)
+  garde Leon->Château de Foix            : globe  42.8867,  -0.9553  (dist. Valencia    382 km, dist. Lombrives    210 km) | Mercator  42.8308,  -1.0400 (dist. Lombrives    217 km)
+  garde Leon->Château de Montségur       : globe  42.8282,  -0.9448  (dist. Valencia    376 km, dist. Lombrives    209 km) | Mercator  42.7691,  -1.0275 (dist. Lombrives    216 km)
+  garde Leon->Château de Roquefixade     : globe  42.8679,  -0.9519  (dist. Valencia    380 km, dist. Lombrives    209 km) | Mercator  42.8095,  -1.0357 (dist. Lombrives    216 km)
+  garde Leon->Château de Lordat          : globe  42.7654,  -0.9336  (dist. Valencia    369 km, dist. Lombrives    208 km) | Mercator  42.7093,  -1.0154 (dist. Lombrives    215 km)
+  garde Leon->Château de Puivert         : globe  42.8551,  -0.9496  (dist. Valencia    379 km, dist. Lombrives    209 km) | Mercator  42.7910,  -1.0320 (dist. Lombrives    216 km)
+  garde Leon->Grotte de Lombrives        : globe  42.7952,  -0.9389  (dist. Valencia    372 km, dist. Lombrives    208 km) | Mercator  42.7411,  -1.0218 (dist. Lombrives    215 km)
+  garde Leon->Rennes-le-Château          : globe  42.8577,  -0.9501  (dist. Valencia    379 km, dist. Lombrives    209 km) | Mercator  42.7895,  -1.0317 (dist. Lombrives    216 km)
+  garde Leon->Château de Montaillou      : globe  42.7730,  -0.9350  (dist. Valencia    370 km, dist. Lombrives    208 km) | Mercator  42.7138,  -1.0163 (dist. Lombrives    215 km)
+  garde Leon->Château de Montréal-de-Sos : globe  42.7561,  -0.9319  (dist. Valencia    368 km, dist. Lombrives    208 km) | Mercator  42.7053,  -1.0146 (dist. Lombrives    215 km)
+  garde Leon->Château de Miglos          : globe  42.7781,  -0.9359  (dist. Valencia    370 km, dist. Lombrives    208 km) | Mercator  42.7249,  -1.0185 (dist. Lombrives    215 km)
+  garde Leon->Château de Calamès         : globe  42.8254,  -0.9443  (dist. Valencia    376 km, dist. Lombrives    209 km) | Mercator  42.7717,  -1.0280 (dist. Lombrives    216 km)
+  garde Leon->Château de Gudanes         : globe  42.7701,  -0.9345  (dist. Valencia    369 km, dist. Lombrives    208 km) | Mercator  42.7153,  -1.0166 (dist. Lombrives    215 km)
+  garde Leon->Chapelle de Lujat          : globe  42.7940,  -0.9387  (dist. Valencia    372 km, dist. Lombrives    208 km) | Mercator  42.7391,  -1.0214 (dist. Lombrives    215 km)
+
+### 4) La garde passe-t-elle par le ROCHER (Lombrives) ? grandes cercles Leon->X
+   on teste tous les chateaux OSM : ecart du chateau a la droite Mercator Leon->Lombrives, et du grand cercle
+   chateaux a moins de 12 km de la droite Mercator Leon->Lombrives :
+     Château d'Able                        42.8362,   2.0658 ecart Merc    0.1 (globe    1.6) | sur la droite a    624 km de Leon |  19.0 km / cap   238 de RLC
+     Chapelle de Lujat                     42.8212,   1.6546 ecart Merc    0.4 (globe   -0.2) | sur la droite a    590 km de Leon |  50.9 km / cap   257 de RLC
+     Château de Padern                     42.8675,   2.6553 ecart Merc   -1.3 (globe    5.5) | sur la droite a    672 km de Leon |  32.7 km / cap   102 de RLC
+     Château de Salveterra                 42.8763,   2.8616 ecart Merc   -1.6 (globe    6.7) | sur la droite a    689 km de Leon |  49.1 km / cap    96 de RLC
+     Château de Quéribus                   42.8368,   2.6215 ecart Merc    2.0 (globe    2.0) | sur la droite a    669 km de Leon |  30.9 km / cap   109 de RLC
+     Château de Peyrepertuse               42.8708,   2.5556 ecart Merc   -2.0 (globe    5.7) | sur la droite a    664 km de Leon |  24.7 km / cap   105 de RLC
+     Château de Miglos                     42.7967,   1.5906 ecart Merc    2.9 (globe   -3.0) | sur la droite a    585 km de Leon |  56.7 km / cap   255 de RLC
+     Château de Fitou                      42.8936,   2.9771 ecart Merc   -3.1 (globe    8.7) | sur la droite a    698 km de Leon |  58.3 km / cap    93 de RLC
+     Chapelle Saint-Aubin                  42.8951,   2.9473 ecart Merc   -3.4 (globe    8.9) | sur la droite a    696 km de Leon |  55.9 km / cap    93 de RLC
+     Château de Bugarach                   42.8766,   2.3515 ecart Merc   -3.4 (globe    6.2) | sur la droite a    647 km de Leon |   9.2 km / cap   128 de RLC
+     Château d'Aguilar                     42.8907,   2.7470 ecart Merc   -3.6 (globe    8.1) | sur la droite a    679 km de Leon |  39.7 km / cap    96 de RLC
+     Château de Lacombe                    42.8555,   1.5770 ecart Merc   -3.7 (globe    3.6) | sur la droite a    584 km de Leon |  56.4 km / cap   262 de RLC
+     Château de Quillan                    42.8746,   2.1868 ecart Merc   -3.7 (globe    5.9) | sur la droite a    634 km de Leon |   8.5 km / cap   227 de RLC
+     Château de Perillos                   42.8972,   2.8463 ecart Merc   -4.0 (globe    9.0) | sur la droite a    687 km de Leon |  47.6 km / cap    94 de RLC
+     Bastion de Montmorency                42.9076,   3.0258 ecart Merc   -4.5 (globe   10.4) | sur la droite a    702 km de Leon |  62.2 km / cap    92 de RLC
+     Château de Gudanes                    42.7839,   1.6802 ecart Merc    4.6 (globe   -4.4) | sur la droite a    592 km de Leon |  50.1 km / cap   252 de RLC
+     Château de Montaillou                 42.7866,   1.8941 ecart Merc    5.0 (globe   -4.0) | sur la droite a    610 km de Leon |  33.9 km / cap   243 de RLC
+     Château de Montségur                  42.8757,   1.8326 ecart Merc   -5.1 (globe    5.9) | sur la droite a    605 km de Leon |  35.5 km / cap   261 de RLC
+     Château de Tautavel                   42.8117,   2.7476 ecart Merc    5.2 (globe   -0.6) | sur la droite a    680 km de Leon |  41.5 km / cap   108 de RLC
+     Château de Calamès                    42.8697,   1.5582 ecart Merc   -5.4 (globe    5.2) | sur la droite a    583 km de Leon |  57.7 km / cap   264 de RLC
+     Château de Nouvelles                  42.9075,   2.7616 ecart Merc   -5.4 (globe   10.0) | sur la droite a    681 km de Leon |  40.7 km / cap    93 de RLC
+     Château de Saint-Ferriol              42.8917,   2.2247 ecart Merc   -5.5 (globe    7.8) | sur la droite a    637 km de Leon |   5.0 km / cap   218 de RLC
+     Château de Lordat                     42.7759,   1.7484 ecart Merc    5.7 (globe   -5.3) | sur la droite a    598 km de Leon |  45.2 km / cap   248 de RLC
+     Ancien fanal, dit Redoute de la Franqui  42.9277,   3.0443 ecart Merc   -6.7 (globe   12.6) | sur la droite a    704 km de Leon |  63.6 km / cap    90 de RLC
+     Tour de Montorgueil                   42.8817,   1.5557 ecart Merc   -6.7 (globe    6.5) | sur la droite a    582 km de Leon |  57.8 km / cap   265 de RLC
+     Château de Bélesta                    42.9036,   1.9350 ecart Merc   -7.8 (globe    9.0) | sur la droite a    613 km de Leon |  26.8 km / cap   264 de RLC
+     Château de Castelmaure                42.9387,   2.8331 ecart Merc   -8.6 (globe   13.6) | sur la droite a    686 km de Leon |  46.4 km / cap    88 de RLC
+     Las Portes                            42.9445,   2.9291 ecart Merc   -8.9 (globe   14.3) | sur la droite a    694 km de Leon |  54.3 km / cap    88 de RLC
+     Château d'Auriac                      42.9321,   2.4935 ecart Merc   -9.1 (globe   12.5) | sur la droite a    659 km de Leon |  18.8 km / cap    88 de RLC
+     Castella                              42.9076,   1.6291 ecart Merc   -9.3 (globe    9.4) | sur la droite a    588 km de Leon |  51.6 km / cap   268 de RLC
+     Château de Puivert                    42.9211,   2.0552 ecart Merc   -9.4 (globe   11.0) | sur la droite a    623 km de Leon |  16.9 km / cap   268 de RLC
+     Château des Hautpoul                  42.9279,   2.2638 ecart Merc   -9.4 (globe   11.9) | sur la droite a    640 km de Leon |   0.1 km / cap    48 de RLC
+     Ancienne église Saint-Nazaire et Saint-celse d'Ansignan  42.7575,   2.5263 ecart Merc   10.5 (globe   -6.9) | sur la droite a    662 km de Leon |  28.6 km / cap   131 de RLC
+     Château de Coustaussa                 42.9402,   2.2766 ecart Merc  -10.7 (globe   13.2) | sur la droite a    641 km de Leon |   1.8 km / cap    38 de RLC
+     Château de Savignac                   42.7295,   1.8166 ecart Merc   11.1 (globe  -10.4) | sur la droite a    604 km de Leon |  42.5 km / cap   239 de RLC
+     Château des Ducs de Joyeuse           42.9451,   2.2539 ecart Merc  -11.3 (globe   13.8) | sur la droite a    639 km de Leon |   2.1 km / cap   340 de RLC
+     Château de Serres                     42.9476,   2.3228 ecart Merc  -11.4 (globe   14.1) | sur la droite a    645 km de Leon |   5.4 km / cap    65 de RLC
+     Château d'Arques                      42.9532,   2.3672 ecart Merc  -11.8 (globe   14.7) | sur la droite a    648 km de Leon |   9.0 km / cap    71 de RLC
+     El Castell                            42.7546,   2.8524 ecart Merc   11.9 (globe   -6.9) | sur la droite a    688 km de Leon |  51.8 km / cap   112 de RLC
+
+### 5) Etendue EST de la ligne de garde : le grand cercle Leon->Lombrives prolonge vers l'est
+   +  0 km a l'est de Lombrives :  42.8232,   1.6163 | distance a RLC   53.9 km = 12.13 l.commune / 13.84 l.Paris
+   +  5 km a l'est de Lombrives :  42.8194,   1.5552 | distance a RLC   58.9 km = 13.25 l.commune / 15.11 l.Paris
+   + 10 km a l'est de Lombrives :  42.8155,   1.4942 | distance a RLC   63.9 km = 14.37 l.commune / 16.38 l.Paris
+   + 15 km a l'est de Lombrives :  42.8116,   1.4331 | distance a RLC   68.8 km = 15.48 l.commune / 17.66 l.Paris
+   + 20 km a l'est de Lombrives :  42.8077,   1.3720 | distance a RLC   73.8 km = 16.60 l.commune / 18.93 l.Paris
+   + 25 km a l'est de Lombrives :  42.8038,   1.3110 | distance a RLC   78.8 km = 17.72 l.commune / 20.21 l.Paris
+   + 30 km a l'est de Lombrives :  42.7998,   1.2499 | distance a RLC   83.8 km = 18.84 l.commune / 21.49 l.Paris
+   + 35 km a l'est de Lombrives :  42.7957,   1.1889 | distance a RLC   88.7 km = 19.96 l.commune / 22.76 l.Paris
+   + 40 km a l'est de Lombrives :  42.7917,   1.1279 | distance a RLC   93.7 km = 21.09 l.commune / 24.04 l.Paris
+   + 45 km a l'est de Lombrives :  42.7876,   1.0668 | distance a RLC   98.7 km = 22.21 l.commune / 25.32 l.Paris
+   + 50 km a l'est de Lombrives :  42.7835,   1.0058 | distance a RLC  103.7 km = 23.33 l.commune / 26.60 l.Paris
+   + 55 km a l'est de Lombrives :  42.7793,   0.9448 | distance a RLC  108.7 km = 24.45 l.commune / 27.88 l.Paris
+   + 60 km a l'est de Lombrives :  42.7751,   0.8838 | distance a RLC  113.7 km = 25.57 l.commune / 29.16 l.Paris
+   + 65 km a l'est de Lombrives :  42.7709,   0.8228 | distance a RLC  118.7 km = 26.70 l.commune / 30.44 l.Paris
+   + 70 km a l'est de Lombrives :  42.7667,   0.7619 | distance a RLC  123.7 km = 27.82 l.commune / 31.72 l.Paris
+   + 75 km a l'est de Lombrives :  42.7624,   0.7009 | distance a RLC  128.6 km = 28.94 l.commune / 33.00 l.Paris
+   + 80 km a l'est de Lombrives :  42.7581,   0.6399 | distance a RLC  133.6 km = 30.07 l.commune / 34.28 l.Paris
+   + 85 km a l'est de Lombrives :  42.7537,   0.5790 | distance a RLC  138.6 km = 31.19 l.commune / 35.56 l.Paris
+
+### 6) Le POMMEAU/POIGNEE est-il dans l'axe de la lame ?
+   Valence hors axe Urquhart->Lombrives : globe   -248.3 km | Mercator    263.4 km
+   (donc oui/non : un ecart faible signifie poignee alignee sur la lame)
+
+### 7) Vertex (latitude extreme) de la lame Urquhart->Lombrives et de l'axe Urquhart->Valence
+   Urquhart->Lombrives    vertex globe :  -0.0000,  10.3389 | lon de l'extremum de longitude Mercator : x=?
+   Urquhart->Valence      vertex globe :  -0.0000,   4.1522 | lon de l'extremum de longitude Mercator : x=?
+
+### 8) Bearing de la lame Urquhart->Lombrives par tranche de latitude (globe vs Mercator)
+   lat  42.9 : grand cercle lon   -4.44 | droite Mercator lon    1.59 | ecart    491 km
+   lat  44.0 : grand cercle lon   -4.44 | droite Mercator lon    1.19 | ecart    450 km
+   lat  46.0 : grand cercle lon   -4.44 | droite Mercator lon    0.44 | ecart    377 km
+   lat  48.0 : grand cercle lon   -4.44 | droite Mercator lon   -0.34 | ecart    305 km
+   lat  50.0 : grand cercle lon   -4.44 | droite Mercator lon   -1.15 | ecart    235 km
+   lat  52.0 : grand cercle lon    1.62 | droite Mercator lon   -2.00 | ecart    247 km
+   lat  54.0 : grand cercle lon    1.62 | droite Mercator lon   -2.88 | ecart    294 km
+   lat  56.0 : grand cercle lon    1.62 | droite Mercator lon   -3.80 | ecart    337 km
+   lat  57.3 : grand cercle lon    1.62 | droite Mercator lon   -4.43 | ecart    363 km

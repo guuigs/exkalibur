@@ -1,0 +1,39 @@
+Croisée garde É7 × royaume É5 : 47.83211, -3.00503
+  → Cathédrale de Chartres (labyrinthe)   340.26 km (écart -0.19 %), cap 76.7°
+  → Château de Chambord                   339.05 km (écart -0.54 %), cap 92.4°
+
+Nul : 215 communes (toutes lettres) dans l'anneau ±1 % et cap 45-135° ; 29 commencent par C :
+   Canouville                        343.04 km cap  48.8°
+   Criquetot-le-Mauconduit           339.99 km cap  48.9°
+   Clasville                         343.51 km cap  49.2°
+   Cany-Barville                     343.20 km cap  49.5°
+   Cleuville                         339.21 km cap  50.8°
+   Cliponville                       337.57 km cap  51.4°
+   Croix-Mare                        343.38 km cap  53.7°
+   Carville-la-Folletière            340.00 km cap  54.2°
+   Cléon                             340.15 km cap  59.5°
+   Criquebeuf-sur-Seine              342.85 km cap  60.3°
+   Cailly-sur-Eure                   342.67 km cap  63.7°
+   Cierrey                           340.92 km cap  66.0°
+   Champigny-la-Futelaye             338.52 km cap  68.5°
+   Croth                             342.35 km cap  69.1°
+   Cherisy                           344.20 km cap  71.0°
+   Charpont                          342.16 km cap  72.1°
+   Challet                           338.15 km cap  74.6°
+   Champhol                          342.49 km cap  76.4°
+   Chartres                          341.51 km cap  76.8°
+   Corancez                          340.93 km cap  78.3°
+   Charsonville                      341.87 km cap  86.6°
+   Cravant                           342.07 km cap  88.3°
+   Courbouzon                        339.79 km cap  90.9°
+   Chambord                          340.53 km cap  92.3°
+   Chémery                           340.69 km cap  97.2°
+   Châtillon-sur-Cher                341.94 km cap  98.5°
+   Couffy                            339.68 km cap  99.4°
+   Confolens                         343.48 km cap 124.5°
+   Champniers                        339.24 km cap 132.7°
+
+Contrôle, autres croisées :
+  garde É1 × royaume É5    croisée 42.6793,-4.5456 ; Chartres 794.4 km ; Chambord 725.8 km
+  garde É7 × lame É1       croisée 48.0529,-1.9698 ; Chartres 259.7 km ; Chambord 264.7 km
+  garde É1 × lame É1       croisée 42.8867,-0.9553 ; Chartres 646.7 km ; Chambord 560.3 km

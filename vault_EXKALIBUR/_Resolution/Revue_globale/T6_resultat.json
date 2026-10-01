@@ -1,0 +1,124 @@
+{
+  "allusions": [
+    {
+      "element": "Dieu sut se montrer favorable",
+      "source_texte": "É12, première phrase (avant le point-virgule). Laissée volontairement en français dans la version anglaise (FAQ07-218, FAQ04-182).",
+      "interpretation": "Allusion à la parabole des ouvriers de la vigne (Matthieu 20:1-16, dite « de la onzième heure ») : le maître (= Dieu) embauche à la 1re, 3e, 6e, 9e et 11e heure et paie tous pareil (« je suis bon », Mt 20:15 ; « les derniers seront les premiers », Mt 20:16). Ce n'est pas une citation verbatim de Segond mais une paraphrase de la générosité/faveur divine ; la parabole nomme explicitement la 3e et la 11e heure, d'où la lecture « la troisième heure » et « la onzième heure ». Lecture alternative : Actes 1:24-26, Dieu « montre » son choix et le sort tombe sur Matthias (13e apôtre).",
+      "confiance": "moyenne"
+    },
+    {
+      "element": "les troisième et onzième (la troisième / le onzième)",
+      "source_texte": "É12 : « dix stades romains séparaient les troisième et onzième » ; FAQ03-293.",
+      "interpretation": "Ce sont « deux étapes, une intermédiaire plus la destination finale ; il n'y a que deux étapes » (FAQ03-293). Genre libre (le/la) ⇒ substantif sous-jacent féminin (heure, étape) ou indifférencié. Deux points précis à placer sur la carte (FAQ05-074, FAQ07-063, FAQ07-120), de même nature, un seul de chaque (FAQ06-009, 06-216), pas des chevaliers (FAQ07-065), pas un ensemble de 52 (FAQ07-156).",
+      "confiance": "forte"
+    },
+    {
+      "element": "treizième (le 13e ne mènerait pas au bon endroit)",
+      "source_texte": "FAQ06-133.",
+      "interpretation": "La série qui définit 3e/11e va au moins jusqu'à 13. Selon la lecture : 13e heure = nuit (après le coucher du soleil), ou 13e apôtre = Matthias, ou 13e mois/signe = inexistant. Toutes satisfont « ne mène pas au bon endroit ».",
+      "confiance": "moyenne"
+    },
+    {
+      "element": "Le roi avait rejoint les fées",
+      "source_texte": "É12, première phrase.",
+      "interpretation": "Mort d'Arthur emporté par les fées (Morgane) vers Avalon. Confirme le thème Avalon/repos d'Arthur. FAQ05-094 : identifier ce roi n'aide pas à trouver les 3e/11e (décor thématique).",
+      "confiance": "forte"
+    },
+    {
+      "element": "aux portes d'Avalon / l'épée revenue là où elle n'avait jamais cessé d'être",
+      "source_texte": "É12, première phrase.",
+      "interpretation": "Avalon = île où Arthur repose ; « aux portes d'Avalon » = la tour d'Avalon (Saint-Maximin, Isère), point de départ (chemin de rempart). « revenue là où elle n'avait jamais cessé d'être » renvoie à É1 (« elle est encore dans son rocher ») : l'épée retrouve son lieu de repos.",
+      "confiance": "moyenne-haute"
+    },
+    {
+      "element": "la coupe du charpentier",
+      "source_texte": "É12, dernière phrase.",
+      "interpretation": "Le Graal, coupe du Christ « fils de charpentier » (Joseph). C'est la coupe de l'enluminure 9 (FAQ07-005) et le trésor lui-même (FAQ06-291, FAQ04-073). Jeu de mots coupe (du charpentier) = coupe/calice + coupe (de bois), « pléonasme » assumé (FAQ04-150).",
+      "confiance": "forte"
+    },
+    {
+      "element": "dix stades romains",
+      "source_texte": "É12, première phrase.",
+      "interpretation": "Unité antique : 10 stades romains = 1,85 km (stade de 185 m), à 1 % près (FAQ05-172), en ligne droite (FAQ07-120) entre la 3e et la 11e. Sert d'échelle, pas de série.",
+      "confiance": "forte"
+    },
+    {
+      "element": "l'astre glorieux",
+      "source_texte": "É12, deuxième phrase.",
+      "interpretation": "Le soleil (ou le ciel). « Le ciel qui vous guide », pas une direction stricte (FAQ07-132, FAQ07-180). Éclaire le ruisseau au matin ; recoupe la lecture « heures du jour ».",
+      "confiance": "moyenne"
+    },
+    {
+      "element": "à senestre",
+      "source_texte": "É12, troisième phrase.",
+      "interpretation": "Héraldique : « à gauche » (FAQ06-265). Direction de marche le long des eaux enchantées.",
+      "confiance": "forte"
+    },
+    {
+      "element": "la souche-majesté",
+      "source_texte": "É12, troisième phrase.",
+      "interpretation": "Appellation « très concrète » (FAQ05-008). Jeu : « souche » (tronc coupé = bois) + « majesté » (un roi des arbres, le chêne) ; le bois recoupe « l'écharde possible sur le onzième » (FAQ07-068). Non visible sur Google Maps (FAQ07-078).",
+      "confiance": "moyenne"
+    },
+    {
+      "element": "le jour dernier",
+      "source_texte": "É12, troisième phrase.",
+      "interpretation": "Un jour précis (FAQ07-186), validé par Guilhem : 30/04/1524, mort de Bayard (le « dernier chevalier ») ; donne l'azimut des 8 derniers pas (lever du soleil ≈ 63,7° julien).",
+      "confiance": "forte"
+    },
+    {
+      "element": "l'endroit du dernier repos",
+      "source_texte": "Paraphrase de l'orchestrateur (la locution n'apparaît PAS dans le texte de l'É12).",
+      "interpretation": "Lectures possibles : (1) tombeau/sépulture = Avalon, lieu où Arthur repose (thème) ; (2) mise au tombeau = 14e station d'un chemin de croix (si 3e/11e = stations) ; (3) cimetière/reliquaire = aucun indice dans les textes (0 occurrence) ; (4) lit = enluminure 6, non confirmé (FAQ05-173) ; (5) repos du Graal/coupe = la cache elle-même. Lecture retenue : repos d'Arthur en Avalon (la tour d'Avalon en est la porte), le point de creusement restant inconnu.",
+      "confiance": "faible-moyenne"
+    }
+  ],
+  "series_texte": [
+    {
+      "nom": "Heures du jour (12 heures de lumière du lever au coucher + nuit)",
+      "troisieme": "la troisième heure = tierce, milieu de matinée (~9 h, soleil au sud-est)",
+      "onzieme": "la onzième heure = dernière heure avant le coucher, fin de journée de travail (~17 h, soleil au sud-ouest) ; 13e heure = nuit"
+    },
+    {
+      "nom": "Apôtres (Matthieu 10:2-4, ordre de la liste)",
+      "troisieme": "Jacques (le Majeur), fils de Zébédée",
+      "onzieme": "Simon le Zélote (le Cananite), attribut : la scie (= bois, écharde) ; 13e = Matthias, choisi par tirage au sort (Actes 1:26)"
+    },
+    {
+      "nom": "Mois de l'année",
+      "troisieme": "mars",
+      "onzieme": "novembre ; 13e mois = inexistant"
+    },
+    {
+      "nom": "Signes du zodiaque",
+      "troisieme": "Gémeaux",
+      "onzieme": "Verseau ; 13e signe = inexistant"
+    },
+    {
+      "nom": "Douze énigmes + introduction « Amis aventuriers » (13 textes/lettrines)",
+      "troisieme": "Ecce Homo (lettrine E, 3e dans l'ordre validé)",
+      "onzieme": "Consummatum est (lettrine C) ; 13e = l'introduction ou Ad vitam aeternam selon le sens de lecture"
+    },
+    {
+      "nom": "Chemin de croix (14 stations)",
+      "troisieme": "Jésus tombe pour la première fois",
+      "onzieme": "Jésus est cloué sur la croix ; 13e = descente de croix, 14e = mise au tombeau"
+    },
+    {
+      "nom": "Étoiles d'une constellation (lettres grecques de Bayer)",
+      "troisieme": "γ (gamma)",
+      "onzieme": "λ (lambda) ; 13e = ν (nu)"
+    },
+    {
+      "nom": "Lettres de l'acrostiche des 12 lettrines (I T E R L L S U N O C A)",
+      "troisieme": "E (Ecce Homo)",
+      "onzieme": "C (Consummatum est) ; « ITER » = latin « chemin/route », « S U N » = soleil (intuition, faible)"
+    },
+    {
+      "nom": "Planètes classiques (sept astres : Lune, Mercure, Vénus, Soleil, Mars, Jupiter, Saturne)",
+      "troisieme": "Vénus",
+      "onzieme": "inexistant (série trop courte, 7 éléments seulement)"
+    }
+  ],
+  "conclusion": "« Les troisième et onzième » sont deux étapes (une intermédiaire + la destination finale, FAQ03-293) d'une liste ordonnée d'au moins 13 éléments, à placer sur la carte à 1,85 km l'un de l'autre (10 stades romains, en ligne droite), guidées par le ciel (l'astre glorieux). Le confirmateur de langue « Dieu sut se montrer favorable » — volontairement laissé en français dans la version anglaise (FAQ07-218/04-182) — est une paraphrase de la parabole des ouvriers de la onzième heure (Matthieu 20), qui nomme précisément la 3e et la 11e heure : la lecture « heures du jour » (3e = tierce ≈ 9 h, 11e = dernière heure ≈ 17 h, 13e = nuit) rend impeccablement compte du « 13e qui ne mènerait pas au bon endroit » (la clairière est apparue au matin), mais n'explique pas l'écharde. La lecture « apôtres » (3e = Jacques, 11e = Simon le Zélote à la scie) explique mieux l'écharde (bois) et le ciel (Voie lactée = chemin de Saint-Jacques). Aucune n'est corroborée par un lieu réel (T2) : toutes deux restent des hypothèses. « L'endroit du dernier repos » (locution absente du texte, paraphrase) se lit le mieux comme le repos d'Arthur en Avalon — la tour d'Avalon en étant la porte —, le point précis du coffre demeurant inconnu."
+}

@@ -1,0 +1,1082 @@
+[
+ {
+  "terme": "arc-en-ciel",
+  "nom": "école maternelle arc-en-ciel",
+  "src": "BDTOPO:toponymie",
+  "nat": "Enseignement primaire",
+  "d": 4.028138892924913,
+  "cap": 26.860993350054798,
+  "lat": 45.46111492,
+  "lon": 6.05411619
+ },
+ {
+  "terme": "avalon",
+  "nom": "AVALON",
+  "src": "cadastre:Saint-Maximin",
+  "nat": "lieu-dit",
+  "d": 0.09203143990990595,
+  "cap": 23.776956618007546,
+  "lat": 45.42955740649348,
+  "lon": 6.03125549090909
+ },
+ {
+  "terme": "avalon",
+  "nom": "avalon",
+  "src": "BDTOPO:toponymie",
+  "nat": "Lieu-dit habité",
+  "d": 0.16898830391463363,
+  "cap": 39.86048384177144,
+  "lat": 45.42996656,
+  "lon": 6.03216795
+ },
+ {
+  "terme": "bayard",
+  "nom": "VERGER DE BAYARD",
+  "src": "cadastre:Pontcharra",
+  "nat": "lieu-dit",
+  "d": 1.0561980447694113,
+  "cap": 230.28690744576195,
+  "lat": 45.422730454687496,
+  "lon": 6.020369482812501
+ },
+ {
+  "terme": "bayard",
+  "nom": "château bayard",
+  "src": "BDTOPO:toponymie",
+  "nat": "Château",
+  "d": 1.1039067500307824,
+  "cap": 236.85028297077366,
+  "lat": 45.42337066,
+  "lon": 6.0189374
+ },
+ {
+  "terme": "bayard",
+  "nom": "CHATEAU BAYARD",
+  "src": "cadastre:Pontcharra",
+  "nat": "lieu-dit",
+  "d": 1.1714384730807357,
+  "cap": 237.9068102190367,
+  "lat": 45.423202079347824,
+  "lon": 6.018063756521741
+ },
+ {
+  "terme": "bayard",
+  "nom": "caserne bayard",
+  "src": "BDTOPO:toponymie",
+  "nat": "Gendarmerie",
+  "d": 1.5596612568472934,
+  "cap": 301.65033654917863,
+  "lat": 45.43615884,
+  "lon": 6.01376404
+ },
+ {
+  "terme": "bayard",
+  "nom": "Caserne Bayard",
+  "src": "BDTOPO:zone_d_activite_ou_d_interet",
+  "nat": "Gendarmerie",
+  "d": 1.6017789293517346,
+  "cap": 301.2718811806002,
+  "lat": 45.43627635266667,
+  "lon": 6.013233726666666
+ },
+ {
+  "terme": "bayard",
+  "nom": "bayard",
+  "src": "BDTOPO:toponymie",
+  "nat": "Quartier",
+  "d": 1.6198322969858827,
+  "cap": 310.0675213628639,
+  "lat": 45.43817584,
+  "lon": 6.01489196
+ },
+ {
+  "terme": "bayard",
+  "nom": "BOIS BAYARD",
+  "src": "cadastre:Pontcharra",
+  "nat": "lieu-dit",
+  "d": 1.7365129313193073,
+  "cap": 266.2007347404731,
+  "lat": 45.42776306176473,
+  "lon": 6.008576641176471
+ },
+ {
+  "terme": "bayard",
+  "nom": "CHENEVIERE DE BAYARD",
+  "src": "cadastre:Pontcharra",
+  "nat": "lieu-dit",
+  "d": 2.0419979222288127,
+  "cap": 294.01660525936586,
+  "lat": 45.43627172250001,
+  "lon": 6.006874875
+ },
+ {
+  "terme": "bayard",
+  "nom": "la bayarde et lepinay",
+  "src": "BDTOPO:toponymie",
+  "nat": "Lieu-dit habité",
+  "d": 2.536842417683669,
+  "cap": 220.88681515805513,
+  "lat": 45.41155029,
+  "lon": 6.00950748
+ },
+ {
+  "terme": "bayard",
+  "nom": "LA BAYARDE ET LEPINAY",
+  "src": "cadastre:Pontcharra",
+  "nat": "lieu-dit",
+  "d": 2.558007401560663,
+  "cap": 216.54488253331044,
+  "lat": 45.41031659230771,
+  "lon": 6.011267598461539
+ },
+ {
+  "terme": "bayard",
+  "nom": "BAYARD",
+  "src": "cadastre:Allevard",
+  "nat": "lieu-dit",
+  "d": 4.386981080800066,
+  "cap": 134.16404366570856,
+  "lat": 45.4013054,
+  "lon": 6.071087727499999
+ },
+ {
+  "terme": "bayard",
+  "nom": "A BAYARD",
+  "src": "cadastre:Allevard",
+  "nat": "lieu-dit",
+  "d": 4.5146388462588884,
+  "cap": 136.73426852661947,
+  "lat": 45.399228146428584,
+  "lon": 6.07041081607143
+ },
+ {
+  "terme": "bayard",
+  "nom": "bayard",
+  "src": "BDTOPO:toponymie",
+  "nat": "Lieu-dit habité",
+  "d": 4.598773538459317,
+  "cap": 135.70105991715081,
+  "lat": 45.39919267,
+  "lon": 6.07191618
+ },
+ {
+  "terme": "chant",
+  "nom": "CHANTE-MERLE",
+  "src": "cadastre:Saint-Maximin",
+  "nat": "lieu-dit",
+  "d": 1.8729929602083373,
+  "cap": 59.27584464842516,
+  "lat": 45.43740393833335,
+  "lon": 6.051415811666668
+ },
+ {
+  "terme": "chant",
+  "nom": "chantabord",
+  "src": "BDTOPO:toponymie",
+  "nat": "Lieu-dit habité",
+  "d": 2.5437007086223624,
+  "cap": 18.430774735248974,
+  "lat": 45.45050216,
+  "lon": 6.04108961
+ },
+ {
+  "terme": "chant",
+  "nom": "CHANTABORD",
+  "src": "cadastre:Laissaud",
+  "nat": "lieu-dit",
+  "d": 2.5806174588160267,
+  "cap": 16.951320363295906,
+  "lat": 45.450999289473685,
+  "lon": 6.0404255105263145
+ },
+ {
+  "terme": "chant",
+  "nom": "CHANTE MERLE",
+  "src": "cadastre:Crêts en Belledonne",
+  "nat": "lieu-dit",
+  "d": 5.000934098349373,
+  "cap": 161.0399682263801,
+  "lat": 45.38626375833335,
+  "lon": 6.051586031666665
+ },
+ {
+  "terme": "clairière",
+  "nom": "le clairfait",
+  "src": "BDTOPO:toponymie",
+  "nat": "Lieu-dit habité",
+  "d": 3.896834253206956,
+  "cap": 193.20295722851245,
+  "lat": 45.39468075,
+  "lon": 6.01938139
+ },
+ {
+  "terme": "clairière",
+  "nom": "LA MATRE ET CLAIRFAIT",
+  "src": "cadastre:Pontcharra",
+  "nat": "lieu-dit",
+  "d": 3.9198577810328303,
+  "cap": 189.74699663978947,
+  "lat": 45.394056471551714,
+  "lon": 6.022281179310343
+ },
+ {
+  "terme": "clairière",
+  "nom": "BOIS DU CLAIRFAIT",
+  "src": "cadastre:Pontcharra",
+  "nat": "lieu-dit",
+  "d": 4.0164252842946535,
+  "cap": 184.52623692817687,
+  "lat": 45.39279204666666,
+  "lon": 6.026720900000002
+ },
+ {
+  "terme": "clairière",
+  "nom": "bois de clairfait",
+  "src": "BDTOPO:toponymie",
+  "nat": "Bois",
+  "d": 4.171494131797456,
+  "cap": 178.77301189871923,
+  "lat": 45.3912935,
+  "lon": 6.03192391
+ },
+ {
+  "terme": "clairière",
+  "nom": "clair matin",
+  "src": "BDTOPO:toponymie",
+  "nat": "Camping",
+  "d": 5.224121542320792,
+  "cap": 151.0833203602536,
+  "lat": 45.38767133,
+  "lon": 6.06312678
+ },
+ {
+  "terme": "clairière",
+  "nom": "SAINT-CLAIR",
+  "src": "cadastre:Valgelon-La Rochette",
+  "nat": "lieu-dit",
+  "d": 6.274421808584715,
+  "cap": 60.62801767441965,
+  "lat": 45.45645482500001,
+  "lon": 6.100882757499999
+ },
+ {
+  "terme": "clairière",
+  "nom": "SAINT-CLAIR",
+  "src": "cadastre:Valgelon-La Rochette",
+  "nat": "lieu-dit",
+  "d": 6.381489519525729,
+  "cap": 58.95833997278794,
+  "lat": 45.45837238101265,
+  "lon": 6.100881864556963
+ },
+ {
+  "terme": "fontaine",
+  "nom": "Fontaine (nature, sans nom)",
+  "src": "BDTOPO:detail_hydrographique",
+  "nat": "Fontaine",
+  "d": 0.9065664496964583,
+  "cap": 166.21268194551442,
+  "lat": 45.42088194,
+  "lon": 6.03354822
+ },
+ {
+  "terme": "fontaine",
+  "nom": "Fontaine (nature, sans nom)",
+  "src": "BDTOPO:detail_hydrographique",
+  "nat": "Fontaine",
+  "d": 0.9208051702018519,
+  "cap": 204.9759647423659,
+  "lat": 45.4212933,
+  "lon": 6.02579837
+ },
+ {
+  "terme": "fontaine",
+  "nom": "Fontaine (nature, sans nom)",
+  "src": "BDTOPO:detail_hydrographique",
+  "nat": "Fontaine",
+  "d": 1.1121171569100559,
+  "cap": 358.52244457316834,
+  "lat": 45.43879817,
+  "lon": 6.03041246
+ },
+ {
+  "terme": "fontaine",
+  "nom": "Fontaine (nature, sans nom)",
+  "src": "BDTOPO:detail_hydrographique",
+  "nat": "Fontaine",
+  "d": 1.1472090478543715,
+  "cap": 87.67016317751518,
+  "lat": 45.42921847,
+  "lon": 6.04546895
+ },
+ {
+  "terme": "fontaine",
+  "nom": "Fontaine (nature, sans nom)",
+  "src": "BDTOPO:detail_hydrographique",
+  "nat": "Fontaine",
+  "d": 1.1497081164267278,
+  "cap": 264.2531070807113,
+  "lat": 45.42776372,
+  "lon": 6.0161213
+ },
+ {
+  "terme": "fontaine",
+  "nom": "Fontaine (nature, sans nom)",
+  "src": "BDTOPO:detail_hydrographique",
+  "nat": "Fontaine",
+  "d": 1.3304424629616172,
+  "cap": 348.59016457840534,
+  "lat": 45.44052843,
+  "lon": 6.02740656
+ },
+ {
+  "terme": "fontaine",
+  "nom": "Fontaine (nature, sans nom)",
+  "src": "BDTOPO:detail_hydrographique",
+  "nat": "Fontaine",
+  "d": 1.5986087495973098,
+  "cap": 84.72021545592571,
+  "lat": 45.43012111,
+  "lon": 6.05117905
+ },
+ {
+  "terme": "fontaine",
+  "nom": "Fontaine (nature, sans nom)",
+  "src": "BDTOPO:detail_hydrographique",
+  "nat": "Fontaine",
+  "d": 2.200356329422183,
+  "cap": 219.26668340002638,
+  "lat": 45.41347838,
+  "lon": 6.01293833
+ },
+ {
+  "terme": "fontaine",
+  "nom": "Fontaine (nature, sans nom)",
+  "src": "BDTOPO:detail_hydrographique",
+  "nat": "Fontaine",
+  "d": 2.242065469933148,
+  "cap": 215.6644819934253,
+  "lat": 45.41241716,
+  "lon": 6.01403354
+ },
+ {
+  "terme": "fontaine",
+  "nom": "Fontaine (nature, sans nom)",
+  "src": "BDTOPO:detail_hydrographique",
+  "nat": "Fontaine",
+  "d": 2.604402471532099,
+  "cap": 195.8361328773074,
+  "lat": 45.40626667,
+  "lon": 6.02167622
+ },
+ {
+  "terme": "fontaine",
+  "nom": "Fontaine (nature, sans nom)",
+  "src": "BDTOPO:detail_hydrographique",
+  "nat": "Fontaine",
+  "d": 2.65004605002006,
+  "cap": 208.28392529676796,
+  "lat": 45.40781181,
+  "lon": 6.01469471
+ },
+ {
+  "terme": "fontaine",
+  "nom": "fontaine de la frace",
+  "src": "BDTOPO:toponymie",
+  "nat": "Lieu-dit non habité",
+  "d": 3.434299784243949,
+  "cap": 85.77677311484905,
+  "lat": 45.43106607,
+  "lon": 6.07467135
+ },
+ {
+  "terme": "fontaine",
+  "nom": "Fontaine (nature, sans nom)",
+  "src": "BDTOPO:detail_hydrographique",
+  "nat": "Fontaine",
+  "d": 3.81490425522024,
+  "cap": 54.27369343742765,
+  "lat": 45.44882617,
+  "lon": 6.0704808
+ },
+ {
+  "terme": "fontaine",
+  "nom": "Fontaine (nature, sans nom)",
+  "src": "BDTOPO:detail_hydrographique",
+  "nat": "Fontaine",
+  "d": 3.817066282239485,
+  "cap": 301.8093782521163,
+  "lat": 45.44688639,
+  "lon": 5.98919918
+ },
+ {
+  "terme": "fontaine",
+  "nom": "école primaire la fontaine-la chapelle",
+  "src": "BDTOPO:toponymie",
+  "nat": "Enseignement primaire",
+  "d": 3.8417041171066124,
+  "cap": 56.663782598869375,
+  "lat": 45.44777918,
+  "lon": 6.07192337
+ },
+ {
+  "terme": "fontaine",
+  "nom": "Fontaine (nature, sans nom)",
+  "src": "BDTOPO:detail_hydrographique",
+  "nat": "Fontaine",
+  "d": 3.8621248244618336,
+  "cap": 56.33002868469123,
+  "lat": 45.44804879,
+  "lon": 6.07198308
+ },
+ {
+  "terme": "fontaine",
+  "nom": "Fontaine (nature, sans nom)",
+  "src": "BDTOPO:detail_hydrographique",
+  "nat": "Fontaine",
+  "d": 3.9541680379977486,
+  "cap": 155.60603967603106,
+  "lat": 45.39641205,
+  "lon": 6.05169554
+ },
+ {
+  "terme": "fontaine",
+  "nom": "Fontaine (nature, sans nom)",
+  "src": "BDTOPO:detail_hydrographique",
+  "nat": "Fontaine",
+  "d": 4.032489695010336,
+  "cap": 123.31643855160132,
+  "lat": 45.40887286,
+  "lon": 6.07394666
+ },
+ {
+  "terme": "fontaine",
+  "nom": "Fontaine (nature, sans nom)",
+  "src": "BDTOPO:detail_hydrographique",
+  "nat": "Fontaine",
+  "d": 4.053316143667608,
+  "cap": 124.75665217302435,
+  "lat": 45.40801089,
+  "lon": 6.07343844
+ },
+ {
+  "terme": "fontaine",
+  "nom": "les fontanettes",
+  "src": "BDTOPO:toponymie",
+  "nat": "Grange",
+  "d": 4.091788381368241,
+  "cap": 77.86161569455749,
+  "lat": 45.43652624,
+  "lon": 6.08204924
+ },
+ {
+  "terme": "fontaine",
+  "nom": "Fontaine (nature, sans nom)",
+  "src": "BDTOPO:detail_hydrographique",
+  "nat": "Fontaine",
+  "d": 4.1096202824504,
+  "cap": 280.01286645737235,
+  "lat": 45.43521424,
+  "lon": 5.9789132
+ },
+ {
+  "terme": "fontaine",
+  "nom": "Fontaine (nature, sans nom)",
+  "src": "BDTOPO:detail_hydrographique",
+  "nat": "Fontaine",
+  "d": 4.13556724265117,
+  "cap": 278.8687449639014,
+  "lat": 45.43452198,
+  "lon": 5.97841277
+ },
+ {
+  "terme": "fontaine",
+  "nom": "Fontaine (nature, sans nom)",
+  "src": "BDTOPO:detail_hydrographique",
+  "nat": "Fontaine",
+  "d": 4.144744749541248,
+  "cap": 58.44472681718855,
+  "lat": 45.4482976,
+  "lon": 6.07605524
+ },
+ {
+  "terme": "fontaine",
+  "nom": "Fontaine (nature, sans nom)",
+  "src": "BDTOPO:detail_hydrographique",
+  "nat": "Fontaine",
+  "d": 4.1553068047925175,
+  "cap": 283.29114692571136,
+  "lat": 45.43737951,
+  "lon": 5.97894993
+ },
+ {
+  "terme": "fontaine",
+  "nom": "Fontaine (nature, sans nom)",
+  "src": "BDTOPO:detail_hydrographique",
+  "nat": "Fontaine",
+  "d": 4.189817468088493,
+  "cap": 277.25296669030695,
+  "lat": 45.43354472,
+  "lon": 5.97751441
+ },
+ {
+  "terme": "fontaine",
+  "nom": "Fontaine (nature, sans nom)",
+  "src": "BDTOPO:detail_hydrographique",
+  "nat": "Fontaine",
+  "d": 4.230253569296355,
+  "cap": 292.4214165399802,
+  "lat": 45.44329945,
+  "lon": 5.98065623
+ },
+ {
+  "terme": "fontaine",
+  "nom": "Fontaine (nature, sans nom)",
+  "src": "BDTOPO:detail_hydrographique",
+  "nat": "Fontaine",
+  "d": 4.2385712909313265,
+  "cap": 275.1405746882383,
+  "lat": 45.43220262,
+  "lon": 5.97667972
+ },
+ {
+  "terme": "fontaine",
+  "nom": "Fontaine (nature, sans nom)",
+  "src": "BDTOPO:detail_hydrographique",
+  "nat": "Fontaine",
+  "d": 4.241481695874362,
+  "cap": 282.32036298727365,
+  "lat": 45.43692688,
+  "lon": 5.97767133
+ },
+ {
+  "terme": "fontaine",
+  "nom": "Fontaine (nature, sans nom)",
+  "src": "BDTOPO:detail_hydrographique",
+  "nat": "Fontaine",
+  "d": 4.271444597396545,
+  "cap": 159.7815904077596,
+  "lat": 45.39275146,
+  "lon": 6.04968493
+ },
+ {
+  "terme": "fontaine",
+  "nom": "Fontaine (nature, sans nom)",
+  "src": "BDTOPO:detail_hydrographique",
+  "nat": "Fontaine",
+  "d": 4.277686224119968,
+  "cap": 129.20405512248402,
+  "lat": 45.40447579,
+  "lon": 6.07323917
+ },
+ {
+  "terme": "fontaine",
+  "nom": "Fontaine (nature, sans nom)",
+  "src": "BDTOPO:detail_hydrographique",
+  "nat": "Fontaine",
+  "d": 4.295742778927629,
+  "cap": 160.03739040738583,
+  "lat": 45.39248718,
+  "lon": 6.04956172
+ },
+ {
+  "terme": "fontaine",
+  "nom": "Fontaine (nature, sans nom)",
+  "src": "BDTOPO:detail_hydrographique",
+  "nat": "Fontaine",
+  "d": 4.331666528109683,
+  "cap": 31.254786431995,
+  "lat": 45.46209826,
+  "lon": 6.05959727
+ },
+ {
+  "terme": "fontaine",
+  "nom": "Fontaine (nature, sans nom)",
+  "src": "BDTOPO:detail_hydrographique",
+  "nat": "Fontaine",
+  "d": 4.381550598172223,
+  "cap": 40.16916540091887,
+  "lat": 45.45890471,
+  "lon": 6.06701721
+ },
+ {
+  "terme": "fontaine",
+  "nom": "FONTAINE ANTREE",
+  "src": "cadastre:Allevard",
+  "nat": "lieu-dit",
+  "d": 4.513490445976412,
+  "cap": 141.20684457057325,
+  "lat": 45.39715733365386,
+  "lon": 6.066996110576922
+ },
+ {
+  "terme": "fontaine",
+  "nom": "lotissement des fontanettes",
+  "src": "BDTOPO:toponymie",
+  "nat": "Quartier",
+  "d": 4.554021843920217,
+  "cap": 205.21454693809676,
+  "lat": 45.39174432,
+  "lon": 6.00593534
+ },
+ {
+  "terme": "fontaine",
+  "nom": "Fontaine (nature, sans nom)",
+  "src": "BDTOPO:detail_hydrographique",
+  "nat": "Fontaine",
+  "d": 4.560288130578029,
+  "cap": 254.46317193411716,
+  "lat": 45.4178009,
+  "lon": 5.97448824
+ },
+ {
+  "terme": "fontaine",
+  "nom": "Fontaine (nature, sans nom)",
+  "src": "BDTOPO:detail_hydrographique",
+  "nat": "Fontaine",
+  "d": 4.610031451701028,
+  "cap": 240.96006523099948,
+  "lat": 45.4086634,
+  "lon": 5.97914972
+ },
+ {
+  "terme": "fontaine",
+  "nom": "Fontaine (nature, sans nom)",
+  "src": "BDTOPO:detail_hydrographique",
+  "nat": "Fontaine",
+  "d": 4.630565148369256,
+  "cap": 47.162179082432374,
+  "lat": 45.45710629,
+  "lon": 6.0743138
+ },
+ {
+  "terme": "fontaine",
+  "nom": "Fontaine (nature, sans nom)",
+  "src": "BDTOPO:detail_hydrographique",
+  "nat": "Fontaine",
+  "d": 4.630914214884051,
+  "cap": 255.60543698583894,
+  "lat": 45.41843229,
+  "lon": 5.97331034
+ },
+ {
+  "terme": "fontaine",
+  "nom": "Fontaine (nature, sans nom)",
+  "src": "BDTOPO:detail_hydrographique",
+  "nat": "Fontaine",
+  "d": 4.72195803778437,
+  "cap": 41.03466616816223,
+  "lat": 45.46082539,
+  "lon": 6.07052823
+ },
+ {
+  "terme": "fontaine",
+  "nom": "Fontaine (nature, sans nom)",
+  "src": "BDTOPO:detail_hydrographique",
+  "nat": "Fontaine",
+  "d": 4.741205448174164,
+  "cap": 149.93048543494814,
+  "lat": 45.39189572,
+  "lon": 6.06120219
+ },
+ {
+  "terme": "fontaine",
+  "nom": "Fontaine (nature, sans nom)",
+  "src": "BDTOPO:detail_hydrographique",
+  "nat": "Fontaine",
+  "d": 4.744283794957227,
+  "cap": 315.05925385366936,
+  "lat": 45.45899277,
+  "lon": 5.98781225
+ },
+ {
+  "terme": "fontaine",
+  "nom": "Fontaine (nature, sans nom)",
+  "src": "BDTOPO:detail_hydrographique",
+  "nat": "Fontaine",
+  "d": 4.779412502820243,
+  "cap": 46.94091302609394,
+  "lat": 45.45813747,
+  "lon": 6.07555276
+ },
+ {
+  "terme": "fontaine",
+  "nom": "Fontaine (nature, sans nom)",
+  "src": "BDTOPO:detail_hydrographique",
+  "nat": "Fontaine",
+  "d": 4.852760473403376,
+  "cap": 318.14046531225887,
+  "lat": 45.4612962,
+  "lon": 5.98925892
+ },
+ {
+  "terme": "fontaine",
+  "nom": "Fontaine (nature, sans nom)",
+  "src": "BDTOPO:detail_hydrographique",
+  "nat": "Fontaine",
+  "d": 4.9400029087779735,
+  "cap": 320.74897512700903,
+  "lat": 45.46319601,
+  "lon": 5.9907019
+ },
+ {
+  "terme": "fontaine",
+  "nom": "Fontaine (nature, sans nom)",
+  "src": "BDTOPO:detail_hydrographique",
+  "nat": "Fontaine",
+  "d": 4.9434020652071915,
+  "cap": 324.64906869862665,
+  "lat": 45.46505433,
+  "lon": 5.99410461
+ },
+ {
+  "terme": "fontaine",
+  "nom": "Fontaine (nature, sans nom)",
+  "src": "BDTOPO:detail_hydrographique",
+  "nat": "Fontaine",
+  "d": 4.981806027610262,
+  "cap": 235.9733059226558,
+  "lat": 45.40371731,
+  "lon": 5.97789461
+ },
+ {
+  "terme": "fontaine",
+  "nom": "Fontaine (nature, sans nom)",
+  "src": "BDTOPO:detail_hydrographique",
+  "nat": "Fontaine",
+  "d": 5.103637012389076,
+  "cap": 234.21440067107955,
+  "lat": 45.40194867,
+  "lon": 5.97775128
+ },
+ {
+  "terme": "fontaine",
+  "nom": "FONTANIL",
+  "src": "cadastre:Crêts en Belledonne",
+  "nat": "lieu-dit",
+  "d": 5.128277619605885,
+  "cap": 195.4537739773437,
+  "lat": 45.38434643999999,
+  "lon": 6.013282853636365
+ },
+ {
+  "terme": "fontaine",
+  "nom": "Fontaine (nature, sans nom)",
+  "src": "BDTOPO:detail_hydrographique",
+  "nat": "Fontaine",
+  "d": 5.1823517304549265,
+  "cap": 138.17633762704793,
+  "lat": 45.39406067,
+  "lon": 6.07503738
+ },
+ {
+  "terme": "fontaine",
+  "nom": "Fontaine (nature, sans nom)",
+  "src": "BDTOPO:detail_hydrographique",
+  "nat": "Fontaine",
+  "d": 5.200236705840209,
+  "cap": 318.64459270361374,
+  "lat": 45.46389588,
+  "lon": 5.98672248
+ },
+ {
+  "terme": "fontaine",
+  "nom": "Fontaine (nature, sans nom)",
+  "src": "BDTOPO:detail_hydrographique",
+  "nat": "Fontaine",
+  "d": 5.238572831328864,
+  "cap": 321.968246029798,
+  "lat": 45.46590086,
+  "lon": 5.98939408
+ },
+ {
+  "terme": "fontaine",
+  "nom": "Fontaine (nature, sans nom)",
+  "src": "BDTOPO:detail_hydrographique",
+  "nat": "Fontaine",
+  "d": 5.303446816918888,
+  "cap": 138.12260841667307,
+  "lat": 45.39327854,
+  "lon": 6.07611835
+ },
+ {
+  "terme": "fontaine",
+  "nom": "Fontaine (nature, sans nom)",
+  "src": "BDTOPO:detail_hydrographique",
+  "nat": "Fontaine",
+  "d": 6.030837920597455,
+  "cap": 304.9820324539792,
+  "lat": 45.45987737,
+  "lon": 5.967425
+ },
+ {
+  "terme": "fontaine",
+  "nom": "Fontaine (nature, sans nom)",
+  "src": "BDTOPO:detail_hydrographique",
+  "nat": "Fontaine",
+  "d": 6.176134751345573,
+  "cap": 312.79892615212225,
+  "lat": 45.46652288,
+  "lon": 5.97266944
+ },
+ {
+  "terme": "fontaine",
+  "nom": "FONTAINE BENOIT",
+  "src": "cadastre:Sainte-Marie-du-Mont",
+  "nat": "lieu-dit",
+  "d": 6.497766137019797,
+  "cap": 264.1561313292186,
+  "lat": 45.42282025957448,
+  "lon": 5.947955395035457
+ },
+ {
+  "terme": "fée",
+  "nom": "le fayet",
+  "src": "BDTOPO:toponymie",
+  "nat": "Lieu-dit habité",
+  "d": 4.553395245391031,
+  "cap": 255.51661260821092,
+  "lat": 45.41854461,
+  "lon": 5.97429479
+ },
+ {
+  "terme": "fée",
+  "nom": "château du fayet",
+  "src": "BDTOPO:toponymie",
+  "nat": "Château",
+  "d": 4.714472735938028,
+  "cap": 254.72013147280123,
+  "lat": 45.41761181,
+  "lon": 5.97251322
+ },
+ {
+  "terme": "fée",
+  "nom": "bois du fayet",
+  "src": "BDTOPO:toponymie",
+  "nat": "Bois",
+  "d": 5.202637292329474,
+  "cap": 252.49659515100413,
+  "lat": 45.41471018,
+  "lon": 5.96721315
+ },
+ {
+  "terme": "loup",
+  "nom": "tire-loup",
+  "src": "BDTOPO:toponymie",
+  "nat": "Bois",
+  "d": 1.5976099540578872,
+  "cap": 98.02947614852906,
+  "lat": 45.4267913,
+  "lon": 6.05105126
+ },
+ {
+  "terme": "loup",
+  "nom": "tire loup",
+  "src": "BDTOPO:toponymie",
+  "nat": "Bois",
+  "d": 1.5976099540578872,
+  "cap": 98.02947614852906,
+  "lat": 45.4267913,
+  "lon": 6.05105126
+ },
+ {
+  "terme": "loup",
+  "nom": "tire loup et les taches",
+  "src": "BDTOPO:toponymie",
+  "nat": "Bois",
+  "d": 1.5976099540578872,
+  "cap": 98.02947614852906,
+  "lat": 45.4267913,
+  "lon": 6.05105126
+ },
+ {
+  "terme": "loup",
+  "nom": "TIRE LOUP ET LES TACHES",
+  "src": "cadastre:Saint-Maximin",
+  "nat": "lieu-dit",
+  "d": 1.8224898136407348,
+  "cap": 98.48189963845539,
+  "lat": 45.42638019381444,
+  "lon": 6.053877998969073
+ },
+ {
+  "terme": "rempart",
+  "nom": "LE CRET DU MUR",
+  "src": "cadastre:Pontcharra",
+  "nat": "lieu-dit",
+  "d": 2.5641999129726947,
+  "cap": 184.34711143704408,
+  "lat": 45.4058059423077,
+  "lon": 6.0282903371794845
+ },
+ {
+  "terme": "rempart",
+  "nom": "MOLLARD BILLARD ET LES MURAILLES",
+  "src": "cadastre:Allevard",
+  "nat": "lieu-dit",
+  "d": 3.830404076245626,
+  "cap": 132.9382578801094,
+  "lat": 45.4053283221675,
+  "lon": 6.066699608866996
+ },
+ {
+  "terme": "roche",
+  "nom": "LE CHENE LA ROCHE ET LE VIVIER",
+  "src": "cadastre:Saint-Maximin",
+  "nat": "lieu-dit",
+  "d": 0.13424538711920667,
+  "cap": 116.23684752285948,
+  "lat": 45.428266264772724,
+  "lon": 6.032323047727272
+ },
+ {
+  "terme": "roche",
+  "nom": "PRE CROCHET",
+  "src": "cadastre:Pontcharra",
+  "nat": "lieu-dit",
+  "d": 0.7071868260636494,
+  "cap": 284.8017517340957,
+  "lat": 45.430424456190465,
+  "lon": 6.022018178095238
+ },
+ {
+  "terme": "roche",
+  "nom": "le rochat",
+  "src": "BDTOPO:toponymie",
+  "nat": "Lieu-dit habité",
+  "d": 1.4009914408736945,
+  "cap": 188.50702836415917,
+  "lat": 45.41633919,
+  "lon": 6.02812477
+ },
+ {
+  "terme": "roche",
+  "nom": "LE ROCHAT",
+  "src": "cadastre:Saint-Maximin",
+  "nat": "lieu-dit",
+  "d": 1.4217871271608349,
+  "cap": 185.33845007527836,
+  "lat": 45.416069027586204,
+  "lon": 6.029085253448278
+ },
+ {
+  "terme": "roche",
+  "nom": "COTE ROCHAT",
+  "src": "cadastre:Saint-Maximin",
+  "nat": "lieu-dit",
+  "d": 2.20975950182924,
+  "cap": 82.59253001689046,
+  "lat": 45.431358660240974,
+  "lon": 6.058862072289157
+ },
+ {
+  "terme": "roche",
+  "nom": "côte rochat",
+  "src": "BDTOPO:toponymie",
+  "nat": "Crête",
+  "d": 2.463813475330984,
+  "cap": 94.10654173663255,
+  "lat": 45.42720894,
+  "lon": 6.06227077
+ },
+ {
+  "terme": "roche",
+  "nom": "roche morte",
+  "src": "BDTOPO:toponymie",
+  "nat": "Lieu-dit habité",
+  "d": 3.050109676827126,
+  "cap": 205.76948262098412,
+  "lat": 45.40409641,
+  "lon": 6.0137948
+ },
+ {
+  "terme": "roche",
+  "nom": "maison de roche morte",
+  "src": "BDTOPO:toponymie",
+  "nat": "Lieu-dit habité",
+  "d": 3.050109676827126,
+  "cap": 205.76948262098412,
+  "lat": 45.40409641,
+  "lon": 6.0137948
+ },
+ {
+  "terme": "roche",
+  "nom": "LA ROCHE",
+  "src": "cadastre:Crêts en Belledonne",
+  "nat": "lieu-dit",
+  "d": 5.182431129862819,
+  "cap": 163.51942652535854,
+  "lat": 45.384106583582096,
+  "lon": 6.049605147761196
+ },
+ {
+  "terme": "roche",
+  "nom": "LA ROCHE",
+  "src": "cadastre:Crêts en Belledonne",
+  "nat": "lieu-dit",
+  "d": 5.528142685596457,
+  "cap": 164.1951186698151,
+  "lat": 45.38096217756652,
+  "lon": 6.050058019771859
+ },
+ {
+  "terme": "roche",
+  "nom": "AU ROCHAT",
+  "src": "cadastre:Villaroux",
+  "nat": "lieu-dit",
+  "d": 5.633088174665693,
+  "cap": 48.14331564779627,
+  "lat": 45.462590932075486,
+  "lon": 6.084577233962266
+ },
+ {
+  "terme": "roche",
+  "nom": "LES ROCHETTES",
+  "src": "cadastre:Chapareillan",
+  "nat": "lieu-dit",
+  "d": 6.462758734885579,
+  "cap": 320.09216308985725,
+  "lat": 45.47337090421054,
+  "lon": 5.977606058947372
+ },
+ {
+  "terme": "âne",
+  "nom": "ehpad le granier",
+  "src": "BDTOPO:toponymie",
+  "nat": "Maison de retraite",
+  "d": 0.7557854561348363,
+  "cap": 336.06496353052046,
+  "lat": 45.43501237,
+  "lon": 6.02685033
+ },
+ {
+  "terme": "âne",
+  "nom": "h.l.m. granier",
+  "src": "BDTOPO:toponymie",
+  "nat": "Quartier",
+  "d": 4.8045446118324975,
+  "cap": 211.25775207638983,
+  "lat": 45.39185934,
+  "lon": 5.99885384
+ },
+ {
+  "terme": "âne",
+  "nom": "centre de secours de chapareillan-granier",
+  "src": "BDTOPO:toponymie",
+  "nat": "Caserne de pompiers",
+  "d": 4.878969646833852,
+  "cap": 320.75401601606956,
+  "lat": 45.46277358,
+  "lon": 5.99120162
+ },
+ {
+  "terme": "âne",
+  "nom": "BUGANIERE",
+  "src": "cadastre:La Chapelle-du-Bard",
+  "nat": "lieu-dit",
+  "d": 5.040251897451399,
+  "cap": 105.83497754034528,
+  "lat": 45.41641461363635,
+  "lon": 6.092904011363637
+ }
+]

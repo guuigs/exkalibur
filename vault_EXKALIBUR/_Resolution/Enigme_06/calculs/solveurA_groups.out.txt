@@ -1,0 +1,20 @@
+11819 lieux en C
+REEL vs liste curée (44 noms): 0
+REEL vs 11 800 lieux en C: 30
+('ligne', 'A-X', 0, 'B:tous', '', 'ACDEINU', ['Cầu Diễn'])
+('ligne', 'A-X', 0, 'B:droite', '', 'CINU', ['Cun-i'])
+('ligne', 'L23(sans J,U,W)', 0, 'B:coins', '', 'ACDIX', ['Cadix'])
+('ligne', 'A-Z(26)', 0, 'B:tous', '', 'ACDEINU', ['Cầu Diễn'])
+('ligne', 'A-Z(26)', 0, 'B:droite', '', 'CINU', ['Cun-i'])
+('anneaux ext-int cw d0', 'A-X', 0, 'B:coins', 'S', 'ACIMSS', ['Cassim'])
+('anneaux ext-int cw d0', 'L24(sans J,W)', 0, 'B:coins', 'S', 'ACINST', ['Castin'])
+('anneaux ext-int cw d0', 'L23(sans J,U,W)', 0, 'B:coins', 'S', 'ACINST', ['Castin'])
+('anneaux ext-int cw d0', 'A-Z(26)', 0, 'B:coins', 'S', 'ACIMSS', ['Cassim'])
+('anneaux ext-int cw d6', 'L24(sans J,W)', 0, 'RB:gauche', '', 'ACIKL', ['Cikal'])
+('anneaux ext-int cw d6', 'L23(sans J,U,W)', 0, 'RB:gauche', '', 'ACIKL', ['Cikal'])
+('anneaux ext-int ccw d0', 'L24(sans J,W)', 0, 'RB:gauche', '', 'ACIKL', ['Cikal'])
+('anneaux ext-int ccw d0', 'L24(sans J,W)', 0, 'RB:coins', '', 'ACGILNY', ['Caligny'])
+('anneaux ext-int ccw d0', 'L23(sans J,U,W)', 0, 'RB:gauche', '', 'ACIKL', ['Cikal'])
+('anneaux ext-int ccw d4', 'L24(sans J,W)', 0, 'B:tous', '', 'CEIKMNT', ['Cimkent'])
+NUL curé:  [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] 
+NUL 11800: [39, 13, 17, 44, 10, 16, 13, 32, 20, 23, 12, 76, 29, 79, 9, 15, 39, 34, 29, 46, 18, 36, 65, 46, 5, 12, 29, 45, 15, 11]

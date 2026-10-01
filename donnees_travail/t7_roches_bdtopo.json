@@ -1,0 +1,119 @@
+[
+ {
+  "layer": "toponymie_12km",
+  "nom": "lycée pierre de terrail",
+  "nature": "Lycée",
+  "ctr": [
+   45.43629277,
+   6.01675795
+  ],
+  "d": 1.3849432781622983,
+  "db": 1.4469052105919735,
+  "cap": 306.57324388554747,
+  "statut": "Collecté"
+ },
+ {
+  "layer": "zone_d_activite_ou_d_interet_12km",
+  "nom": "Lycée Pierre de Terrail",
+  "nature": "Lycée",
+  "ctr": [
+   45.43646357555555,
+   6.016668903333334
+  ],
+  "d": 1.4018820462794765,
+  "db": 1.4665904557154588,
+  "cap": 307.02756927240586,
+  "statut": "Collecté"
+ },
+ {
+  "layer": "toponymie_12km",
+  "nom": "le rochat",
+  "nature": "Lieu-dit habité",
+  "ctr": [
+   45.41633919,
+   6.02812477
+  ],
+  "d": 1.4117289236621682,
+  "db": 1.060890510022439,
+  "cap": 189.18798310573985,
+  "statut": "Validé"
+ },
+ {
+  "layer": "toponymie_12km",
+  "nom": "côte rochat",
+  "nature": "Crête",
+  "ctr": [
+   45.42720894,
+   6.06227077
+  ],
+  "d": 2.4462906801563307,
+  "db": 3.4086055931454298,
+  "cap": 94.32498370371047,
+  "statut": "Validé"
+ },
+ {
+  "layer": "detail_orographique_12km",
+  "nom": "Côte Rochat",
+  "nature": "Crête",
+  "ctr": [
+   45.42720894,
+   6.06227077
+  ],
+  "d": 2.4462906801563307,
+  "db": 3.4086055931454298,
+  "cap": 94.32498370371047,
+  "statut": "Validé"
+ },
+ {
+  "layer": "toponymie_12km",
+  "nom": "roche morte",
+  "nature": "Lieu-dit habité",
+  "ctr": [
+   45.40409641,
+   6.0137948
+  ],
+  "d": 3.065272917060144,
+  "db": 2.180469795557377,
+  "cap": 206.0100540096827,
+  "statut": "Validé"
+ },
+ {
+  "layer": "toponymie_12km",
+  "nom": "maison de roche morte",
+  "nature": "Lieu-dit habité",
+  "ctr": [
+   45.40409641,
+   6.0137948
+  ],
+  "d": 3.065272917060144,
+  "db": 2.180469795557377,
+  "cap": 206.0100540096827,
+  "statut": "Collecté"
+ },
+ {
+  "layer": "zone_d_activite_ou_d_interet_12km",
+  "nom": "Saint-Roch",
+  "nature": "Culte chrétien",
+  "ctr": [
+   45.44031499,
+   6.084422484
+  ],
+  "d": 4.357369774784811,
+  "db": 5.446219075968016,
+  "cap": 73.00298532861211,
+  "statut": "Validé"
+ },
+ {
+  "layer": "toponymie_12km",
+  "nom": "saint-roch",
+  "nature": "Culte chrétien",
+  "ctr": [
+   45.44031012,
+   6.08442606
+  ],
+  "d": 4.357478729572294,
+  "db": 5.44629378899219,
+  "cap": 73.01086611324388,
+  "statut": "Validé"
+ }
+]

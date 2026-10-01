@@ -1,0 +1,4719 @@
+[
+ {
+  "nom": "LES FAVIERES",
+  "commune": "Saint-Maximin",
+  "code": "38426",
+  "lat": 45.432273055555555,
+  "lon": 6.071045701234569
+ },
+ {
+  "nom": "LE RAFOUR",
+  "commune": "Saint-Maximin",
+  "code": "38426",
+  "lat": 45.43512812792793,
+  "lon": 6.070514216216214
+ },
+ {
+  "nom": "LES CINDREES",
+  "commune": "Saint-Maximin",
+  "code": "38426",
+  "lat": 45.438380546031745,
+  "lon": 6.072058196825397
+ },
+ {
+  "nom": "BELLE-PERCHE",
+  "commune": "Saint-Maximin",
+  "code": "38426",
+  "lat": 45.436264355056196,
+  "lon": 6.068993823595505
+ },
+ {
+  "nom": "PERROSAN",
+  "commune": "Saint-Maximin",
+  "code": "38426",
+  "lat": 45.437627700000014,
+  "lon": 6.067396541176471
+ },
+ {
+  "nom": "LONGE REY",
+  "commune": "Saint-Maximin",
+  "code": "38426",
+  "lat": 45.43855297313432,
+  "lon": 6.069457517910449
+ },
+ {
+  "nom": "LA BURGE",
+  "commune": "Saint-Maximin",
+  "code": "38426",
+  "lat": 45.4260970649123,
+  "lon": 6.068753289473685
+ },
+ {
+  "nom": "MILLIBEL",
+  "commune": "Saint-Maximin",
+  "code": "38426",
+  "lat": 45.42955408888887,
+  "lon": 6.07087045333333
+ },
+ {
+  "nom": "LE TIMBLEY",
+  "commune": "Saint-Maximin",
+  "code": "38426",
+  "lat": 45.42906361419354,
+  "lon": 6.067562323870967
+ },
+ {
+  "nom": "LES CHAUMES ET LES TROUPIERES",
+  "commune": "Saint-Maximin",
+  "code": "38426",
+  "lat": 45.42229152113821,
+  "lon": 6.063147546341463
+ },
+ {
+  "nom": "LA CHAUX ET LES CORDEYLES",
+  "commune": "Saint-Maximin",
+  "code": "38426",
+  "lat": 45.42672610677966,
+  "lon": 6.060222005084743
+ },
+ {
+  "nom": "LE PARCHET",
+  "commune": "Saint-Maximin",
+  "code": "38426",
+  "lat": 45.424631921875,
+  "lon": 6.064685909375001
+ },
+ {
+  "nom": "COTE ROCHAT",
+  "commune": "Saint-Maximin",
+  "code": "38426",
+  "lat": 45.431358660240974,
+  "lon": 6.058862072289157,
+  "dist_km": 2.21
+ },
+ {
+  "nom": "MONTESSIEU",
+  "commune": "Saint-Maximin",
+  "code": "38426",
+  "lat": 45.43055746724138,
+  "lon": 6.0555217241379315
+ },
+ {
+  "nom": "POUCHAT",
+  "commune": "Saint-Maximin",
+  "code": "38426",
+  "lat": 45.432028605714315,
+  "lon": 6.054189088571429
+ },
+ {
+  "nom": "LE COUVAT ET CHARRET",
+  "commune": "Saint-Maximin",
+  "code": "38426",
+  "lat": 45.4335896635294,
+  "lon": 6.057834583529413
+ },
+ {
+  "nom": "LA GRANDE PIECE ET LE MONT",
+  "commune": "Saint-Maximin",
+  "code": "38426",
+  "lat": 45.435174493846155,
+  "lon": 6.055056003076925
+ },
+ {
+  "nom": "LA SERVE ET LA CORVA",
+  "commune": "Saint-Maximin",
+  "code": "38426",
+  "lat": 45.435819754216865,
+  "lon": 6.051131798795182
+ },
+ {
+  "nom": "LENVERSIN ET LE PARCHET",
+  "commune": "Saint-Maximin",
+  "code": "38426",
+  "lat": 45.42767880675675,
+  "lon": 6.063829566216216
+ },
+ {
+  "nom": "LES TEPPES",
+  "commune": "Saint-Maximin",
+  "code": "38426",
+  "lat": 45.42985681509435,
+  "lon": 6.061272950943397
+ },
+ {
+  "nom": "CHANTE-MERLE",
+  "commune": "Saint-Maximin",
+  "code": "38426",
+  "lat": 45.43740393833335,
+  "lon": 6.051415811666668
+ },
+ {
+  "nom": "LES GORGES",
+  "commune": "Saint-Maximin",
+  "code": "38426",
+  "lat": 45.43804216666667,
+  "lon": 6.050751579487181
+ },
+ {
+  "nom": "LA PLANTA",
+  "commune": "Saint-Maximin",
+  "code": "38426",
+  "lat": 45.43587089722223,
+  "lon": 6.047562094444447
+ },
+ {
+  "nom": "LA CHAU",
+  "commune": "Saint-Maximin",
+  "code": "38426",
+  "lat": 45.430985919417466,
+  "lon": 6.064168416504855
+ },
+ {
+  "nom": "LE CORBA",
+  "commune": "Saint-Maximin",
+  "code": "38426",
+  "lat": 45.433768617757,
+  "lon": 6.0659915429906555
+ },
+ {
+  "nom": "LA PLANCHE ET CHAMP MAXIME",
+  "commune": "Saint-Maximin",
+  "code": "38426",
+  "lat": 45.43561888058254,
+  "lon": 6.06508224563107
+ },
+ {
+  "nom": "BUGNON",
+  "commune": "Saint-Maximin",
+  "code": "38426",
+  "lat": 45.43544820408163,
+  "lon": 6.0606253816326525
+ },
+ {
+  "nom": "LE PULLET",
+  "commune": "Saint-Maximin",
+  "code": "38426",
+  "lat": 45.433221040740726,
+  "lon": 6.061935756481481
+ },
+ {
+  "nom": "LA SILVE",
+  "commune": "Saint-Maximin",
+  "code": "38426",
+  "lat": 45.43171122236841,
+  "lon": 6.066699652631577
+ },
+ {
+  "nom": "VORGETA",
+  "commune": "Saint-Maximin",
+  "code": "38426",
+  "lat": 45.44119736153848,
+  "lon": 6.0688510461538465
+ },
+ {
+  "nom": "CHAMP FRAY ET BERROIN",
+  "commune": "Saint-Maximin",
+  "code": "38426",
+  "lat": 45.44244541363635,
+  "lon": 6.06717275151515
+ },
+ {
+  "nom": "MARAICHES",
+  "commune": "Saint-Maximin",
+  "code": "38426",
+  "lat": 45.44245567799999,
+  "lon": 6.070678161999999
+ },
+ {
+  "nom": "MOLLARD MOUTON",
+  "commune": "Saint-Maximin",
+  "code": "38426",
+  "lat": 45.441569471052645,
+  "lon": 6.074473553947368
+ },
+ {
+  "nom": "BEAU MOLLARD",
+  "commune": "Saint-Maximin",
+  "code": "38426",
+  "lat": 45.44138460344827,
+  "lon": 6.071220327586207
+ },
+ {
+  "nom": "BRUNETTE",
+  "commune": "Saint-Maximin",
+  "code": "38426",
+  "lat": 45.44237823802818,
+  "lon": 6.074419985915493
+ },
+ {
+  "nom": "COHARD",
+  "commune": "Saint-Maximin",
+  "code": "38426",
+  "lat": 45.44355133,
+  "lon": 6.068113946666667
+ },
+ {
+  "nom": "BARET",
+  "commune": "Saint-Maximin",
+  "code": "38426",
+  "lat": 45.44353210937499,
+  "lon": 6.065239371874999
+ },
+ {
+  "nom": "LES SALLES",
+  "commune": "Saint-Maximin",
+  "code": "38426",
+  "lat": 45.44077392300887,
+  "lon": 6.0623948150442475
+ },
+ {
+  "nom": "LES BRETONNIERES",
+  "commune": "Saint-Maximin",
+  "code": "38426",
+  "lat": 45.43741275792079,
+  "lon": 6.056917317821778
+ },
+ {
+  "nom": "LE GRAND PRE",
+  "commune": "Saint-Maximin",
+  "code": "38426",
+  "lat": 45.43954214142858,
+  "lon": 6.059215080000001
+ },
+ {
+  "nom": "LES COTES",
+  "commune": "Saint-Maximin",
+  "code": "38426",
+  "lat": 45.43868138453608,
+  "lon": 6.055040552577319
+ },
+ {
+  "nom": "PRE BERNARD",
+  "commune": "Saint-Maximin",
+  "code": "38426",
+  "lat": 45.4384835372093,
+  "lon": 6.0649486860465105
+ },
+ {
+  "nom": "LA FRASSE",
+  "commune": "Saint-Maximin",
+  "code": "38426",
+  "lat": 45.43780977826087,
+  "lon": 6.0631233217391305
+ },
+ {
+  "nom": "MOURET",
+  "commune": "Saint-Maximin",
+  "code": "38426",
+  "lat": 45.43862696385541,
+  "lon": 6.0616644156626505
+ },
+ {
+  "nom": "LE CORDEY",
+  "commune": "Saint-Maximin",
+  "code": "38426",
+  "lat": 45.441656033333324,
+  "lon": 6.059275548484848
+ },
+ {
+  "nom": "ORGEVAL",
+  "commune": "Saint-Maximin",
+  "code": "38426",
+  "lat": 45.440703961224465,
+  "lon": 6.057016951020408
+ },
+ {
+  "nom": "BARET",
+  "commune": "Saint-Maximin",
+  "code": "38426",
+  "lat": 45.442827397674435,
+  "lon": 6.063606909302328
+ },
+ {
+  "nom": "REBOUCHET ET LE GRAND ADRET",
+  "commune": "Saint-Maximin",
+  "code": "38426",
+  "lat": 45.41995643376621,
+  "lon": 6.051391824675325
+ },
+ {
+  "nom": "LE SOUILLET ET CROIX-SAINT-ANDRE",
+  "commune": "Saint-Maximin",
+  "code": "38426",
+  "lat": 45.417687672602746,
+  "lon": 6.05823929452055
+ },
+ {
+  "nom": "TIRE LOUP ET LES TACHES",
+  "commune": "Saint-Maximin",
+  "code": "38426",
+  "lat": 45.42638019381444,
+  "lon": 6.053877998969073
+ },
+ {
+  "nom": "LE RAT",
+  "commune": "Saint-Maximin",
+  "code": "38426",
+  "lat": 45.427518179545444,
+  "lon": 6.055669027272729
+ },
+ {
+  "nom": "LES LOSIERES ET LA CROISE",
+  "commune": "Saint-Maximin",
+  "code": "38426",
+  "lat": 45.42384647118643,
+  "lon": 6.047770471186439
+ },
+ {
+  "nom": "PLANCHETTE LES COMBES ET LES TACHES",
+  "commune": "Saint-Maximin",
+  "code": "38426",
+  "lat": 45.42310027187498,
+  "lon": 6.050905470833332
+ },
+ {
+  "nom": "LA CUISSARDE",
+  "commune": "Saint-Maximin",
+  "code": "38426",
+  "lat": 45.42217690294119,
+  "lon": 6.058647388235293
+ },
+ {
+  "nom": "LA GRANDE COTE",
+  "commune": "Saint-Maximin",
+  "code": "38426",
+  "lat": 45.422755137931034,
+  "lon": 6.0553761137931055
+ },
+ {
+  "nom": "REBOUCHET",
+  "commune": "Saint-Maximin",
+  "code": "38426",
+  "lat": 45.41745959166666,
+  "lon": 6.053009487500001
+ },
+ {
+  "nom": "L'ADRET",
+  "commune": "Saint-Maximin",
+  "code": "38426",
+  "lat": 45.41511091481481,
+  "lon": 6.055069196296298
+ },
+ {
+  "nom": "LE FEYERAY",
+  "commune": "Saint-Maximin",
+  "code": "38426",
+  "lat": 45.42727819322036,
+  "lon": 6.050988700000001
+ },
+ {
+  "nom": "LE GRAND COIN",
+  "commune": "Saint-Maximin",
+  "code": "38426",
+  "lat": 45.4104668676923,
+  "lon": 6.048126924615387
+ },
+ {
+  "nom": "LE PLATEAU ET LE CHAGNOT",
+  "commune": "Saint-Maximin",
+  "code": "38426",
+  "lat": 45.41349198613864,
+  "lon": 6.044241784158416
+ },
+ {
+  "nom": "PRE COUPOU",
+  "commune": "Saint-Maximin",
+  "code": "38426",
+  "lat": 45.41317920857143,
+  "lon": 6.040879338571429
+ },
+ {
+  "nom": "LE COUSSON L'ARAGNER ET LES MICHELOTS",
+  "commune": "Saint-Maximin",
+  "code": "38426",
+  "lat": 45.41601588088236,
+  "lon": 6.034611846323535
+ },
+ {
+  "nom": "LES TEYSSONNIERES",
+  "commune": "Saint-Maximin",
+  "code": "38426",
+  "lat": 45.41624095865385,
+  "lon": 6.040975769230766
+ },
+ {
+  "nom": "LE GRAND CUGNOT ET LES MAYRES",
+  "commune": "Saint-Maximin",
+  "code": "38426",
+  "lat": 45.40772530416666,
+  "lon": 6.047252939583331
+ },
+ {
+  "nom": "LE REBON",
+  "commune": "Saint-Maximin",
+  "code": "38426",
+  "lat": 45.40825107419355,
+  "lon": 6.051119295161291
+ },
+ {
+  "nom": "LA VIE DU RIPELLET",
+  "commune": "Saint-Maximin",
+  "code": "38426",
+  "lat": 45.41264908604653,
+  "lon": 6.053105247674416
+ },
+ {
+  "nom": "LE FRENE",
+  "commune": "Saint-Maximin",
+  "code": "38426",
+  "lat": 45.4123042779221,
+  "lon": 6.050315662337662
+ },
+ {
+  "nom": "MALADRET",
+  "commune": "Saint-Maximin",
+  "code": "38426",
+  "lat": 45.41616467209301,
+  "lon": 6.047902408139534
+ },
+ {
+  "nom": "LES ROUTES ET LA PINOTTE",
+  "commune": "Saint-Maximin",
+  "code": "38426",
+  "lat": 45.41836738000001,
+  "lon": 6.040322272380952
+ },
+ {
+  "nom": "LE PLANET",
+  "commune": "Saint-Maximin",
+  "code": "38426",
+  "lat": 45.41822118157894,
+  "lon": 6.0443586631578965
+ },
+ {
+  "nom": "LES ENVERS",
+  "commune": "Saint-Maximin",
+  "code": "38426",
+  "lat": 45.41969054757282,
+  "lon": 6.0456121776699
+ },
+ {
+  "nom": "LES TILLES",
+  "commune": "Saint-Maximin",
+  "code": "38426",
+  "lat": 45.42071858571428,
+  "lon": 6.040850094805192
+ },
+ {
+  "nom": "PRE GENTIL ET LONGEROL",
+  "commune": "Saint-Maximin",
+  "code": "38426",
+  "lat": 45.41121067678573,
+  "lon": 6.043258519642856
+ },
+ {
+  "nom": "L'ADRET",
+  "commune": "Saint-Maximin",
+  "code": "38426",
+  "lat": 45.41306770749999,
+  "lon": 6.048216972499999
+ },
+ {
+  "nom": "VERANGER",
+  "commune": "Saint-Maximin",
+  "code": "38426",
+  "lat": 45.42565948855423,
+  "lon": 6.0429621036144585
+ },
+ {
+  "nom": "LE RAMPEAU",
+  "commune": "Saint-Maximin",
+  "code": "38426",
+  "lat": 45.42371608219176,
+  "lon": 6.038661789726029
+ },
+ {
+  "nom": "LES TILLES",
+  "commune": "Saint-Maximin",
+  "code": "38426",
+  "lat": 45.42335527571428,
+  "lon": 6.042711788571427
+ },
+ {
+  "nom": "REPIDON",
+  "commune": "Saint-Maximin",
+  "code": "38426",
+  "lat": 45.4252283,
+  "lon": 6.036889448913045
+ },
+ {
+  "nom": "L'ECHINAL",
+  "commune": "Saint-Maximin",
+  "code": "38426",
+  "lat": 45.42339996938775,
+  "lon": 6.035187918367349
+ },
+ {
+  "nom": "LE MOURET",
+  "commune": "Saint-Maximin",
+  "code": "38426",
+  "lat": 45.422038475675684,
+  "lon": 6.038552562162163
+ },
+ {
+  "nom": "GRIBAUDAN",
+  "commune": "Saint-Maximin",
+  "code": "38426",
+  "lat": 45.42766252608696,
+  "lon": 6.043284889130436
+ },
+ {
+  "nom": "LE CRET",
+  "commune": "Saint-Maximin",
+  "code": "38426",
+  "lat": 45.42997318750001,
+  "lon": 6.051935788461536
+ },
+ {
+  "nom": "LES BRUNS",
+  "commune": "Saint-Maximin",
+  "code": "38426",
+  "lat": 45.4294573,
+  "lon": 6.047789306015037
+ },
+ {
+  "nom": "COMBATASSALIN",
+  "commune": "Saint-Maximin",
+  "code": "38426",
+  "lat": 45.433259214035104,
+  "lon": 6.045758947368423
+ },
+ {
+  "nom": "LES RIPELLETS",
+  "commune": "Saint-Maximin",
+  "code": "38426",
+  "lat": 45.43220003729731,
+  "lon": 6.049007028648648
+ },
+ {
+  "nom": "LES ROJONS",
+  "commune": "Saint-Maximin",
+  "code": "38426",
+  "lat": 45.42945920500001,
+  "lon": 6.045219234999999
+ },
+ {
+  "nom": "BELONCIN",
+  "commune": "Saint-Maximin",
+  "code": "38426",
+  "lat": 45.43040031923077,
+  "lon": 6.044288638461539
+ },
+ {
+  "nom": "PRE BREDAL",
+  "commune": "Saint-Maximin",
+  "code": "38426",
+  "lat": 45.43515568947369,
+  "lon": 6.038969122368423
+ },
+ {
+  "nom": "RECULLET",
+  "commune": "Saint-Maximin",
+  "code": "38426",
+  "lat": 45.435439968992256,
+  "lon": 6.044039048062015
+ },
+ {
+  "nom": "MURAILLAT",
+  "commune": "Saint-Maximin",
+  "code": "38426",
+  "lat": 45.43180902051282,
+  "lon": 6.042397469230771
+ },
+ {
+  "nom": "RATIER",
+  "commune": "Saint-Maximin",
+  "code": "38426",
+  "lat": 45.43329877321429,
+  "lon": 6.038465717857143
+ },
+ {
+  "nom": "PLANCHERIE",
+  "commune": "Saint-Maximin",
+  "code": "38426",
+  "lat": 45.43288765132742,
+  "lon": 6.035165859292036
+ },
+ {
+  "nom": "PIERRE GROS",
+  "commune": "Saint-Maximin",
+  "code": "38426",
+  "lat": 45.4320756966942,
+  "lon": 6.033978316528926,
+  "dist_km": 0.44
+ },
+ {
+  "nom": "LA DOBO",
+  "commune": "Saint-Maximin",
+  "code": "38426",
+  "lat": 45.42940178082193,
+  "lon": 6.039339632876711
+ },
+ {
+  "nom": "REPIDON",
+  "commune": "Saint-Maximin",
+  "code": "38426",
+  "lat": 45.427667969354836,
+  "lon": 6.038397608064516
+ },
+ {
+  "nom": "GRIBAUDAN",
+  "commune": "Saint-Maximin",
+  "code": "38426",
+  "lat": 45.428688480952395,
+  "lon": 6.041929357142858
+ },
+ {
+  "nom": "LA BRUTA",
+  "commune": "Saint-Maximin",
+  "code": "38426",
+  "lat": 45.431164804615385,
+  "lon": 6.032983009230771
+ },
+ {
+  "nom": "LA PRURAS",
+  "commune": "Saint-Maximin",
+  "code": "38426",
+  "lat": 45.42962797555554,
+  "lon": 6.034901924444443
+ },
+ {
+  "nom": "LE CHAPELA",
+  "commune": "Saint-Maximin",
+  "code": "38426",
+  "lat": 45.43062109846153,
+  "lon": 6.036341413846151
+ },
+ {
+  "nom": "GODAS",
+  "commune": "Saint-Maximin",
+  "code": "38426",
+  "lat": 45.42873089166665,
+  "lon": 6.036042185416665
+ },
+ {
+  "nom": "LE BOUQUET",
+  "commune": "Saint-Maximin",
+  "code": "38426",
+  "lat": 45.43212832727272,
+  "lon": 6.037169109090909
+ },
+ {
+  "nom": "LA SERVE",
+  "commune": "Saint-Maximin",
+  "code": "38426",
+  "lat": 45.431496774285705,
+  "lon": 6.038886711428571
+ },
+ {
+  "nom": "LE PLANTIER",
+  "commune": "Saint-Maximin",
+  "code": "38426",
+  "lat": 45.42268316323531,
+  "lon": 6.03128583014706
+ },
+ {
+  "nom": "LE CHATELARD",
+  "commune": "Saint-Maximin",
+  "code": "38426",
+  "lat": 45.42460918040539,
+  "lon": 6.030701991891893
+ },
+ {
+  "nom": "LA CORVA",
+  "commune": "Saint-Maximin",
+  "code": "38426",
+  "lat": 45.4242454695652,
+  "lon": 6.033454416304348
+ },
+ {
+  "nom": "LE CHENE LA ROCHE ET LE VIVIER",
+  "commune": "Saint-Maximin",
+  "code": "38426",
+  "lat": 45.428266264772724,
+  "lon": 6.032323047727272,
+  "dist_km": 0.13
+ },
+ {
+  "nom": "REPIDON",
+  "commune": "Saint-Maximin",
+  "code": "38426",
+  "lat": 45.426956135185186,
+  "lon": 6.035531624074072
+ },
+ {
+  "nom": "LE PICHET",
+  "commune": "Saint-Maximin",
+  "code": "38426",
+  "lat": 45.42655594639173,
+  "lon": 6.025085119587629
+ },
+ {
+  "nom": "LE CHENE",
+  "commune": "Saint-Maximin",
+  "code": "38426",
+  "lat": 45.429695317901235,
+  "lon": 6.028744072222225
+ },
+ {
+  "nom": "LE SAUZET",
+  "commune": "Saint-Maximin",
+  "code": "38426",
+  "lat": 45.42631138857142,
+  "lon": 6.02732434857143
+ },
+ {
+  "nom": "LES COTES",
+  "commune": "Saint-Maximin",
+  "code": "38426",
+  "lat": 45.42628633793103,
+  "lon": 6.028783164367818
+ },
+ {
+  "nom": "AVALON",
+  "commune": "Saint-Maximin",
+  "code": "38426",
+  "lat": 45.42955740649348,
+  "lon": 6.03125549090909
+ },
+ {
+  "nom": "LA COMBE",
+  "commune": "Saint-Maximin",
+  "code": "38426",
+  "lat": 45.42121243785714,
+  "lon": 6.027139839285715
+ },
+ {
+  "nom": "BEGU",
+  "commune": "Saint-Maximin",
+  "code": "38426",
+  "lat": 45.42090681279069,
+  "lon": 6.023677124418606
+ },
+ {
+  "nom": "LA CROVA ET BARLETTES",
+  "commune": "Saint-Maximin",
+  "code": "38426",
+  "lat": 45.41865468767125,
+  "lon": 6.025835568493149
+ },
+ {
+  "nom": "L'HISTOIRE ET LA TUILERIE",
+  "commune": "Saint-Maximin",
+  "code": "38426",
+  "lat": 45.42346962093022,
+  "lon": 6.024467287209301
+ },
+ {
+  "nom": "LE CARRON",
+  "commune": "Saint-Maximin",
+  "code": "38426",
+  "lat": 45.42026092599999,
+  "lon": 6.029057785999999
+ },
+ {
+  "nom": "SAINT-MAXIMIN",
+  "commune": "Saint-Maximin",
+  "code": "38426",
+  "lat": 45.42048104958678,
+  "lon": 6.034186642975211
+ },
+ {
+  "nom": "LES BERDONNANCHES",
+  "commune": "Saint-Maximin",
+  "code": "38426",
+  "lat": 45.41852638035714,
+  "lon": 6.029744392857141
+ },
+ {
+  "nom": "LE ROCHAT",
+  "commune": "Saint-Maximin",
+  "code": "38426",
+  "lat": 45.416069027586204,
+  "lon": 6.029085253448278,
+  "dist_km": 1.42
+ },
+ {
+  "nom": "LES PLANCHES",
+  "commune": "Saint-Maximin",
+  "code": "38426",
+  "lat": 45.41731935483871,
+  "lon": 6.032713879032258
+ },
+ {
+  "nom": "LE ROSSAN",
+  "commune": "Saint-Maximin",
+  "code": "38426",
+  "lat": 45.418984154117645,
+  "lon": 6.035813342352941
+ },
+ {
+  "nom": "LES RIVOIRES",
+  "commune": "Saint-Maximin",
+  "code": "38426",
+  "lat": 45.41729319529413,
+  "lon": 6.031251956470589
+ },
+ {
+  "nom": "LE GRAND PLAN",
+  "commune": "Saint-Maximin",
+  "code": "38426",
+  "lat": 45.420142665853646,
+  "lon": 6.037826526829269
+ },
+ {
+  "nom": "BELLETRE",
+  "commune": "Saint-Maximin",
+  "code": "38426",
+  "lat": 45.41985001951221,
+  "lon": 6.0315685829268295
+ },
+ {
+  "nom": "PRE RIPET",
+  "commune": "Saint-Maximin",
+  "code": "38426",
+  "lat": 45.4211696259259,
+  "lon": 6.036234705555557
+ },
+ {
+  "nom": "TEPPES DES LOZIERES",
+  "commune": "Pontcharra",
+  "code": "38314",
+  "lat": 45.40611820625001,
+  "lon": 6.035560055555553
+ },
+ {
+  "nom": "SAINTE - CATHERINE",
+  "commune": "Pontcharra",
+  "code": "38314",
+  "lat": 45.41040273313612,
+  "lon": 6.0339569792899415
+ },
+ {
+  "nom": "COMBE RONGIER",
+  "commune": "Pontcharra",
+  "code": "38314",
+  "lat": 45.39982510689654,
+  "lon": 6.043609125862069
+ },
+ {
+  "nom": "BRAME FARINE",
+  "commune": "Pontcharra",
+  "code": "38314",
+  "lat": 45.404061377215186,
+  "lon": 6.047284150632909
+ },
+ {
+  "nom": "LA DRAIE ET RUMIER",
+  "commune": "Pontcharra",
+  "code": "38314",
+  "lat": 45.40255883333335,
+  "lon": 6.040190669444444
+ },
+ {
+  "nom": "LA CHAUX",
+  "commune": "Pontcharra",
+  "code": "38314",
+  "lat": 45.41039764827587,
+  "lon": 6.040208560344826
+ },
+ {
+  "nom": "AUX LANCHES",
+  "commune": "Pontcharra",
+  "code": "38314",
+  "lat": 45.40608057794117,
+  "lon": 6.043883389705882
+ },
+ {
+  "nom": "LES GORGES DU PAPET",
+  "commune": "Pontcharra",
+  "code": "38314",
+  "lat": 45.40703832000001,
+  "lon": 6.028994790000003
+ },
+ {
+  "nom": "BEAU MAGNY",
+  "commune": "Pontcharra",
+  "code": "38314",
+  "lat": 45.39626153801654,
+  "lon": 6.030540597520661
+ },
+ {
+  "nom": "AU CRET",
+  "commune": "Pontcharra",
+  "code": "38314",
+  "lat": 45.39788942297299,
+  "lon": 6.021563314864862
+ },
+ {
+  "nom": "LA MATRE ET CLAIRFAIT",
+  "commune": "Pontcharra",
+  "code": "38314",
+  "lat": 45.394056471551714,
+  "lon": 6.022281179310343
+ },
+ {
+  "nom": "BOIS DU CLAIRFAIT",
+  "commune": "Pontcharra",
+  "code": "38314",
+  "lat": 45.39279204666666,
+  "lon": 6.026720900000002
+ },
+ {
+  "nom": "PLAN DE L'OURS",
+  "commune": "Pontcharra",
+  "code": "38314",
+  "lat": 45.395798610843386,
+  "lon": 6.039315773493975
+ },
+ {
+  "nom": "LIEUDIT",
+  "commune": "Pontcharra",
+  "code": "38314",
+  "lat": 45.3993390983051,
+  "lon": 6.033911759322034
+ },
+ {
+  "nom": "PRE DU BOEUF",
+  "commune": "Pontcharra",
+  "code": "38314",
+  "lat": 45.393002696808516,
+  "lon": 6.0343634436170195
+ },
+ {
+  "nom": "AU PINOTEY",
+  "commune": "Pontcharra",
+  "code": "38314",
+  "lat": 45.40053124416665,
+  "lon": 6.025567899166663
+ },
+ {
+  "nom": "LEPITIERE",
+  "commune": "Pontcharra",
+  "code": "38314",
+  "lat": 45.40242268701298,
+  "lon": 6.029317187012986
+ },
+ {
+  "nom": "PICAPOUD",
+  "commune": "Pontcharra",
+  "code": "38314",
+  "lat": 45.396035114666674,
+  "lon": 6.0170510719999974
+ },
+ {
+  "nom": "PRA DE BERT",
+  "commune": "Pontcharra",
+  "code": "38314",
+  "lat": 45.397635784313735,
+  "lon": 6.025562413725488
+ },
+ {
+  "nom": "LA DRAIE",
+  "commune": "Pontcharra",
+  "code": "38314",
+  "lat": 45.404320395555565,
+  "lon": 6.0260084488888905
+ },
+ {
+  "nom": "LE CRET DU MUR",
+  "commune": "Pontcharra",
+  "code": "38314",
+  "lat": 45.4058059423077,
+  "lon": 6.0282903371794845
+ },
+ {
+  "nom": "PLAN DE LA FAUX",
+  "commune": "Pontcharra",
+  "code": "38314",
+  "lat": 45.400772806666644,
+  "lon": 6.031780471666665
+ },
+ {
+  "nom": "LA GRANDE DRAIE",
+  "commune": "Pontcharra",
+  "code": "38314",
+  "lat": 45.40112749456521,
+  "lon": 6.036298688043477
+ },
+ {
+  "nom": "CREVE COEUR",
+  "commune": "Pontcharra",
+  "code": "38314",
+  "lat": 45.40368208266668,
+  "lon": 6.032205593333334
+ },
+ {
+  "nom": "CHETIVET",
+  "commune": "Pontcharra",
+  "code": "38314",
+  "lat": 45.397296581818175,
+  "lon": 6.029792472727274
+ },
+ {
+  "nom": "LES ETRIPETS",
+  "commune": "Pontcharra",
+  "code": "38314",
+  "lat": 45.39503006785714,
+  "lon": 6.0325470999999995
+ },
+ {
+  "nom": "L' ILE FRIBAUD",
+  "commune": "Pontcharra",
+  "code": "38314",
+  "lat": 45.44672794203823,
+  "lon": 6.009714366242042
+ },
+ {
+  "nom": "PRE CHABERT",
+  "commune": "Pontcharra",
+  "code": "38314",
+  "lat": 45.44103428235296,
+  "lon": 6.008074366666667
+ },
+ {
+  "nom": "FERRAGU",
+  "commune": "Pontcharra",
+  "code": "38314",
+  "lat": 45.44284001898733,
+  "lon": 6.022375124050631
+ },
+ {
+  "nom": "PRE TORCHON",
+  "commune": "Pontcharra",
+  "code": "38314",
+  "lat": 45.4440521025,
+  "lon": 6.0175095825000025
+ },
+ {
+  "nom": "CROLA",
+  "commune": "Pontcharra",
+  "code": "38314",
+  "lat": 45.44244784500002,
+  "lon": 6.029015406999999
+ },
+ {
+  "nom": "LE MARAIS",
+  "commune": "Pontcharra",
+  "code": "38314",
+  "lat": 45.4442714632353,
+  "lon": 6.030639829411763
+ },
+ {
+  "nom": "LES AUGUSTINS",
+  "commune": "Pontcharra",
+  "code": "38314",
+  "lat": 45.44189514456521,
+  "lon": 6.032993914130435
+ },
+ {
+  "nom": "VILLARD BENOIT",
+  "commune": "Pontcharra",
+  "code": "38314",
+  "lat": 45.44005901571432,
+  "lon": 6.0310383057142865
+ },
+ {
+  "nom": "LE CHARRUT",
+  "commune": "Pontcharra",
+  "code": "38314",
+  "lat": 45.4429755378788,
+  "lon": 6.033456078787874
+ },
+ {
+  "nom": "HAMEAU DES AGES",
+  "commune": "Pontcharra",
+  "code": "38314",
+  "lat": 45.441105719607854,
+  "lon": 6.027509105882352
+ },
+ {
+  "nom": "PRE DE BREDA",
+  "commune": "Pontcharra",
+  "code": "38314",
+  "lat": 45.4342159243781,
+  "lon": 6.033283082089553
+ },
+ {
+  "nom": "LES GRANDES GORGES",
+  "commune": "Pontcharra",
+  "code": "38314",
+  "lat": 45.434228128301875,
+  "lon": 6.030478511320753
+ },
+ {
+  "nom": "MALATRET",
+  "commune": "Pontcharra",
+  "code": "38314",
+  "lat": 45.43627523586956,
+  "lon": 6.03404788369565
+ },
+ {
+  "nom": "LA PARRERIE",
+  "commune": "Pontcharra",
+  "code": "38314",
+  "lat": 45.44059006947367,
+  "lon": 6.035923424210526
+ },
+ {
+  "nom": "LES RIVOIRES ET LES GORGES",
+  "commune": "Pontcharra",
+  "code": "38314",
+  "lat": 45.4370365037736,
+  "lon": 6.040710899056607
+ },
+ {
+  "nom": "LES RUINES",
+  "commune": "Pontcharra",
+  "code": "38314",
+  "lat": 45.438161463291145,
+  "lon": 6.037255186075949
+ },
+ {
+  "nom": "BEAUREGARD",
+  "commune": "Pontcharra",
+  "code": "38314",
+  "lat": 45.43917055999999,
+  "lon": 6.041560304799998
+ },
+ {
+  "nom": "PRE MARGUERI",
+  "commune": "Pontcharra",
+  "code": "38314",
+  "lat": 45.43792233888886,
+  "lon": 6.03277930185185
+ },
+ {
+  "nom": "LA BRUNETTE ET LA PELLETTE",
+  "commune": "Pontcharra",
+  "code": "38314",
+  "lat": 45.43951540714287,
+  "lon": 6.034110792857143
+ },
+ {
+  "nom": "LES GORGES",
+  "commune": "Pontcharra",
+  "code": "38314",
+  "lat": 45.43794269803922,
+  "lon": 6.047586703921569
+ },
+ {
+  "nom": "LE CROZET",
+  "commune": "Pontcharra",
+  "code": "38314",
+  "lat": 45.43815709846153,
+  "lon": 6.044725327692306
+ },
+ {
+  "nom": "LE CHARRUT",
+  "commune": "Pontcharra",
+  "code": "38314",
+  "lat": 45.44183219622643,
+  "lon": 6.035917713207548
+ },
+ {
+  "nom": "LAMBERCHAT",
+  "commune": "Pontcharra",
+  "code": "38314",
+  "lat": 45.44099624901961,
+  "lon": 6.038999111764707
+ },
+ {
+  "nom": "AU GARD",
+  "commune": "Pontcharra",
+  "code": "38314",
+  "lat": 45.435425764102554,
+  "lon": 6.027736699999998
+ },
+ {
+  "nom": "LE BOURG",
+  "commune": "Pontcharra",
+  "code": "38314",
+  "lat": 45.43340020909091,
+  "lon": 6.025616093181818
+ },
+ {
+  "nom": "LE CLEMENT",
+  "commune": "Pontcharra",
+  "code": "38314",
+  "lat": 45.43668499361702,
+  "lon": 6.030032717021276
+ },
+ {
+  "nom": "PRE MARGUERI",
+  "commune": "Pontcharra",
+  "code": "38314",
+  "lat": 45.43787431794872,
+  "lon": 6.0314203384615395
+ },
+ {
+  "nom": "VILLAGE DE VILLARD-BENOIT",
+  "commune": "Pontcharra",
+  "code": "38314",
+  "lat": 45.43798148166666,
+  "lon": 6.029688469999999
+ },
+ {
+  "nom": "AU PLAN DE VILLARD-BENOIT",
+  "commune": "Pontcharra",
+  "code": "38314",
+  "lat": 45.44012370000001,
+  "lon": 6.023327375862069
+ },
+ {
+  "nom": "LA COURRERIE",
+  "commune": "Pontcharra",
+  "code": "38314",
+  "lat": 45.4386370586207,
+  "lon": 6.026520524137931
+ },
+ {
+  "nom": "HAMEAU DES AGES",
+  "commune": "Pontcharra",
+  "code": "38314",
+  "lat": 45.439975033333326,
+  "lon": 6.027329375000001
+ },
+ {
+  "nom": "LES METANIES",
+  "commune": "Pontcharra",
+  "code": "38314",
+  "lat": 45.4396336875,
+  "lon": 6.016153948611111
+ },
+ {
+  "nom": "AU PLAN",
+  "commune": "Pontcharra",
+  "code": "38314",
+  "lat": 45.435831575280915,
+  "lon": 6.022496984269663
+ },
+ {
+  "nom": "LE BOURG",
+  "commune": "Pontcharra",
+  "code": "38314",
+  "lat": 45.43449964776121,
+  "lon": 6.0234967462686555
+ },
+ {
+  "nom": "LES SARREES",
+  "commune": "Pontcharra",
+  "code": "38314",
+  "lat": 45.43426909714285,
+  "lon": 6.018967705714284
+ },
+ {
+  "nom": "LE BOURG",
+  "commune": "Pontcharra",
+  "code": "38314",
+  "lat": 45.43295846461538,
+  "lon": 6.0223217615384605
+ },
+ {
+  "nom": "LES PLANCHES",
+  "commune": "Pontcharra",
+  "code": "38314",
+  "lat": 45.433217736956514,
+  "lon": 6.018382313043478
+ },
+ {
+  "nom": "LANGRENAZ",
+  "commune": "Pontcharra",
+  "code": "38314",
+  "lat": 45.43564763425926,
+  "lon": 6.0127709490740715
+ },
+ {
+  "nom": "DESSOUS LE GRAND FOSSE",
+  "commune": "Pontcharra",
+  "code": "38314",
+  "lat": 45.43498206034483,
+  "lon": 6.010093801724138
+ },
+ {
+  "nom": "LES PLANCHES",
+  "commune": "Pontcharra",
+  "code": "38314",
+  "lat": 45.43395348157895,
+  "lon": 6.014381694736841
+ },
+ {
+  "nom": "PRE BRUN",
+  "commune": "Pontcharra",
+  "code": "38314",
+  "lat": 45.43051224285715,
+  "lon": 6.006125176623377
+ },
+ {
+  "nom": "PRE CHABERT",
+  "commune": "Pontcharra",
+  "code": "38314",
+  "lat": 45.43845608571427,
+  "lon": 6.007405681632653
+ },
+ {
+  "nom": "CHENEVIERE DE BAYARD",
+  "commune": "Pontcharra",
+  "code": "38314",
+  "lat": 45.43627172250001,
+  "lon": 6.006874875
+ },
+ {
+  "nom": "LA GARE",
+  "commune": "Pontcharra",
+  "code": "38314",
+  "lat": 45.432255087341794,
+  "lon": 6.007767969620251
+ },
+ {
+  "nom": "LES PLANCHES",
+  "commune": "Pontcharra",
+  "code": "38314",
+  "lat": 45.43157814264705,
+  "lon": 6.01414113235294
+ },
+ {
+  "nom": "LES HUITS ET LES TREIZES",
+  "commune": "Pontcharra",
+  "code": "38314",
+  "lat": 45.43068499999999,
+  "lon": 6.011740721568628
+ },
+ {
+  "nom": "DESSOUS LE GRAND FOSSE",
+  "commune": "Pontcharra",
+  "code": "38314",
+  "lat": 45.43295043684213,
+  "lon": 6.00989454210526
+ },
+ {
+  "nom": "LE MANEGLIER",
+  "commune": "Pontcharra",
+  "code": "38314",
+  "lat": 45.42963343673469,
+  "lon": 6.015363420408163
+ },
+ {
+  "nom": "MOULIN-VIEUX",
+  "commune": "Pontcharra",
+  "code": "38314",
+  "lat": 45.429620065853655,
+  "lon": 6.019969763414633
+ },
+ {
+  "nom": "LE PUISAT",
+  "commune": "Pontcharra",
+  "code": "38314",
+  "lat": 45.427484254347824,
+  "lon": 6.018913360869565
+ },
+ {
+  "nom": "PRE DE BREDA",
+  "commune": "Pontcharra",
+  "code": "38314",
+  "lat": 45.43038490215052,
+  "lon": 6.024734575268817
+ },
+ {
+  "nom": "PRE CROCHET",
+  "commune": "Pontcharra",
+  "code": "38314",
+  "lat": 45.430424456190465,
+  "lon": 6.022018178095238,
+  "dist_km": 0.71
+ },
+ {
+  "nom": "LE BOURG",
+  "commune": "Pontcharra",
+  "code": "38314",
+  "lat": 45.43142444181819,
+  "lon": 6.020639956363634
+ },
+ {
+  "nom": "LES PLANCHES",
+  "commune": "Pontcharra",
+  "code": "38314",
+  "lat": 45.430923174074074,
+  "lon": 6.018138694444444
+ },
+ {
+  "nom": "BOIS BAYARD",
+  "commune": "Pontcharra",
+  "code": "38314",
+  "lat": 45.42776306176473,
+  "lon": 6.008576641176471
+ },
+ {
+  "nom": "LE PIED DES PLANCHES",
+  "commune": "Pontcharra",
+  "code": "38314",
+  "lat": 45.42720816749997,
+  "lon": 6.0119018341666655
+ },
+ {
+  "nom": "LES HUITS ET LES TREIZES",
+  "commune": "Pontcharra",
+  "code": "38314",
+  "lat": 45.42921405964913,
+  "lon": 6.011372115789473
+ },
+ {
+  "nom": "LE RENEVIER",
+  "commune": "Pontcharra",
+  "code": "38314",
+  "lat": 45.425647851020415,
+  "lon": 6.010799284693879
+ },
+ {
+  "nom": "GRIGNON (HAMEAU)",
+  "commune": "Pontcharra",
+  "code": "38314",
+  "lat": 45.42564243043478,
+  "lon": 6.014105895652171
+ },
+ {
+  "nom": "LE MANIGLIER (HAMEAU)",
+  "commune": "Pontcharra",
+  "code": "38314",
+  "lat": 45.428220321666686,
+  "lon": 6.0152243966666665
+ },
+ {
+  "nom": "PAPETERIES DE MOULIN VIEUX",
+  "commune": "Pontcharra",
+  "code": "38314",
+  "lat": 45.42715585714285,
+  "lon": 6.016293405357141
+ },
+ {
+  "nom": "LARAIGNEE",
+  "commune": "Pontcharra",
+  "code": "38314",
+  "lat": 45.42822372597405,
+  "lon": 6.022892235064933
+ },
+ {
+  "nom": "LE PUISAT",
+  "commune": "Pontcharra",
+  "code": "38314",
+  "lat": 45.42667200485434,
+  "lon": 6.019192324271847
+ },
+ {
+  "nom": "PLAN DE VILLARD NOIR",
+  "commune": "Pontcharra",
+  "code": "38314",
+  "lat": 45.41669129743591,
+  "lon": 6.012803156410257
+ },
+ {
+  "nom": "HERCULEE",
+  "commune": "Pontcharra",
+  "code": "38314",
+  "lat": 45.41645141038962,
+  "lon": 6.0145149298701295
+ },
+ {
+  "nom": "LA PERRIERE ET VEILLARD",
+  "commune": "Pontcharra",
+  "code": "38314",
+  "lat": 45.418190453571434,
+  "lon": 6.021182130952382,
+  "dist_km": 1.4
+ },
+ {
+  "nom": "CHAFFARDON",
+  "commune": "Pontcharra",
+  "code": "38314",
+  "lat": 45.419037156756744,
+  "lon": 6.019357825675677
+ },
+ {
+  "nom": "LES BOUGUETTES",
+  "commune": "Pontcharra",
+  "code": "38314",
+  "lat": 45.41810542380954,
+  "lon": 6.016773630158731
+ },
+ {
+  "nom": "LA MARCIEU ET LA VILLAINE",
+  "commune": "Pontcharra",
+  "code": "38314",
+  "lat": 45.42078654864867,
+  "lon": 6.0145846472972995
+ },
+ {
+  "nom": "LE MAS",
+  "commune": "Pontcharra",
+  "code": "38314",
+  "lat": 45.4212424688889,
+  "lon": 6.01974068
+ },
+ {
+  "nom": "VERGER DE BAYARD",
+  "commune": "Pontcharra",
+  "code": "38314",
+  "lat": 45.422730454687496,
+  "lon": 6.020369482812501
+ },
+ {
+  "nom": "CHATEAU BAYARD",
+  "commune": "Pontcharra",
+  "code": "38314",
+  "lat": 45.423202079347824,
+  "lon": 6.018063756521741
+ },
+ {
+  "nom": "COTE ROSE",
+  "commune": "Pontcharra",
+  "code": "38314",
+  "lat": 45.416085080000016,
+  "lon": 6.018282642500001
+ },
+ {
+  "nom": "VILLARD DIDIER",
+  "commune": "Pontcharra",
+  "code": "38314",
+  "lat": 45.41967633010755,
+  "lon": 6.015186133333333
+ },
+ {
+  "nom": "PLANTES LES",
+  "commune": "Pontcharra",
+  "code": "38314",
+  "lat": 45.414701816949155,
+  "lon": 6.017336049152544
+ },
+ {
+  "nom": "PRE SONNARD",
+  "commune": "Pontcharra",
+  "code": "38314",
+  "lat": 45.42453027021277,
+  "lon": 6.016415097872341
+ },
+ {
+  "nom": "L' HISTOIRE",
+  "commune": "Pontcharra",
+  "code": "38314",
+  "lat": 45.42560807575757,
+  "lon": 6.022029103030305
+ },
+ {
+  "nom": "SAINTE-CATHERINE ET BERTHAUD",
+  "commune": "Pontcharra",
+  "code": "38314",
+  "lat": 45.411308983333356,
+  "lon": 6.029094972222222
+ },
+ {
+  "nom": "AU GEORGES DU PAPET",
+  "commune": "Pontcharra",
+  "code": "38314",
+  "lat": 45.41123949780221,
+  "lon": 6.025861460439561
+ },
+ {
+  "nom": "MONTESSUIS",
+  "commune": "Pontcharra",
+  "code": "38314",
+  "lat": 45.410277228,
+  "lon": 6.0234221152000025
+ },
+ {
+  "nom": "AU SERTOUX",
+  "commune": "Pontcharra",
+  "code": "38314",
+  "lat": 45.41052717,
+  "lon": 6.021529913636359
+ },
+ {
+  "nom": "CHAMP LEMIER",
+  "commune": "Pontcharra",
+  "code": "38314",
+  "lat": 45.4140909528302,
+  "lon": 6.02935457169811
+ },
+ {
+  "nom": "AU REPLAT DU PAPET",
+  "commune": "Pontcharra",
+  "code": "38314",
+  "lat": 45.41387549294116,
+  "lon": 6.026346231764705
+ },
+ {
+  "nom": "PAPET",
+  "commune": "Pontcharra",
+  "code": "38314",
+  "lat": 45.414420033749984,
+  "lon": 6.023873808749999
+ },
+ {
+  "nom": "LA PERRIERE ET VEILLARD",
+  "commune": "Pontcharra",
+  "code": "38314",
+  "lat": 45.41533616666664,
+  "lon": 6.021315007017542,
+  "dist_km": 1.67
+ },
+ {
+  "nom": "CHALLET",
+  "commune": "Pontcharra",
+  "code": "38314",
+  "lat": 45.411982436290316,
+  "lon": 6.020103786290323
+ },
+ {
+  "nom": "CHANET",
+  "commune": "Pontcharra",
+  "code": "38314",
+  "lat": 45.413310228571426,
+  "lon": 6.019477726530614
+ },
+ {
+  "nom": "PLAN DE LA SOIE",
+  "commune": "Pontcharra",
+  "code": "38314",
+  "lat": 45.406866937142865,
+  "lon": 6.024820813333331
+ },
+ {
+  "nom": "AU MARAIS",
+  "commune": "Pontcharra",
+  "code": "38314",
+  "lat": 45.40810740285715,
+  "lon": 6.02177524
+ },
+ {
+  "nom": "LE VERJUT",
+  "commune": "Pontcharra",
+  "code": "38314",
+  "lat": 45.411282096363635,
+  "lon": 6.016280361818182
+ },
+ {
+  "nom": "CHAMP JURA",
+  "commune": "Pontcharra",
+  "code": "38314",
+  "lat": 45.41684934225352,
+  "lon": 6.024959830985914
+ },
+ {
+  "nom": "HAMEAU DE VILLARD NOIR",
+  "commune": "Pontcharra",
+  "code": "38314",
+  "lat": 45.41260827413793,
+  "lon": 6.0144762801724125
+ },
+ {
+  "nom": "PLAN DE VILLARD NOIR",
+  "commune": "Pontcharra",
+  "code": "38314",
+  "lat": 45.41435292051281,
+  "lon": 6.012337758974361
+ },
+ {
+  "nom": "HERCULER",
+  "commune": "Pontcharra",
+  "code": "38314",
+  "lat": 45.41412569772728,
+  "lon": 6.014269047727273
+ },
+ {
+  "nom": "CHANSELLIERE",
+  "commune": "Pontcharra",
+  "code": "38314",
+  "lat": 45.41250873793104,
+  "lon": 6.011630829310345
+ },
+ {
+  "nom": "LES PLANTES",
+  "commune": "Pontcharra",
+  "code": "38314",
+  "lat": 45.412905815789465,
+  "lon": 6.016520926315789
+ },
+ {
+  "nom": "LE VERNAY",
+  "commune": "Pontcharra",
+  "code": "38314",
+  "lat": 45.40502427916666,
+  "lon": 6.0085253875
+ },
+ {
+  "nom": "MALBOURGET",
+  "commune": "Pontcharra",
+  "code": "38314",
+  "lat": 45.405031229032254,
+  "lon": 6.011403395161289
+ },
+ {
+  "nom": "LES CAILLETS",
+  "commune": "Pontcharra",
+  "code": "38314",
+  "lat": 45.39938282588234,
+  "lon": 6.015224914117646
+ },
+ {
+  "nom": "ROCHE MORTE",
+  "commune": "Pontcharra",
+  "code": "38314",
+  "lat": 45.403856839999996,
+  "lon": 6.013962327142857,
+  "dist_km": 3.07
+ },
+ {
+  "nom": "LE MAUPAS DE TOSSUS",
+  "commune": "Pontcharra",
+  "code": "38314",
+  "lat": 45.40018592717392,
+  "lon": 6.010865320652174
+ },
+ {
+  "nom": "LES ANTES",
+  "commune": "Pontcharra",
+  "code": "38314",
+  "lat": 45.403021794117656,
+  "lon": 6.022969518627449
+ },
+ {
+  "nom": "LA LOMBARDE",
+  "commune": "Pontcharra",
+  "code": "38314",
+  "lat": 45.40375134177215,
+  "lon": 6.017439484810129
+ },
+ {
+  "nom": "CHALAISE",
+  "commune": "Pontcharra",
+  "code": "38314",
+  "lat": 45.40097908602149,
+  "lon": 6.018191955913978
+ },
+ {
+  "nom": "JAVEYDAN",
+  "commune": "Pontcharra",
+  "code": "38314",
+  "lat": 45.40258307611941,
+  "lon": 6.015020791044776
+ },
+ {
+  "nom": "LA BAYARDE ET LEPINAY",
+  "commune": "Pontcharra",
+  "code": "38314",
+  "lat": 45.41031659230771,
+  "lon": 6.011267598461539
+ },
+ {
+  "nom": "LA CORVA",
+  "commune": "Pontcharra",
+  "code": "38314",
+  "lat": 45.410042182178216,
+  "lon": 6.013237669306927
+ },
+ {
+  "nom": "LE CRET ET LA VERSANE",
+  "commune": "Pontcharra",
+  "code": "38314",
+  "lat": 45.40585702249999,
+  "lon": 6.0192242812500005
+ },
+ {
+  "nom": "AUX CARRIERES",
+  "commune": "Pontcharra",
+  "code": "38314",
+  "lat": 45.40770729625001,
+  "lon": 6.017983157499999
+ },
+ {
+  "nom": "LES PLATTES ET PACHOUD",
+  "commune": "Pontcharra",
+  "code": "38314",
+  "lat": 45.40730987126439,
+  "lon": 6.015147221839082
+ },
+ {
+  "nom": "LES BATIES",
+  "commune": "Pontcharra",
+  "code": "38314",
+  "lat": 45.40189041929824,
+  "lon": 6.008587017543861
+ },
+ {
+  "nom": "MOLLARD ET CUGNET",
+  "commune": "Pontcharra",
+  "code": "38314",
+  "lat": 45.39757405138889,
+  "lon": 6.014342454166668
+ },
+ {
+  "nom": "LE PLAN",
+  "commune": "Pontcharra",
+  "code": "38314",
+  "lat": 45.404054885454535,
+  "lon": 6.020535165454549
+ },
+ {
+  "nom": "BECU",
+  "commune": "Pontcharra",
+  "code": "38314",
+  "lat": 45.40929787183099,
+  "lon": 6.015388614084507
+ },
+ {
+  "nom": "MONTAUCHER",
+  "commune": "Pontcharra",
+  "code": "38314",
+  "lat": 45.40602410208333,
+  "lon": 6.021902302083334
+ },
+ {
+  "nom": "LES ILES DE RENEVIER",
+  "commune": "Pontcharra",
+  "code": "38314",
+  "lat": 45.41306546804125,
+  "lon": 6.005744629896907
+ },
+ {
+  "nom": "BUCHILLOT",
+  "commune": "Pontcharra",
+  "code": "38314",
+  "lat": 45.40543948653847,
+  "lon": 6.004452565384617
+ },
+ {
+  "nom": "ILE RONDE",
+  "commune": "Pontcharra",
+  "code": "38314",
+  "lat": 45.40709080350878,
+  "lon": 6.0028751333333314
+ },
+ {
+  "nom": "AU VERNAY",
+  "commune": "Pontcharra",
+  "code": "38314",
+  "lat": 45.409474872368406,
+  "lon": 6.006453725000002
+ },
+ {
+  "nom": "AUX PICHETTES",
+  "commune": "Pontcharra",
+  "code": "38314",
+  "lat": 45.41310029800001,
+  "lon": 6.008505058000002
+ },
+ {
+  "nom": "PRE CHATAIGNER",
+  "commune": "Pontcharra",
+  "code": "38314",
+  "lat": 45.4155080882353,
+  "lon": 6.0093854411764696
+ },
+ {
+  "nom": "GRIGNON",
+  "commune": "Pontcharra",
+  "code": "38314",
+  "lat": 45.422247503508764,
+  "lon": 6.012010792982455
+ },
+ {
+  "nom": "LE RENEVIER",
+  "commune": "Pontcharra",
+  "code": "38314",
+  "lat": 45.42385476237626,
+  "lon": 6.010305650495052
+ },
+ {
+  "nom": "LES ILES DE RENEVIERS",
+  "commune": "Pontcharra",
+  "code": "38314",
+  "lat": 45.41996661590909,
+  "lon": 6.006064076136366
+ },
+ {
+  "nom": "PRE BRUN",
+  "commune": "Pontcharra",
+  "code": "38314",
+  "lat": 45.42516834285714,
+  "lon": 6.004091203174602
+ },
+ {
+  "nom": "CHATAIGNIER",
+  "commune": "Pontcharra",
+  "code": "38314",
+  "lat": 45.418055944285705,
+  "lon": 6.010054088571427
+ },
+ {
+  "nom": "GAYETS",
+  "commune": "Pontcharra",
+  "code": "38314",
+  "lat": 45.420028582558146,
+  "lon": 6.010166474418603
+ },
+ {
+  "nom": "L'ILE FRIBAUD",
+  "commune": "Pontcharra",
+  "code": "38314",
+  "lat": 45.450068954216874,
+  "lon": 6.013728834939759
+ },
+ {
+  "nom": "PRES COMMUNAUX",
+  "commune": "Pontcharra",
+  "code": "38314",
+  "lat": 45.445387002985065,
+  "lon": 6.0230284029850765
+ },
+ {
+  "nom": "PRE POURRI",
+  "commune": "Pontcharra",
+  "code": "38314",
+  "lat": 45.447783254000015,
+  "lon": 6.021194032
+ },
+ {
+  "nom": "PRE JAQUIER",
+  "commune": "Pontcharra",
+  "code": "38314",
+  "lat": 45.44779030810811,
+  "lon": 6.018098864864864
+ },
+ {
+  "nom": "PRE TORCHON",
+  "commune": "Pontcharra",
+  "code": "38314",
+  "lat": 45.445733282051286,
+  "lon": 6.017847715384615
+ },
+ {
+  "nom": "MAS  DE  COISE",
+  "commune": "Laissaud",
+  "code": "73141",
+  "lat": 45.45519255,
+  "lon": 6.019087399999997
+ },
+ {
+  "nom": "MAS DES ESSARTS",
+  "commune": "Laissaud",
+  "code": "73141",
+  "lat": 45.462907542424254,
+  "lon": 6.017392862626264
+ },
+ {
+  "nom": "LES GLIERES",
+  "commune": "Laissaud",
+  "code": "73141",
+  "lat": 45.45561208750001,
+  "lon": 6.014271786111113
+ },
+ {
+  "nom": "CONTHIEU",
+  "commune": "Laissaud",
+  "code": "73141",
+  "lat": 45.450854146875,
+  "lon": 6.019336318750001
+ },
+ {
+  "nom": "LA GLIERE",
+  "commune": "Laissaud",
+  "code": "73141",
+  "lat": 45.45701096363637,
+  "lon": 6.0177930681818195
+ },
+ {
+  "nom": "MAS DES ESSARTS",
+  "commune": "Laissaud",
+  "code": "73141",
+  "lat": 45.461938380606085,
+  "lon": 6.018874174545456
+ },
+ {
+  "nom": "LA GLIERE",
+  "commune": "Laissaud",
+  "code": "73141",
+  "lat": 45.45808429672132,
+  "lon": 6.019978040983608
+ },
+ {
+  "nom": "PRE COUARDIN",
+  "commune": "Laissaud",
+  "code": "73141",
+  "lat": 45.46744475762711,
+  "lon": 6.021808450847459
+ },
+ {
+  "nom": "PRE ROBERT",
+  "commune": "Laissaud",
+  "code": "73141",
+  "lat": 45.46481612941176,
+  "lon": 6.026596152941177
+ },
+ {
+  "nom": "MAS DE COISE",
+  "commune": "Laissaud",
+  "code": "73141",
+  "lat": 45.46256680869565,
+  "lon": 6.025246863043477
+ },
+ {
+  "nom": "PRE COUARDIN",
+  "commune": "Laissaud",
+  "code": "73141",
+  "lat": 45.46652233611112,
+  "lon": 6.025402391666669
+ },
+ {
+  "nom": "MAS DE COISE",
+  "commune": "Laissaud",
+  "code": "73141",
+  "lat": 45.452511882474234,
+  "lon": 6.027878242268042
+ },
+ {
+  "nom": "LES MARAIS",
+  "commune": "Laissaud",
+  "code": "73141",
+  "lat": 45.44699462957746,
+  "lon": 6.031339528169014
+ },
+ {
+  "nom": "LES MARECHES",
+  "commune": "Laissaud",
+  "code": "73141",
+  "lat": 45.45011548111111,
+  "lon": 6.034458144444444
+ },
+ {
+  "nom": "PRE CARRE",
+  "commune": "Laissaud",
+  "code": "73141",
+  "lat": 45.449124187500004,
+  "lon": 6.030283409374999
+ },
+ {
+  "nom": "PRE JEAN VIEUX",
+  "commune": "Laissaud",
+  "code": "73141",
+  "lat": 45.44794540952381,
+  "lon": 6.0317462809523805
+ },
+ {
+  "nom": "LES TEPPES",
+  "commune": "Laissaud",
+  "code": "73141",
+  "lat": 45.451947035294125,
+  "lon": 6.0353883999999995
+ },
+ {
+  "nom": "PRE DU RIFF",
+  "commune": "Laissaud",
+  "code": "73141",
+  "lat": 45.45289230735293,
+  "lon": 6.040849774999998
+ },
+ {
+  "nom": "LES TEPPES",
+  "commune": "Laissaud",
+  "code": "73141",
+  "lat": 45.45340012580645,
+  "lon": 6.03723010967742
+ },
+ {
+  "nom": "PRE LACLOITRE",
+  "commune": "Laissaud",
+  "code": "73141",
+  "lat": 45.452041998000006,
+  "lon": 6.038500676
+ },
+ {
+  "nom": "PRE BILLARD",
+  "commune": "Laissaud",
+  "code": "73141",
+  "lat": 45.455537207017535,
+  "lon": 6.04402312982456
+ },
+ {
+  "nom": "PRE NOUE",
+  "commune": "Laissaud",
+  "code": "73141",
+  "lat": 45.45632558421052,
+  "lon": 6.042543884210527
+ },
+ {
+  "nom": "CHANTABORD",
+  "commune": "Laissaud",
+  "code": "73141",
+  "lat": 45.450999289473685,
+  "lon": 6.0404255105263145
+ },
+ {
+  "nom": "LES CHARBONNIERES",
+  "commune": "Laissaud",
+  "code": "73141",
+  "lat": 45.45435200476191,
+  "lon": 6.039448540476188
+ },
+ {
+  "nom": "DOMAINE DE MONTBERTRAND",
+  "commune": "Laissaud",
+  "code": "73141",
+  "lat": 45.450492508653845,
+  "lon": 6.046553609615385
+ },
+ {
+  "nom": "TERROIR DU BOUCHET",
+  "commune": "Laissaud",
+  "code": "73141",
+  "lat": 45.45376416666665,
+  "lon": 6.049638477192982
+ },
+ {
+  "nom": "SONNAZ",
+  "commune": "Laissaud",
+  "code": "73141",
+  "lat": 45.45490655510203,
+  "lon": 6.048307275510204
+ },
+ {
+  "nom": "LE BOUCHET",
+  "commune": "Laissaud",
+  "code": "73141",
+  "lat": 45.45173942432432,
+  "lon": 6.044854882432434
+ },
+ {
+  "nom": "LA MIRELLE",
+  "commune": "Laissaud",
+  "code": "73141",
+  "lat": 45.44918350476191,
+  "lon": 6.047419822222221
+ },
+ {
+  "nom": "AU RUISSEAU",
+  "commune": "Laissaud",
+  "code": "73141",
+  "lat": 45.45058428913044,
+  "lon": 6.0439489173913055
+ },
+ {
+  "nom": "LA JARRIE",
+  "commune": "Laissaud",
+  "code": "73141",
+  "lat": 45.451694278947365,
+  "lon": 6.047930728070174
+ },
+ {
+  "nom": "LES PLANTEES",
+  "commune": "Laissaud",
+  "code": "73141",
+  "lat": 45.452547424137926,
+  "lon": 6.051317879310345
+ },
+ {
+  "nom": "LES CORVEES",
+  "commune": "Laissaud",
+  "code": "73141",
+  "lat": 45.45418473703703,
+  "lon": 6.051910137037036
+ },
+ {
+  "nom": "LES MARAIS",
+  "commune": "Laissaud",
+  "code": "73141",
+  "lat": 45.44561035384617,
+  "lon": 6.034708203846154
+ },
+ {
+  "nom": "LE LONGEREY",
+  "commune": "Laissaud",
+  "code": "73141",
+  "lat": 45.44906260597015,
+  "lon": 6.04132596716418
+ },
+ {
+  "nom": "LAISSAUD",
+  "commune": "Laissaud",
+  "code": "73141",
+  "lat": 45.44647885549132,
+  "lon": 6.038942896531791
+ },
+ {
+  "nom": "LA MALADIERE",
+  "commune": "Laissaud",
+  "code": "73141",
+  "lat": 45.44928980123456,
+  "lon": 6.036933360493826
+ },
+ {
+  "nom": "LE CHARRIL",
+  "commune": "Laissaud",
+  "code": "73141",
+  "lat": 45.44382839591837,
+  "lon": 6.035597953061225
+ },
+ {
+  "nom": "PRE JENVIEUX",
+  "commune": "Laissaud",
+  "code": "73141",
+  "lat": 45.447001429411756,
+  "lon": 6.033474473529412
+ },
+ {
+  "nom": "PRE GRASSET",
+  "commune": "Laissaud",
+  "code": "73141",
+  "lat": 45.44744037931032,
+  "lon": 6.035770387931036
+ },
+ {
+  "nom": "LE RIVET",
+  "commune": "Laissaud",
+  "code": "73141",
+  "lat": 45.444613763999996,
+  "lon": 6.037484509333335
+ },
+ {
+  "nom": "PACAILLER",
+  "commune": "Laissaud",
+  "code": "73141",
+  "lat": 45.44562275333332,
+  "lon": 6.036544073333334
+ },
+ {
+  "nom": "LES CORTANNES",
+  "commune": "Laissaud",
+  "code": "73141",
+  "lat": 45.44493569253731,
+  "lon": 6.044337064179107
+ },
+ {
+  "nom": "A L'ESSART",
+  "commune": "Laissaud",
+  "code": "73141",
+  "lat": 45.443344094117634,
+  "lon": 6.039033475294118
+ },
+ {
+  "nom": "LE CLOS",
+  "commune": "Laissaud",
+  "code": "73141",
+  "lat": 45.44800602499999,
+  "lon": 6.044077078125
+ },
+ {
+  "nom": "CHATAIGNERAIE",
+  "commune": "Laissaud",
+  "code": "73141",
+  "lat": 45.44547773856211,
+  "lon": 6.041089472549015
+ },
+ {
+  "nom": "BEAUREGARD",
+  "commune": "Laissaud",
+  "code": "73141",
+  "lat": 45.44171223777778,
+  "lon": 6.042968160000001
+ },
+ {
+  "nom": "MERLIN",
+  "commune": "Laissaud",
+  "code": "73141",
+  "lat": 45.44793306496349,
+  "lon": 6.04791661678832
+ },
+ {
+  "nom": "POUCET",
+  "commune": "Laissaud",
+  "code": "73141",
+  "lat": 45.44983967203389,
+  "lon": 6.0509976932203395
+ },
+ {
+  "nom": "VILLARD MARTIN",
+  "commune": "Laissaud",
+  "code": "73141",
+  "lat": 45.4475692509434,
+  "lon": 6.050666960377359
+ },
+ {
+  "nom": "LA RONZIERE",
+  "commune": "Laissaud",
+  "code": "73141",
+  "lat": 45.451128604310355,
+  "lon": 6.052128480172413
+ },
+ {
+  "nom": "LA PLANTEE",
+  "commune": "Laissaud",
+  "code": "73141",
+  "lat": 45.445926728571415,
+  "lon": 6.050138078571428
+ },
+ {
+  "nom": "LES MAILLETTES",
+  "commune": "Laissaud",
+  "code": "73141",
+  "lat": 45.452845264102564,
+  "lon": 6.05413271025641
+ },
+ {
+  "nom": "LA PLANTEE",
+  "commune": "Laissaud",
+  "code": "73141",
+  "lat": 45.44412213142857,
+  "lon": 6.048165836190476
+ },
+ {
+  "nom": "BEAUREGARD",
+  "commune": "Laissaud",
+  "code": "73141",
+  "lat": 45.44179677559524,
+  "lon": 6.0479883351190455
+ },
+ {
+  "nom": "LES GORGES",
+  "commune": "Laissaud",
+  "code": "73141",
+  "lat": 45.440454275342496,
+  "lon": 6.049750567808219
+ },
+ {
+  "nom": "PRE ROBERT",
+  "commune": "Laissaud",
+  "code": "73141",
+  "lat": 45.4643315102041,
+  "lon": 6.02851427755102
+ },
+ {
+  "nom": "PRE TARDY",
+  "commune": "Laissaud",
+  "code": "73141",
+  "lat": 45.46280907868851,
+  "lon": 6.031866267213112
+ },
+ {
+  "nom": "VICOURTE",
+  "commune": "Laissaud",
+  "code": "73141",
+  "lat": 45.45757420147058,
+  "lon": 6.037561313235294
+ },
+ {
+  "nom": "PRE POLOMARD",
+  "commune": "Laissaud",
+  "code": "73141",
+  "lat": 45.456833279999984,
+  "lon": 6.039411811111114
+ },
+ {
+  "nom": "MAS DE COISE",
+  "commune": "Laissaud",
+  "code": "73141",
+  "lat": 45.45451956571429,
+  "lon": 6.0348411
+ },
+ {
+  "nom": "MAS DE COISE",
+  "commune": "Laissaud",
+  "code": "73141",
+  "lat": 45.457249999999995,
+  "lon": 6.0296164833333314
+ },
+ {
+  "nom": "MAS DE COISE",
+  "commune": "Laissaud",
+  "code": "73141",
+  "lat": 45.45979521428571,
+  "lon": 6.030735477142855
+ },
+ {
+  "nom": "MAS DE COISE",
+  "commune": "Laissaud",
+  "code": "73141",
+  "lat": 45.460913990425524,
+  "lon": 6.02490794148936
+ },
+ {
+  "nom": "PRE THOMASSET",
+  "commune": "Laissaud",
+  "code": "73141",
+  "lat": 45.45934838153845,
+  "lon": 6.021677690769232
+ },
+ {
+  "nom": "PRE POURRI",
+  "commune": "Laissaud",
+  "code": "73141",
+  "lat": 45.44991104179103,
+  "lon": 6.023863962686569
+ },
+ {
+  "nom": "PRE LACAILLE",
+  "commune": "Laissaud",
+  "code": "73141",
+  "lat": 45.450319375862065,
+  "lon": 6.028205368965518
+ },
+ {
+  "nom": "PRE DU PERE",
+  "commune": "Laissaud",
+  "code": "73141",
+  "lat": 45.44696597692309,
+  "lon": 6.027119353846152
+ },
+ {
+  "nom": "CONTHIEU",
+  "commune": "Laissaud",
+  "code": "73141",
+  "lat": 45.45113111190477,
+  "lon": 6.015905697619049
+ },
+ {
+  "nom": "AUX ESSARDS",
+  "commune": "Le Touvet",
+  "code": "38511",
+  "lat": 45.34184719883038,
+  "lon": 5.926070095906434
+ },
+ {
+  "nom": "A PERROCHAT",
+  "commune": "Le Touvet",
+  "code": "38511",
+  "lat": 45.34381825182924,
+  "lon": 5.925924749390246,
+  "dist_km": 12.5
+ },
+ {
+  "nom": "EN BEAUMONT",
+  "commune": "Le Touvet",
+  "code": "38511",
+  "lat": 45.35001362388886,
+  "lon": 5.934696619999999
+ },
+ {
+  "nom": "LE CHANEY",
+  "commune": "Le Touvet",
+  "code": "38511",
+  "lat": 45.342541143589735,
+  "lon": 5.934700882051279
+ },
+ {
+  "nom": "MONTABON",
+  "commune": "Le Touvet",
+  "code": "38511",
+  "lat": 45.34248165,
+  "lon": 5.931883207058825
+ },
+ {
+  "nom": "EN BEAUMONT",
+  "commune": "Le Touvet",
+  "code": "38511",
+  "lat": 45.34775007063198,
+  "lon": 5.924846333457245
+ },
+ {
+  "nom": "AUX COMBES",
+  "commune": "Le Touvet",
+  "code": "38511",
+  "lat": 45.34013366060605,
+  "lon": 5.9335218858585845
+ },
+ {
+  "nom": "CRET DES RIVOIRES",
+  "commune": "Le Touvet",
+  "code": "38511",
+  "lat": 45.344559841747554,
+  "lon": 5.936686266990291
+ },
+ {
+  "nom": "AUX COTES",
+  "commune": "Le Touvet",
+  "code": "38511",
+  "lat": 45.34402816382978,
+  "lon": 5.937814098936168
+ },
+ {
+  "nom": "LE CHADEAU",
+  "commune": "Le Touvet",
+  "code": "38511",
+  "lat": 45.34920136582278,
+  "lon": 5.939647067088606
+ },
+ {
+  "nom": "GRANDE TERRE",
+  "commune": "Le Touvet",
+  "code": "38511",
+  "lat": 45.34609123766232,
+  "lon": 5.935200145454545
+ },
+ {
+  "nom": "GRANDE TEPPE",
+  "commune": "Le Touvet",
+  "code": "38511",
+  "lat": 45.34728483896104,
+  "lon": 5.9302084818181795
+ },
+ {
+  "nom": "AUX TERRES",
+  "commune": "Le Touvet",
+  "code": "38511",
+  "lat": 45.352086919327704,
+  "lon": 5.938010765546218
+ },
+ {
+  "nom": "AU SABLE",
+  "commune": "Le Touvet",
+  "code": "38511",
+  "lat": 45.34620732028985,
+  "lon": 5.932991218840581
+ },
+ {
+  "nom": "ROCHER DU ROUX",
+  "commune": "Le Touvet",
+  "code": "38511",
+  "lat": 45.35943184161848,
+  "lon": 5.928940351445084,
+  "dist_km": 11.08
+ },
+ {
+  "nom": "LA FAVIERE",
+  "commune": "Le Touvet",
+  "code": "38511",
+  "lat": 45.355239050694436,
+  "lon": 5.929633800694447
+ },
+ {
+  "nom": "BEAUMONT",
+  "commune": "Le Touvet",
+  "code": "38511",
+  "lat": 45.357790842268045,
+  "lon": 5.936175498453609
+ },
+ {
+  "nom": "A FOUERETAR",
+  "commune": "Le Touvet",
+  "code": "38511",
+  "lat": 45.350416795979896,
+  "lon": 5.92528843165829
+ },
+ {
+  "nom": "LA FETOLAR",
+  "commune": "Le Touvet",
+  "code": "38511",
+  "lat": 45.36242935161291,
+  "lon": 5.932566724193551
+ },
+ {
+  "nom": "LA LONGE",
+  "commune": "Le Touvet",
+  "code": "38511",
+  "lat": 45.36041519561403,
+  "lon": 5.937951590350879
+ },
+ {
+  "nom": "ROCHER PEYRON",
+  "commune": "Le Touvet",
+  "code": "38511",
+  "lat": 45.35909488761904,
+  "lon": 5.933508376190474,
+  "dist_km": 10.85
+ },
+ {
+  "nom": "COTE DURAND",
+  "commune": "Le Touvet",
+  "code": "38511",
+  "lat": 45.36052511372551,
+  "lon": 5.941636239215688
+ },
+ {
+  "nom": "PENTE DE LA CORBIERE",
+  "commune": "Le Touvet",
+  "code": "38511",
+  "lat": 45.368937068722495,
+  "lon": 5.9370886828193825
+ },
+ {
+  "nom": "TATOLIERE",
+  "commune": "Le Touvet",
+  "code": "38511",
+  "lat": 45.36585091284402,
+  "lon": 5.935408176605505
+ },
+ {
+  "nom": "LA LIVRE",
+  "commune": "Le Touvet",
+  "code": "38511",
+  "lat": 45.363120678260856,
+  "lon": 5.940534955652172
+ },
+ {
+  "nom": "DOUILLETTE-ET-BRESSON",
+  "commune": "Le Touvet",
+  "code": "38511",
+  "lat": 45.36819211984733,
+  "lon": 5.942389066412209
+ },
+ {
+  "nom": "LA PRA",
+  "commune": "Le Touvet",
+  "code": "38511",
+  "lat": 45.35560748000002,
+  "lon": 5.964791585000003
+ },
+ {
+  "nom": "ILE DE LA PRA",
+  "commune": "Le Touvet",
+  "code": "38511",
+  "lat": 45.35324769534885,
+  "lon": 5.968077149999999
+ },
+ {
+  "nom": "AUX CHARMANCHES",
+  "commune": "Le Touvet",
+  "code": "38511",
+  "lat": 45.35289235270272,
+  "lon": 5.960287191891894
+ },
+ {
+  "nom": "AUX CORVEES",
+  "commune": "Le Touvet",
+  "code": "38511",
+  "lat": 45.35482408965517,
+  "lon": 5.961356475862068
+ },
+ {
+  "nom": "ILES DU MARNEY",
+  "commune": "Le Touvet",
+  "code": "38511",
+  "lat": 45.34586152280704,
+  "lon": 5.9637042561403515
+ },
+ {
+  "nom": "AUX RIVAUX",
+  "commune": "Le Touvet",
+  "code": "38511",
+  "lat": 45.347448245528454,
+  "lon": 5.9578931268292665
+ },
+ {
+  "nom": "RESSARDET",
+  "commune": "Le Touvet",
+  "code": "38511",
+  "lat": 45.351643991803286,
+  "lon": 5.956964513114754
+ },
+ {
+  "nom": "LES GIMBES",
+  "commune": "Le Touvet",
+  "code": "38511",
+  "lat": 45.350339352857134,
+  "lon": 5.9613063099999986
+ },
+ {
+  "nom": "GRAND PRE",
+  "commune": "Le Touvet",
+  "code": "38511",
+  "lat": 45.34838470153846,
+  "lon": 5.96046905076923
+ },
+ {
+  "nom": "ARBONNE",
+  "commune": "Le Touvet",
+  "code": "38511",
+  "lat": 45.33884930714286,
+  "lon": 5.951353399999999
+ },
+ {
+  "nom": "LA GORGE",
+  "commune": "Le Touvet",
+  "code": "38511",
+  "lat": 45.334999034920614,
+  "lon": 5.9526718873015865
+ },
+ {
+  "nom": "PRE BRISSE",
+  "commune": "Le Touvet",
+  "code": "38511",
+  "lat": 45.33638084471546,
+  "lon": 5.951204421951215
+ },
+ {
+  "nom": "MORTES DE LA CONCHE",
+  "commune": "Le Touvet",
+  "code": "38511",
+  "lat": 45.34329255211269,
+  "lon": 5.952809643661975
+ },
+ {
+  "nom": "A LECULE",
+  "commune": "Le Touvet",
+  "code": "38511",
+  "lat": 45.33686324736843,
+  "lon": 5.946194364912279
+ },
+ {
+  "nom": "ILE DE LA MAGDELEINE",
+  "commune": "Le Touvet",
+  "code": "38511",
+  "lat": 45.3370027768212,
+  "lon": 5.958193268874172
+ },
+ {
+  "nom": "PRE SIRET",
+  "commune": "Le Touvet",
+  "code": "38511",
+  "lat": 45.33245910125001,
+  "lon": 5.956090612499999
+ },
+ {
+  "nom": "PRE VILLET",
+  "commune": "Le Touvet",
+  "code": "38511",
+  "lat": 45.340011464102545,
+  "lon": 5.9556107880341855
+ },
+ {
+  "nom": "AUX RIVAUX",
+  "commune": "Le Touvet",
+  "code": "38511",
+  "lat": 45.34169269503543,
+  "lon": 5.958344748936169
+ },
+ {
+  "nom": "LA CLAYETTE",
+  "commune": "Le Touvet",
+  "code": "38511",
+  "lat": 45.335564677966104,
+  "lon": 5.955693954237287
+ },
+ {
+  "nom": "DOUILLETTE ET BRESSON",
+  "commune": "Le Touvet",
+  "code": "38511",
+  "lat": 45.368690739572195,
+  "lon": 5.944540966844918
+ },
+ {
+  "nom": "LA LIVRE",
+  "commune": "Le Touvet",
+  "code": "38511",
+  "lat": 45.36411356842105,
+  "lon": 5.943205559210527
+ },
+ {
+  "nom": "LE VIVIER",
+  "commune": "Le Touvet",
+  "code": "38511",
+  "lat": 45.36764894204545,
+  "lon": 5.945024411363634
+ },
+ {
+  "nom": "LE CHATEAU",
+  "commune": "Le Touvet",
+  "code": "38511",
+  "lat": 45.36574435367232,
+  "lon": 5.947842941807913
+ },
+ {
+  "nom": "AUX FOURNEAUX",
+  "commune": "Le Touvet",
+  "code": "38511",
+  "lat": 45.3615261890909,
+  "lon": 5.948046820000001
+ },
+ {
+  "nom": "LE  RAFFOUR",
+  "commune": "Le Touvet",
+  "code": "38511",
+  "lat": 45.36582905174418,
+  "lon": 5.952872193023257
+ },
+ {
+  "nom": "LE HAUT TOUVET",
+  "commune": "Le Touvet",
+  "code": "38511",
+  "lat": 45.36368751743119,
+  "lon": 5.9541889862385355
+ },
+ {
+  "nom": "LA PERRIERE",
+  "commune": "Le Touvet",
+  "code": "38511",
+  "lat": 45.36411402307692,
+  "lon": 5.9509646807692285,
+  "dist_km": 9.52
+ },
+ {
+  "nom": "ABERGEMENT",
+  "commune": "Le Touvet",
+  "code": "38511",
+  "lat": 45.36294918471617,
+  "lon": 5.960166406550215
+ },
+ {
+  "nom": "AUX ARGUILLES",
+  "commune": "Le Touvet",
+  "code": "38511",
+  "lat": 45.36047779074074,
+  "lon": 5.961426177777778
+ },
+ {
+  "nom": "BRESSON",
+  "commune": "Le Touvet",
+  "code": "38511",
+  "lat": 45.36150738160919,
+  "lon": 5.959407794252873
+ },
+ {
+  "nom": "AUX ALIQUETS",
+  "commune": "Le Touvet",
+  "code": "38511",
+  "lat": 45.362569087671226,
+  "lon": 5.957060850684931
+ },
+ {
+  "nom": "AUX CORVEES",
+  "commune": "Le Touvet",
+  "code": "38511",
+  "lat": 45.35815868857143,
+  "lon": 5.9597848978571415
+ },
+ {
+  "nom": "AUX CORVEES",
+  "commune": "Le Touvet",
+  "code": "38511",
+  "lat": 45.35815868857143,
+  "lon": 5.9597848978571415
+ },
+ {
+  "nom": "AUX ROTY",
+  "commune": "Le Touvet",
+  "code": "38511",
+  "lat": 45.35966917857142,
+  "lon": 5.9572716125000005
+ },
+ {
+  "nom": "LA PRA",
+  "commune": "Le Touvet",
+  "code": "38511",
+  "lat": 45.358631118987326,
+  "lon": 5.962174400000001
+ },
+ {
+  "nom": "AUX ROTY",
+  "commune": "Le Touvet",
+  "code": "38511",
+  "lat": 45.35966917857142,
+  "lon": 5.9572716125000005
+ },
+ {
+  "nom": "LA PRA",
+  "commune": "Le Touvet",
+  "code": "38511",
+  "lat": 45.358631118987326,
+  "lon": 5.962174400000001
+ },
+ {
+  "nom": "LE TOUVET",
+  "commune": "Le Touvet",
+  "code": "38511",
+  "lat": 45.35975839126983,
+  "lon": 5.951460800793651
+ },
+ {
+  "nom": "LA CHOQUETTE",
+  "commune": "Le Touvet",
+  "code": "38511",
+  "lat": 45.359726860396044,
+  "lon": 5.9539267247524785
+ },
+ {
+  "nom": "AUX FOURNEAUX",
+  "commune": "Le Touvet",
+  "code": "38511",
+  "lat": 45.36206996315788,
+  "lon": 5.949946496052634
+ },
+ {
+  "nom": "LE HAUT TOUVET",
+  "commune": "Le Touvet",
+  "code": "38511",
+  "lat": 45.36161977191011,
+  "lon": 5.95217447752809
+ },
+ {
+  "nom": "LA BAYETTE",
+  "commune": "Le Touvet",
+  "code": "38511",
+  "lat": 45.3580299867647,
+  "lon": 5.945280567647059
+ },
+ {
+  "nom": "LE MARTEL",
+  "commune": "Le Touvet",
+  "code": "38511",
+  "lat": 45.35952780062895,
+  "lon": 5.94528074339623
+ },
+ {
+  "nom": "COTE DURAND",
+  "commune": "Le Touvet",
+  "code": "38511",
+  "lat": 45.359230528571445,
+  "lon": 5.9427459217391325
+ },
+ {
+  "nom": "LA BAYETTE",
+  "commune": "Le Touvet",
+  "code": "38511",
+  "lat": 45.35633940693067,
+  "lon": 5.944660234653468
+ },
+ {
+  "nom": "COMBE ET RUME",
+  "commune": "Le Touvet",
+  "code": "38511",
+  "lat": 45.354712429714276,
+  "lon": 5.940699003428571
+ },
+ {
+  "nom": "A BEAUMONT",
+  "commune": "Le Touvet",
+  "code": "38511",
+  "lat": 45.35441198928573,
+  "lon": 5.935792060714285
+ },
+ {
+  "nom": "LA COMBE",
+  "commune": "Le Touvet",
+  "code": "38511",
+  "lat": 45.352796011764724,
+  "lon": 5.943449719117648
+ },
+ {
+  "nom": "LE MOLLARD",
+  "commune": "Le Touvet",
+  "code": "38511",
+  "lat": 45.35476810806451,
+  "lon": 5.9437967096774225
+ },
+ {
+  "nom": "LE MOLLARD",
+  "commune": "Le Touvet",
+  "code": "38511",
+  "lat": 45.35485953207548,
+  "lon": 5.947697650943395
+ },
+ {
+  "nom": "LA RIPPE",
+  "commune": "Le Touvet",
+  "code": "38511",
+  "lat": 45.35453896547618,
+  "lon": 5.9494033107142865
+ },
+ {
+  "nom": "LE BAS TOUVET",
+  "commune": "Le Touvet",
+  "code": "38511",
+  "lat": 45.357436861111104,
+  "lon": 5.950930198888888
+ },
+ {
+  "nom": "LA CONCHE",
+  "commune": "Le Touvet",
+  "code": "38511",
+  "lat": 45.352616145,
+  "lon": 5.94643338875
+ },
+ {
+  "nom": "PRE MARION",
+  "commune": "Le Touvet",
+  "code": "38511",
+  "lat": 45.35307029320386,
+  "lon": 5.954345658252427
+ },
+ {
+  "nom": "LA RIPPE",
+  "commune": "Le Touvet",
+  "code": "38511",
+  "lat": 45.353172767187495,
+  "lon": 5.952234571875
+ },
+ {
+  "nom": "AUX CHARMANCHES",
+  "commune": "Le Touvet",
+  "code": "38511",
+  "lat": 45.35531169999998,
+  "lon": 5.955474941025641
+ },
+ {
+  "nom": "MORTES DE LA CONCHE",
+  "commune": "Le Touvet",
+  "code": "38511",
+  "lat": 45.345679964615364,
+  "lon": 5.952036109230767
+ },
+ {
+  "nom": "AUX MORTES",
+  "commune": "Le Touvet",
+  "code": "38511",
+  "lat": 45.3481414827957,
+  "lon": 5.950854770967742
+ },
+ {
+  "nom": "LES MARAIS",
+  "commune": "Le Touvet",
+  "code": "38511",
+  "lat": 45.3466013042553,
+  "lon": 5.948586555319151
+ },
+ {
+  "nom": "MICHALETTE ET VILLARD",
+  "commune": "Le Touvet",
+  "code": "38511",
+  "lat": 45.34798263070175,
+  "lon": 5.94344039736842
+ },
+ {
+  "nom": "A RECHARDIERE",
+  "commune": "Le Touvet",
+  "code": "38511",
+  "lat": 45.34805807788463,
+  "lon": 5.942102099038459
+ },
+ {
+  "nom": "LA COMBE",
+  "commune": "Le Touvet",
+  "code": "38511",
+  "lat": 45.35213636065575,
+  "lon": 5.941749209836067
+ },
+ {
+  "nom": "LA CONCHE",
+  "commune": "Le Touvet",
+  "code": "38511",
+  "lat": 45.350814947142865,
+  "lon": 5.944969971428572
+ },
+ {
+  "nom": "CHAPUISE",
+  "commune": "Le Touvet",
+  "code": "38511",
+  "lat": 45.3509086023622,
+  "lon": 5.943280005511812
+ },
+ {
+  "nom": "LE CHADEAU",
+  "commune": "Le Touvet",
+  "code": "38511",
+  "lat": 45.35051011724136,
+  "lon": 5.9417167362068986
+ },
+ {
+  "nom": "MIRE ET GRANDE TERRE",
+  "commune": "Le Touvet",
+  "code": "38511",
+  "lat": 45.34306124421051,
+  "lon": 5.943058041052633
+ },
+ {
+  "nom": "DOMBETTE ET GRANDE VIGNE",
+  "commune": "Le Touvet",
+  "code": "38511",
+  "lat": 45.34188248897058,
+  "lon": 5.940703529411764
+ },
+ {
+  "nom": "LA FRETTE",
+  "commune": "Le Touvet",
+  "code": "38511",
+  "lat": 45.34027351416667,
+  "lon": 5.940109957500001
+ },
+ {
+  "nom": "LE FRETTE D'EN HAUT",
+  "commune": "Le Touvet",
+  "code": "38511",
+  "lat": 45.34099564782608,
+  "lon": 5.937960402173912
+ },
+ {
+  "nom": "A RECHARDIERE",
+  "commune": "Le Touvet",
+  "code": "38511",
+  "lat": 45.345177832394356,
+  "lon": 5.94133474366197
+ },
+ {
+  "nom": "MICHALETTE ET VILLARD",
+  "commune": "Le Touvet",
+  "code": "38511",
+  "lat": 45.344975258252425,
+  "lon": 5.942729543689323
+ },
+ {
+  "nom": "AUX COTES",
+  "commune": "Le Touvet",
+  "code": "38511",
+  "lat": 45.34152995227274,
+  "lon": 5.936972699999998
+ },
+ {
+  "nom": "PRE MORTIER",
+  "commune": "Le Touvet",
+  "code": "38511",
+  "lat": 45.34094386470587,
+  "lon": 5.944477298319328
+ },
+ {
+  "nom": "LES MARAIS",
+  "commune": "Le Touvet",
+  "code": "38511",
+  "lat": 45.343950088586936,
+  "lon": 5.947864214130434
+ },
+ {
+  "nom": "AUX NOYES",
+  "commune": "Le Touvet",
+  "code": "38511",
+  "lat": 45.341708121714284,
+  "lon": 5.94749402514286
+ },
+ {
+  "nom": "LA FRETTE",
+  "commune": "Le Touvet",
+  "code": "38511",
+  "lat": 45.339074784210524,
+  "lon": 5.943146165789475
+ },
+ {
+  "nom": "LE PAVEY",
+  "commune": "Le Touvet",
+  "code": "38511",
+  "lat": 45.33882944583332,
+  "lon": 5.938802977500001
+ },
+ {
+  "nom": "PRE DE LA GRANGE",
+  "commune": "Le Touvet",
+  "code": "38511",
+  "lat": 45.33718465473684,
+  "lon": 5.9429066536842114
+ },
+ {
+  "nom": "AUX COMBES",
+  "commune": "Le Touvet",
+  "code": "38511",
+  "lat": 45.34045776956524,
+  "lon": 5.935740123913044
+ },
+ {
+  "nom": "LA FRETTE D'EN HAUT",
+  "commune": "Le Touvet",
+  "code": "38511",
+  "lat": 45.34053723538461,
+  "lon": 5.936219456923076
+ },
+ {
+  "nom": "MAUPERRIER",
+  "commune": "Barraux",
+  "code": "38027",
+  "lat": 45.44325248802397,
+  "lon": 5.978104040119763,
+  "dist_km": 4.41
+ },
+ {
+  "nom": "LE CUILLER",
+  "commune": "Barraux",
+  "code": "38027",
+  "lat": 45.4452965962733,
+  "lon": 5.982978266459628
+ },
+ {
+  "nom": "LA CHAILLE",
+  "commune": "Barraux",
+  "code": "38027",
+  "lat": 45.44262949635034,
+  "lon": 5.9826659138686145
+ },
+ {
+  "nom": "L'ADRET DE FURET",
+  "commune": "Barraux",
+  "code": "38027",
+  "lat": 45.442149336428585,
+  "lon": 5.970226171428569
+ },
+ {
+  "nom": "CHAMP BRISSON",
+  "commune": "Barraux",
+  "code": "38027",
+  "lat": 45.4461947650685,
+  "lon": 5.971809012328767
+ },
+ {
+  "nom": "NICOLET ET FAYENNE",
+  "commune": "Barraux",
+  "code": "38027",
+  "lat": 45.449457683098565,
+  "lon": 5.986767354225354,
+  "dist_km": 4.13
+ },
+ {
+  "nom": "LA ROCHETTE ET CHEVANILLE",
+  "commune": "Barraux",
+  "code": "38027",
+  "lat": 45.45287495720166,
+  "lon": 5.973829508230456,
+  "dist_km": 5.19
+ },
+ {
+  "nom": "SAUDIAZ ET FREYBERT",
+  "commune": "Barraux",
+  "code": "38027",
+  "lat": 45.450909208904136,
+  "lon": 5.972745440410957
+ },
+ {
+  "nom": "LA FOURCHETTE",
+  "commune": "Barraux",
+  "code": "38027",
+  "lat": 45.44908369172412,
+  "lon": 5.977316843448277
+ },
+ {
+  "nom": "COMBE NEYMARD",
+  "commune": "Barraux",
+  "code": "38027",
+  "lat": 45.450546989024375,
+  "lon": 5.98151092012195
+ },
+ {
+  "nom": "GORGE DE CERNON",
+  "commune": "Barraux",
+  "code": "38027",
+  "lat": 45.454936524916974,
+  "lon": 5.977338574086376
+ },
+ {
+  "nom": "LE PLAN ET PRE VILLET",
+  "commune": "Barraux",
+  "code": "38027",
+  "lat": 45.44754661168225,
+  "lon": 5.993832216822427
+ },
+ {
+  "nom": "LE FAYEREY",
+  "commune": "Barraux",
+  "code": "38027",
+  "lat": 45.4437189813698,
+  "lon": 5.998722888767122,
+  "dist_km": 3.0
+ },
+ {
+  "nom": "LA GACHE",
+  "commune": "Barraux",
+  "code": "38027",
+  "lat": 45.43776217483444,
+  "lon": 6.000830013907285
+ },
+ {
+  "nom": "LA FOURNACHE ET CHAMP CARPIN",
+  "commune": "Barraux",
+  "code": "38027",
+  "lat": 45.44309816391301,
+  "lon": 5.989626913043479
+ },
+ {
+  "nom": "LES BRUYERES-SUD",
+  "commune": "Barraux",
+  "code": "38027",
+  "lat": 45.440037977551015,
+  "lon": 6.001881328571429
+ },
+ {
+  "nom": "LES BRUYERES-NORD",
+  "commune": "Barraux",
+  "code": "38027",
+  "lat": 45.44619249365079,
+  "lon": 5.9961985523809505
+ },
+ {
+  "nom": "LA VERSANNE",
+  "commune": "Barraux",
+  "code": "38027",
+  "lat": 45.44282952407406,
+  "lon": 5.990964509259258
+ },
+ {
+  "nom": "LA VERSANNE",
+  "commune": "Barraux",
+  "code": "38027",
+  "lat": 45.44074044347826,
+  "lon": 5.98914797826087
+ },
+ {
+  "nom": "NAUDIT ET CHAPIRON",
+  "commune": "Barraux",
+  "code": "38027",
+  "lat": 45.43565593666666,
+  "lon": 5.981240483333333
+ },
+ {
+  "nom": "CREY ET PRE DU PORT",
+  "commune": "Barraux",
+  "code": "38027",
+  "lat": 45.43886353947365,
+  "lon": 5.98119836842105
+ },
+ {
+  "nom": "LA VILLE",
+  "commune": "Barraux",
+  "code": "38027",
+  "lat": 45.43432560828023,
+  "lon": 5.978086466242038
+ },
+ {
+  "nom": "LA FRETE",
+  "commune": "Barraux",
+  "code": "38027",
+  "lat": 45.432058124615395,
+  "lon": 5.977910526153845
+ },
+ {
+  "nom": "LA CORVA",
+  "commune": "Barraux",
+  "code": "38027",
+  "lat": 45.43318745384614,
+  "lon": 5.979347863076924
+ },
+ {
+  "nom": "LE CARRE",
+  "commune": "Barraux",
+  "code": "38027",
+  "lat": 45.434587451898736,
+  "lon": 5.975653208860761
+ },
+ {
+  "nom": "LA CROIX",
+  "commune": "Barraux",
+  "code": "38027",
+  "lat": 45.436658616666676,
+  "lon": 5.978279265972222
+ },
+ {
+  "nom": "LA RUA",
+  "commune": "Barraux",
+  "code": "38027",
+  "lat": 45.432292251456296,
+  "lon": 5.9765506728155335
+ },
+ {
+  "nom": "FURET",
+  "commune": "Barraux",
+  "code": "38027",
+  "lat": 45.439633066999995,
+  "lon": 5.97857116
+ },
+ {
+  "nom": "LES BLACHES",
+  "commune": "Barraux",
+  "code": "38027",
+  "lat": 45.43606625590905,
+  "lon": 5.967442278636362
+ },
+ {
+  "nom": "PRES DE L'OURS ET REPLAT",
+  "commune": "Barraux",
+  "code": "38027",
+  "lat": 45.431662717365285,
+  "lon": 5.970880789820359
+ },
+ {
+  "nom": "ISELET ET L'ESSARD",
+  "commune": "Barraux",
+  "code": "38027",
+  "lat": 45.436141624778756,
+  "lon": 5.971346927433627
+ },
+ {
+  "nom": "SILLON ET VIGNE ABERT",
+  "commune": "Barraux",
+  "code": "38027",
+  "lat": 45.438113813333345,
+  "lon": 5.974504846000002
+ },
+ {
+  "nom": "L'ENVERS DU FURET",
+  "commune": "Barraux",
+  "code": "38027",
+  "lat": 45.44076753132529,
+  "lon": 5.967578125301202
+ },
+ {
+  "nom": "LE CHATELARD",
+  "commune": "Barraux",
+  "code": "38027",
+  "lat": 45.42856484933333,
+  "lon": 5.985449372666666
+ },
+ {
+  "nom": "RENEVIER",
+  "commune": "Barraux",
+  "code": "38027",
+  "lat": 45.43209809756095,
+  "lon": 5.997815749390246
+ },
+ {
+  "nom": "FORT BARRAUX",
+  "commune": "Barraux",
+  "code": "38027",
+  "lat": 45.43524040084747,
+  "lon": 5.987052279661018
+ },
+ {
+  "nom": "LE GABION",
+  "commune": "Barraux",
+  "code": "38027",
+  "lat": 45.42762667142857,
+  "lon": 5.9973958904761915
+ },
+ {
+  "nom": "MOLLARD",
+  "commune": "Barraux",
+  "code": "38027",
+  "lat": 45.43717656124999,
+  "lon": 5.990009969999999
+ },
+ {
+  "nom": "LE DEBAT",
+  "commune": "Barraux",
+  "code": "38027",
+  "lat": 45.431125896000005,
+  "lon": 5.983743089999999
+ },
+ {
+  "nom": "LE MAIL",
+  "commune": "Barraux",
+  "code": "38027",
+  "lat": 45.435459040909095,
+  "lon": 5.984662024242425
+ },
+ {
+  "nom": "CHARBONNIER ET GLORETAN",
+  "commune": "Barraux",
+  "code": "38027",
+  "lat": 45.4338597,
+  "lon": 5.990113525862068
+ },
+ {
+  "nom": "LA COURIA",
+  "commune": "Barraux",
+  "code": "38027",
+  "lat": 45.43686245847458,
+  "lon": 5.996393515254235
+ },
+ {
+  "nom": "LA GACHE",
+  "commune": "Barraux",
+  "code": "38027",
+  "lat": 45.43438831043477,
+  "lon": 6.000239177391303
+ },
+ {
+  "nom": "LES CROSES",
+  "commune": "Barraux",
+  "code": "38027",
+  "lat": 45.43661999722223,
+  "lon": 5.9933909787037
+ },
+ {
+  "nom": "LA BIOLA",
+  "commune": "Barraux",
+  "code": "38027",
+  "lat": 45.43577468200001,
+  "lon": 5.998765548
+ },
+ {
+  "nom": "LA MURE",
+  "commune": "Barraux",
+  "code": "38027",
+  "lat": 45.432202279411754,
+  "lon": 5.9895889794117645
+ },
+ {
+  "nom": "LA MURE",
+  "commune": "Barraux",
+  "code": "38027",
+  "lat": 45.432774415384614,
+  "lon": 5.993120646153847
+ },
+ {
+  "nom": "LA FRETE",
+  "commune": "Barraux",
+  "code": "38027",
+  "lat": 45.4275490492857,
+  "lon": 5.979099167142858
+ },
+ {
+  "nom": "BEAUREGARD",
+  "commune": "Barraux",
+  "code": "38027",
+  "lat": 45.42607878284024,
+  "lon": 5.975965383431954
+ },
+ {
+  "nom": "LONGY-REY",
+  "commune": "Barraux",
+  "code": "38027",
+  "lat": 45.420930279562036,
+  "lon": 5.9783955934306565
+ },
+ {
+  "nom": "MARGILLAN",
+  "commune": "Barraux",
+  "code": "38027",
+  "lat": 45.421836634177225,
+  "lon": 5.977478793037976
+ },
+ {
+  "nom": "SARRON",
+  "commune": "Barraux",
+  "code": "38027",
+  "lat": 45.42479376730769,
+  "lon": 5.980511218269234
+ },
+ {
+  "nom": "LE FAYET",
+  "commune": "Barraux",
+  "code": "38027",
+  "lat": 45.419126756198345,
+  "lon": 5.975647352066117,
+  "dist_km": 4.44
+ },
+ {
+  "nom": "LE FAYET",
+  "commune": "Barraux",
+  "code": "38027",
+  "lat": 45.41604564690267,
+  "lon": 5.970500275221243,
+  "dist_km": 4.92
+ },
+ {
+  "nom": "LE BOISSIEUX",
+  "commune": "Barraux",
+  "code": "38027",
+  "lat": 45.41058081233477,
+  "lon": 5.964842556387665
+ },
+ {
+  "nom": "LES DEGOUTES",
+  "commune": "Barraux",
+  "code": "38027",
+  "lat": 45.42450126555023,
+  "lon": 5.967871228229665
+ },
+ {
+  "nom": "LE REPLAT",
+  "commune": "Barraux",
+  "code": "38027",
+  "lat": 45.42608228627453,
+  "lon": 5.9732247833333325
+ },
+ {
+  "nom": "LE FAYET",
+  "commune": "Barraux",
+  "code": "38027",
+  "lat": 45.42026263951613,
+  "lon": 5.971119474999999,
+  "dist_km": 4.75
+ },
+ {
+  "nom": "RENEVIER",
+  "commune": "Barraux",
+  "code": "38027",
+  "lat": 45.43039101818182,
+  "lon": 5.993924759740261
+ },
+ {
+  "nom": "LA MURE",
+  "commune": "Barraux",
+  "code": "38027",
+  "lat": 45.43230315087718,
+  "lon": 5.991011056140352
+ },
+ {
+  "nom": "LES BRUYERES",
+  "commune": "Barraux",
+  "code": "38027",
+  "lat": 45.442378534538115,
+  "lon": 5.9961730200803185
+ },
+ {
+  "nom": "LA FOURNACHE ET CHAMP CARPIN",
+  "commune": "Barraux",
+  "code": "38027",
+  "lat": 45.44156586704547,
+  "lon": 5.98722447840909
+ },
+ {
+  "nom": "LA GACHE",
+  "commune": "Barraux",
+  "code": "38027",
+  "lat": 45.43885105454545,
+  "lon": 5.998386896103897
+ },
+ {
+  "nom": "LA MALADIERE",
+  "commune": "Barraux",
+  "code": "38027",
+  "lat": 45.43970427424243,
+  "lon": 5.986274477272727
+ },
+ {
+  "nom": "LA VERSANNE",
+  "commune": "Barraux",
+  "code": "38027",
+  "lat": 45.44105681250001,
+  "lon": 5.989639512499999
+ },
+ {
+  "nom": "LA COURIA",
+  "commune": "Barraux",
+  "code": "38027",
+  "lat": 45.4378354,
+  "lon": 5.995345375757576
+ },
+ {
+  "nom": "LES PLACETTES",
+  "commune": "Barraux",
+  "code": "38027",
+  "lat": 45.45241037391305,
+  "lon": 5.988664211956524
+ },
+ {
+  "nom": "PLAN PREVILLE",
+  "commune": "Barraux",
+  "code": "38027",
+  "lat": 45.45053491309525,
+  "lon": 5.994723578571429
+ },
+ {
+  "nom": "RENEVIER",
+  "commune": "La Buissiere",
+  "code": "38062",
+  "lat": 45.42448317058822,
+  "lon": 5.995293291666665
+ },
+ {
+  "nom": "LES SALEES",
+  "commune": "La Buissiere",
+  "code": "38062",
+  "lat": 45.425973462666676,
+  "lon": 5.986510364000003
+ },
+ {
+  "nom": "RENEVIER-OUEST",
+  "commune": "La Buissiere",
+  "code": "38062",
+  "lat": 45.42997984507042,
+  "lon": 5.987701139436618
+ },
+ {
+  "nom": "LES ESSARDS",
+  "commune": "La Buissiere",
+  "code": "38062",
+  "lat": 45.42106888622758,
+  "lon": 5.99645643233533
+ },
+ {
+  "nom": "PELLAFAUX",
+  "commune": "La Buissiere",
+  "code": "38062",
+  "lat": 45.41565481258279,
+  "lon": 5.994847549668874
+ },
+ {
+  "nom": "LA CHAUX",
+  "commune": "La Buissiere",
+  "code": "38062",
+  "lat": 45.422410506956524,
+  "lon": 5.985860959130437
+ },
+ {
+  "nom": "LA MALADIERE",
+  "commune": "La Buissiere",
+  "code": "38062",
+  "lat": 45.41958748090908,
+  "lon": 5.9867841109090945
+ },
+ {
+  "nom": "PRE PERRET",
+  "commune": "La Buissiere",
+  "code": "38062",
+  "lat": 45.421196259,
+  "lon": 5.991855789000002
+ },
+ {
+  "nom": "ECHEDOZ",
+  "commune": "La Buissiere",
+  "code": "38062",
+  "lat": 45.41393849071429,
+  "lon": 5.9836214978571425
+ },
+ {
+  "nom": "LES CHARMETTES",
+  "commune": "La Buissiere",
+  "code": "38062",
+  "lat": 45.415394263207546,
+  "lon": 5.985996622641509
+ },
+ {
+  "nom": "LE PONTET",
+  "commune": "La Buissiere",
+  "code": "38062",
+  "lat": 45.412254181512594,
+  "lon": 5.992883656302517
+ },
+ {
+  "nom": "LES ILES",
+  "commune": "La Buissiere",
+  "code": "38062",
+  "lat": 45.409371572807,
+  "lon": 5.998022316666669
+ },
+ {
+  "nom": "SAUGY - ET - CARRAILLOUX",
+  "commune": "La Buissiere",
+  "code": "38062",
+  "lat": 45.40531971507538,
+  "lon": 5.993642747738691
+ },
+ {
+  "nom": "CLOS BACHALIER",
+  "commune": "La Buissiere",
+  "code": "38062",
+  "lat": 45.40750578773585,
+  "lon": 5.9824165047169835
+ },
+ {
+  "nom": "LA CROSSE",
+  "commune": "La Buissiere",
+  "code": "38062",
+  "lat": 45.40633650534351,
+  "lon": 5.989750777862596
+ },
+ {
+  "nom": "GAYETTES ET RAFOUR",
+  "commune": "La Buissiere",
+  "code": "38062",
+  "lat": 45.40840437368421,
+  "lon": 5.990136140350879
+ },
+ {
+  "nom": "BERARDE",
+  "commune": "La Buissiere",
+  "code": "38062",
+  "lat": 45.40934922941177,
+  "lon": 5.984943479411766
+ },
+ {
+  "nom": "COMBE ET PRE DE RONDE",
+  "commune": "La Buissiere",
+  "code": "38062",
+  "lat": 45.41013018051948,
+  "lon": 5.981171142857138
+ },
+ {
+  "nom": "VILLAGE DES GRANGES",
+  "commune": "La Buissiere",
+  "code": "38062",
+  "lat": 45.40238661028038,
+  "lon": 5.9790878962616825
+ },
+ {
+  "nom": "PEYRAT",
+  "commune": "La Buissiere",
+  "code": "38062",
+  "lat": 45.39939208035713,
+  "lon": 5.979785116071428,
+  "dist_km": 5.15
+ },
+ {
+  "nom": "MAYARD",
+  "commune": "La Buissiere",
+  "code": "38062",
+  "lat": 45.404221220879116,
+  "lon": 5.981265242857143
+ },
+ {
+  "nom": "PRE MOREAU",
+  "commune": "La Buissiere",
+  "code": "38062",
+  "lat": 45.40654809145298,
+  "lon": 5.981721645299145
+ },
+ {
+  "nom": "RENAUDON",
+  "commune": "La Buissiere",
+  "code": "38062",
+  "lat": 45.401960973846165,
+  "lon": 5.980601473846153
+ },
+ {
+  "nom": "LA CORVAT",
+  "commune": "La Buissiere",
+  "code": "38062",
+  "lat": 45.4012947883721,
+  "lon": 5.982052590697673
+ },
+ {
+  "nom": "LE CHARDONET",
+  "commune": "La Buissiere",
+  "code": "38062",
+  "lat": 45.402647376712316,
+  "lon": 5.981981938356165
+ },
+ {
+  "nom": "CLEYETTAZ",
+  "commune": "La Buissiere",
+  "code": "38062",
+  "lat": 45.40056196764707,
+  "lon": 5.986408786764707
+ },
+ {
+  "nom": "LES EPINAYS",
+  "commune": "La Buissiere",
+  "code": "38062",
+  "lat": 45.398858130487795,
+  "lon": 5.990563191463416
+ },
+ {
+  "nom": "CARAILLOUX",
+  "commune": "La Buissiere",
+  "code": "38062",
+  "lat": 45.40156222280703,
+  "lon": 5.993062253508776
+ },
+ {
+  "nom": "PRE CARRE ET PRE LONG",
+  "commune": "La Buissiere",
+  "code": "38062",
+  "lat": 45.40305007948718,
+  "lon": 5.9880076589743565
+ },
+ {
+  "nom": "ARTICOL",
+  "commune": "La Buissiere",
+  "code": "38062",
+  "lat": 45.39672236153847,
+  "lon": 5.982632878461539
+ },
+ {
+  "nom": "PILON",
+  "commune": "La Buissiere",
+  "code": "38062",
+  "lat": 45.394800384,
+  "lon": 5.977763272
+ },
+ {
+  "nom": "ROMAT",
+  "commune": "La Buissiere",
+  "code": "38062",
+  "lat": 45.39663389210527,
+  "lon": 5.9790275789473695
+ },
+ {
+  "nom": "GRAND ARTICOL",
+  "commune": "La Buissiere",
+  "code": "38062",
+  "lat": 45.39514113541667,
+  "lon": 5.984520558333333
+ },
+ {
+  "nom": "PETIT ARTICOL",
+  "commune": "La Buissiere",
+  "code": "38062",
+  "lat": 45.39250267419356,
+  "lon": 5.98838126451613
+ },
+ {
+  "nom": "MOYEN ARTICOL",
+  "commune": "La Buissiere",
+  "code": "38062",
+  "lat": 45.392311615662656,
+  "lon": 5.993971287951806
+ },
+ {
+  "nom": "LES MAILLARDES",
+  "commune": "La Buissiere",
+  "code": "38062",
+  "lat": 45.405751588000015,
+  "lon": 5.976437734999999
+ },
+ {
+  "nom": "LE BOURGEAT",
+  "commune": "La Buissiere",
+  "code": "38062",
+  "lat": 45.40674045503357,
+  "lon": 5.971680166442953
+ },
+ {
+  "nom": "LE BOISSIEU",
+  "commune": "La Buissiere",
+  "code": "38062",
+  "lat": 45.40867560188683,
+  "lon": 5.96987504377359
+ },
+ {
+  "nom": "LES PLANTEES",
+  "commune": "La Buissiere",
+  "code": "38062",
+  "lat": 45.4087964746988,
+  "lon": 5.974079460240963
+ },
+ {
+  "nom": "LES RONDES",
+  "commune": "La Buissiere",
+  "code": "38062",
+  "lat": 45.41334085992367,
+  "lon": 5.976055079770992
+ },
+ {
+  "nom": "LE PARADIS",
+  "commune": "La Buissiere",
+  "code": "38062",
+  "lat": 45.41434055762711,
+  "lon": 5.977831630508474
+ },
+ {
+  "nom": "CHATEAU DAUPHIN",
+  "commune": "La Buissiere",
+  "code": "38062",
+  "lat": 45.41141124958679,
+  "lon": 5.978899532231407
+ },
+ {
+  "nom": "LES BRIGOUDES",
+  "commune": "La Buissiere",
+  "code": "38062",
+  "lat": 45.41662673361343,
+  "lon": 5.978999518487395
+ },
+ {
+  "nom": "NIBLET",
+  "commune": "La Buissiere",
+  "code": "38062",
+  "lat": 45.41627691311475,
+  "lon": 5.980130101639348
+ },
+ {
+  "nom": "LA PAPETTE",
+  "commune": "La Buissiere",
+  "code": "38062",
+  "lat": 45.42023400072992,
+  "lon": 5.98137744160584
+ },
+ {
+  "nom": "LE CLOS",
+  "commune": "La Buissiere",
+  "code": "38062",
+  "lat": 45.39740664886364,
+  "lon": 5.975172702272727
+ },
+ {
+  "nom": "MERICOMBE",
+  "commune": "La Buissiere",
+  "code": "38062",
+  "lat": 45.39667616241135,
+  "lon": 5.971426602836884
+ },
+ {
+  "nom": "LES BAYETTES",
+  "commune": "La Buissiere",
+  "code": "38062",
+  "lat": 45.3984607243421,
+  "lon": 5.972921146710526
+ },
+ {
+  "nom": "LE BOUCONNET",
+  "commune": "La Buissiere",
+  "code": "38062",
+  "lat": 45.40491465977014,
+  "lon": 5.972597492528735
+ },
+ {
+  "nom": "LES CAPITAINES",
+  "commune": "La Buissiere",
+  "code": "38062",
+  "lat": 45.40232236728392,
+  "lon": 5.974850011111113
+ },
+ {
+  "nom": "VILLAGE DES GRANGES",
+  "commune": "La Buissiere",
+  "code": "38062",
+  "lat": 45.40142001076923,
+  "lon": 5.976877134615385
+ },
+ {
+  "nom": "LA REVERCHY",
+  "commune": "La Buissiere",
+  "code": "38062",
+  "lat": 45.4013498285714,
+  "lon": 5.974112187755099
+ },
+ {
+  "nom": "LA COTE",
+  "commune": "La Buissiere",
+  "code": "38062",
+  "lat": 45.40104023678159,
+  "lon": 5.975751048275863
+ },
+ {
+  "nom": "RENEVIER",
+  "commune": "La Buissiere",
+  "code": "38062",
+  "lat": 45.427684832,
+  "lon": 5.9903971991999985
+ },
+ {
+  "nom": "LES SALEES",
+  "commune": "La Buissiere",
+  "code": "38062",
+  "lat": 45.426011501785716,
+  "lon": 5.988106757142857
+ },
+ {
+  "nom": "ARTICOL",
+  "commune": "La Buissiere",
+  "code": "38062",
+  "lat": 45.39367120204082,
+  "lon": 5.980510910204081
+ },
+ {
+  "nom": "PETIT ARTICOL",
+  "commune": "La Buissiere",
+  "code": "38062",
+  "lat": 45.39123718958333,
+  "lon": 5.985675562499999
+ },
+ {
+  "nom": "PILON",
+  "commune": "La Buissiere",
+  "code": "38062",
+  "lat": 45.39361887575758,
+  "lon": 5.977354509090909
+ },
+ {
+  "nom": "GRAND ARTICOL",
+  "commune": "La Buissiere",
+  "code": "38062",
+  "lat": 45.39156382083334,
+  "lon": 5.982113833333333
+ },
+ {
+  "nom": "VILLETTE ET ROUA",
+  "commune": "Sainte-Marie-d'Alloix",
+  "code": "38417",
+  "lat": 45.3810118788889,
+  "lon": 5.965310917777778
+ },
+ {
+  "nom": "BUCHET",
+  "commune": "Sainte-Marie-d'Alloix",
+  "code": "38417",
+  "lat": 45.37821463131868,
+  "lon": 5.961776021978022
+ },
+ {
+  "nom": "SAINTE-MARIE ET BUCHET",
+  "commune": "Sainte-Marie-d'Alloix",
+  "code": "38417",
+  "lat": 45.37820629052631,
+  "lon": 5.968165462105264
+ },
+ {
+  "nom": "LONG JARRET",
+  "commune": "Sainte-Marie-d'Alloix",
+  "code": "38417",
+  "lat": 45.37815247894737,
+  "lon": 5.9714312052631575
+ },
+ {
+  "nom": "LE BOURGEAT",
+  "commune": "Sainte-Marie-d'Alloix",
+  "code": "38417",
+  "lat": 45.38244683823529,
+  "lon": 5.970497861764707
+ },
+ {
+  "nom": "BESSET ET CHABOU",
+  "commune": "Sainte-Marie-d'Alloix",
+  "code": "38417",
+  "lat": 45.38434905865385,
+  "lon": 5.9656192403846156
+ },
+ {
+  "nom": "LE VILLARD",
+  "commune": "Sainte-Marie-d'Alloix",
+  "code": "38417",
+  "lat": 45.386893679999986,
+  "lon": 5.970689538666666
+ },
+ {
+  "nom": "FALCOIN",
+  "commune": "Sainte-Marie-d'Alloix",
+  "code": "38417",
+  "lat": 45.3880202221154,
+  "lon": 5.969307141346154
+ },
+ {
+  "nom": "JACQUEMIÈRE",
+  "commune": "Sainte-Marie-d'Alloix",
+  "code": "38417",
+  "lat": 45.38438953921569,
+  "lon": 5.96897449215686
+ },
+ {
+  "nom": "LE CASSON",
+  "commune": "Sainte-Marie-d'Alloix",
+  "code": "38417",
+  "lat": 45.383545836,
+  "lon": 5.972515480000001
+ },
+ {
+  "nom": "LE VILLARD",
+  "commune": "Sainte-Marie-d'Alloix",
+  "code": "38417",
+  "lat": 45.39281539263158,
+  "lon": 5.971884655789474
+ },
+ {
+  "nom": "ARTICOL",
+  "commune": "Sainte-Marie-d'Alloix",
+  "code": "38417",
+  "lat": 45.3805939878788,
+  "lon": 5.985913407575758
+ },
+ {
+  "nom": "LES MARAIS",
+  "commune": "Sainte-Marie-d'Alloix",
+  "code": "38417",
+  "lat": 45.3819125755102,
+  "lon": 5.979592248979589
+ },
+ {
+  "nom": "LA COMMUNE",
+  "commune": "Sainte-Marie-d'Alloix",
+  "code": "38417",
+  "lat": 45.38134500958905,
+  "lon": 5.978572712328767
+ },
+ {
+  "nom": "LE CASSON",
+  "commune": "Sainte-Marie-d'Alloix",
+  "code": "38417",
+  "lat": 45.38772836666667,
+  "lon": 5.974708887878788
+ },
+ {
+  "nom": "LA CULAZ",
+  "commune": "Sainte-Marie-d'Alloix",
+  "code": "38417",
+  "lat": 45.382542267307684,
+  "lon": 5.976658678846154
+ },
+ {
+  "nom": "PRE BATTARD",
+  "commune": "Sainte-Marie-d'Alloix",
+  "code": "38417",
+  "lat": 45.38402170714286,
+  "lon": 5.975816435714286
+ },
+ {
+  "nom": "LES PERRAILLES",
+  "commune": "Sainte-Marie-d'Alloix",
+  "code": "38417",
+  "lat": 45.379248457142864,
+  "lon": 5.974741928571427
+ },
+ {
+  "nom": "PRE MAUDIT",
+  "commune": "Sainte-Marie-d'Alloix",
+  "code": "38417",
+  "lat": 45.376426368333334,
+  "lon": 5.974471193333333
+ },
+ {
+  "nom": "LA BOURGEAT",
+  "commune": "Sainte-Marie-d'Alloix",
+  "code": "38417",
+  "lat": 45.3816105075,
+  "lon": 5.973990500000001
+ },
+ {
+  "nom": "LE CHÊNE",
+  "commune": "Sainte-Marie-d'Alloix",
+  "code": "38417",
+  "lat": 45.38735500000001,
+  "lon": 5.977998
+ },
+ {
+  "nom": "LES COTTES",
+  "commune": "Saint-Vincent-de-Mercuze",
+  "code": "38466",
+  "lat": 45.37820590858683,
+  "lon": 5.941256768694098
+ },
+ {
+  "nom": "L'ENVERS",
+  "commune": "Saint-Vincent-de-Mercuze",
+  "code": "38466",
+  "lat": 45.38706380581395,
+  "lon": 5.942457849999998
+ },
+ {
+  "nom": "LA COMBE",
+  "commune": "Saint-Vincent-de-Mercuze",
+  "code": "38466",
+  "lat": 45.382911709375,
+  "lon": 5.9528286656250025
+ },
+ {
+  "nom": "LES PLANTEES",
+  "commune": "Saint-Vincent-de-Mercuze",
+  "code": "38466",
+  "lat": 45.38030619684812,
+  "lon": 5.947563489111749
+ },
+ {
+  "nom": "GLANDAMIE",
+  "commune": "Saint-Vincent-de-Mercuze",
+  "code": "38466",
+  "lat": 45.37976961464645,
+  "lon": 5.9511998934343415
+ },
+ {
+  "nom": "L'EGLISE",
+  "commune": "Saint-Vincent-de-Mercuze",
+  "code": "38466",
+  "lat": 45.37705078333337,
+  "lon": 5.945475396212122
+ },
+ {
+  "nom": "LA FUMAS",
+  "commune": "Saint-Vincent-de-Mercuze",
+  "code": "38466",
+  "lat": 45.37399162586207,
+  "lon": 5.9533145620689645
+ },
+ {
+  "nom": "SAINT - VINCENT",
+  "commune": "Saint-Vincent-de-Mercuze",
+  "code": "38466",
+  "lat": 45.37301853376625,
+  "lon": 5.9510049746753255
+ },
+ {
+  "nom": "LE MONDE - VIEUX",
+  "commune": "Saint-Vincent-de-Mercuze",
+  "code": "38466",
+  "lat": 45.37680878571429,
+  "lon": 5.950682979365078
+ },
+ {
+  "nom": "CHAMPCORNU",
+  "commune": "Saint-Vincent-de-Mercuze",
+  "code": "38466",
+  "lat": 45.374612661797755,
+  "lon": 5.950223604494381
+ },
+ {
+  "nom": "LES MEUNIERES",
+  "commune": "Saint-Vincent-de-Mercuze",
+  "code": "38466",
+  "lat": 45.375573299999985,
+  "lon": 5.958926916
+ },
+ {
+  "nom": "LA GRANDE TERRE",
+  "commune": "Saint-Vincent-de-Mercuze",
+  "code": "38466",
+  "lat": 45.37706280845069,
+  "lon": 5.961343687323946
+ },
+ {
+  "nom": "LA TOUR",
+  "commune": "Saint-Vincent-de-Mercuze",
+  "code": "38466",
+  "lat": 45.37735806685084,
+  "lon": 5.954713948066298
+ },
+ {
+  "nom": "LA BERANGERE",
+  "commune": "Saint-Vincent-de-Mercuze",
+  "code": "38466",
+  "lat": 45.375229096330266,
+  "lon": 5.9566355412844
+ },
+ {
+  "nom": "LA BRANCHY",
+  "commune": "Saint-Vincent-de-Mercuze",
+  "code": "38466",
+  "lat": 45.370287993360975,
+  "lon": 5.954504380912864
+ },
+ {
+  "nom": "LA RIVOIRE",
+  "commune": "Saint-Vincent-de-Mercuze",
+  "code": "38466",
+  "lat": 45.36853527326734,
+  "lon": 5.954422112376233
+ },
+ {
+  "nom": "LES ROTYS",
+  "commune": "Saint-Vincent-de-Mercuze",
+  "code": "38466",
+  "lat": 45.36796717243244,
+  "lon": 5.953221895135133
+ },
+ {
+  "nom": "L'HAUSSIPIED",
+  "commune": "Saint-Vincent-de-Mercuze",
+  "code": "38466",
+  "lat": 45.371938674999996,
+  "lon": 5.958126276190476
+ },
+ {
+  "nom": "LES RIVOIRATES",
+  "commune": "Saint-Vincent-de-Mercuze",
+  "code": "38466",
+  "lat": 45.372238256886256,
+  "lon": 5.955587014371255
+ },
+ {
+  "nom": "COTTANCHE",
+  "commune": "Saint-Vincent-de-Mercuze",
+  "code": "38466",
+  "lat": 45.37087166119404,
+  "lon": 5.947427705223883
+ },
+ {
+  "nom": "LE ROUX",
+  "commune": "Saint-Vincent-de-Mercuze",
+  "code": "38466",
+  "lat": 45.372689916931215,
+  "lon": 5.944791797883599
+ },
+ {
+  "nom": "TORTIER",
+  "commune": "Saint-Vincent-de-Mercuze",
+  "code": "38466",
+  "lat": 45.37027064835166,
+  "lon": 5.948682583516484
+ },
+ {
+  "nom": "PLAN SIMON",
+  "commune": "Saint-Vincent-de-Mercuze",
+  "code": "38466",
+  "lat": 45.37460255714288,
+  "lon": 5.945753323809525
+ },
+ {
+  "nom": "TIONNET",
+  "commune": "Saint-Vincent-de-Mercuze",
+  "code": "38466",
+  "lat": 45.374569699999995,
+  "lon": 5.947122663207545
+ },
+ {
+  "nom": "VARRET",
+  "commune": "Saint-Vincent-de-Mercuze",
+  "code": "38466",
+  "lat": 45.37107420458715,
+  "lon": 5.945382333944957
+ },
+ {
+  "nom": "ABERGEMENT",
+  "commune": "Saint-Vincent-de-Mercuze",
+  "code": "38466",
+  "lat": 45.36449456970954,
+  "lon": 5.961393451037347
+ },
+ {
+  "nom": "TIRE-POIX",
+  "commune": "Saint-Vincent-de-Mercuze",
+  "code": "38466",
+  "lat": 45.36676413132531,
+  "lon": 5.9586622084337355
+ },
+ {
+  "nom": "CHASSOTTES",
+  "commune": "Saint-Vincent-de-Mercuze",
+  "code": "38466",
+  "lat": 45.36476781382978,
+  "lon": 5.9651187031914885
+ },
+ {
+  "nom": "DELINET",
+  "commune": "Saint-Vincent-de-Mercuze",
+  "code": "38466",
+  "lat": 45.365709012999986,
+  "lon": 5.960921431000003
+ },
+ {
+  "nom": "LA PLAN",
+  "commune": "Saint-Vincent-de-Mercuze",
+  "code": "38466",
+  "lat": 45.36968350719999,
+  "lon": 5.962608076
+ },
+ {
+  "nom": "PERROTTE",
+  "commune": "Saint-Vincent-de-Mercuze",
+  "code": "38466",
+  "lat": 45.36736528644068,
+  "lon": 5.965976093220339
+ },
+ {
+  "nom": "LA COMBE",
+  "commune": "Saint-Vincent-de-Mercuze",
+  "code": "38466",
+  "lat": 45.370576064999995,
+  "lon": 5.966711988999998
+ },
+ {
+  "nom": "LES CORREES",
+  "commune": "Saint-Vincent-de-Mercuze",
+  "code": "38466",
+  "lat": 45.36915944285713,
+  "lon": 5.965929594444442
+ },
+ {
+  "nom": "LA PATE",
+  "commune": "Saint-Vincent-de-Mercuze",
+  "code": "38466",
+  "lat": 45.36808518965517,
+  "lon": 5.962492619540226
+ },
+ {
+  "nom": "LA GALERE",
+  "commune": "Saint-Vincent-de-Mercuze",
+  "code": "38466",
+  "lat": 45.3686643556962,
+  "lon": 5.968444413924047
+ },
+ {
+  "nom": "AU REVOU",
+  "commune": "Saint-Vincent-de-Mercuze",
+  "code": "38466",
+  "lat": 45.3739213744681,
+  "lon": 5.96581410212766
+ },
+ {
+  "nom": "SOUS LES COTES",
+  "commune": "Saint-Vincent-de-Mercuze",
+  "code": "38466",
+  "lat": 45.373781804729724,
+  "lon": 5.969887416216216
+ },
+ {
+  "nom": "VIGNES D'ALLOIX",
+  "commune": "Saint-Vincent-de-Mercuze",
+  "code": "38466",
+  "lat": 45.37652456830986,
+  "lon": 5.967727049295771
+ },
+ {
+  "nom": "LE PLAN - BIS",
+  "commune": "Saint-Vincent-de-Mercuze",
+  "code": "38466",
+  "lat": 45.375246570348786,
+  "lon": 5.9664306046511655
+ },
+ {
+  "nom": "L'ESSARD",
+  "commune": "Saint-Vincent-de-Mercuze",
+  "code": "38466",
+  "lat": 45.361660550684924,
+  "lon": 5.9683448369863
+ },
+ {
+  "nom": "LA BERCHE",
+  "commune": "Saint-Vincent-de-Mercuze",
+  "code": "38466",
+  "lat": 45.360846851497,
+  "lon": 5.966332950299401
+ },
+ {
+  "nom": "GRANDE TERRE",
+  "commune": "Saint-Vincent-de-Mercuze",
+  "code": "38466",
+  "lat": 45.359278491608386,
+  "lon": 5.968676493006992
+ },
+ {
+  "nom": "LA PRA",
+  "commune": "Saint-Vincent-de-Mercuze",
+  "code": "38466",
+  "lat": 45.363497871604935,
+  "lon": 5.9699748160493815
+ },
+ {
+  "nom": "PRE DES JUGES",
+  "commune": "Saint-Vincent-de-Mercuze",
+  "code": "38466",
+  "lat": 45.364347236206896,
+  "lon": 5.9718385086206895
+ },
+ {
+  "nom": "GRAND GLAIRON",
+  "commune": "Saint-Vincent-de-Mercuze",
+  "code": "38466",
+  "lat": 45.35922606049383,
+  "lon": 5.97766882839506
+ },
+ {
+  "nom": "LES ILES DU PORT",
+  "commune": "Saint-Vincent-de-Mercuze",
+  "code": "38466",
+  "lat": 45.362823585897445,
+  "lon": 5.971005933974361
+ },
+ {
+  "nom": "LES SABLIERES",
+  "commune": "Saint-Vincent-de-Mercuze",
+  "code": "38466",
+  "lat": 45.38931075822786,
+  "lon": 5.9467792335443
+ },
+ {
+  "nom": "MONTALIEU",
+  "commune": "Saint-Vincent-de-Mercuze",
+  "code": "38466",
+  "lat": 45.38621654130433,
+  "lon": 5.954621907826088
+ },
+ {
+  "nom": "LA BARDE",
+  "commune": "Saint-Vincent-de-Mercuze",
+  "code": "38466",
+  "lat": 45.38835522975207,
+  "lon": 5.957047114049586
+ },
+ {
+  "nom": "LES CASSARDES",
+  "commune": "Saint-Vincent-de-Mercuze",
+  "code": "38466",
+  "lat": 45.38918932647057,
+  "lon": 5.95562565882353
+ },
+ {
+  "nom": "LA DUY",
+  "commune": "Saint-Vincent-de-Mercuze",
+  "code": "38466",
+  "lat": 45.389325655056155,
+  "lon": 5.9535031983146105
+ },
+ {
+  "nom": "LA GORGE",
+  "commune": "Saint-Vincent-de-Mercuze",
+  "code": "38466",
+  "lat": 45.38742838802395,
+  "lon": 5.951746313173653
+ },
+ {
+  "nom": "LA CROLLE",
+  "commune": "Saint-Vincent-de-Mercuze",
+  "code": "38466",
+  "lat": 45.38916312761194,
+  "lon": 5.951030280597014
+ },
+ {
+  "nom": "LE GRAND PRE",
+  "commune": "Saint-Vincent-de-Mercuze",
+  "code": "38466",
+  "lat": 45.38942699785712,
+  "lon": 5.9598461300000025
+ },
+ {
+  "nom": "JASSARD",
+  "commune": "Saint-Vincent-de-Mercuze",
+  "code": "38466",
+  "lat": 45.388338352631614,
+  "lon": 5.962449690350877
+ },
+ {
+  "nom": "LES SERENES",
+  "commune": "Saint-Vincent-de-Mercuze",
+  "code": "38466",
+  "lat": 45.38642923869048,
+  "lon": 5.964011135714287
+ },
+ {
+  "nom": "LE BUCHET",
+  "commune": "Saint-Vincent-de-Mercuze",
+  "code": "38466",
+  "lat": 45.38051542243585,
+  "lon": 5.958064397435899
+ },
+ {
+  "nom": "LE BESSET",
+  "commune": "Saint-Vincent-de-Mercuze",
+  "code": "38466",
+  "lat": 45.38382861493777,
+  "lon": 5.959757003734435
+ },
+ {
+  "nom": "LA PALE",
+  "commune": "Saint-Vincent-de-Mercuze",
+  "code": "38466",
+  "lat": 45.38201340252522,
+  "lon": 5.9618998964646455
+ },
+ {
+  "nom": "LE REGONFLE",
+  "commune": "Saint-Vincent-de-Mercuze",
+  "code": "38466",
+  "lat": 45.3740296423077,
+  "lon": 5.9760134544871795
+ },
+ {
+  "nom": "LES ILES DU PORT",
+  "commune": "Saint-Vincent-de-Mercuze",
+  "code": "38466",
+  "lat": 45.36778798702288,
+  "lon": 5.9757625236641205
+ },
+ {
+  "nom": "PRENAS",
+  "commune": "Saint-Vincent-de-Mercuze",
+  "code": "38466",
+  "lat": 45.37080003987341,
+  "lon": 5.97385635
+ },
+ {
+  "nom": "PRE METRA",
+  "commune": "Saint-Vincent-de-Mercuze",
+  "code": "38466",
+  "lat": 45.36709299090911,
+  "lon": 5.970946772727274
+ },
+ {
+  "nom": "PRE DES JUGES",
+  "commune": "Saint-Vincent-de-Mercuze",
+  "code": "38466",
+  "lat": 45.364966598305095,
+  "lon": 5.9698186999999985
+ }
+]

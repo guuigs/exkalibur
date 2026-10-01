@@ -1,0 +1,137 @@
+==============================================================================================================
+RENNES-LE-CHATEAU 42.9272, 2.2627   (source OSM Nominatim) — 290 chateaux candidats
+==============================================================================================================
+
+### 1) Le chateau se trouve-t-il a ~11 lieues ? => LIEUE IMPLIQUEE = distance / 11
+(on ne garde que la bande 240-300 deg : 'vers le Couchant'. Une lieue impliquee qui
+ tombe sur une lieue historique attestee = indice FORT.)
+
+chateau                             km ortho   cap | l.ortho/11  l.merc/11 l.rhumb/11 | verdict
+Château de Puivert                      16.9   268 |  1.54(l.gauloise)  2.10(l.gauloise)  2.10(l.gauloise) |
+Château de Chalabre                     21.5   287 |  1.96(l.gauloise)  2.68(l.Beauce)  2.68(l.Beauce) |
+Château de Léran                        29.4   284 |  2.67(l.Beauce)  3.66(l.Paris/poste)  3.65(l.Paris/poste) |
+Château de Lagarde                      29.9   297 |  2.72(l.Beauce)  3.72(l.Paris/poste)  3.72(l.Paris/poste) |
+Château de Sibra                        30.4   295 |  2.76(l.Beauce)  3.78(l.Paris/poste*)  3.78(l.Paris/poste) |
+Château de Montaillou                   33.6   242 |  3.06(l.Beauce)  4.17(l.espagnole*)  4.17(l.espagnole*) |
+Château de Montségur                    35.5   261 |  3.23(l.Beauce*)  4.41(l.commune*)  4.41(l.commune*) |
+Château de Dun ruines                   39.2   288 |  3.57(l.Beauce)  4.88(l.Bourbonnais*)  4.88(l.Bourbonnais*) |
+Château de Roquefixade                  41.5   272 |  3.77(l.Paris/poste)  5.16(l.Bourgogne*)  5.15(l.Bourgogne*) |
+Château de Gargas                       41.8   291 |  3.80(l.Paris/poste*)  5.20(l.Bourgogne*)  5.20(l.Bourgogne*) |
+Château de Roques                       42.0   295 |  3.81(l.Paris/poste*)  5.22(l.Bourgogne*)  5.22(l.Bourgogne*) |
+Château de Lordat                       45.2   248 |  4.11(l.espagnole*)  5.61(l.marine*)  5.60(l.marine*) |
+Château de Gudanes                      50.1   252 |  4.55(l.Bretagne-Anjou*)  6.22(l.Gascogne-Provence)  6.21(l.Gascogne-Provence) |
+Chapelle de Lujat                       50.9   257 |  4.63(l.Maine-Poitou*)  6.33(l.Gascogne-Provence)  6.32(l.Gascogne-Provence) |
+Château de Fiches                       51.4   288 |  4.67(l.Maine-Poitou*)  6.39(l.Gascogne-Provence)  6.38(l.Gascogne-Provence) |
+Tour Ronde                              53.7   275 |  4.88(l.Bourbonnais*)  6.68(l.Gascogne-Provence)  6.67(l.Gascogne-Provence) |
+Château de Foix                         53.7   275 |  4.88(l.Bourbonnais*)  6.68(l.Gascogne-Provence)  6.67(l.Gascogne-Provence) |
+Château de Riveneuve du Bosc            54.5   294 |  4.95(l.belge*)  6.78(l.Gascogne-Provence)  6.77(l.Gascogne-Provence) |
+Château fortifié                        54.7   280 |  4.97(l.belge*)  6.80(l.Gascogne-Provence)  6.79(l.Gascogne-Provence) |
+Château de Lacombe                      56.4   262 |  5.13(l.Bourgogne*)  7.01(l.Gascogne-Provence)  7.00(l.Gascogne-Provence) |
+Château de Miglos                       56.7   255 |  5.15(l.Bourgogne*)  7.04(l.Gascogne-Provence)  7.03(l.Gascogne-Provence) |
+Château de Calamès                      57.7   264 |  5.25(l.Bourgogne*)  7.17(l.Gascogne-Provence)  7.17(l.Gascogne-Provence) |
+Tour de Montorgueil                     57.8   265 |  5.26(l.Bourgogne*)  7.18(l.Gascogne-Provence)  7.17(l.Gascogne-Provence) |
+Château de Bonnac                       60.5   296 |  5.50(l.marine*)  7.53(l.Gascogne-Provence)  7.53(l.Gascogne-Provence) |
+Château Rouzaud                         61.8   287 |  5.62(l.marine*)  7.69(l.Gascogne-Provence)  7.68(l.Gascogne-Provence) |
+Château vieux                           63.7   285 |  5.79(l.Gascogne-Provence*)  7.93(l.Gascogne-Provence)  7.92(l.Gascogne-Provence) |
+Château de Montréal-de-Sos              65.6   254 |  5.96(l.Gascogne-Provence*)  8.14(l.Gascogne-Provence)  8.13(l.Gascogne-Provence) |
+Château de la Hille                     66.5   285 |  6.05(l.Gascogne-Provence)  8.28(l.Gascogne-Provence)  8.27(l.Gascogne-Provence) |
+Château de Pailhès                      69.2   286 |  6.29(l.Gascogne-Provence)  8.62(l.Gascogne-Provence)  8.61(l.Gascogne-Provence) |
+Château Baranèze                        69.8   292 |  6.34(l.Gascogne-Provence)  8.69(l.Gascogne-Provence)  8.68(l.Gascogne-Provence) |
+Château de Justiniac                    70.0   297 |  6.37(l.Gascogne-Provence)  8.72(l.Gascogne-Provence)  8.71(l.Gascogne-Provence) |
+
+### 2) Toutes les unites : nombre de lieues pour les chateaux 'cathares' de la bande couchant
+chateau                            km  cap |  metrique |   commune |    marine | Paris/poste |    Beauce | Bretagne-Anjou |    Artois | Maine-Poitou | Bourbonnais | Bourgogne | Gascogne-Provence |     belge |  anglaise | espagnole |  gauloise
+Château de Puivert               16.9  268 |      4.23 |      3.80 |      3.04 |      4.34 |      5.10 |      3.77 |      4.25 |      3.64 |      3.49 |      3.26 |      2.89 |      3.38 |      3.50 |      4.04 |      7.61
+Château de Chalabre              21.5  287 |      5.39 |      4.85 |      3.88 |      5.53 |      6.50 |      4.81 |      5.42 |      4.65 |      4.45 |      4.16 |      3.68 |      4.31 |      4.46 |      5.15 |      9.70
+Château de Léran                 29.4  284 |      7.35 |      6.62 |      5.29 |      7.55 |      8.88 |      6.56 |      7.40 |      6.34 |      6.08 |      5.68 |      5.03 |      5.88 |      6.09 |      7.04 |     13.24
+Château de Lagarde               29.9  297 |      7.48 |      6.73 |      5.39 |      7.68 |      9.03 |      6.67 |      7.53 |      6.45 |      6.18 |      5.78 |      5.12 |      5.98 |      6.20 |      7.16 |     13.47
+Château de Sibra                 30.4  295 |      7.60 |      6.84 |      5.47 |      7.80 |      9.18 |      6.78 |      7.65 |      6.56 |      6.28 |      5.87 |      5.20 |      6.08 |      6.30 |      7.28 |     13.69
+Château de Montaillou            33.6  242 |      8.40 |      7.56 |      6.05 |      8.62 |     10.15 |      7.50 |      8.46 |      7.25 |      6.95 |      6.49 |      5.75 |      6.72 |      6.96 |      8.04 |     15.13
+Château de Montségur             35.5  261 |      8.88 |      7.99 |      6.39 |      9.11 |     10.72 |      7.92 |      8.93 |      7.66 |      7.34 |      6.86 |      6.07 |      7.10 |      7.35 |      8.50 |     15.98
+Château de Dun ruines            39.2  288 |      9.81 |      8.83 |      7.06 |     10.07 |     11.85 |      8.75 |      9.87 |      8.46 |      8.11 |      7.58 |      6.71 |      7.85 |      8.13 |      9.39 |     17.66
+Château de Roquefixade           41.5  272 |     10.37 |      9.34 |      7.47 |     10.65 |     12.53 |      9.26 |     10.44 |      8.95 |      8.58 |      8.02 |      7.10 |      8.30 |      8.60 |      9.93 |     18.68
+Château de Gargas                41.8  291 |     10.46 |      9.41 |      7.53 |     10.73 |     12.63 |      9.33 |     10.52 |      9.02 |      8.64 |      8.08 |      7.15 |      8.37 |      8.66 |     10.01 |     18.82
+Château de Roques                42.0  295 |     10.49 |      9.44 |      7.55 |     10.77 |     12.67 |      9.36 |     10.56 |      9.05 |      8.67 |      8.11 |      7.18 |      8.39 |      8.69 |     10.04 |     18.89
+Château de Lordat                45.2  248 |     11.30 |     10.17 |      8.13 |     11.59 |     13.64 |     10.08 |     11.37 |      9.74 |      9.34 |      8.73 |      7.73 |      9.04 |      9.36 |     10.81 |     20.33
+Château de Gudanes               50.1  252 |     12.52 |     11.27 |      9.02 |     12.85 |     15.12 |     11.17 |     12.60 |     10.80 |     10.35 |      9.68 |      8.57 |     10.02 |     10.37 |     11.98 |     22.54
+Chapelle de Lujat                50.9  257 |     12.74 |     11.46 |      9.17 |     13.07 |     15.38 |     11.36 |     12.82 |     10.99 |     10.53 |      9.84 |      8.71 |     10.19 |     10.55 |     12.19 |     22.93
+Château de Fiches                51.4  288 |     12.84 |     11.56 |      9.25 |     13.18 |     15.50 |     11.46 |     12.92 |     11.08 |     10.62 |      9.92 |      8.79 |     10.27 |     10.64 |     12.29 |     23.12
+Tour Ronde                       53.7  275 |     13.43 |     12.09 |      9.67 |     13.78 |     16.22 |     11.98 |     13.51 |     11.59 |     11.10 |     10.38 |      9.19 |     10.74 |     11.13 |     12.85 |     24.18
+Château de Foix                  53.7  275 |     13.43 |     12.09 |      9.67 |     13.78 |     16.22 |     11.98 |     13.52 |     11.59 |     11.10 |     10.38 |      9.19 |     10.75 |     11.13 |     12.85 |     24.18
+Château de Riveneuve du Bosc     54.5  294 |     13.61 |     12.25 |      9.80 |     13.97 |     16.44 |     12.15 |     13.70 |     11.74 |     11.25 |     10.52 |      9.31 |     10.89 |     11.28 |     13.03 |     24.51
+Château fortifié                 54.7  280 |     13.67 |     12.30 |      9.84 |     14.03 |     16.51 |     12.20 |     13.76 |     11.79 |     11.30 |     10.56 |      9.35 |     10.94 |     11.33 |     13.08 |     24.61
+Château de Lacombe               56.4  262 |     14.11 |     12.70 |     10.16 |     14.48 |     17.03 |     12.59 |     14.20 |     12.17 |     11.66 |     10.90 |      9.65 |     11.29 |     11.69 |     13.50 |     25.40
+Château de Miglos                56.7  255 |     14.17 |     12.75 |     10.20 |     14.54 |     17.11 |     12.64 |     14.26 |     12.22 |     11.71 |     10.95 |      9.69 |     11.33 |     11.74 |     13.56 |     25.50
+Château de Calamès               57.7  264 |     14.44 |     12.99 |     10.39 |     14.81 |     17.43 |     12.88 |     14.53 |     12.45 |     11.93 |     11.15 |      9.88 |     11.55 |     11.96 |     13.82 |     25.99
+Tour de Montorgueil              57.8  265 |     14.45 |     13.01 |     10.41 |     14.83 |     17.45 |     12.89 |     14.54 |     12.47 |     11.95 |     11.17 |      9.89 |     11.56 |     11.97 |     13.83 |     26.02
+Château de Bonnac                60.5  296 |     15.12 |     13.61 |     10.89 |     15.52 |     18.26 |     13.50 |     15.22 |     13.05 |     12.50 |     11.69 |     10.35 |     12.10 |     12.53 |     14.47 |     27.23
+Château Rouzaud                  61.8  287 |     15.44 |     13.90 |     11.12 |     15.85 |     18.65 |     13.78 |     15.54 |     13.32 |     12.77 |     11.93 |     10.57 |     12.36 |     12.80 |     14.78 |     27.80
+Château vieux                    63.7  285 |     15.92 |     14.33 |     11.47 |     16.34 |     19.23 |     14.21 |     16.02 |     13.74 |     13.16 |     12.30 |     10.89 |     12.74 |     13.19 |     15.24 |     28.67
+Château de Montréal-de-Sos       65.6  254 |     16.40 |     14.76 |     11.81 |     16.83 |     19.80 |     14.64 |     16.51 |     14.15 |     13.56 |     12.67 |     11.22 |     13.12 |     13.59 |     15.70 |     29.53
+Château de la Hille              66.5  285 |     16.63 |     14.96 |     11.97 |     17.06 |     20.07 |     14.83 |     16.73 |     14.34 |     13.74 |     12.85 |     11.37 |     13.30 |     13.77 |     15.91 |     29.93
+Château de Pailhès               69.2  286 |     17.31 |     15.58 |     12.46 |     17.76 |     20.90 |     15.44 |     17.42 |     14.93 |     14.31 |     13.37 |     11.84 |     13.85 |     14.34 |     16.56 |     31.16
+Château Baranèze                 69.8  292 |     17.44 |     15.70 |     12.56 |     17.90 |     21.06 |     15.57 |     17.55 |     15.05 |     14.42 |     13.48 |     11.93 |     13.96 |     14.45 |     16.69 |     31.40
+Château de Justiniac             70.0  297 |     17.51 |     15.75 |     12.60 |     17.96 |     21.14 |     15.62 |     17.62 |     15.10 |     14.47 |     13.53 |     11.98 |     14.01 |     14.50 |     16.75 |     31.51
+
+### 3) Les autres metriques (degres, longitude) : nombre de 'lieues de 25 au degre'
+  * dlon_deg : ecart de longitude seul, en lieues de 1/25 deg (lecture directe du meridien/longitude)
+  * naive_deg: sqrt(dlat^2+dlon^2) en degres -> lieues de 1/25 deg (carte 'plate carree')
+  * merc_plan/4.4448 : on mesure la droite sur la carte Mercator et on divise par 4,4448 km
+chateau                            km  cap | dlon_lieues naive_lieues merc/4.4448
+Château de Puivert               16.9  268 |        5.19         5.19        5.20
+Château de Chalabre              21.5  287 |        6.33         6.49        6.63
+Château de Léran                 29.4  284 |        8.78         8.92        9.05
+Château de Lagarde               29.9  297 |        8.17         8.74        9.21
+Château de Sibra                 30.4  295 |        8.47         8.95        9.36
+Château de Montaillou            33.6  242 |        9.13         9.78       10.33
+Château de Montségur             35.5  261 |       10.76        10.83       10.92
+Château de Dun ruines            39.2  288 |       11.51        11.81       12.08
+Château de Roquefixade           41.5  272 |       12.74        12.74       12.77
+Château de Gargas                41.8  291 |       12.02        12.48       12.88
+Château de Roques                42.0  295 |       11.71        12.36       12.92
+Château de Lordat                45.2  248 |       12.86        13.40       13.88
+Château de Gudanes               50.1  252 |       14.56        15.00       15.39
+Chapelle de Lujat                50.9  257 |       15.20        15.43       15.66
+Château de Fiches                51.4  288 |       15.06        15.46       15.82
+Tour Ronde                       53.7  275 |       16.45        16.48       16.53
+Château de Foix                  53.7  275 |       16.45        16.48       16.53
+Château de Riveneuve du Bosc     54.5  294 |       15.27        16.08       16.78
+Château fortifié                 54.7  280 |       16.56        16.69       16.83
+Château de Lacombe               56.4  262 |       17.14        17.24       17.35
+Château de Miglos                56.7  255 |       16.80        17.12       17.41
+Château de Calamès               57.7  264 |       17.61        17.67       17.76
+Tour de Montorgueil              57.8  265 |       17.67        17.71       17.78
+Château de Bonnac                60.5  296 |       16.75        17.77       18.65
+Château Rouzaud                  61.8  287 |       18.16        18.61       19.03
+Château vieux                    63.7  285 |       18.94        19.29       19.62
+Château de Montréal-de-Sos       65.6  254 |       19.33        19.76       20.15
+Château de la Hille              66.5  285 |       19.78        20.14       20.48
+Château de Pailhès               69.2  286 |       20.44        20.90       21.33
+Château Baranèze                 69.8  292 |       19.94        20.77       21.51
+Château de Justiniac             70.0  297 |       19.29        20.53       21.59
+
+### 4) Points situes a 11 lieues EXACTEMENT a l'ouest, selon 3 lectures
+  11 l.commune 4.4448    : ortho plein ouest -> 42.9257,1.6622 | plus proches : Tour Ronde (6.4 km), Château de Foix (6.5 km), Château de Roquefixade (7.5 km)
+                         : meme latitude, dlon = km -> 42.9272,1.6629 | plus proches : Tour Ronde (6.4 km), Château de Foix (6.4 km), Château de Roquefixade (7.5 km)
+                         : 11/25 degre de lon (11,00 l. de 25 au degre) -> 42.9272,1.8227 | plus proches : Château de Montségur (5.8 km), Château de Roquefixade (5.8 km), Château de Léran (10.1 km)
+  11 l.Paris 3.898       : ortho plein ouest -> 42.9260,1.7361 | plus proches : Château de Roquefixade (2.0 km), Château de Montségur (9.6 km), Tour Ronde (11.5 km)
+                         : meme latitude, dlon = km -> 42.9272,1.7367 | plus proches : Château de Roquefixade (1.8 km), Château de Montségur (9.7 km), Tour Ronde (11.5 km)
+                         : 11/25 degre de lon (11,00 l. de 25 au degre) -> 42.9272,1.8227 | plus proches : Château de Montségur (5.8 km), Château de Roquefixade (5.8 km), Château de Léran (10.1 km)
+  11 l.metrique 4.0      : ortho plein ouest -> 42.9260,1.7223 | plus proches : Château de Roquefixade (2.9 km), Tour Ronde (10.5 km), Château de Foix (10.5 km)
+                         : meme latitude, dlon = km -> 42.9272,1.7229 | plus proches : Château de Roquefixade (2.8 km), Tour Ronde (10.5 km), Château de Foix (10.5 km)
+                         : 11/25 degre de lon (11,00 l. de 25 au degre) -> 42.9272,1.8227 | plus proches : Château de Montségur (5.8 km), Château de Roquefixade (5.8 km), Château de Léran (10.1 km)
+
+### 5) Rennes-le-Chateau est-il SUR la ligne de la garde (Leon -> quillon) ?
+  garde Leon->Château de Foix            : RLC a     -5.5 km du grand cercle |     8.0 km de la droite Mercator | cap Leon->chateau  83.6° | cap Mercator  86.0°
+  garde Leon->Château de Montségur       : RLC a      5.6 km du grand cercle |    -3.9 km de la droite Mercator | cap Leon->chateau  84.6° | cap Mercator  87.1°
+  garde Leon->Château de Roquefixade     : RLC a     -1.9 km du grand cercle |     3.9 km de la droite Mercator | cap Leon->chateau  83.9° | cap Mercator  86.4°
+  garde Leon->Château de Lordat          : RLC a     17.4 km du grand cercle |   -15.4 km de la droite Mercator | cap Leon->chateau  85.6° | cap Mercator  88.1°
+  garde Leon->Château de Montaillou      : RLC a     16.0 km du grand cercle |   -14.6 km de la droite Mercator | cap Leon->chateau  85.5° | cap Mercator  88.0°
+  garde Leon->Château de Montréal-de-Sos : RLC a     19.1 km du grand cercle |   -16.2 km de la droite Mercator | cap Leon->chateau  85.8° | cap Mercator  88.2°
+  garde Leon->Château de Puivert         : RLC a      0.5 km du grand cercle |     0.3 km de la droite Mercator | cap Leon->chateau  84.1° | cap Mercator  86.7°
+
+### 6) 'entre l'Aragon et le Midi' : la garde Leon->X traverse-t-elle l'Aragon (royaume) ?
+  Leon->Château de Foix            : ecarts aux villes d'Aragon : Zaragoza -138 km, Huesca -86 km, Jaca -37 km, Barbastro -99 km, Lleida -147 km, Val d'Aran (Vielha) -27 km
+  Leon->Château de Montségur       : ecarts aux villes d'Aragon : Zaragoza -131 km, Huesca -79 km, Jaca -30 km, Barbastro -91 km, Lleida -138 km, Val d'Aran (Vielha) -18 km
+  Leon->Château de Roquefixade     : ecarts aux villes d'Aragon : Zaragoza -136 km, Huesca -83 km, Jaca -35 km, Barbastro -96 km, Lleida -144 km, Val d'Aran (Vielha) -24 km
+  Leon->Château de Lordat          : ecarts aux villes d'Aragon : Zaragoza -124 km, Huesca -71 km, Jaca -22 km, Barbastro -82 km, Lleida -129 km, Val d'Aran (Vielha) -9 km

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Exkalibur</name>
+    <description/>
+    <NetworkLink>
+      <name>Exkalibur</name>
+      <Link>
+        <href><![CDATA[https://www.google.com/maps/d/u/1/kml?forcekml=1&mid=1YL85n1pv617HK_eEI2LSSEwwebiAk9Q]]></href>
+      </Link>
+    </NetworkLink>
+  </Document>
+</kml>

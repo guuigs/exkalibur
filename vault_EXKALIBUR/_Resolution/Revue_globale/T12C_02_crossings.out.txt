@@ -1,0 +1,131 @@
+Chemins/Sentiers BD TOPO : 1668 | nœuds degré>=3 : 528
+Croisements uniques (OSM + BD TOPO degré>=3) : 856
+
+===== Sélectivité de chaque filtre (sur 856 croisements) =====
+  F1 d_eau<=150m                          293 / 856 (34.2 %) <== NON INFORMATIF (25-50%)
+  F2 d_batiment>=150m                     601 / 856 (70.2 %)
+  F3 en clairière (hors Bois/Forêt)       419 / 856 (48.9 %) <== NON INFORMATIF (25-50%)
+  F4 forêt publique                        64 / 856 (7.5 %)
+  F5 d_monument>=150m                     839 / 856 (98.0 %)
+  F6 vis D1                                83 / 856 (9.7 %)
+  F7 vis D2                                48 / 856 (5.6 %)
+  F8 vis D3                                30 / 856 (3.5 %)
+  F9 soleil64 D1                            9 / 856 (1.1 %)
+  F10 soleil64 D2                           7 / 856 (0.8 %)
+  F11 soleil64 D3                           0 / 856 (0.0 %)
+
+===== Combinaison complète (F1&F2&F3&F5 & vis & soleil) =====
+  D1_sommet  az=64 : 0 croisements passent la chaîne complète
+  D1_sommet  az=75 : 0 croisements passent la chaîne complète
+  D2_pied    az=64 : 0 croisements passent la chaîne complète
+  D2_pied    az=75 : 0 croisements passent la chaîne complète
+  D3_Bayard  az=64 : 0 croisements passent la chaîne complète
+  D3_Bayard  az=75 : 0 croisements passent la chaîne complète
+
+===== Liste des croisements proches d'un cours d'eau & en clairière (détail) =====
+  OSM:Super Collet             (45.39316,6.12813) d_eau=    2 d_bat= 3563 clr=1 visD1=0 sun64D1=0 sun75D1=0 brgD1= -1.0
+  BDTOPO:deg3                  (45.39651,5.98901) d_eau=    3 d_bat=  348 clr=1 visD1=0 sun64D1=0 sun75D1=0 brgD1= -1.0
+  OSM:Le Journal               (45.33490,6.12023) d_eau=    4 d_bat= 6544 clr=1 visD1=0 sun64D1=0 sun75D1=0 brgD1= -1.0
+  OSM:La Chevrette             (45.36968,6.13757) d_eau=    4 d_bat= 4839 clr=1 visD1=0 sun64D1=0 sun75D1=0 brgD1= -1.0
+  BDTOPO:deg3                  (45.45785,6.07044) d_eau=    4 d_bat=  248 clr=1 visD1=0 sun64D1=0 sun75D1=0 brgD1= -1.0
+  BDTOPO:deg3                  (45.38857,5.98635) d_eau=    5 d_bat=  659 clr=1 visD1=0 sun64D1=0 sun75D1=0 brgD1= -1.0
+  OSM:Les Mazures              (45.42241,6.08420) d_eau=    6 d_bat=  204 clr=1 visD1=0 sun64D1=0 sun75D1=0 brgD1= -1.0
+  BDTOPO:deg3                  (45.44922,6.02885) d_eau=    7 d_bat=  363 clr=1 visD1=0 sun64D1=0 sun75D1=0 brgD1= -1.0
+  BDTOPO:deg3                  (45.39375,5.98987) d_eau=    8 d_bat=  440 clr=1 visD1=0 sun64D1=0 sun75D1=0 brgD1= -1.0
+  OSM:?                        (45.38463,6.04966) d_eau=   10 d_bat=  227 clr=1 visD1=0 sun64D1=0 sun75D1=0 brgD1= -1.0
+  OSM:?                        (45.38343,6.09707) d_eau=   10 d_bat= 1331 clr=1 visD1=0 sun64D1=0 sun75D1=0 brgD1= -1.0
+  OSM:Téléski du Soleil        (45.38693,6.14369) d_eau=   12 d_bat= 4817 clr=1 visD1=0 sun64D1=0 sun75D1=0 brgD1= -1.0
+  OSM:Pramoinet                (45.31888,6.08302) d_eau=   13 d_bat= 7432 clr=1 visD1=0 sun64D1=0 sun75D1=0 brgD1= -1.0
+  OSM:Sous le refuge           (45.38008,6.16322) d_eau=   14 d_bat= 6415 clr=1 visD1=0 sun64D1=0 sun75D1=0 brgD1= -1.0
+  OSM:L'Aup du Pont            (45.34164,6.16055) d_eau=   16 d_bat= 8079 clr=1 visD1=0 sun64D1=0 sun75D1=0 brgD1= -1.0
+  OSM:Chinfert                 (45.36970,6.09844) d_eau=   18 d_bat= 2400 clr=1 visD1=0 sun64D1=0 sun75D1=0 brgD1= -1.0
+  OSM:Combe Grasse             (45.33314,6.12054) d_eau=   19 d_bat= 6725 clr=1 visD1=0 sun64D1=0 sun75D1=0 brgD1= -1.0
+  OSM:Le Bréda                 (45.31654,6.08170) d_eau=   25 d_bat= 7688 clr=1 visD1=0 sun64D1=0 sun75D1=0 brgD1= -1.0
+  BDTOPO:deg3                  (45.45628,6.06784) d_eau=   32 d_bat=  188 clr=1 visD1=0 sun64D1=0 sun75D1=0 brgD1= -1.0
+  OSM:La Gorge                 (45.41902,6.09969) d_eau=   35 d_bat= 1385 clr=1 visD1=0 sun64D1=0 sun75D1=0 brgD1= -1.0
+  OSM:Chemin des Douaniers     (45.38204,6.09446) d_eau=   35 d_bat= 1244 clr=1 visD1=0 sun64D1=0 sun75D1=0 brgD1= -1.0
+  OSM:Gleysin                  (45.33529,6.11968) d_eau=   39 d_bat= 6485 clr=1 visD1=0 sun64D1=0 sun75D1=0 brgD1= -1.0
+  OSM:Le Planet                (45.36457,6.14555) d_eau=   42 d_bat= 5654 clr=1 visD1=0 sun64D1=0 sun75D1=0 brgD1= -1.0
+  OSM:Le Chamois               (45.38027,6.14846) d_eau=   42 d_bat= 5277 clr=1 visD1=0 sun64D1=0 sun75D1=0 brgD1= -1.0
+  OSM:Le Bossu                 (45.38270,6.03653) d_eau=   48 d_bat=  463 clr=1 visD1=0 sun64D1=0 sun75D1=0 brgD1= -1.0
+  OSM:Chalet de Périoule       (45.33690,6.15864) d_eau=   56 d_bat= 8319 clr=1 visD1=0 sun64D1=0 sun75D1=0 brgD1= -1.0
+  BDTOPO:deg3                  (45.39204,5.98772) d_eau=   62 d_bat=  462 clr=1 visD1=0 sun64D1=0 sun75D1=0 brgD1= -1.0
+  OSM:Les Lacs                 (45.39115,6.13441) d_eau=   62 d_bat= 4058 clr=1 visD1=0 sun64D1=0 sun75D1=0 brgD1= -1.0
+  BDTOPO:deg3                  (45.45381,6.00992) d_eau=   64 d_bat=  484 clr=1 visD1=0 sun64D1=0 sun75D1=0 brgD1= -1.0
+  OSM:Le Lagopède              (45.38601,6.14864) d_eau=   64 d_bat= 5212 clr=1 visD1=0 sun64D1=0 sun75D1=0 brgD1= -1.0
+  OSM:Col de Claran            (45.37656,6.15358) d_eau=   72 d_bat= 5754 clr=1 visD1=0 sun64D1=0 sun75D1=0 brgD1= -1.0
+  OSM:?                        (45.40591,6.13222) d_eau=   73 d_bat= 3865 clr=1 visD1=0 sun64D1=0 sun75D1=0 brgD1= -1.0
+  OSM:Pont Sarret              (45.41579,6.14241) d_eau=   75 d_bat= 4672 clr=1 visD1=0 sun64D1=0 sun75D1=0 brgD1= -1.0
+  BDTOPO:deg4                  (45.44483,6.00613) d_eau=   75 d_bat=  364 clr=1 visD1=1 sun64D1=0 sun75D1=0 brgD1=312.3
+  BDTOPO:deg3                  (45.46200,6.01075) d_eau=   75 d_bat=  182 clr=1 visD1=0 sun64D1=0 sun75D1=0 brgD1= -1.0
+  OSM:La Grande Teppe          (45.33094,6.06562) d_eau=   87 d_bat= 6084 clr=1 visD1=0 sun64D1=0 sun75D1=0 brgD1= -1.0
+  OSM:La Chapelle - Cimetière  (45.42411,6.09731) d_eau=   89 d_bat= 1244 clr=1 visD1=0 sun64D1=0 sun75D1=0 brgD1= -1.0
+  OSM:Le Camping               (45.31858,6.08438) d_eau=   97 d_bat= 7472 clr=1 visD1=0 sun64D1=0 sun75D1=0 brgD1= -1.0
+  BDTOPO:deg3                  (45.41952,6.02014) d_eau=  101 d_bat=  155 clr=1 visD1=1 sun64D1=0 sun75D1=0 brgD1=218.1
+  BDTOPO:deg3                  (45.44357,6.01450) d_eau=  105 d_bat=  231 clr=1 visD1=1 sun64D1=0 sun75D1=0 brgD1=321.7
+  BDTOPO:deg3                  (45.46305,6.02441) d_eau=  106 d_bat=  580 clr=1 visD1=0 sun64D1=0 sun75D1=0 brgD1= -1.0
+  OSM:Montarmand               (45.32873,6.07914) d_eau=  107 d_bat= 6327 clr=1 visD1=0 sun64D1=0 sun75D1=0 brgD1= -1.0
+  OSM:Les Plagnes              (45.38787,6.14672) d_eau=  109 d_bat= 5042 clr=1 visD1=0 sun64D1=0 sun75D1=0 brgD1= -1.0
+  OSM:La Marmotte              (45.38045,6.15341) d_eau=  111 d_bat= 5654 clr=1 visD1=0 sun64D1=0 sun75D1=0 brgD1= -1.0
+  OSM:Refuge de la Pierre du C (45.37863,6.14317) d_eau=  119 d_bat= 4912 clr=1 visD1=0 sun64D1=0 sun75D1=0 brgD1= -1.0
+  OSM:Arrêt de l'Evêque        (45.38048,6.14328) d_eau=  121 d_bat= 4876 clr=1 visD1=0 sun64D1=0 sun75D1=0 brgD1= -1.0
+  OSM:Champ des Druges         (45.42877,6.13193) d_eau=  130 d_bat= 3866 clr=1 visD1=0 sun64D1=0 sun75D1=0 brgD1= -1.0
+  OSM:Saint-Hugon              (45.42684,6.13310) d_eau=  143 d_bat= 3971 clr=1 visD1=0 sun64D1=0 sun75D1=0 brgD1= -1.0
+
+===== Témoins aléatoires (départs à même distance de la tour que D3=0.83 km) =====
+  D3_Bayard (0.83 km) : 0 croisements chaîne complète (az64)
+  témoins aléatoires (n=15) : min=0 médiane=0 max=0 moy=0.0
+
+[SAVE] T12C_02_croisements.json
+
+===== Focus zone <=2 km de la tour (pertinente) =====
+  croisements <=2 km : 101
+  OSM:La Planta            (45.43595,6.04673) d_tour=1457 d_eau=   2 d_bat= 234 clr=0 visD1=0 sun64D1=0 brgD1= 58.4
+  BDTOPO:deg3              (45.42094,6.01683) d_tour=1417 d_eau=   4 d_bat= 120 clr=0 visD1=0 sun64D1=0 brgD1=230.3
+  OSM:Les Ripellets        (45.43379,6.05023) d_tour=1603 d_eau=   7 d_bat=   8 clr=1 visD1=1 sun64D1=1 brgD1= 70.9
+  BDTOPO:deg3              (45.43465,6.04990) d_tour=1612 d_eau=   7 d_bat=  21 clr=0 visD1=1 sun64D1=1 brgD1= 67.4
+  OSM:La Perrière          (45.41877,6.02445) d_tour=1249 d_eau=   8 d_bat=   8 clr=1 visD1=1 sun64D1=0 brgD1=203.4
+  BDTOPO:deg5              (45.43124,6.02224) d_tour= 710 d_eau=  11 d_bat=  45 clr=1 visD1=1 sun64D1=0 brgD1=289.7
+  BDTOPO:deg3              (45.43017,6.02166) d_tour= 724 d_eau=  13 d_bat=  34 clr=0 visD1=1 sun64D1=0 brgD1=279.6
+  BDTOPO:deg3              (45.43077,6.02186) d_tour= 723 d_eau=  14 d_bat=  17 clr=0 visD1=1 sun64D1=0 brgD1=285.0
+  BDTOPO:deg3              (45.41473,6.03336) d_tour=1607 d_eau=  14 d_bat=  90 clr=0 visD1=0 sun64D1=0 brgD1=172.9
+  BDTOPO:deg3              (45.43098,6.02223) d_tour= 702 d_eau=  15 d_bat=  51 clr=0 visD1=1 sun64D1=0 brgD1=287.5
+  BDTOPO:deg4              (45.43113,6.02173) d_tour= 743 d_eau=  20 d_bat=  17 clr=1 visD1=1 sun64D1=0 brgD1=287.8
+  OSM:Répidon              (45.42652,6.03854) d_tour= 667 d_eau=  22 d_bat=   1 clr=1 visD1=1 sun64D1=0 brgD1=115.2
+  BDTOPO:deg3              (45.42385,6.04395) d_tour=1179 d_eau=  24 d_bat=  28 clr=0 visD1=1 sun64D1=0 brgD1=119.6
+  BDTOPO:deg3              (45.42402,6.04374) d_tour=1155 d_eau=  34 d_bat=  10 clr=0 visD1=1 sun64D1=0 brgD1=119.1
+  BDTOPO:deg3              (45.43359,6.04490) d_tour=1208 d_eau=  34 d_bat= 142 clr=1 visD1=1 sun64D1=1 brgD1= 65.5
+  BDTOPO:deg3              (45.42155,6.04589) d_tour=1443 d_eau=  35 d_bat= 183 clr=0 visD1=0 sun64D1=0 brgD1=125.5
+  BDTOPO:deg3              (45.41428,6.03015) d_tour=1646 d_eau=  37 d_bat= 165 clr=0 visD1=1 sun64D1=0 brgD1=181.8
+  BDTOPO:deg3              (45.41372,6.03242) d_tour=1712 d_eau=  38 d_bat= 114 clr=0 visD1=0 sun64D1=0 brgD1=175.9
+  BDTOPO:deg3              (45.43039,6.02208) d_tour= 696 d_eau=  38 d_bat=  47 clr=0 visD1=1 sun64D1=0 brgD1=282.0
+  BDTOPO:deg3              (45.42907,6.05576) d_tour=1946 d_eau=  41 d_bat= 169 clr=0 visD1=1 sun64D1=0 brgD1= 90.1
+  BDTOPO:deg3              (45.43150,6.02210) d_tour= 730 d_eau=  42 d_bat=  13 clr=1 visD1=1 sun64D1=0 brgD1=291.6
+  OSM:Le Crêt              (45.43105,6.05343) d_tour=1778 d_eau=  45 d_bat=  18 clr=1 visD1=1 sun64D1=1 brgD1= 82.9
+  BDTOPO:deg3              (45.43045,6.02225) d_tour= 685 d_eau=  51 d_bat=  54 clr=0 visD1=1 sun64D1=0 brgD1=282.9
+  BDTOPO:deg3              (45.43339,6.02257) d_tour= 801 d_eau=  55 d_bat=   7 clr=1 visD1=1 sun64D1=0 brgD1=306.7
+  OSM:Varanger             (45.42433,6.04343) d_tour=1117 d_eau=  57 d_bat=   4 clr=1 visD1=1 sun64D1=0 brgD1=118.2
+  OSM:La Combe             (45.42128,6.02592) d_tour= 948 d_eau=  59 d_bat=  13 clr=1 visD1=1 sun64D1=0 brgD1=203.8
+  BDTOPO:deg3              (45.41539,6.03053) d_tour=1522 d_eau=  60 d_bat= 122 clr=0 visD1=0 sun64D1=0 brgD1=180.8
+  BDTOPO:deg3              (45.42337,6.04166) d_tour=1058 d_eau=  65 d_bat= 161 clr=0 visD1=1 sun64D1=0 brgD1=126.9
+  BDTOPO:deg3              (45.43068,6.02305) d_tour= 630 d_eau=  66 d_bat=  28 clr=1 visD1=1 sun64D1=0 brgD1=286.3
+  BDTOPO:deg3              (45.41512,6.02803) d_tour=1567 d_eau=  84 d_bat=  13 clr=1 visD1=0 sun64D1=0 brgD1=188.0
+  OSM:Chaffardon           (45.42220,6.02215) d_tour=1021 d_eau=  91 d_bat=  23 clr=1 visD1=1 sun64D1=0 brgD1=221.5
+  BDTOPO:deg3              (45.41633,6.02958) d_tour=1421 d_eau=  92 d_bat=  92 clr=0 visD1=0 sun64D1=0 brgD1=184.0
+  BDTOPO:deg3              (45.41520,6.03208) d_tour=1546 d_eau=  93 d_bat=  34 clr=0 visD1=1 sun64D1=0 brgD1=176.4
+  BDTOPO:deg3              (45.43021,6.02278) d_tour= 639 d_eau=  94 d_bat=  29 clr=1 visD1=1 sun64D1=0 brgD1=281.4
+  BDTOPO:deg3              (45.41496,6.02811) d_tour=1583 d_eau=  97 d_bat=   3 clr=1 visD1=0 sun64D1=0 brgD1=187.7
+  BDTOPO:deg3              (45.41952,6.02014) d_tour=1350 d_eau= 101 d_bat= 155 clr=1 visD1=1 sun64D1=0 brgD1=218.1
+  OSM:?                    (45.41321,6.03062) d_tour=1764 d_eau= 114 d_bat= 207 clr=0 visD1=1 sun64D1=0 brgD1=180.5
+  BDTOPO:deg3              (45.43575,6.01688) d_tour=1314 d_eau= 116 d_bat=   7 clr=1 visD1=1 sun64D1=0 brgD1=304.3
+  BDTOPO:deg4              (45.42877,6.05346) d_tour=1767 d_eau= 120 d_bat=  18 clr=0 visD1=1 sun64D1=0 brgD1= 91.1
+  BDTOPO:deg4              (45.43578,6.01664) d_tour=1332 d_eau= 121 d_bat=  23 clr=1 visD1=1 sun64D1=0 brgD1=304.0
+  BDTOPO:deg3              (45.43581,6.01642) d_tour=1349 d_eau= 125 d_bat=   7 clr=1 visD1=1 sun64D1=0 brgD1=303.7
+  OSM:Le Couvat            (45.43290,6.05407) d_tour=1863 d_eau= 131 d_bat=  78 clr=0 visD1=1 sun64D1=1 brgD1= 76.8
+  BDTOPO:deg3              (45.41493,6.03743) d_tour=1655 d_eau= 131 d_bat= 404 clr=0 visD1=0 sun64D1=0 brgD1=161.9
+  OSM:Saint-Maximin villag (45.42805,6.03706) d_tour= 501 d_eau= 133 d_bat=   7 clr=1 visD1=1 sun64D1=0 brgD1=103.2
+  BDTOPO:deg3              (45.42695,6.05478) d_tour=1885 d_eau= 138 d_bat= 203 clr=0 visD1=0 sun64D1=0 brgD1= 97.2
+  BDTOPO:deg3              (45.41139,6.02629) d_tour=1997 d_eau= 139 d_bat= 294 clr=0 visD1=1 sun64D1=0 brgD1=190.2
+  BDTOPO:deg3              (45.42031,6.05235) d_tour=1943 d_eau= 141 d_bat= 677 clr=0 visD1=1 sun64D1=0 brgD1=120.1
+  BDTOPO:deg4              (45.41745,6.03176) d_tour=1295 d_eau= 147 d_bat= 138 clr=0 visD1=1 sun64D1=0 brgD1=176.7
+  BDTOPO:deg3              (45.41567,6.03182) d_tour=1493 d_eau= 148 d_bat=  21 clr=0 visD1=1 sun64D1=0 brgD1=177.0

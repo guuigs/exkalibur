@@ -1,0 +1,26 @@
+== Écart latéral de Battle à la droite Tour->P, P dans Paris intra-muros (grille ~1 km)
+Battle Abbey (Wikipedia 50.915, 0.4858)      |écart| <=0,42 km :  23.5 % de Paris ; <=1 km :  55.1 % ; <=2 km :  91.2 % ; médiane 0.90 km ; max 2.81
+Battle ville (Wikipedia 50.92, 0.48)         |écart| <=0,42 km :  23.7 % de Paris ; <=1 km :  55.0 % ; <=2 km :  90.0 % ; médiane 0.90 km ; max 2.85
+geo_e6.py (50.9143, 0.487)                   |écart| <=0,42 km :  23.4 % de Paris ; <=1 km :  55.3 % ; <=2 km :  91.8 % ; médiane 0.90 km ; max 2.78
+Hastings ville (carte Guilhem)               |écart| <=0,42 km :  20.0 % de Paris ; <=1 km :  41.6 % ; <=2 km :  67.5 % ; médiane 1.30 km ; max 3.87
+
+== Écarts pour points de Paris nommés (Battle Abbey Wikipedia)
+Sainte-Chapelle (carte Guilhem)    d(T,P)= 341.60  écart de Battle à T-P :  +0.45 km ; écart de P à l'axe T-Battle :  -2.01 km
+Notre-Dame                         d(T,P)= 342.01  écart de Battle à T-P :  +0.49 km ; écart de P à l'axe T-Battle :  -2.20 km
+Sacré-Cœur                         d(T,P)= 338.50  écart de Battle à T-P :  +0.81 km ; écart de P à l'axe T-Battle :  -3.58 km
+Tour Eiffel                        d(T,P)= 339.51  écart de Battle à T-P :  -0.24 km ; écart de P à l'axe T-Battle :  +1.06 km
+Panthéon                           d(T,P)= 342.54  écart de Battle à T-P :  +0.36 km ; écart de P à l'axe T-Battle :  -1.60 km
+Sorbonne                           d(T,P)= 342.20  écart de Battle à T-P :  +0.35 km ; écart de P à l'axe T-Battle :  -1.56 km
+Saint-Denis basilique              d(T,P)= 334.40  écart de Battle à T-P :  +1.67 km ; écart de P à l'axe T-Battle :  -7.28 km
+Vincennes (Ste-Chapelle)           d(T,P)= 346.19  écart de Battle à T-P :  +1.59 km ; écart de P à l'axe T-Battle :  -7.15 km
+Sainte-Clotilde                    d(T,P)= 340.62  écart de Battle à T-P :  +0.08 km ; écart de P à l'axe T-Battle :  -0.35 km
+
+== Probabilité qu'un cap au hasard passe à <= w km d'une cible ponctuelle à d=341,6 km
+   w=0.42 km : cap uniforme 360° : 0.039 % ; secteur France plausible 100° : 0.141 %
+   w=1.0 km : cap uniforme 360° : 0.093 % ; secteur France plausible 100° : 0.335 %
+   w=2.0 km : cap uniforme 360° : 0.186 % ; secteur France plausible 100° : 0.671 %
+
+== Sensibilité au géocodage de Battle : Battle 'Abbey' = 50,9143/0,4870 (geo_e6) vs Wikipedia 50,915/0,4858 : déplacement de Battle = 0.115 km ; 500 m de plus ou de moins sur Battle changent l'écart latéral à Paris de ~ 2.23 km
+   -> l'alignement à 0,42 km n'est ni une preuve ni discriminant : l'enluminure/Guillaume/Hastings impose Battle ; la droite Londres->Paris passe par là.
+
+== Axe prolongé : le cap Tour->Battle (149,1°) pointe le centre de Paris ; sa largeur à 342 km pour ±1° est +-6.0 km

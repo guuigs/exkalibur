@@ -1,0 +1,230 @@
+FAQ01-086 #CARTE | Q: Première énigme plus visuel : faut-il pointer précisément les trois nessies du visuel ou est-ce juste un repère pour “une de ces ruines” ? 
+   R: Il n'y a pas trois monstres, il n'y a pas trois bêtes, il n'y en a qu'une. C'est un serpent de mer. Elle est représentée de façon différente, que ce soit sur l’enluminure ou sur la carte, mais pour des raisons qui font partie du cahier des charges.
+FAQ02-007 #CAHIERDESCHARGES | Q: Si l'on repère un indice recouvert par autre chose quasiment invisible dans un visuel, s'agit-il de la rectification d'une erreur parlant lumineuse, d'un changement dans le cahier des charges ou bien d'un indice à part entière utile, voire nécessaire à la progression dans la chasse? 
+   R: Il n'y aura pas de changement dans le cahier des charges. Si vous repérez quelque chose qui est recouvert, en effet, ça peut vous donner un indice dans le jeu.
+FAQ02-027 #TERRAINCOGNITA | Q: Est-ce que ce sont des symboles sur le casque du personnage représenté sur la lettrine de l 'énigme 2? 
+   R: Là-dessus, je ne peux pas répondre.
+FAQ02-183 #TERRAINCOGNITA | Q: Est-ce que LAC pourrait être l’acronyme d’un lieu suivi de A et de C? Ce repère serait alors un point clé pour les "amis aventuriers", désignant quelque chose marqué par un rayon de gloire. Est-ce que je me trompe? 
+   R: Je ne peux pas répondre à ça.
+FAQ02-202 #CARTE | Q: La boussole ne pointe pas vers l 'ouest et l 'est, mais semble plutôt orientée vers 3 et 7. Ces repères doivent-ils être interprétés autrement? 
+   R: En effet, vous avez raison de souligner que la boussole n'est pas banale.
+FAQ02-211 #RÉFÉRENCESEXTERNES | Q: Exkalibur semble suivre une méthodologie où l'entrelacement des indices historiques, des références géographiques et des structures cryptographiques crée un cheminement progressif vers un point déterminé. Alors, loin d’une simple superposition de repères, la lecture des directions, des distances et  
+   R: Oui, vous avez raison de relever cela. En effet, il ne s'agira pas d'une simple linéarité qui vous mènera de lieu en lieu, qui vous amènera uniquement à faire des calculs. Vous aurez besoin d'identifier un fil rouge, vous aurez besoin de comprendre la structure, l'architecture de la chasse et vous a
+FAQ02-241 #CALIBRAGE | Q: Sur une échelle de 1 à 10, 1 étant "le Secret du Saint" et 5 "l'énigme de Printemps", quelle sera la difficulté de la plus dure des énigmes d'Exkalibur? 
+   R: Les dernières énigmes sont plus difficiles. Les énigmes que vous avez déjà sous les yeux sont parmi les plus simples du jeu.
+FAQ02-277 #CARTOGRAPHIE | Q: Combien de marges d'erreur peut-on avoir sur nos tracés? Une dizaine de kilomètres est-il tolérable si on voit quelque chose d'intrigant à dix kilomètres du tracé ou d'une intersection? 
+   R: Tout est une question de proportion. Je prends souvent la métaphore des chiffres significatifs en physique-chimie, mais c'est pareil pour la chasse. Donc si on vous demande un tracé de mille kilomètres, on va dire que si vous avez deux, trois kilomètres d'écart, ce n'est pas très grave. Si au contra
+FAQ02-329 #ENLUMINURES | Q: Est-ce qu'on peut voir un scorpion ou un crabe sur la quatre? 
+   R: C'est un crabe. Je préfère préciser s'il y a confusion.
+FAQ03-014 #ADVITAMAETERNAM | Q: Les dix pas au nord puis dix pas à l'est servent-ils à calibrer les huit derniers pas dans l'énigme Ad Vitam? 
+   R: Non.
+FAQ03-028 #COFFRE | Q: Les dix pas au nord, autant à l'est, à partir de la grande roche, nous amènent-ils précisément sur la souche majesté ou bien quelle marge de tolérance avez-vous fixée? 
+   R: Là-dessus, je ne répondrais pas.
+FAQ03-029 #SUBROSA | Q: Sub Rosa : Doit-on comprendre pourquoi des chevaux sont posés sur la balance pour résoudre correctement l'énigme ou pour une suivante? 
+   R: Je ne peux pas répondre à cette question.
+FAQ03-039 #SUBROSA | Q: Énigme sept : aurait-on pu dire “à l'est”, à la place de “l'Orient” ? 
+   R: C'est une excellente question à laquelle je ne répondrais pas tout de suite.
+FAQ03-049 #CARTOGRAPHIE | Q: Dans une précédente FAQ, vous aviez mentionné une marge d'erreur de maximum un pour cent sur les tracés. De manière générale, dans les énigmes, peut-on considérer tomber sur le bon lieu, la bonne ville avec une marge de dix kilomètres? 
+   R: Oui. Après, ça n'existe pas dans la chasse. C'est-à-dire, des décalages de dix kilomètres sont trop élevés, donc sur des très longues distances où il n'y a pas de distances aussi longues et où s'il y en a , il y a d'autres façons d'arriver à un endroit plus précis.
+FAQ03-058 #CRYPTOGRAPHIE | Q: S'il devait y avoir des anagrammes à trouver dans un jeu, seraient-elles imparfaites, lettres manquantes ou lettres en trop? 
+   R: S'il y a des anagrammes à trouver dans le jeu, les anagrammes sont parfaites. La façon d'y arriver, par contre, peut vous amener à parfois décomposer. Mais à la fin des fins, vous devez arriver à une anagramme parfaite, sinon c'est moins pertinent.
+FAQ03-071 #ENLUMINURE6 | Q: Dans l'enluminure 6, sur la tapisserie, il est écrit “hic mil tes”. Doit-on considérer qu'il s'agit d 'une coquille et lire “hic milites” ou bien est-ce normal? 
+   R: Il s'agit de Hic milites.
+FAQ03-085 #LIBERANOSAMALO | Q: Est-ce que dans l'énigme Libera nos a malo le jeu du moulin relève seulement un seul des quatre C ou les quatre? 
+   R: Je ne peux pas confirmer la nature du jeu et je ne peux pas non plus vous dire la façon dont vous trouvez les quatre C dans cette énigme.
+FAQ03-086 #CONSUMMATUMEST | Q: Le roi allait rejoindre en barque le château de la gardienne de lumière, donc sur l'énigme dix, puis énigme onze, il est temps de jeter l'ancre depuis Montsalvage, monte à bord de la barque. Si l'on monte à bord de la barque au château de la Lumière, cela signifie-t-il que Montsalvage et le château  
+   R: Attention, il n'est jamais précisé dans le jeu que la barque reste systématiquement au même endroit.
+FAQ03-088 #SUBROSA | Q: Dans l'énigme Sub rosa, la phrase “trace la nouvelle garde” doit-elle être interprétée comme un tracé géographique concret à établir depuis un point comme le lieu très saint ou DOL, ou s'agit-il d'un chemin davantage métaphorique, littéraire ou spirituel vers la cité de l'autre monde? 
+   R: Non, il ne s'agit pas d'un chemin métaphorique, littéraire ou spirituel. S'il y a une nouvelle garde à tracer, il faut la tracer, c'est une indication géographique.
+FAQ03-095 #SUBROSA | Q: Dans l'énigme Sub rosa, aurais-tu pu remplacer “Suis la déroute” par “Passe par la déroute”? 
+   R: Oui, tout à fait.
+FAQ03-109 #ENLUMINURE6 | Q: La tente présente dans l'enluminure six est-elle une référence directe aux écrits de Chrétiens de Troyes? Cette piste est-elle à creuser? 
+   R: Je ne pourrais pas répondre à cette question.
+FAQ03-144 #LIBERANOSAMALO | Q: Le saint-siège du pape doit-il être identifié? 
+   R: Je ne peux pas répondre là-dessus.
+FAQ03-159 #ENLUMINURE6 | Q: Les motifs sur le couvre-lit de l'enluminure six font-ils partie du cahier des charges ou est-ce une liberté de l’enlumineuse? 
+   R: Il s'agit d 'une liberté de l’enlumineuse ainsi que d 'un clin d 'œil au Puy du Fou.
+FAQ03-171 #OMNIAVINCITAMOR | Q: Omnia vincit amor, faut-il à nouveau suivre rigoureusement les lettres, la règle pour prononcer le nom de Dieu, ou cette règle ne s'appliquait-elle que dans le cadre de la terre du dixième père? 
+   R: Non, vous n'avez pas besoin de respecter la même règle.
+FAQ03-186 #SUBROSA | Q: En énigme sept, me serait-il intéressant de comprendre pourquoi j'ai l'impression de voir des références à de nombreuses saintes reliques? 
+   R: Non, je ne dirais pas forcément cela.
+FAQ03-191 #SUBROSA | Q: Peut-on remplacer “à travers les bois” par “dans les bois” dans l'énigme Sub Rosa? 
+   R: Oui. Tout à fait.
+FAQ03-192 #ENLUMINURE6 | Q: La posture du roi dans l'enluminure 6 a -t-elle une importance ? 
+   R: Sa posture non. Sa blessure oui.
+FAQ03-210 #SUBROSA | Q: Dans Sub Rosa, est-ce que l 'Orient et dans la direction de l 'Orient communément admise sur une carte? 
+   R: Je ne peux pas répondre.
+FAQ03-233 #ENLUMINURE7 | Q: Dans l'enluminure sept, le t du carré bleu dans le jeu du moulin est le même que le dernier t de la phrase Rex interfectus est. Est-ce que le fait d 'avoir choisi le t de “est”, et donc la dernière lettre, est important? Ou est-ce qu'il aurait pu être également un des t de interfectus? 
+   R: Ce n'est pas relié.
+FAQ03-237 #ULTIMACENA | Q: Ultima cena, j'ai trouvé la tour à deux yeux. Dois-je tracer, déterminer une frontière entre la terre et les cieux dès maintenant? 
+   R: Non, vous n'avez pas de tracé de frontière.
+FAQ03-241 #ENLUMINURE6 | Q: Enluminure six, voit-on des lettres sur la couronne ou est-ce du décor? 
+   R: Non, je ne vois pas, il n'y a pas de lettres sur la couronne, c'est du décor.
+FAQ03-256 #SUBROSA | Q: Dans Sub rosa y a -t-il une traduction à faire avec EVAD.ECFV? 
+   R: Une traduction, non. Une complétion, oui.
+FAQ03-257 #ENLUMINURE7 | Q: Dans l'enluminure sept, les pions rouges, boules et bleus pyramides tronquées, assiettes bleues, couleurs bleues, diamants bleus , auraient-ils pu avoir d'autres formes et couleurs sans incidence pour les résolutions? 
+   R: Oui s'agissant des deux couleurs, oui, ça aurait pu être d'autres couleurs. Tout à fait.
+FAQ03-260 #SUBROSA | Q: Dans Sub Rosa, la lame et le pommeau de l'épée sont-ils également à tracer? 
+   R: Non. Juste la garde.
+FAQ03-264 #ENLUMINURE7 | Q: Dans l'enluminure avec le plateau et les pions rouges et bleus, doit-on apprendre les règles d 'un jeu pour résoudre les énigmes? 
+   R: Je ne peux pas répondre là-dessus.
+FAQ03-265 #ENLUMINURE7 | Q: Toujours dans cette enluminure, certains des pions bleus ne sont pas illustrés. Doit-on trouver à quoi ou à qui chacun de l'un d'eux correspond? 
+   R: En effet, ça pourrait vous être très utile.
+FAQ03-272 #ENLUMINURE7 | Q: Dans l'enluminure avec le plateau de jeu et les pions rouges et bleus, les trois clochers dessinés en haut à gauche, auraient-ils pu être positionnés à un autre endroit? 
+   R: Oui, tout à fait.
+FAQ03-277 #ULTIMACENA | Q: La cloche au pied de la tour indique-t-elle la nature de la tour sur l 'enluminure douze? 
+   R: Non.
+FAQ03-285 #ADVITAMAETERNAM | Q: La souche Majesté dans le monde réel est-elle vraiment une souche d 'arbre ou peut-elle être un autre point de repère? 
+   R: Là-dessus, je ne pourrais pas répondre.
+FAQ03-290 #ULTIMACENA | Q: La mesure de pèlerin est une véritable dans l'enluminure dix, avec le soleil et le cercle de pierres, est-ce que le personnage tout à gauche collé à l'épée avec la main vers le bas fait partie du cahier des charges? 
+   R: Je ne vois pas de personnage collé à l'épée avec la main vers le bas. Non.
+FAQ03-293 #ADVITAMAETERNAM | Q: Dix stades romains séparent les troisième et onzième, aurait-on pu écrire séparer le troisième et le onzième ou plutôt la troisième et la onzième? 
+   R: Oui. C'est les deux, donc on aurait pu dire les ou on aurait pu dire séparer le troisième, la troisième et la onzième à la destination finale ou seulement deux étapes, une intermédiaire plus la destination finale. Il n'y a que deux étapes.
+FAQ03-297 #CONSUMMATUMEST | Q: Est-ce que l'énigme onze commence là où s'arrête l'énigme dix? Le palais dont-on s'éloigne est-il celui de la gardienne de lumière ou un autre? 
+   R: C 'est une très bonne question. Je ne pourrais pas y répondre.
+FAQ03-298 #ENLUMINURES | Q: Les dix livres tenus par les personnages des enluminures peuvent-ils être rapprochés ou avoir un rapport avec les livres que l'on devine dans le décor de l'enluminure six? 
+   R: Non, ça n' a pas de rapport.
+FAQ03-319 #ENLUMINURE7 | Q: Les oiseaux de l'illustration sept viennent-ils de la gauche ou de la droite? 
+   R: Ils viennent de la droite, mais ça n' a pas d'importance.
+FAQ03-322 #OMNIAVINCITAMOR | Q: Énigme dix : Parler ou comprendre un dialecte insulaire m’aidera-t-il à décrypter la partie texte et les trous à compléter? 
+   R: Non.
+FAQ03-326 #LIBERANOSAMALO | Q: Est-ce que le jeu du moulin est en rapport avec un moulin? 
+   R: Là-dessus, je ne pourrais pas répondre parce que vous partiez du principe que c 'est le jeu du moulin.
+FAQ03-354 #ENLUMINURE7 | Q: Aurait-on pu remplacer le T du jeton bleu de l 'enluminure sept par une autre lettre? Même question pour le jeton rouge. 
+   R: Non, impossible.
+FAQ03-357 #ENLUMINURE10 | Q: Les pierres de l 'enluminure dix auraient-elles pu être placées différemment? 
+   R: Oui, elles auraient pu être placées légèrement différemment.
+FAQ03-371 #ENLUMINURE10 | Q: Dans l 'enluminure dix, le dessin doré représente-t-il une comète plutôt qu'un soleil? 
+   R: Il s'agit du soleil.
+FAQ04-011 #ENLUMINURES | Q: Si je ne m'abuse, les couleurs des 10 livres sur les enluminures n'ont pas été choisies au hasard? 
+   R: Les couleurs dans les enluminures ne sont pas en effet le fruit du hasard. Elles répondent à un cahier des charges. Après, je ne pourrais pas détailler sur quelle couleur il y a une exigence particulière.
+FAQ04-026 #SUBROSA | Q: Ma question concerne Sub Rosa et l'indication pour le tracé de la nouvelle garde. Faut-il comprendre que notre tracé débute depuis le lieu saint et passe par un point de la déroute devant le conquérant? Ou, à contrario, notre tracé débute au niveau de la déroute et suit la déroute pour arriver à l’O 
+   R: C'est sur un tracé en droite, donc à partir de là, votre tracé n' a pas de fin. Vous poursuivez aussi longtemps que vous voulez. Après, je ne pourrais pas préciser à quel moment de ce tracé, il y a un lieu plus important.
+FAQ04-027 #ADVITAMAETERNAM | Q: Ma question porte sur Ad vitam aeternam : est-ce que les enluminures nous donnent un ou des indices sur qui ou quoi sont les troisième et onzième séparés par les dix stades romains? 
+   R: Les enluminures, la carte ou les énigmes, oui, bien sûr qu'il y a des indices qui peuvent tout à fait vous permettre de comprendre ça. Tout est codé et vous permet de trouver les troisième et onzième.
+FAQ04-028 #SUBROSA | Q: Est-ce que le lieu de Très Sainte et l 'Île-Sainte sont un même lieu? 
+   R: Là-dessus, je ne répondrais pas.
+FAQ04-060 #ENLUMINURES | Q: Doit-on lire des chiffres 39 13 ou des symboles sur les casques de trois des quatre personnages aux angles de l'enluminure? 
+   R: Non, ça n' a pas d'importance.
+FAQ04-080 #OMNIAVINCITAMOR | Q: Est-ce que le tiret pour le nom de la terre du 10ᵉ père signifie une seule lettre? 
+   R: Oui, il s 'agit de la première lettre.
+FAQ04-085 #SUBROSA | Q: Pour préciser la réponse à la FAQ trois, les bois de la cité de l'autre monde sont-ils bien le point d'achèvement de la nouvelle garde “à L’Orient” et non un point de passage avant l’Orient? Nous devons en déduire que dans les bois, et en direction de L’Orient? 
+   R: Là-dessus, je ne dis rien. Faites votre tracé et après, c'est à vous de déterminer. Je pourrais pas dire à quel moment de ce tracé, se déroule une étape importante. Là-dessus, c'est le parchemin qui vous donnera la réponse.
+FAQ04-090 #SUBROSA | Q: Dans Sub rosa, "depuis le lieu très saint, suis la déroute et trace la nouvelle garde”, faut-il suivre avec les yeux seulement sans inclure le lieu très saint dans le tracé de la nouvelle garde? 
+   R: Il ne faut pas suivre avec les yeux, il a bien un tracé à faire.
+FAQ04-100 #OMNIAVINCITAMOR | Q: Dans l'énigme dix, celles qui entourent les rois sur l'île au sud peuvent-elles être vues depuis Maps? 
+   R: Oui, tout à fait.
+FAQ04-121 #ENLUMINURE2 | Q: Dans le visuel deux, mon personnage au visage masqué par le casque abaissé est entouré de braves chevaliers. Il semble partir d'un pas fuyant honteux dans une direction qui me semble pertinente. Part-il d'un pas plutôt militaire rythmé comme le suggère ses deux compères qui l'entourent ou d’un pas s 
+   R: Ce n'est pas très important, ça n' a pas d'importance.
+FAQ04-149 #ENLUMINURE6 | Q: Enluminure 6, voit-on des chevaux ou des juments sur la balance? 
+   R: Il s 'agit de juments.
+FAQ04-170 #ENLUMINURE12 | Q: La cloche au sol de l'enluminure douze nous aide-t-elle à trouver la tour? 
+   R: Oui.
+FAQ04-174 #CRYPTOGRAPHIE | Q: Tu as dit que les anagrammes étaient parfaits, cette règle peut-elle avoir une exception avec le langage des oiseaux? 
+   R: Non.
+FAQ04-181 #ENLUMINURE12 | Q: La cloche a -t-elle une importance dans l’enluminure douze, un cinquième C? 
+   R: Oui.
+FAQ04-185 #CRYPTOGRAPHIE | Q: Tu avais dit qu’un anagramme doit être parfait. Phonétiquement ou alphabétiquement? 
+   R: Pas forcément alphabétiquement, ça dépend des langues et de la prononciation. Mais oui, les anagrammes ça dépend des langues et de la prononciation. Mais oui, les anagrammes sont corrects dans le jeu.
+FAQ04-189 #LIBERANOSAMALO | Q: Dans Libera, le jeu donne-t-il des anagrammes exacts? Reste-t-il des lettres de côté? 
+   R: Oui. L'anagramme vous permet en effet de correctement identifier le lieu sans problème. Pas forcément que le lieu d 'ailleurs.
+FAQ05-011 #OMNIAVINCITAMOR | Q: Dans Omnia Vincit Amor , on nous demande de prononcer le nom de la terre du 10ème père , s ’agit il du lieu de sa naissance ou du lieu de sa sépulture ? 
+   R: Le lieu de son "travail".
+FAQ05-032 #OMNIAVINCITAMOR | Q: Dans " omnia vincit", prononce le nom de la Terre du 10...nous permet-il d 'eviter la fausse piste? 
+   R: Pas particulièrement.
+FAQ05-034 #OMNIAVINCITAMOR | Q: Dans omnia vincit amor, est-ce que pour "revenir à la Terre" et "la Terre du 10e père", ce sont les mêmes lieux ? 
+   R: Non.
+FAQ05-036 #OMNIAVINCITAMOR | Q: Est-ce que c 'est bien la première lettre de la Terre du 10ème père qu'il faut sélectionner, comme semble l'indiquer une réponse de la FAQ4 ? 
+   R: Oui
+FAQ05-043 #ADVITAMAETERNAM | Q: Dans l'enigme Ad vitam æternam, pour faire les 8 derniers pas, faut-il partir précisément du point d'arrivée des 10 pas à l'Est ? 
+   R: Plutôt de la souche-majesté (mais qui se trouve bien au point d'arrivée des 10 pas à l'Est)
+FAQ05-049 #OMNIAVINCITAMOR | Q: Dans Omnia Vincit Amor, le 10eme père et le dieu ont-ils un lien évident entre eux ou, au contraire, ils n'ont aucun lien ( l 'un de découle pas de l 'autre) ? 
+   R: NRP
+FAQ05-069 #OMNIAVINCITAMOR | Q: La Terre du 10ème père a -t-elle un lien avec le numéro 1 ? 
+   R: Non
+FAQ05-075 #ULTIMACENA | Q: Les vestiges centenaires ont-ils cotoyés le 10ème Père et la 12ème Majesté et parle- t -on bien de la même Majesté ? 
+   R: Je ne comprends pas de quoi vous parlez.
+FAQ05-105 #SUBROSA | Q: Dans l 'énigme Sub Rosa, est-ce que les personnes utilisant la traduction anglaise de " l 'Orient" (the East) ne sont pas lésées ? 
+   R: Les anglais ne sont pas lésés dans la chasse, les versions ont bien été équilibrées.
+FAQ05-126 #ENLUMINURE10 | Q: Sur l'enluminure 10, le chevalier en armure dorée est-il à identifier ? 
+   R: Il a une couronne
+FAQ05-133 #OMNIAVINCITAMOR | Q: Dans l'énigme 10 Omnia Vincit Amor, "l'île au sud" a -t-elle déjà été croisée lors de la chasse ? 
+   R: Non
+FAQ05-134 #ENLUMINURE6 | Q: Enluminure 6, le tissu bleu au dessus du lit fait il partie du cahier des charges ? 
+   R: Non
+FAQ05-141 #ENLUMINURE10 | Q: Dans l ’énigme 10, avoir un lasso nous permet-il plus facilement de prononcer correctement le nom de Dieu ? 
+   R: ^^
+FAQ05-142 #OMNIAVINCITAMOR | Q: Enigme Omnia vincit amor : Le dixième père a -t-il vécu plus de 5 siècles ? 
+   R: non
+FAQ05-146 #OMNIAVINCITAMOR | Q: Dans Omnia vincit amor : la lettre que l'on doit trouver pour le nom de la Terre du 10ème père correspond-elle à la première lettre du nom de cette terre ? 
+   R: Oui
+FAQ05-172 #ADVITAMAETERNAM | Q: Dernière énigme: 10 stades romains, très précisément? 
+   R: Oui, à 1% près.
+FAQ05-173 #SUBROSA | Q: Le lit est-il un élément confirmateur? 
+   R: NRP
+FAQ05-176 #OMNIAVINCITAMOR | Q: Dans l’énigme Omnia vincit amor, il est demandé de respecter la règle à la lettre. Cette règle est elle applicable uniquement pour déterminer la lettre de la terre du 10ème père et/ou pour les 4 lettres trouvées ? 
+   R: NRP
+FAQ06-007 #OMNIAVINCITAMOR | Q: Je me permets de revenir sur la notion d'anagramme parfaite, discutée lors des FAQs précédentes. Dans la chasse en général et [Omnia Vincit Amor] en particulier, faut-il, si on recherche à anagrammer des mots: 1/ Utiliser scrupuleusement chaque lettre et obtenir des orthographes parfaites. 2/ Ne pas 
+   R: Tout dépend de l'étymologie, notamment, je pense à un terme en particulier, qui va énormément varier selon les langues et les zones. Et si c'est parfaitement compréhensible, je vous invite à regarder l'étymologie, les différentes orthographes possibles, en tirer les bonnes conclusions et vous dire q
+FAQ06-008 #OMNIAVINCITAMOR | Q: Dans Omnia Vincit Amor, le dixième père est-il un personnage historique réel, un personnage biblique ou un personnage plutôt imaginaire ? 
+   R: Il s'agit d 'une vraie personne.
+FAQ06-034 #MESURE | Q: Dans une FAQ précédente, tu as confirmé qu'il n'y a qu'une seule mesure du pas pour les dix pas au nord et à l'est, ainsi que pour les huit pas en direction du jour dernier. L'unité de mesure pour ce pas a -t-elle pu être historiquement connue par le narrateur ? Pour préciser ma question, je donne u 
+   R: Il n'y a qu'une seule unité de mesure en effet, et elle pouvait être connue en effet.
+FAQ06-062 #FOLIEGENIE | Q: J'ai rencontré LAC, puis j'ai vu Jésus, l'arbre et la coupe du charpentier dressée devant l'abbaye. J'ai acquitté l’obole [car] c’était la saison of playing card. Enfin, j'ai accolé mes yeux au silo pour entreprendre le voyage interstellaire et je suis parvenu jusqu'au soleil caché entre les arbres. 
+   R: On dirait une version Exkalibur de Sylvain Durif. Je ne sais pas quoi vous répondre, mais en tout cas, si vous chassez Exkalibur jour et nuit ou la nuit dans vos rêves, vous prendrez sans doute une sérieuse avance sur vos concurrents. Donc, vous pouvez continuer.
+FAQ06-068 #UNSOLVED | Q: Depuis l'ouverture du salon “Fin du Jeu”, est-ce que tu dirais que certains chasseurs sont à quatre-vingt, quatre-vingt-dix pour cent ou même plus proche de la fin ? 
+   R: Je referai un progressivomètre, comme je l'ai indiqué en début de FAQ, d'ici deux mois, pour pouvoir déterminer si un indice est utile à l'occasion des un an de la chasse. Et en l'état, je maintiens le calibrage inchangé.
+FAQ06-074 #OMNIAVINCITAMOR | Q: Dans Omnia Vincit Amor, le dixième père, doit-on prendre le mot tel qu'il est ou “père” est-il plutôt un titre ? 
+   R: Je ne répondrais pas. Ce serait dommage de répondre à cette question.
+FAQ06-079 #UNSOLVED | Q: Dans la mesure où c'est ma première chasse et que je voudrais que le plaisir se prolonge, même si je suis un peu largué, êtes-vous toujours aussi serein quant à la durée estimée de trois ans, ou pensez-vous, vous qui nous espionnez, que le trésor sera trouvé prochainement ? 
+   R: Non, pour l'instant, j'ai le sentiment que ce calibrage se tient. L'indice n'était d'ailleurs ni décisif ni utile pour les joueurs les plus avancés, qui avaient déjà trouvé les éléments que je souhaitais faire trouver par la masse des joueurs qui ont consulté l'indice. Donc ça n'avait aucunement l'o
+FAQ06-090 #ADVITAMAETERNAM | Q: Est-ce que je risque de me mouiller les pieds en faisant les dix pas au nord à l'est depuis la roche ? 
+   R: Depuis la roche, non. Avant, oui, c'est possible, de mon expérience personnelle.
+FAQ06-123 #SUBROSA | Q: Pour Sub Rosa, faut-il que le tracé de la nouvelle garde soit juste pour interpréter correctement la balance et deux juments ? 
+   R: Non, ce n 'est pas nécessaire.
+FAQ06-169 #ENLUMINURE12 | Q: La cloche de l'enluminure douze correspond-elle à un cinquième C ? 
+   R: Non, mais cette cloche vous est néanmoins utile.
+FAQ06-171 #ENLUMINURE5 | Q: Dans l'enluminure cinq, j'identifie un anagramme imparfait. Or, vous aviez précisé que tous les anagrammes du jeu étaient parfaits. S'agit-il d'une réponse à part entière ou compléter cet anagramme nous permet de comprendre autre chose ? 
+   R: Là-dessus, j'ai déjà répondu un peu plus tôt. Ça dépend de l'étymologie.
+FAQ06-178 #ADVITAMAETERNAM | Q: Si la grande roche est de taille imposante et irrégulière, y a -t-il un point/repère spécifique sans le nommer ou commencer nos pas ? 
+   R: Non, ça n' a pas besoin d'être très précis puisque vous avez ensuite une indication dans le parchemin qui vous permettra de comprendre sur place. Ce n'est pas à partir de la roche que vous faites vos derniers pas pour creuser, c'est à partir de l'étape d'après.
+FAQ06-188 #OMNIAVINCITAMOR | Q: Dans Omnia Vincit Amor, le dixième père a -t-il un lien commun avec le narrateur ? 
+   R: Non, pas d'évident que je puisse voir immédiatement.
+FAQ06-204 #ADVITAMAETERNAM | Q: Est-ce que les dix pas au nord, à l'est et huit derniers pas sont de la même longueur ? 
+   R: Oui.
+FAQ06-217 #ENLUMINURE7 | Q: Est-ce qu'il est nécessaire d 'identifier les ruines derrière le plateau en bois, qui n'est donc pas forcément un jeu, dans l'enluminure sept, entre le plateau en bois et l'arbre ? 
+   R: Non, ce n'est pas utile.
+FAQ06-225 #ADVITAMAETERNAM | Q: Dans Ad Vitam Aeternam, les indications dix pas, puis huit derniers pas, sont-elles à comprendre comme des pas réels sur le terrain, unité de marche, plutôt que comme une distance cartographique à convertir sur Maps ? Si c’est de nuit, tu as eu des difficultés pour mesurer les derniers pas ? 
+   R: Je vous confirme qu'il s'agit d'une indication terrain, avec tout ce que ça implique.
+FAQ06-239 #ENLUMINURE12 | Q: Ma cloche a -t-elle une importance dans l'enluminure douze ? 
+   R: En effet.
+FAQ06-260 #ADVITAMAETERNAM | Q: Est-ce que faire les dix pas vers le nord est toujours possible par tous les temps ? 
+   R: Oui, par tous les temps, attention, évidemment, les jours où il y a beaucoup de verglas, j'imagine que ce serait plus difficile tout de même.
+FAQ06-273 #ENLUMINURE12 | Q: L'animal rouge en bas de la tour, à côté de la cloche en enluminure douze, il est mâle ou femelle ou c'est vraiment pas important ? 
+   R: C'est un mâle.
+FAQ06-294 #OMNIAVINCITAMOR | Q: Trouve- t -on le bon dixième père grâce aux énigmes précédentes ? 
+   R: Oui, en effet. Ex nihilo, comme ça, si je vous demandais de trouver le nom du dixième père sans contexte, sans avoir trouvé des cryptos antérieurs, vous ne pourriez pas le trouver.
+FAQ07-027 #ADVITAMAETERNAM | Q: Dix pas au nord autant à l'est puis huit pas selon le jour dernier, en tant qu'auteur, ce parcours, hormis les indications de la boussole, semble-t-il limpide et suffisant dans sa forme actuelle ou admettez-vous qu'il puisse taquiner les esprits attentifs par un détail inavoué? 
+   R: Non, ça me semble assez limpide. Au contraire, je pense que cette fin de chasse est très claire.
+FAQ07-045 #ENLUMINURES | Q: Aurait-il été possible d 'échanger par exemple les enluminures 10 et 9 en laissant tout le reste des illustrations inchangé ? 
+   R: Certaines enluminures auraient en effet pu être modifiées, enfin auraient pu avoir un ordre modifié, oui.
+FAQ07-057 #OMNIAVINCITAMOR | Q: Dans l'énigme 10, le roi part d'un endroit pour aller rejoindre le château de la gardienne. Dans la FAQ six, tu nous as dit que trouver le point de départ était important. Est-ce que le point de départ est-il déjà connu ou alors celui-ci se trouve grâce à l'enluminure associée ? 
+   R: Il est important de savoir de quoi on parle quand on parle de point de départ plutôt que de trouver le positionnement géographique de ce point de départ.
+FAQ07-066 #ENLUMINURE6 | Q: Dans l'enluminure 6, peux-tu nous indiquer de quelle espèce est le cervidé ? Renne, cerf, peu importe… 
+   R: Il s'agit d 'un cerf.
+FAQ07-109 #SUBROSA | Q: L 'énigme Sub Rosa avec son enluminure nous amène-t-elle dans un monument particulier ? 
+   R: Là-dessus, je ne pourrais pas répondre.
+FAQ07-120 #ADVITAMAETERNAM | Q: 10 stades romains entre les troisième et onzième sont-ils à faire en ligne droite sur le chemin de rempart ? 
+   R: Oui, il y a bien une, une distance en ligne droite qui sépare les troisième et onzième. Toute la question, c'est de savoir quels sont ces troisième et onzième et comment les positionner par rapport à un point de départ.
+FAQ07-135 #OMNIAVINCITAMOR | Q: Dans Omnia Vincit Amor, la première lettre de la terre du 10e père était la première lettre du lieu à trouver sur l'île au sud ? 
+   R: Là-dessus je ne pourrais pas vous répondre.
+FAQ07-191 #ENLUMINURE6 | Q: Dans l 'enluminure 6, les juments sur la balance auraient-elles pu être remplacées par des chevaux mâles ? 
+   R: Non.
+FAQ07-201 #ADVITAMAETERNAM | Q: Un point virgule permet généralement de séparer deux propositions indépendantes mais liées par le sens. Ai-je raison de penser que la présence d 'un point virgule dans la phrase "Dieu sut se montrer favorable; dix stades romains séparaient les troisième et onzième" signifie qu'il faut utiliser la pr 
+   R: Non pas nécessairement.
+FAQ07-233 #NARRATEUR | Q: Si je suis sur la bonne voie, si j'ai bu un verre avec la bonne fée, rencontré la gardienne des eaux enchantées, fait un coucou à Mercure ? 
+   R: Non, je ne pense pas particulièrement.
+FAQ07-249 #OMNIAVINCITAMOR | Q: Le dixième père et Dieu servent-ils de confirmateur d'Ultima Cena ou est-ce un nouvel élément à trouver ? 
+   R: Le dixième père ainsi que le nom de Dieu sont des éléments qui vous permettront de trouver un résultat.
+FAQ07-278 #ENLUMINURE10 | Q: Peut-on utiliser les pierres de l 'enluminure 10 pour former un mot ? 
+   R: Non.

@@ -1,0 +1,126 @@
+Sources des ancres : coordonnees OSM/Wikipedia des villes de reference.
+Critere 'TRAVERSE' : ecart perpendiculaire < 60 km (largeur typique d'une province historique).
+
+================================================================================================
+### Lame pour la ligne de Guilhem (Ligne 5) : Urquhart -> Valence  (globe)
+  A=(57.3241399, -4.4420013)  B=(39.4752858, -0.3754667)  | longueur ortho 2006 km
+    Ecosse: Inverness            ecart     15.8 km | rang      15 km le long de la ligne  TRAVERSE
+    Ecosse: Edimbourg            ecart     50.0 km | rang     163 km le long de la ligne  TRAVERSE
+    Mur d'Hadrien: Bowness       ecart     29.9 km | rang     273 km le long de la ligne  TRAVERSE
+    Mur d'Hadrien: Housesteads   ecart     88.5 km | rang     275 km le long de la ligne  a proximite
+    Mur d'Hadrien: Carlisle      ecart     47.4 km | rang     282 km le long de la ligne  TRAVERSE
+    Mur d'Hadrien: Newcastle     ecart    131.9 km | rang     285 km le long de la ligne  
+    Irlande: Dublin              ecart   -196.6 km | rang     412 km le long de la ligne  
+    Galles: Caernarfon           ecart    -71.1 km | rang     460 km le long de la ligne  a proximite
+    Galles: Aberystwyth          ecart    -72.4 km | rang     542 km le long de la ligne  a proximite
+    Galles: St Davids            ecart   -162.4 km | rang     585 km le long de la ligne  
+    Galles: Cardiff              ecart    -28.4 km | rang     654 km le long de la ligne  TRAVERSE
+    Angleterre: Londres          ecart    181.2 km | rang     680 km le long de la ligne  
+    Cornouailles: Tintagel       ecart   -152.5 km | rang     725 km le long de la ligne  
+    Cornouailles: Bodmin         ecart   -150.2 km | rang     747 km le long de la ligne  
+    Manche: I. de Wight          ecart     88.3 km | rang     760 km le long de la ligne  a proximite
+    Angleterre: Plymouth         ecart   -115.3 km | rang     764 km le long de la ligne  a proximite
+    Cornouailles: Truro          ecart   -181.0 km | rang     765 km le long de la ligne  
+    Cornouailles: Land's End     ecart   -231.5 km | rang     778 km le long de la ligne  
+    Bretagne: Brest              ecart   -178.1 km | rang     977 km le long de la ligne  
+    Bretagne: St-Malo            ecart      5.4 km | rang     978 km le long de la ligne  TRAVERSE
+    Bretagne: Quimper            ecart   -157.6 km | rang    1026 km le long de la ligne  
+    Bretagne: Rennes             ecart     22.3 km | rang    1040 km le long de la ligne  TRAVERSE
+    Anjou: Angers                ecart     96.4 km | rang    1122 km le long de la ligne  a proximite
+    Anjou: Saumur                ecart    129.0 km | rang    1150 km le long de la ligne  
+    Guyenne: Perigueux           ecart    163.7 km | rang    1386 km le long de la ligne  
+    Guyenne: Bordeaux            ecart     57.7 km | rang    1413 km le long de la ligne  TRAVERSE
+    Guyenne: Agen                ecart    143.7 km | rang    1494 km le long de la ligne  
+
+================================================================================================
+### Lame pour la ligne de Guilhem (Ligne 5) : Urquhart -> Valence  (carte)
+  A=(57.3241399, -4.4420013)  B=(39.4752858, -0.3754667)  | longueur carte 2038 km
+    Ecosse: Inverness            ecart    -15.4 km | rang     -28 km le long de la ligne  TRAVERSE
+    Ecosse: Edimbourg            ecart    -54.4 km | rang     295 km le long de la ligne  TRAVERSE
+    Mur d'Hadrien: Bowness       ecart    -36.7 km | rang     489 km le long de la ligne  TRAVERSE
+    Mur d'Hadrien: Housesteads   ecart    -95.3 km | rang     492 km le long de la ligne  a proximite
+    Mur d'Hadrien: Carlisle      ecart    -54.4 km | rang     505 km le long de la ligne  TRAVERSE
+    Mur d'Hadrien: Newcastle     ecart   -138.8 km | rang     510 km le long de la ligne  
+    Irlande: Dublin              ecart    188.0 km | rang     740 km le long de la ligne  
+    Galles: Caernarfon           ecart     61.2 km | rang     812 km le long de la ligne  a proximite
+    Galles: Aberystwyth          ecart     61.5 km | rang     947 km le long de la ligne  a proximite
+    Galles: St Davids            ecart    151.4 km | rang    1023 km le long de la ligne  
+    Galles: Cardiff              ecart     16.2 km | rang    1128 km le long de la ligne  TRAVERSE
+    Angleterre: Londres          ecart   -193.3 km | rang    1174 km le long de la ligne  
+    Cornouailles: Tintagel       ecart    140.2 km | rang    1245 km le long de la ligne  
+    Cornouailles: Bodmin         ecart    137.8 km | rang    1280 km le long de la ligne  
+    Manche: I. de Wight          ecart   -101.2 km | rang    1297 km le long de la ligne  a proximite
+    Angleterre: Plymouth         ecart    102.6 km | rang    1306 km le long de la ligne  a proximite
+    Cornouailles: Truro          ecart    168.7 km | rang    1310 km le long de la ligne  
+    Cornouailles: Land's End     ecart    219.4 km | rang    1333 km le long de la ligne  
+    Bretagne: St-Malo            ecart    -18.8 km | rang    1633 km le long de la ligne  TRAVERSE
+    Bretagne: Brest              ecart    165.2 km | rang    1636 km le long de la ligne  
+    Bretagne: Quimper            ecart    144.7 km | rang    1707 km le long de la ligne  
+    Bretagne: Rennes             ecart    -35.7 km | rang    1727 km le long de la ligne  TRAVERSE
+    Anjou: Angers                ecart   -109.4 km | rang    1851 km le long de la ligne  a proximite
+    Anjou: Saumur                ecart   -141.8 km | rang    1894 km le long de la ligne  
+    Guyenne: Perigueux           ecart   -174.5 km | rang    2237 km le long de la ligne  
+    Guyenne: Bordeaux            ecart    -68.4 km | rang    2270 km le long de la ligne  a proximite
+    Guyenne: Agen                ecart   -153.3 km | rang    2387 km le long de la ligne  
+
+================================================================================================
+### Lame 'nee a Lombrives' : Urquhart -> Lombrives  (globe)
+  A=(57.3241399, -4.4420013)  B=(42.8232161, 1.616311)  | longueur ortho 1668 km
+    Ecosse: Inverness            ecart     17.5 km | rang      12 km le long de la ligne  TRAVERSE
+    Ecosse: Edimbourg            ecart     29.1 km | rang     168 km le long de la ligne  TRAVERSE
+    Mur d'Hadrien: Bowness       ecart     -4.7 km | rang     274 km le long de la ligne  TRAVERSE
+    Mur d'Hadrien: Housesteads   ecart     53.2 km | rang     284 km le long de la ligne  TRAVERSE
+    Mur d'Hadrien: Carlisle      ecart     11.5 km | rang     286 km le long de la ligne  TRAVERSE
+    Mur d'Hadrien: Newcastle     ecart     95.0 km | rang     299 km le long de la ligne  a proximite
+    Irlande: Dublin              ecart   -246.8 km | rang     384 km le long de la ligne  
+    Galles: Caernarfon           ecart   -128.3 km | rang     447 km le long de la ligne  
+    Galles: Aberystwyth          ecart   -139.9 km | rang     528 km le long de la ligne  
+    Galles: St Davids            ecart   -234.7 km | rang     560 km le long de la ligne  
+    Galles: Cardiff              ecart   -110.3 km | rang     645 km le long de la ligne  a proximite
+    Angleterre: Londres          ecart     94.3 km | rang     698 km le long de la ligne  a proximite
+    Cornouailles: Tintagel       ecart   -242.2 km | rang     700 km le long de la ligne  
+    Cornouailles: Bodmin         ecart   -242.8 km | rang     723 km le long de la ligne  
+    Cornouailles: Truro          ecart   -275.6 km | rang     736 km le long de la ligne  
+    Cornouailles: Land's End     ecart   -327.2 km | rang     743 km le long de la ligne  
+    Angleterre: Plymouth         ecart   -210.3 km | rang     744 km le long de la ligne  
+    Manche: I. de Wight          ecart     -7.7 km | rang     765 km le long de la ligne  TRAVERSE
+    Bretagne: Brest              ecart   -299.1 km | rang     948 km le long de la ligne  
+    Bretagne: St-Malo            ecart   -117.2 km | rang     971 km le long de la ligne  a proximite
+    Bretagne: Quimper            ecart   -284.8 km | rang     998 km le long de la ligne  
+    Bretagne: Rennes             ecart   -108.1 km | rang    1035 km le long de la ligne  a proximite
+    Anjou: Angers                ecart    -44.8 km | rang    1126 km le long de la ligne  TRAVERSE
+    Anjou: Saumur                ecart    -15.9 km | rang    1157 km le long de la ligne  TRAVERSE
+    Guyenne: Perigueux           ecart    -10.6 km | rang    1396 km le long de la ligne  TRAVERSE
+    Guyenne: Bordeaux            ecart   -119.0 km | rang    1409 km le long de la ligne  a proximite
+    Guyenne: Agen                ecart    -43.6 km | rang    1500 km le long de la ligne  TRAVERSE
+
+================================================================================================
+### Lame 'nee a Lombrives' : Urquhart -> Lombrives  (carte)
+  A=(57.3241399, -4.4420013)  B=(42.8232161, 1.616311)  | longueur carte 1688 km
+    Ecosse: Inverness            ecart    -16.9 km | rang     -24 km le long de la ligne  TRAVERSE
+    Ecosse: Edimbourg            ecart    -35.7 km | rang     304 km le long de la ligne  TRAVERSE
+    Mur d'Hadrien: Bowness       ecart     -5.2 km | rang     493 km le long de la ligne  TRAVERSE
+    Mur d'Hadrien: Housesteads   ecart    -63.3 km | rang     508 km le long de la ligne  a proximite
+    Mur d'Hadrien: Carlisle      ecart    -21.7 km | rang     512 km le long de la ligne  TRAVERSE
+    Mur d'Hadrien: Newcastle     ecart   -105.4 km | rang     534 km le long de la ligne  a proximite
+    Irlande: Dublin              ecart    236.0 km | rang     701 km le long de la ligne  
+    Galles: Caernarfon           ecart    114.9 km | rang     795 km le long de la ligne  a proximite
+    Galles: Aberystwyth          ecart    125.3 km | rang     930 km le long de la ligne  
+    Galles: St Davids            ecart    220.6 km | rang     989 km le long de la ligne  
+    Galles: Cardiff              ecart     94.2 km | rang    1118 km le long de la ligne  a proximite
+    Angleterre: Londres          ecart   -110.9 km | rang    1201 km le long de la ligne  a proximite
+    Cornouailles: Tintagel       ecart    227.1 km | rang    1213 km le long de la ligne  
+    Cornouailles: Bodmin         ecart    227.5 km | rang    1248 km le long de la ligne  
+    Cornouailles: Truro          ecart    260.7 km | rang    1273 km le long de la ligne  
+    Angleterre: Plymouth         ecart    194.6 km | rang    1280 km le long de la ligne  
+    Cornouailles: Land's End     ecart    313.2 km | rang    1287 km le long de la ligne  
+    Manche: I. de Wight          ecart     -9.3 km | rang    1307 km le long de la ligne  TRAVERSE
+    Bretagne: Brest              ecart    285.0 km | rang    1598 km le long de la ligne  
+    Bretagne: St-Malo            ecart    101.2 km | rang    1626 km le long de la ligne  a proximite
+    Bretagne: Quimper            ecart    270.8 km | rang    1673 km le long de la ligne  
+    Bretagne: Rennes             ecart     92.8 km | rang    1723 km le long de la ligne  a proximite
+    Anjou: Angers                ecart     30.4 km | rang    1858 km le long de la ligne  TRAVERSE
+    Anjou: Saumur                ecart      2.0 km | rang    1905 km le long de la ligne  TRAVERSE
+    Guyenne: Perigueux           ecart      1.8 km | rang    2251 km le long de la ligne  TRAVERSE
+    Guyenne: Bordeaux            ecart    111.0 km | rang    2266 km le long de la ligne  a proximite
+    Guyenne: Agen                ecart     37.9 km | rang    2396 km le long de la ligne  TRAVERSE

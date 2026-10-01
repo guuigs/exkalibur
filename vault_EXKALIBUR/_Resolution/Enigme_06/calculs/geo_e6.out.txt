@@ -1,0 +1,36 @@
+== Axe tour krak -> champ de bataille
+Tour -> Battle Abbey (champ de Senlac)     76.80 km  cap 149.07°
+Tour -> Hastings (ville)                   85.64 km  cap 147.84°
+Tour -> Sainte-Chapelle                   341.60 km  cap 148.76°
+Tour -> Notre-Dame de Paris               342.01 km  cap 148.73°
+Écart latéral de Battle Abbey à l'axe Tour->Sainte-Chapelle : +0.42 km
+Écart latéral de Hastings    à l'axe Tour->Sainte-Chapelle : -1.38 km
+Tour->Battle + Battle->Sainte-Chapelle = 341.60 km (vs direct 341.60)
+
+== Chaîne des C de la carte de Guilhem (Cluny -> Clermont -> Cadouin)
+segments [141.49, 203.72] total 345.21
+
+== Toutes distances entre candidats C (km)
+Clermont (cathédrale)    - Cluny (abbaye)            141.49
+Clermont (cathédrale)    - Cadouin (cloître)         203.72
+Clermont (cathédrale)    - Clairvaux (abbaye)        293.27
+Clermont (cathédrale)    - Cîteaux (abbaye)          214.92
+Clermont (cathédrale)    - Chartres (cathédrale)     320.47
+Cluny (abbaye)           - Cadouin (cloître)         345.21
+Cluny (abbaye)           - Clairvaux (abbaye)        190.61
+Cluny (abbaye)           - Cîteaux (abbaye)           83.99
+Cluny (abbaye)           - Chartres (cathédrale)     327.02
+Cadouin (cloître)        - Clairvaux (abbaye)        476.71
+Cadouin (cloître)        - Cîteaux (abbaye)          415.54
+Cadouin (cloître)        - Chartres (cathédrale)     407.04
+Clairvaux (abbaye)       - Cîteaux (abbaye)          115.46
+Clairvaux (abbaye)       - Chartres (cathédrale)     246.44
+Cîteaux (abbaye)         - Chartres (cathédrale)     306.69
+
+== Point à distance D de la Tour, sur l'axe Tour->Battle (cap 149.07 °)
+D= 300.0 km -> 49.17383, 2.04460
+D= 320.0 km -> 49.01689, 2.17879
+D= 340.0 km -> 48.85979, 2.31213
+D= 343.5 km -> 48.83229, 2.33537
+D= 360.0 km -> 48.70254, 2.44463
+D= 380.0 km -> 48.54514, 2.57631

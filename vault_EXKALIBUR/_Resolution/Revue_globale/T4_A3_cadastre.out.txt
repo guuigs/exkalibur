@@ -1,0 +1,28 @@
+[{'nom': 'Saint-Maximin', 'code': '38426'}]
+{'38426': 'Saint-Maximin', '73151': 'Porte-de-Savoie', '38439': 'Crêts en Belledonne', '38078': 'La Chapelle-du-Bard', '38418': 'Sainte-Marie-du-Mont', '73276': 'Saint-Pierre-de-Soucy', '38417': "Sainte-Marie-d'Alloix", '38075': 'Chapareillan', '38163': 'Le Haut-Bréda', '73294': 'La Thuile', '73021': 'Arvillard', '38314': 'Pontcharra'}
+38426 Saint-Maximin 126 match 4
+73151 Porte-de-Savoie 194 match 1
+38439 Crêts en Belledonne 226 match 6
+38078 La Chapelle-du-Bard 121 match 1
+38418 Sainte-Marie-du-Mont 75 match 1
+73276 Saint-Pierre-de-Soucy 103 match 1
+38417 Sainte-Marie-d'Alloix 21 match 0
+38075 Chapareillan 124 match 3
+38163 Le Haut-Bréda 348 match 10
+73294 La Thuile 174 match 12
+73021 Arvillard 108 match 1
+38314 Pontcharra 158 match 2
+0.13 km 116° Saint-Maximin          LE CHENE LA ROCHE ET LE VIVIER (45.42827,6.03232)
+0.44 km  34° Saint-Maximin          PIERRE GROS (45.43208,6.03398)
+0.71 km 285° Pontcharra             PRE CROCHET (45.43042,6.02202)
+1.42 km 185° Saint-Maximin          LE ROCHAT (45.41607,6.02909)
+2.21 km  83° Saint-Maximin          COTE ROCHAT (45.43136,6.05886)
+3.07 km 205° Pontcharra             ROCHE MORTE (45.40386,6.01396)
+5.18 km 164° Crêts en Belledonne    LA ROCHE (45.38411,6.04961)
+5.53 km 164° Crêts en Belledonne    LA ROCHE (45.38096,6.05006)
+5.73 km  89° La Chapelle-du-Bard    PIRRE GROSSE (45.42948,6.10421)
+5.76 km 262° Sainte-Marie-du-Mont   LA PIERRE (45.42116,5.95779)
+6.27 km 296° Chapareillan           LES BOUTIERES\ET GROSSES PIERRES (45.45372,5.95875)
+6.30 km 191° Crêts en Belledonne    LA BALME (45.37322,6.01512)
+6.46 km 320° Chapareillan           LES ROCHETTES (45.47337,5.97761)
+6.63 km 319° Chapareillan           LES ROCHETTES (45.47348,5.97448)

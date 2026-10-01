@@ -1,0 +1,43 @@
+## Coordonnees (OSM Nominatim)
+- Rennes-le-Château: 42.92725, 2.26275  <- Rennes-le-Château, Limoux, Aude, Occitanie, France métropolitaine, 11190, France
+- Château de Foix: 42.96570, 1.60476  <- Château de Foix, Rue du Rocher, Moulinery, Foix, Ariège, Occitanie, France métropolitaine,
+- Château de Montségur: 42.87573, 1.83250  <- Château de Montségur, D 9, Montségur, Pamiers, Ariège, Occitanie, France métropolitaine, 0
+- Cathédrale de León: 42.59946, -5.56668  <- Catedral de León, Calle Cardenal Landázuri, Casco Histórico, León, Castilla y León, 24003,
+- Cathédrale de Valence: 39.47557, -0.37511  <- Catedral de València, Plaça de l'Almoina, Ciutat Vella, València, Comarca de València, Val
+- Grotte de Lombrives: 42.82322, 1.61631  <- Grotte de Lombrives, N 20, Ussat, Foix, Ariège, Occitanie, France métropolitaine, 09400, F
+- Château de Tintagel: 50.66867, -4.76215  <- Tintagel Castle, Castle Road, Tintagel, Cornwall, England, PL34 0DQ, United Kingdom
+- Silchester (Calleva): 51.36157, -1.08826  <- Silchester Roman Town Car Park, Wall Lane, Silchester, Mortimer West End, Basingstoke and 
+- Abbaye de Westminster: 51.49940, -0.12739  <- Westminster Abbey, 20, Dean's Yard, Westminster, Millbank, City of Westminster, Greater Lo
+- Tour de Londres: 51.50822, -0.07619  <- Tower of London, Tower Hill, East Smithfield, Tower Hill, Whitechapel, London Borough of T
+- Battle Abbey (Hastings): 50.91505, 0.48606  <- Battle Abbey, High Street, Battle, Rother, East Sussex, England, TN33 0AD, United Kingdom
+- Château d'Urquhart: 57.32411, -4.44199  <- Urquhart Castle, Urquhart Castle Drive, Strone, Lewiston, Highland, Alba / Scotland, IV63 
+
+## Enigme 1 - '11 lieues vers le couchant depuis Rennes-le-Chateau'
+- RLC -> Château de Foix: 53.7 km, cap 275deg
+    = 12.09 x lieue commune (~4.444 km)
+    = 13.78 x lieue de Paris 1674 (3.898 km)
+    = 13.78 x lieue de poste (3.898 km)
+    = 24.18 x lieue gauloise/leuga (~2.22 km)
+    = 9.67 x lieue marine (5.556 km)
+- RLC -> Château de Montségur: 35.5 km, cap 261deg
+    = 7.99 x lieue commune (~4.444 km)
+    = 9.11 x lieue de Paris 1674 (3.898 km)
+    = 9.11 x lieue de poste (3.898 km)
+    = 15.98 x lieue gauloise/leuga (~2.22 km)
+    = 6.39 x lieue marine (5.556 km)
+
+## Enigme 1 - geometrie de l'epee
+- Cathédrale de León -> Château de Foix: 586.5 km, cap 83.6deg
+- Cathédrale de León -> Château de Montségur: 604.9 km, cap 84.6deg
+- Grotte de Lombrives -> Château d'Urquhart: 1667.8 km, cap 347.3deg
+- Cathédrale de Valence -> Grotte de Lombrives: 407.8 km, cap 23.5deg
+- Cathédrale de Valence -> Château d'Urquhart: 2006.4 km, cap 352.9deg
+
+## Enigme 4 - '181 milia vers l'orient'
+- 181 milles romains x 1.4786 = 267.6 km
+- Château de Tintagel -> Silchester (Calleva): 268.3 km = 181.4 milles romains, cap 72deg
+- Silchester (Calleva) -> Abbaye de Westminster: 68.4 km = 46.2 milles romains, cap 77deg
+- Château de Tintagel -> Abbaye de Westminster: 336.6 km = 227.6 milles romains, cap 72deg
+
+## Enigme 6 - Tour de Londres -> champ de bataille
+- Tour de Londres -> Battle Abbey: 76.7 km, cap 149deg

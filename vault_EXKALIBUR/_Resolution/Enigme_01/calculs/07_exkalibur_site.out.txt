@@ -1,0 +1,302 @@
+====================================================================================================
+URL: https://unsolvedhunts.com/sitemap.xml len 884
+<?xml version="1.0" encoding="UTF-8"?>
+<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <!-- This is the parent sitemap linking to additional sitemaps for products, collections and pages as shown below. The sitemap can not be edited manually, but is kept up to date in real time. -->
+  <sitemap>
+    <loc>https://unsolvedhunts.com/sitemap_agentic_discovery.xml</loc>
+  </sitemap>
+  <sitemap>
+    <loc>https://unsolvedhunts.com/sitemap_products_1.xml?from=7495649525862&amp;to=8025569525862</loc>
+  </sitemap>
+  <sitemap>
+    <loc>https://unsolvedhunts.com/sitemap_pages_1.xml?from=95526125670&amp;to=116540244070</loc>
+  </sitemap>
+  <sitemap>
+    <loc>https://unsolvedhunts.com/sitemap_collections_1.xml?from=287638421606&amp;to=313206964326</loc>
+  </sitemap>
+  <sitemap>
+    <loc>https://unsolvedhunts.com/sitemap_blogs_1.xml</loc>
+  </sitemap>
+</sitemapindex>
+
+====================================================================================================
+URL: https://unsolvedhunts.com/pages/exkalibur len 280412
+Exkalibur
+ – Unsolved Hunts 
+ Ignorer et passer au contenu
+ Votre panier est vide
+ Continuer les achats
+ Vous possédez un compte ?
+ Connectez-vous pour payer plus vite.
+ Votre panier
+ Chargement en cours...
+ Coffret Exkalibur - 39€ 
+ Ajouter au panier 
+ Le parchemin des énigmes - 29,99€ 
+ Ajouter au panier 
+ Le jeu du Naga d'or - 15€ 
+ Ajouter au panier 
+ Coffret Chevalier - 49€ 
+ Ajouter au panier 
+ Pack Multichasses - 70€ 
+ Ajouter au panier 
+ Coffret Quête du Graal - 144€ 
+ Ajouter au panier 
+ Coffret Lancelot - 94€ 
+ Ajouter au panier 
+ Coffret Merlin - 69€ 
+ Ajouter au panier 
+ Amelia Davies - La Quête du Graal - 35€ 
+ Ajouter au panier 
+ Amelia Davies - Le Trésor de Barbe Noire - 35€ 
+ Ajouter au panier 
+ > 
+ Total estimé
+ 0€
+ Procéder au paiement
+ Exkalibur
+ Naga d'or
+ Élixir d'or
+ Gold & Crystal
+ Boutique
+ Partenariat
+ Validation
+ Connexion 
+ Pays/région
+ France |
+ EUR
+ € 
+ Rechercher 
+ Allemagne 
+ EUR
+ € 
+ Autriche 
+ EUR
+ € 
+ Belgique 
+ EUR
+ € 
+ Bulgarie 
+ EUR
+ € 
+ Chypre 
+ EUR
+ € 
+ Croatie 
+ EUR
+ € 
+ Danemark 
+ EUR
+ € 
+ Espagne 
+ EUR
+ € 
+ Estonie 
+ EUR
+ € 
+ États-Unis 
+ USD
+ $ 
+ Finlande 
+ EUR
+ € 
+ France 
+ EUR
+ € 
+ Grèce 
+ EUR
+ € 
+ Hongrie 
+ EUR
+ € 
+ Irlande 
+ EUR
+ € 
+ Italie 
+ EUR
+ € 
+ Lettonie 
+ EUR
+ € 
+ Lituanie 
+ EUR
+ € 
+ Luxembourg 
+ EUR
+ € 
+ Malte 
+ EUR
+ € 
+ Pays-Bas 
+ EUR
+ € 
+ Pologne 
+ EUR
+ € 
+ Portugal 
+ EUR
+ € 
+ Roumanie 
+ EUR
+ € 
+ Slovaquie 
+ EUR
+ € 
+ Slovénie 
+ EUR
+ € 
+ Suède 
+ EUR
+ € 
+ Tchéquie 
+ EUR
+ € 
+ Facebook 
+ Instagram 
+ Exkalibur 
+ Naga d'or 
+ Élixir d'or 
+ Gold & Crystal 
+ Boutique 
+ Partenariat 
+ Validation 
+ Connexion 
+ Panier 
+ Soulèveras-tu l'épée du Roi Arthur ?
+ Je participe
+ Le concept
+ Avant de rendre l’âme, le roi Arthur confie aux chevaliers de la Table Ronde une dernière quête : trouver le Graal. Quiconque y parviendra, et s’en montrera digne, recevra pour récompense le symbole suprême de l’autorité royale : son épée. La légendaire Exkalibur, couverte d’or massif et sertie d’une pierre précieuse.
+ Je commande !
+ Le trésor
+ Exkalibur, épée royale d’une valeur de 250 000 euros, a été créée par deux forgerons de l’Atelier Thibaud. Fruit de six mois de travail artisanal, façonnée selon les techniques médiévales, la poignée est entièrement recouverte d’or, et contient un spinelle rouge de 6,23 carats. C’est le joyau de cette chasse.
+ Je commande
+ Comment ça marche ?
+ 12 énigmes à résoudre
+ Pour participer à "Exkalibur", procurez-vous un exemplaire du jeu puis mesurez-vous aux 12 énigmes .
+ Un coffre à trouver
+ Un coffre est enterré en Europe de l’Ouest. Grâce à la carte au trésor, aux 12 énigmes calligraphiées et aux 12 enluminures, soyez le premier à le déterrer !
+ Un trésor de 250 000€ à gagner
+ La première personne à trouver le coffre met un terme à la chasse et remporte l’épée du roi Arthur "Exkalibur".
+ Je commande ! 
+ 12 énigmes enluminées
+ Pour remporter l’épée, il vous faudra plonger dans 12 énigmes calligraphiées sur peau de bête par Axelle Marchand, et les 12 enluminures qui les accompagnent, peintes entièrement à la main par Sonia Chiapuso, enlumineuse professionnelle depuis plus de 10 ans.
+ Je commande
+ Communauté
+ Vous souhaitez être tenu informé de l’actualité de la chasse ? Poser des questions aux organisateurs ? Trouver des coéquipiers ? Rejoignez le groupe Discord officiel du jeu afin de pouvoir suivre en temps réel la progression du jeu et accéder à une communauté soudée unie autour de la même passion pour la chasse au trésor.
+ Le Discord de la chasse
+ Site dédié
+ Vous souhaitez en savoir davantage sur cette chasse au trésor et plonger plus profondément dans son univers captivant ? Vous pouvez aller visiter le site dédié à la chasse !
+ Le Site de la chasse
+ Comment pouvons-nous vous aider ?
+ Chasse
+ Comment participer à la chasse ?
+ Il suffit de commander le jeu sur ce site (présent dans n’importe quel coffret), puis de résoudre les 12 énigmes qui vous donneront l’emplacement d’un coffre enterré quelque part en Europe.
+ Où peut-on se procurer les énigmes de la chasse ?
+ Dans le jeu. Il y en a 12, calligraphiées sur peau de bête, accompagnées d’enluminures. Le jeu contient les parchemins des énigmes, ainsi qu’une carte au trésor grand format de l’Europe médiévale.
+ Quel est le trésor à gagner ?
+ La première personne à déterrer le coffre sera déclarée gagnante, et remportera l’épée d’Arthur, une pièce d’orfèvrerie unique d’une valeur de 250.000 €. 
+ Comment joue-t-on à Exkalibur ?
+ Ce n’est pas un sprint, mais un marathon. Il faut résoudre les 12 énigmes du jeu, certaines sont très faciles, et plus vous progresserez dans le jeu, plus les énigmes deviendront difficiles. Il vous faudra de la sagacité, et de la persévérance. En triomphant des énigmes, vous découvrirez
+l’emplacement exact où le coffre est enterré. Foncez creuser, et vous remporterez le trésor !
+ Je n’ai jamais participé à une chasse au trésor, est-ce que j'ai une chance ?
+ Oui. Les énigmes ne demandent pas des connaissances aigues en cryptographie, mais mobiliseront vos connaissances historiques, votre bon sens, et votre intuition.
+ Puis-je offrir le jeu à quelqu'un ?
+ Tout à fait. Il n’y a pas besoin de justificatif d’achat pour prétendre au trésor. Une fois l'achat effectué, contactez-nous via cette page pour que nous puissions créer les accès à la personne à qui vous souhaitez offrir le jeu.
+ Peut-on peut jouer en équipe ?
+ Oui, c’est même conseillé pour améliorer vos chances de succès. Mais comme l’épée ne peut pas être coupée en plusieurs morceaux, nous la remettrons à votre « ambassadeur », et libre à vous de choisir qui gardera le trésor, ou de le vendre aux enchères pour en partager le gain.
+ Que doit-on trouver ?
+ Les 12 énigmes du jeu correctement résolues vous indiqueront un emplacement extrêmement précis en Europe, où a été enterré un coffre. C’est ce coffre qu’il vous faut trouver en premier pour remporter la chasse, et le trésor.
+ Qui connait les solutions ?
+ Etienne Picand, l’auteur des 12 énigmes.
+ Quelle est la durée prévue de la chasse ?
+ Entre 2 et 5 a
+====================================================================================================
+URL: https://www.unsolved-hunts.com/pages/exkalibur len 225701
+Exkalibur
+ – Unsolved Hunts US 
+ Skip to text
+ Your cart is empty
+ Continue shopping
+ Your cart
+ Loading...
+ Digital Version of "Exkalibur" - $49.99 
+ Add to cart 
+ Digital Version of "The Golden Elixir" - $39.99 
+ Add to cart 
+ Deckhand Pack - $39.99 
+ Add to cart 
+ > 
+ Estimated total
+ $0.00 USD
+ Proceed to checkout
+ Exkalibur
+ The Golden Elixir
+ Gold & Crystal
+ Rules
+ Validation
+ Shop
+ Facebook 
+ Instagram 
+ Exkalibur 
+ The Golden Elixir 
+ Gold & Crystal 
+ Rules 
+ Validation 
+ Shop 
+ Cart 
+ Will you claim King Arthur’s sword?
+ Begin the quest !
+ How does it work ?
+ 12 riddles to solve
+ To take part in Exkalibur , purchase a copy of the digital game and take on the 12 riddles.
+ A buried chest to find
+ A chest is buried somewhere in Western Europe. Using the treasure map, the 12 calligraphed riddles, and the 12 illuminated artworks, be the first to uncover it.
+ A €250,000 treasure to be won
+ The first person to find the chest brings the hunt to an end and claims King Arthur’s sword, Exkalibur, worth 250,000€.
+ BEGIN THE QUEST ! 
+ The Concept
+ Exkalibur is a unique Arthurian-themed treasure hunt with one ultimate quest: to prove yourself worthy of the legendary Exkalibur.
+Solve 12 riddles, each illustrated with a richly illuminated artwork, to uncover a buried chest and claim the solid gold sword set with a 6.23-carat red spinel, worth €250,000.
+ BEGIN THE QUEST !
+ The Treasure
+ Exkalibur, a royal sword valued at €250,000, was crafted by two master blacksmiths from Atelier Thibaud from Carcassonne, France. The result of six months of meticulous craftsmanship using medieval techniques, its hilt is entirely covered in gold and set with a 6.23-carat red spinel.
+It is the crown jewel of this treasure hunt.
+ BEGIN THE QUEST !
+ How can we help you ?
+ The Treasure Hunts
+ How can I participate ?
+ Simply order the game on this website, then solve the 12 riddles that will lead you to the location of a chest buried somewhere in Europe.
+ Where can I get the hunt’s riddles?
+ In the game itself. It includes 12 riddles, calligraphed on parchment and accompanied by illuminated artworks. The game also contains the riddle scrolls, as well as a large-format treasure map of medieval Europe.
+ What is the treasure to be won?
+ The first person to unearth the chest will be declared the winner and will claim Arthur’s sword, a unique piece of goldsmith craftsmanship valued at €250,000.
+ How do you play Exkalibur?
+ This is not a sprint, but a marathon. You must solve the game’s 12 riddles — some are very easy, and the further you progress, the more challenging they become. You will need insight and perseverance. By overcoming the riddles, you will uncover the exact location where the chest is buried. 
+ I’ve never taken part in a treasure hunt, do I stand a chance?
+ Yes. The riddles do not require advanced knowledge of cryptography, but will call upon your historical knowledge, common sense, and intuition.
+ Can we play as a team?
+ Yes, it is even recommended to improve your chances of success. However, as the sword cannot be divided, it will be awarded to your designated “ambassador.” You are then free to decide who will keep the treasure, or to sell it at auction and share the proceeds.
+ What do we need to find?
+ When correctly solved, the game’s 12 riddles will lead you to an extremely precise location in Europe, where a chest has been buried. Finding this chest first is what wins you the hunt, and the treasure.
+ Who knows the correct answer ?
+ Etienne Picand, the author of the Treasure Hunt. 
+ How long is the hunt expected to last?
+ Between 2 to 5 years. 
+ How can I ask questions to the riddle creator?
+ You can join the community of treasure hunters directly on the hunt’s official Discord server. A dedicated question-and-answer forum is present there.
+ How was the treasure valued?
+ The treasure has been valued at €250,000. This estimate is based on the raw value of the materials used in the sword, in particular the precious stone set in the pommel — a 6.3-carat red spinel. It also takes into account the value of the artisanal craftsmanship involved, with multiple trades working for six months to create it.
+ Terms of Sale
+ Terms of Use
+ Refund Policy
+ Privacy Policy
+ Affiliate Program
+ Contact us on - :
+ Facebook | Instagram | Discord The Golden Naga | Discord Exkalibur | Discord The Golden Elixir or via the email address contact@unsolvedhunts.com
+ © 2026, Unsolved Hunts US 
+ Page refresh.
+ Open in new window.
+====================================================================================================
+URL: https://unsolvedhunts.com/pages/rules len 29
+ERR HTTP Error 404: Not Found

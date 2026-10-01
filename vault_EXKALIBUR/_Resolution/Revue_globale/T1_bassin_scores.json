@@ -1,0 +1,1180 @@
+[
+ {
+  "id": "SURF_EAU0000002330709375",
+  "layer": "surface_hydrographique",
+  "nom": null,
+  "nature": "Retenue",
+  "pers": "Intermittent",
+  "dist": 3.0428522753939324,
+  "cap": 326.98906866290105,
+  "aire": 1356.2900393928867,
+  "elong": 0.6597566039780047,
+  "iou": 0.8774436090225564,
+  "flipmir": [
+   -1,
+   1
+  ],
+  "ang": 0,
+  "lat": 45.45174539800001,
+  "lon": 6.009528091999999
+ },
+ {
+  "id": "SURF_EAU0000002003273243",
+  "layer": "surface_hydrographique",
+  "nom": null,
+  "nature": "Plan d'eau de gravière",
+  "pers": "Intermittent",
+  "dist": 3.3569338898167054,
+  "cap": 303.8585410379072,
+  "aire": 458.051388613414,
+  "elong": 0.6815507649317541,
+  "iou": 0.8711003175789277,
+  "flipmir": [
+   1,
+   -1
+  ],
+  "ang": 0,
+  "lat": 45.44561439052632,
+  "lon": 5.995046804736842
+ },
+ {
+  "id": "SURF_EAU0000000290275409",
+  "layer": "surface_hydrographique",
+  "nom": null,
+  "nature": "Réservoir-bassin",
+  "pers": "Intermittent",
+  "dist": 2.3699528149392552,
+  "cap": 236.3322113904338,
+  "aire": 1060.6604526648298,
+  "elong": 0.5307914950997291,
+  "iou": 0.8681707999254149,
+  "flipmir": [
+   -1,
+   -1
+  ],
+  "ang": -5,
+  "lat": 45.41698152500001,
+  "lon": 6.005509430999999
+ },
+ {
+  "id": "SURF_EAU0000000007503763",
+  "layer": "surface_hydrographique",
+  "nom": null,
+  "nature": "Retenue",
+  "pers": "Permanent",
+  "dist": 3.718400379500579,
+  "cap": 215.75438930854546,
+  "aire": 7642.827432119288,
+  "elong": 0.6971767925661168,
+  "iou": 0.8568253380255603,
+  "flipmir": [
+   1,
+   -1
+  ],
+  "ang": -10,
+  "lat": 45.401658813666664,
+  "lon": 6.002951088666667
+ },
+ {
+  "id": "SURF_EAU0000000007503206",
+  "layer": "surface_hydrographique",
+  "nom": null,
+  "nature": "Réservoir-bassin d'orage",
+  "pers": "Permanent",
+  "dist": 2.769658386083302,
+  "cap": 306.93931452130687,
+  "aire": 969.3069144729525,
+  "elong": 0.5894512524752824,
+  "iou": 0.8412087912087912,
+  "flipmir": [
+   1,
+   -1
+  ],
+  "ang": 5,
+  "lat": 45.44376547999999,
+  "lon": 6.002404706153846
+ },
+ {
+  "id": "SURF_EAU0000000007503767",
+  "layer": "surface_hydrographique",
+  "nom": null,
+  "nature": "Retenue",
+  "pers": "Permanent",
+  "dist": 4.321596605081563,
+  "cap": 218.27676633366306,
+  "aire": 1163.3396316114813,
+  "elong": 0.665455887129786,
+  "iou": 0.835948905109489,
+  "flipmir": [
+   1,
+   -1
+  ],
+  "ang": 5,
+  "lat": 45.3982847717647,
+  "lon": 5.996493159411766
+ },
+ {
+  "id": "SURF_EAU0000000292946248",
+  "layer": "surface_hydrographique",
+  "nom": null,
+  "nature": "Retenue",
+  "pers": "Intermittent",
+  "dist": 4.408876312376714,
+  "cap": 218.15767759221822,
+  "aire": 9536.230699546635,
+  "elong": 0.5391888013764272,
+  "iou": 0.829518403222853,
+  "flipmir": [
+   1,
+   1
+  ],
+  "ang": -5,
+  "lat": 45.39761741973685,
+  "lon": 5.995893320263159
+ },
+ {
+  "id": "SURF_EAU0000000007503764",
+  "layer": "surface_hydrographique",
+  "nom": null,
+  "nature": "Retenue",
+  "pers": "Permanent",
+  "dist": 3.595274809341372,
+  "cap": 215.65094252451888,
+  "aire": 11202.770304303616,
+  "elong": 0.45664948827404117,
+  "iou": 0.8276681286549707,
+  "flipmir": [
+   1,
+   1
+  ],
+  "ang": 0,
+  "lat": 45.40252358294118,
+  "lon": 6.0039396791176465
+ },
+ {
+  "id": "PLANDEAU0000000007457911",
+  "layer": "plan_d_eau",
+  "nom": "Étangs du Maupas",
+  "nature": "Retenue",
+  "pers": null,
+  "dist": 3.595274809341372,
+  "cap": 215.65094252451888,
+  "aire": 11202.770304303616,
+  "elong": 0.45664948827404117,
+  "iou": 0.8276681286549707,
+  "flipmir": [
+   1,
+   1
+  ],
+  "ang": 0,
+  "lat": 45.40252358294118,
+  "lon": 6.0039396791176465
+ },
+ {
+  "id": "SURF_EAU0000000292946095",
+  "layer": "surface_hydrographique",
+  "nom": null,
+  "nature": "Réservoir-bassin",
+  "pers": "Intermittent",
+  "dist": 3.3296554649357053,
+  "cap": 308.8084975766906,
+  "aire": 324.4155190051533,
+  "elong": 0.6678008771991987,
+  "iou": 0.827113062568606,
+  "flipmir": [
+   1,
+   1
+  ],
+  "ang": -5,
+  "lat": 45.447561829166666,
+  "lon": 5.997520029166666
+ },
+ {
+  "id": "SURF_EAU0000000208699938",
+  "layer": "surface_hydrographique",
+  "nom": null,
+  "nature": "Réservoir-bassin",
+  "pers": "Intermittent",
+  "dist": 5.319728120680551,
+  "cap": 138.928014691479,
+  "aire": 528.4402975039557,
+  "elong": 0.670765420474572,
+  "iou": 0.8234434909622056,
+  "flipmir": [
+   1,
+   1
+  ],
+  "ang": 5,
+  "lat": 45.39272435625,
+  "lon": 6.075539575625
+ },
+ {
+  "id": "SURF_EAU0000002330709405",
+  "layer": "surface_hydrographique",
+  "nom": null,
+  "nature": "Réservoir-bassin",
+  "pers": "Intermittent",
+  "dist": 1.9054314815131532,
+  "cap": 41.64987861242571,
+  "aire": 681.2056522909552,
+  "elong": 0.4664146886264785,
+  "iou": 0.8219277545834089,
+  "flipmir": [
+   -1,
+   1
+  ],
+  "ang": 0,
+  "lat": 45.441603160000014,
+  "lon": 6.047010849999999
+ },
+ {
+  "id": "SURF_EAU0000000012581195",
+  "layer": "surface_hydrographique",
+  "nom": null,
+  "nature": "Retenue",
+  "pers": "Permanent",
+  "dist": 3.177939571962883,
+  "cap": 334.33934350328406,
+  "aire": 157708.97327789292,
+  "elong": 0.7083061089150899,
+  "iou": 0.8166127292340885,
+  "flipmir": [
+   1,
+   1
+  ],
+  "ang": -10,
+  "lat": 45.45455979991703,
+  "lon": 6.013136843568467
+ },
+ {
+  "id": "SURF_EAU0000002003582962",
+  "layer": "surface_hydrographique",
+  "nom": null,
+  "nature": "Réservoir-bassin",
+  "pers": "Intermittent",
+  "dist": 1.729475189331819,
+  "cap": 70.60541863258914,
+  "aire": 104.74105794541538,
+  "elong": 0.7292431575668691,
+  "iou": 0.8162112932604736,
+  "flipmir": [
+   1,
+   -1
+  ],
+  "ang": 0,
+  "lat": 45.433962981363635,
+  "lon": 6.051686766818182
+ },
+ {
+  "id": "SURF_EAU0000002480312188",
+  "layer": "surface_hydrographique",
+  "nom": null,
+  "nature": "Plan d'eau de gravière",
+  "pers": "Intermittent",
+  "dist": 3.1660227752678844,
+  "cap": 300.2419008120104,
+  "aire": 7408.142295985017,
+  "elong": 0.7260172014658473,
+  "iou": 0.811310592459605,
+  "flipmir": [
+   -1,
+   -1
+  ],
+  "ang": 5,
+  "lat": 45.443134960624995,
+  "lon": 5.995721338281251
+ },
+ {
+  "id": "SURF_EAU0000000007503207",
+  "layer": "surface_hydrographique",
+  "nom": null,
+  "nature": "Retenue",
+  "pers": "Permanent",
+  "dist": 3.0806151342402237,
+  "cap": 329.02251648839064,
+  "aire": 8097.867277532816,
+  "elong": 0.47644187377555863,
+  "iou": 0.8080517613227893,
+  "flipmir": [
+   -1,
+   -1
+  ],
+  "ang": 5,
+  "lat": 45.452551279999994,
+  "lon": 6.0104527072
+ },
+ {
+  "id": "SURF_EAU0000002330709404",
+  "layer": "surface_hydrographique",
+  "nom": null,
+  "nature": "Retenue",
+  "pers": "Intermittent",
+  "dist": 2.8126367542829853,
+  "cap": 340.4266238947142,
+  "aire": 22669.60656243004,
+  "elong": 0.5257744151181293,
+  "iou": 0.8074489242451636,
+  "flipmir": [
+   -1,
+   -1
+  ],
+  "ang": 0,
+  "lat": 45.45263228444444,
+  "lon": 6.018700085000002
+ },
+ {
+  "id": "SURF_EAU0000000007503209",
+  "layer": "surface_hydrographique",
+  "nom": null,
+  "nature": "Retenue",
+  "pers": "Permanent",
+  "dist": 3.1868126276915327,
+  "cap": 315.1991890862135,
+  "aire": 37323.232296134345,
+  "elong": 0.7184950355198969,
+  "iou": 0.8027002700270027,
+  "flipmir": [
+   1,
+   1
+  ],
+  "ang": 10,
+  "lat": 45.449132152222234,
+  "lon": 6.001993619722222
+ },
+ {
+  "id": "SURF_EAU0000002292174318",
+  "layer": "surface_hydrographique",
+  "nom": null,
+  "nature": "Réservoir-bassin d'orage",
+  "pers": "Intermittent",
+  "dist": 2.7035284676792273,
+  "cap": 255.6443379168005,
+  "aire": 2031.491210670909,
+  "elong": 0.42848823489734755,
+  "iou": 0.7983842010771993,
+  "flipmir": [
+   1,
+   1
+  ],
+  "ang": 0,
+  "lat": 45.42276681933333,
+  "lon": 5.99722079
+ },
+ {
+  "id": "SURF_EAU0000002003273244",
+  "layer": "surface_hydrographique",
+  "nom": null,
+  "nature": "Plan d'eau de gravière",
+  "pers": "Intermittent",
+  "dist": 3.349534019853221,
+  "cap": 304.7836183013551,
+  "aire": 479.0257798274979,
+  "elong": 0.8148423400223301,
+  "iou": 0.7913463257643483,
+  "flipmir": [
+   1,
+   1
+  ],
+  "ang": 0,
+  "lat": 45.445979131333324,
+  "lon": 5.9955162013333325
+ },
+ {
+  "id": "SURF_EAU0000000012581186",
+  "layer": "surface_hydrographique",
+  "nom": null,
+  "nature": "Retenue",
+  "pers": "Permanent",
+  "dist": 4.428718574090774,
+  "cap": 350.67245851041906,
+  "aire": 207733.04140750447,
+  "elong": 0.7250531079721813,
+  "iou": 0.7839320474252345,
+  "flipmir": [
+   -1,
+   1
+  ],
+  "ang": 5,
+  "lat": 45.46810138469231,
+  "lon": 6.021575307076925
+ },
+ {
+  "id": "SURF_EAU0000000012581111",
+  "layer": "surface_hydrographique",
+  "nom": null,
+  "nature": "Mare",
+  "pers": "Permanent",
+  "dist": 4.392251972565674,
+  "cap": 39.72052801572124,
+  "aire": 242.58630264550447,
+  "elong": 0.4128396999608995,
+  "iou": 0.7836392799857423,
+  "flipmir": [
+   1,
+   -1
+  ],
+  "ang": 0,
+  "lat": 45.4591769125,
+  "lon": 6.066767824166667
+ },
+ {
+  "id": "SURF_EAU0000002492990479",
+  "layer": "surface_hydrographique",
+  "nom": null,
+  "nature": "Réservoir-bassin d'orage",
+  "pers": "Intermittent",
+  "dist": 1.7545599231321873,
+  "cap": 313.34378967673877,
+  "aire": 935.0165299996734,
+  "elong": 0.48800550975895035,
+  "iou": 0.7732361826905989,
+  "flipmir": [
+   1,
+   1
+  ],
+  "ang": 0,
+  "lat": 45.43962921312501,
+  "lon": 6.014425456249999
+ },
+ {
+  "id": "SURF_EAU0000002003382502",
+  "layer": "surface_hydrographique",
+  "nom": null,
+  "nature": "Réservoir-bassin d'orage",
+  "pers": "Intermittent",
+  "dist": 2.480758785837904,
+  "cap": 271.1188309866652,
+  "aire": 165.75955064481968,
+  "elong": 0.4608585138062908,
+  "iou": 0.7623167932191418,
+  "flipmir": [
+   -1,
+   -1
+  ],
+  "ang": 0,
+  "lat": 45.429231218,
+  "lon": 5.998995954
+ },
+ {
+  "id": "SURF_EAU0000000290275407",
+  "layer": "surface_hydrographique",
+  "nom": null,
+  "nature": "Réservoir-bassin d'orage",
+  "pers": "Intermittent",
+  "dist": 2.172801477831834,
+  "cap": 251.66551783867834,
+  "aire": 325.32632901205216,
+  "elong": 0.7957249924908,
+  "iou": 0.7581322140608604,
+  "flipmir": [
+   1,
+   1
+  ],
+  "ang": -20,
+  "lat": 45.422650235999996,
+  "lon": 6.004352795999999
+ },
+ {
+  "id": "SURF_EAU0000002292145297",
+  "layer": "surface_hydrographique",
+  "nom": null,
+  "nature": "Réservoir-bassin d'orage",
+  "pers": "Intermittent",
+  "dist": 2.292472610348201,
+  "cap": 240.56954002793918,
+  "aire": 3183.7691148084123,
+  "elong": 0.41071919632216286,
+  "iou": 0.7568944317582996,
+  "flipmir": [
+   -1,
+   -1
+  ],
+  "ang": 0,
+  "lat": 45.418666795,
+  "lon": 6.005198564999999
+ },
+ {
+  "id": "SURF_EAU0000000293937433",
+  "layer": "surface_hydrographique",
+  "nom": null,
+  "nature": "Réservoir-bassin",
+  "pers": "Intermittent",
+  "dist": 2.1944561322228258,
+  "cap": 259.2574824779043,
+  "aire": 703.233435877657,
+  "elong": 0.8599665124612504,
+  "iou": 0.7558710129688048,
+  "flipmir": [
+   1,
+   -1
+  ],
+  "ang": -15,
+  "lat": 45.42511811470588,
+  "lon": 6.003153612352941
+ },
+ {
+  "id": "SURF_EAU0000000255996697",
+  "layer": "surface_hydrographique",
+  "nom": null,
+  "nature": "Mare",
+  "pers": "Intermittent",
+  "dist": 4.635849700595261,
+  "cap": 218.2883078839994,
+  "aire": 245.41285779047757,
+  "elong": 0.6630642576338215,
+  "iou": 0.7539930555555555,
+  "flipmir": [
+   1,
+   -1
+  ],
+  "ang": 10,
+  "lat": 45.39607059913043,
+  "lon": 5.9939919800000006
+ },
+ {
+  "id": "SURF_EAU0000002330709403",
+  "layer": "surface_hydrographique",
+  "nom": null,
+  "nature": "Retenue",
+  "pers": "Intermittent",
+  "dist": 3.531586093275661,
+  "cap": 339.3635258772874,
+  "aire": 30402.533531399677,
+  "elong": 0.6201939520915676,
+  "iou": 0.7512480633499742,
+  "flipmir": [
+   1,
+   1
+  ],
+  "ang": 0,
+  "lat": 45.45852127594595,
+  "lon": 6.014821768108108
+ },
+ {
+  "id": "SURF_EAU0000000007503766",
+  "layer": "surface_hydrographique",
+  "nom": null,
+  "nature": "Retenue",
+  "pers": "Permanent",
+  "dist": 4.218342840999049,
+  "cap": 217.4263070555674,
+  "aire": 1572.4624532847665,
+  "elong": 0.46491812962759804,
+  "iou": 0.743629476584022,
+  "flipmir": [
+   -1,
+   -1
+  ],
+  "ang": 5,
+  "lat": 45.398668633636355,
+  "lon": 5.997945344090908
+ },
+ {
+  "id": "SURF_EAU0000000007503401",
+  "layer": "surface_hydrographique",
+  "nom": null,
+  "nature": "Réservoir-bassin",
+  "pers": "Permanent",
+  "dist": 2.559899768330155,
+  "cap": 268.05920197797724,
+  "aire": 12972.736274501935,
+  "elong": 0.5458933866579474,
+  "iou": 0.7422344259481723,
+  "flipmir": [
+   -1,
+   -1
+  ],
+  "ang": 5,
+  "lat": 45.42801563842106,
+  "lon": 5.997995251578947
+ },
+ {
+  "id": "SURF_EAU0000000007503614",
+  "layer": "surface_hydrographique",
+  "nom": null,
+  "nature": "Réservoir-bassin d'orage",
+  "pers": "Intermittent",
+  "dist": 2.518612216181954,
+  "cap": 259.48540227183037,
+  "aire": 4034.733259370958,
+  "elong": 0.389976480131958,
+  "iou": 0.7369331948771201,
+  "flipmir": [
+   1,
+   -1
+  ],
+  "ang": 0,
+  "lat": 45.42466222687499,
+  "lon": 5.999049332916665
+ },
+ {
+  "id": "SURF_EAU0000002292174315",
+  "layer": "surface_hydrographique",
+  "nom": null,
+  "nature": "Réservoir-bassin",
+  "pers": "Intermittent",
+  "dist": 2.8482233684886684,
+  "cap": 260.9299489058675,
+  "aire": 538.8357901114505,
+  "elong": 0.41985101721011814,
+  "iou": 0.7320872274143302,
+  "flipmir": [
+   -1,
+   1
+  ],
+  "ang": 0,
+  "lat": 45.42475639,
+  "lon": 5.994740184
+ },
+ {
+  "id": "SURF_EAU0000000217046394",
+  "layer": "surface_hydrographique",
+  "nom": null,
+  "nature": "Réservoir-bassin",
+  "pers": "Intermittent",
+  "dist": 3.913243009383032,
+  "cap": 253.8035676050197,
+  "aire": 602.0939968272578,
+  "elong": 0.5233150903173942,
+  "iou": 0.7266089319069452,
+  "flipmir": [
+   -1,
+   -1
+  ],
+  "ang": 10,
+  "lat": 45.41897356916667,
+  "lon": 5.982632105833332
+ },
+ {
+  "id": "SURF_EAU0000000290275411",
+  "layer": "surface_hydrographique",
+  "nom": null,
+  "nature": "Plan d'eau de gravière",
+  "pers": "Intermittent",
+  "dist": 2.7774276204219897,
+  "cap": 303.9010467673826,
+  "aire": 219.0722594114486,
+  "elong": 0.9416185841535709,
+  "iou": 0.7208821502412129,
+  "flipmir": [
+   -1,
+   -1
+  ],
+  "ang": -10,
+  "lat": 45.442727911999995,
+  "lon": 6.001231648666666
+ },
+ {
+  "id": "SURF_EAU0000000217037968",
+  "layer": "surface_hydrographique",
+  "nom": null,
+  "nature": "Réservoir-bassin",
+  "pers": "Intermittent",
+  "dist": 2.5413627184066883,
+  "cap": 240.27942984518108,
+  "aire": 1002.5643034756649,
+  "elong": 0.9526182943845088,
+  "iou": 0.71895987601171,
+  "flipmir": [
+   -1,
+   -1
+  ],
+  "ang": -10,
+  "lat": 45.41746568030303,
+  "lon": 6.002503203939394
+ },
+ {
+  "id": "SURF_EAU0000000290275412",
+  "layer": "surface_hydrographique",
+  "nom": null,
+  "nature": "Plan d'eau de gravière",
+  "pers": "Intermittent",
+  "dist": 2.767252212101693,
+  "cap": 304.1818858010686,
+  "aire": 215.07211656263098,
+  "elong": 0.9462039291727098,
+  "iou": 0.7175073162334309,
+  "flipmir": [
+   1,
+   1
+  ],
+  "ang": -15,
+  "lat": 45.44277800312501,
+  "lon": 6.001437200625
+ },
+ {
+  "id": "SURF_EAU0000000007503403",
+  "layer": "surface_hydrographique",
+  "nom": null,
+  "nature": "Retenue",
+  "pers": "Permanent",
+  "dist": 4.04500819381478,
+  "cap": 273.3136744081014,
+  "aire": 244.86159618548118,
+  "elong": 0.4180741222422103,
+  "iou": 0.7063879993258049,
+  "flipmir": [
+   -1,
+   -1
+  ],
+  "ang": 10,
+  "lat": 45.430891023888904,
+  "lon": 5.979029694444446
+ },
+ {
+  "id": "SURF_EAU0000000217037969",
+  "layer": "surface_hydrographique",
+  "nom": null,
+  "nature": "Réservoir-bassin",
+  "pers": "Intermittent",
+  "dist": 2.560137600572578,
+  "cap": 239.4051931549815,
+  "aire": 853.3559243432246,
+  "elong": 0.9731010989930057,
+  "iou": 0.7063546293132901,
+  "flipmir": [
+   1,
+   1
+  ],
+  "ang": -15,
+  "lat": 45.4170782304,
+  "lon": 6.002545926
+ },
+ {
+  "id": "SURF_EAU0000000007503398",
+  "layer": "surface_hydrographique",
+  "nom": null,
+  "nature": "Retenue",
+  "pers": "Intermittent",
+  "dist": 0.45146320590660577,
+  "cap": 340.3160911570854,
+  "aire": 4297.132975084525,
+  "elong": 0.3382163851783831,
+  "iou": 0.6642939910610826,
+  "flipmir": [
+   -1,
+   1
+  ],
+  "ang": 0,
+  "lat": 45.43262283272728,
+  "lon": 6.028831197878789
+ },
+ {
+  "id": "SURF_EAU0000002001918504",
+  "layer": "surface_hydrographique",
+  "nom": null,
+  "nature": "Réservoir-bassin d'orage",
+  "pers": "Intermittent",
+  "dist": 3.601319000008022,
+  "cap": 321.1993858925375,
+  "aire": 189.15249999146909,
+  "elong": 0.3192121969859841,
+  "iou": 0.6528420356906808,
+  "flipmir": [
+   1,
+   1
+  ],
+  "ang": 0,
+  "lat": 45.454036858571435,
+  "lon": 6.00184931
+ },
+ {
+  "id": "SURF_EAU0000002292174317",
+  "layer": "surface_hydrographique",
+  "nom": null,
+  "nature": "Réservoir-bassin d'orage",
+  "pers": "Intermittent",
+  "dist": 2.7369318530420284,
+  "cap": 255.86912601851918,
+  "aire": 846.2916880933335,
+  "elong": 0.6159764283307354,
+  "iou": 0.6507704785077048,
+  "flipmir": [
+   1,
+   -1
+  ],
+  "ang": 5,
+  "lat": 45.422785803529415,
+  "lon": 5.996772287058824
+ },
+ {
+  "id": "SURF_EAU0000000351472783",
+  "layer": "surface_hydrographique",
+  "nom": null,
+  "nature": "Réservoir-bassin d'orage",
+  "pers": "Intermittent",
+  "dist": 3.5819322216142733,
+  "cap": 321.44960295469866,
+  "aire": 254.51760155754164,
+  "elong": 0.3039817626282574,
+  "iou": 0.6326231907627257,
+  "flipmir": [
+   -1,
+   -1
+  ],
+  "ang": 0,
+  "lat": 45.453988972000005,
+  "lon": 6.0021616395
+ },
+ {
+  "id": "SURF_EAU0000000330789277",
+  "layer": "surface_hydrographique",
+  "nom": null,
+  "nature": "Réservoir-bassin d'orage",
+  "pers": "Permanent",
+  "dist": 2.7386255531098995,
+  "cap": 307.0080501290761,
+  "aire": 533.4326363757718,
+  "elong": 0.3048185744241496,
+  "iou": 0.6109597820862042,
+  "flipmir": [
+   1,
+   -1
+  ],
+  "ang": 0,
+  "lat": 45.44362144840001,
+  "lon": 6.002748039199999
+ },
+ {
+  "id": "SURF_EAU0000000012581138",
+  "layer": "surface_hydrographique",
+  "nom": null,
+  "nature": "Retenue",
+  "pers": "Permanent",
+  "dist": 5.618635873589804,
+  "cap": 46.0302953845665,
+  "aire": 360.7358416188508,
+  "elong": 0.28246373469363223,
+  "iou": 0.6061961034813159,
+  "flipmir": [
+   1,
+   -1
+  ],
+  "ang": 0,
+  "lat": 45.463869816666666,
+  "lon": 6.08263143
+ },
+ {
+  "id": "SURF_EAU0000000007504095",
+  "layer": "surface_hydrographique",
+  "nom": null,
+  "nature": "Retenue",
+  "pers": "Permanent",
+  "dist": 5.983608356990462,
+  "cap": 213.6289374706784,
+  "aire": 499089.59631649684,
+  "elong": 0.2811153965748615,
+  "iou": 0.6006695361071258,
+  "flipmir": [
+   1,
+   1
+  ],
+  "ang": 0,
+  "lat": 45.38398618838462,
+  "lon": 5.988348811307695
+ },
+ {
+  "id": "PLANDEAU0000002000776995",
+  "layer": "plan_d_eau",
+  "nom": "Bassin du Cheylas",
+  "nature": "Retenue",
+  "pers": null,
+  "dist": 5.983608356990462,
+  "cap": 213.6289374706784,
+  "aire": 499089.59631649684,
+  "elong": 0.2811153965748615,
+  "iou": 0.6006695361071258,
+  "flipmir": [
+   1,
+   1
+  ],
+  "ang": 0,
+  "lat": 45.38398618838462,
+  "lon": 5.988348811307695
+ },
+ {
+  "id": "SURF_EAU0000000351472782",
+  "layer": "surface_hydrographique",
+  "nom": null,
+  "nature": "Réservoir-bassin d'orage",
+  "pers": "Intermittent",
+  "dist": 3.5905762967802706,
+  "cap": 321.3381803504259,
+  "aire": 204.22505670180544,
+  "elong": 0.2621274793579277,
+  "iou": 0.5741844416562107,
+  "flipmir": [
+   1,
+   1
+  ],
+  "ang": 0,
+  "lat": 45.45401055083334,
+  "lon": 6.002022610833333
+ },
+ {
+  "id": "SURF_EAU0000002292174319",
+  "layer": "surface_hydrographique",
+  "nom": null,
+  "nature": "Réservoir-bassin d'orage",
+  "pers": "Intermittent",
+  "dist": 2.7743466434959827,
+  "cap": 261.6268201543798,
+  "aire": 732.7195218717679,
+  "elong": 0.24502450748089596,
+  "iou": 0.5663965087281796,
+  "flipmir": [
+   -1,
+   -1
+  ],
+  "ang": 0,
+  "lat": 45.425161347142854,
+  "lon": 5.995609163571428
+ },
+ {
+  "id": "SURF_EAU0000002003273245",
+  "layer": "surface_hydrographique",
+  "nom": null,
+  "nature": "Plan d'eau de gravière",
+  "pers": "Intermittent",
+  "dist": 3.346799675884816,
+  "cap": 306.0266084915039,
+  "aire": 344.34953114250675,
+  "elong": 0.25593652009982093,
+  "iou": 0.5604957397366382,
+  "flipmir": [
+   1,
+   -1
+  ],
+  "ang": 0,
+  "lat": 45.44649748111112,
+  "lon": 5.996083865555554
+ },
+ {
+  "id": "SURF_EAU0000002003818929",
+  "layer": "surface_hydrographique",
+  "nom": null,
+  "nature": "Réservoir-bassin",
+  "pers": "Intermittent",
+  "dist": 0.8410001182703617,
+  "cap": 107.29873911244488,
+  "aire": 196.7753926935402,
+  "elong": 0.23632344067610814,
+  "iou": 0.5275375512061903,
+  "flipmir": [
+   1,
+   -1
+  ],
+  "ang": 5,
+  "lat": 45.426550566,
+  "lon": 6.041069172
+ },
+ {
+  "id": "SURF_EAU0000002292174316",
+  "layer": "surface_hydrographique",
+  "nom": null,
+  "nature": "Réservoir-bassin d'orage",
+  "pers": "Intermittent",
+  "dist": 2.7838033650119596,
+  "cap": 256.36734663511373,
+  "aire": 603.0378193678334,
+  "elong": 0.20561203862613955,
+  "iou": 0.4951995199519952,
+  "flipmir": [
+   1,
+   1
+  ],
+  "ang": 5,
+  "lat": 45.422894034444454,
+  "lon": 5.996115404444445
+ },
+ {
+  "id": "SURF_EAU0000000007503205",
+  "layer": "surface_hydrographique",
+  "nom": null,
+  "nature": "Retenue",
+  "pers": "Permanent",
+  "dist": 2.7164572424754043,
+  "cap": 320.0784490804683,
+  "aire": 131154.2116883772,
+  "elong": 0.19029176819775762,
+  "iou": 0.48179934891979875,
+  "flipmir": [
+   1,
+   -1
+  ],
+  "ang": 0,
+  "lat": 45.447533504912265,
+  "lon": 6.008433524736843
+ },
+ {
+  "id": "PLANDEAU0000000353479955",
+  "layer": "plan_d_eau",
+  "nom": "Plan d'Eau des Lônes",
+  "nature": "Retenue",
+  "pers": null,
+  "dist": 2.7164572424754043,
+  "cap": 320.0784490804683,
+  "aire": 131154.2116883772,
+  "elong": 0.19029176819775762,
+  "iou": 0.48179934891979875,
+  "flipmir": [
+   1,
+   -1
+  ],
+  "ang": 0,
+  "lat": 45.447533504912265,
+  "lon": 6.008433524736843
+ },
+ {
+  "id": "SURF_EAU0000000007503111",
+  "layer": "surface_hydrographique",
+  "nom": null,
+  "nature": "Retenue",
+  "pers": "Permanent",
+  "dist": 3.5272575566986473,
+  "cap": 329.9701487378659,
+  "aire": 1367.0418303110637,
+  "elong": 0.18518321599727286,
+  "iou": 0.48031379514505623,
+  "flipmir": [
+   -1,
+   -1
+  ],
+  "ang": 0,
+  "lat": 45.45626099,
+  "lon": 6.008148447333332
+ },
+ {
+  "id": "SURF_EAU0000000007503615",
+  "layer": "surface_hydrographique",
+  "nom": null,
+  "nature": "Réservoir-bassin d'orage",
+  "pers": "Permanent",
+  "dist": 2.967927965576607,
+  "cap": 261.7177175782418,
+  "aire": 739.9693364516133,
+  "elong": 0.15774273002628486,
+  "iou": 0.4798948345190226,
+  "flipmir": [
+   -1,
+   -1
+  ],
+  "ang": 5,
+  "lat": 45.42494895074075,
+  "lon": 5.993146505185184
+ },
+ {
+  "id": "SURF_EAU0000000290275408",
+  "layer": "surface_hydrographique",
+  "nom": null,
+  "nature": "Réservoir-bassin",
+  "pers": "Intermittent",
+  "dist": 2.3413242503426477,
+  "cap": 238.09877116751665,
+  "aire": 1957.9440171932802,
+  "elong": 0.18305733372658337,
+  "iou": 0.4626256739035407,
+  "flipmir": [
+   -1,
+   -1
+  ],
+  "ang": 5,
+  "lat": 45.41766998615385,
+  "lon": 6.0053136046153845
+ },
+ {
+  "id": "SURF_EAU0000002207329411",
+  "layer": "surface_hydrographique",
+  "nom": null,
+  "nature": "Réservoir-bassin",
+  "pers": "Intermittent",
+  "dist": 2.095973068698748,
+  "cap": 236.68827311763113,
+  "aire": 715.9617922123289,
+  "elong": 0.1721895766204655,
+  "iou": 0.4626140712393288,
+  "flipmir": [
+   1,
+   1
+  ],
+  "ang": 5,
+  "lat": 45.41844576559999,
+  "lon": 6.008338186
+ },
+ {
+  "id": "SURF_EAU0000000043562932",
+  "layer": "surface_hydrographique",
+  "nom": null,
+  "nature": "Retenue",
+  "pers": "Intermittent",
+  "dist": 0.17046330782307442,
+  "cap": 103.41867390485612,
+  "aire": 10314.748347355253,
+  "elong": 0.24327329227291605,
+  "iou": 0.45715928694652097,
+  "flipmir": [
+   1,
+   1
+  ],
+  "ang": 0,
+  "lat": 45.42844422214284,
+  "lon": 6.032904767142857
+ },
+ {
+  "id": "SURF_EAU0000000290275410",
+  "layer": "surface_hydrographique",
+  "nom": null,
+  "nature": "Réservoir-bassin",
+  "pers": "Intermittent",
+  "dist": 2.2944829166960967,
+  "cap": 234.9923621302695,
+  "aire": 1852.5512153089512,
+  "elong": 0.09902738658770363,
+  "iou": 0.3804347826086957,
+  "flipmir": [
+   1,
+   1
+  ],
+  "ang": 5,
+  "lat": 45.41695960952381,
+  "lon": 6.006701920476191
+ },
+ {
+  "id": "SURF_EAU0000002207329445",
+  "layer": "surface_hydrographique",
+  "nom": null,
+  "nature": "Réservoir-bassin",
+  "pers": "Intermittent",
+  "dist": 2.8336190430517845,
+  "cap": 260.7266147629007,
+  "aire": 1627.3325975995976,
+  "elong": 0.07822124932394148,
+  "iou": 0.3572679509632224,
+  "flipmir": [
+   1,
+   1
+  ],
+  "ang": 5,
+  "lat": 45.424687878846164,
+  "lon": 5.994945561153846
+ },
+ {
+  "id": "SURF_EAU0000002207329511",
+  "layer": "surface_hydrographique",
+  "nom": null,
+  "nature": "Réservoir-bassin",
+  "pers": "Intermittent",
+  "dist": 2.0270837582342396,
+  "cap": 240.14338552040024,
+  "aire": 531.3483271767618,
+  "elong": 0.058415287784862456,
+  "iou": 0.3289107289107289,
+  "flipmir": [
+   1,
+   -1
+  ],
+  "ang": 5,
+  "lat": 45.41972233548387,
+  "lon": 6.00825513
+ }
+]

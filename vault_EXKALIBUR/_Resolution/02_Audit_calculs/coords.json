@@ -1,0 +1,127 @@
+{
+ "Rennes-le-Château": {
+  "lat": 42.9272475,
+  "lon": 2.2627453,
+  "osm": "Rennes-le-Château, Limoux, Aude, Occitanie, France métropolitaine, 11190, France"
+ },
+ "Château de Foix": {
+  "lat": 42.9657002,
+  "lon": 1.6047597,
+  "osm": "Château de Foix, Rue du Rocher, Moulinery, Foix, Ariège, Occitanie, France métropolitaine, 09000, France"
+ },
+ "Château de Montségur": {
+  "lat": 42.8757262,
+  "lon": 1.8325021,
+  "osm": "Château de Montségur, D 9, Montségur, Pamiers, Ariège, Occitanie, France métropolitaine, 09300, France"
+ },
+ "Cathédrale de León": {
+  "lat": 42.5994621,
+  "lon": -5.5666809,
+  "osm": "Catedral de León, Calle Cardenal Landázuri, Casco Histórico, León, Castilla y León, 24003, España"
+ },
+ "Cathédrale de Valence": {
+  "lat": 39.475568,
+  "lon": -0.3751126,
+  "osm": "Catedral de València, Plaça de l'Almoina, Ciutat Vella, València, Comarca de València, València / Valencia, Comunitat Valenciana, 46003, España"
+ },
+ "Grotte de Lombrives": {
+  "lat": 42.8232161,
+  "lon": 1.616311,
+  "osm": "Grotte de Lombrives, N 20, Ussat, Foix, Ariège, Occitanie, France métropolitaine, 09400, France"
+ },
+ "Château de Tintagel": {
+  "lat": 50.6686663,
+  "lon": -4.762152,
+  "osm": "Tintagel Castle, Castle Road, Tintagel, Cornwall, England, PL34 0DQ, United Kingdom"
+ },
+ "Silchester (Calleva)": {
+  "lat": 51.3615731,
+  "lon": -1.0882579,
+  "osm": "Silchester Roman Town Car Park, Wall Lane, Silchester, Mortimer West End, Basingstoke and Deane, Hampshire, England, RG7 2HP, United Kingdom"
+ },
+ "Abbaye de Westminster": {
+  "lat": 51.499399,
+  "lon": -0.127391,
+  "osm": "Westminster Abbey, 20, Dean's Yard, Westminster, Millbank, City of Westminster, Greater London, England, SW1P 3PA, United Kingdom"
+ },
+ "Tour de Londres": {
+  "lat": 51.508217,
+  "lon": -0.0761879,
+  "osm": "Tower of London, Tower Hill, East Smithfield, Tower Hill, Whitechapel, London Borough of Tower Hamlets, Greater London, England, EC3N 4AB, United Kingdom"
+ },
+ "Battle Abbey (Hastings)": {
+  "lat": 50.9150519,
+  "lon": 0.486062,
+  "osm": "Battle Abbey, High Street, Battle, Rother, East Sussex, England, TN33 0AD, United Kingdom"
+ },
+ "Château d'Urquhart": {
+  "lat": 57.3241087,
+  "lon": -4.4419894,
+  "osm": "Urquhart Castle, Urquhart Castle Drive, Strone, Lewiston, Highland, Alba / Scotland, IV63 6XL, United Kingdom"
+ },
+ "Château de Puivert": {
+  "lat": 42.9211244,
+  "lon": 2.0553355,
+  "osm": "Château de Puivert, Chemin du Château, Campferrier, Puivert, Limoux, Aude, Occitanie, France métropolitaine, 11230, France"
+ },
+ "Château de Roquefixade": {
+  "lat": 42.9384964,
+  "lon": 1.7532359,
+  "osm": "Château de Roquefixade, Sentier Cathare, Lamariou, Roquefixade, Pamiers, Ariège, Occitanie, France métropolitaine, 09300, France"
+ },
+ "Château de Lordat": {
+  "lat": 42.7759145,
+  "lon": 1.7483578,
+  "osm": "Château de Lordat, Chemin du château, Lordat, Foix, Ariège, Occitanie, France métropolitaine, 09250, France"
+ },
+ "Château d'Usson": {
+  "lat": 42.7355493,
+  "lon": 2.0874808,
+  "osm": "Château d'Usson-les-Bains, D 16, Usson, Usson-les-Bains, Rouze, Foix, Ariège, Occitanie, France métropolitaine, 09460, France"
+ },
+ "Château de Montaillou": {
+  "lat": 42.7869501,
+  "lon": 1.8974651,
+  "osm": "Montaillou, Foix, Ariège, Occitanie, France métropolitaine, 09110, France"
+ },
+ "Château de Montréal-de-Sos": {
+  "lat": 42.7634381,
+  "lon": 1.4896257,
+  "osm": "Château de Montréal-de-Sos, D 208B, Olbier, Goulier, Auzat, Foix, Ariège, Occitanie, France métropolitaine, 09220, France"
+ },
+ "Château de Termes": {
+  "lat": 43.0023922,
+  "lon": 2.5566726,
+  "osm": "Château de Termes, Sentier Autour du Château, Termes, Narbonne, Aude, Occitanie, France métropolitaine, 11330, France"
+ },
+ "Château d'Arques": {
+  "lat": 42.9531923,
+  "lon": 2.3671531,
+  "osm": "Château d'Arques, Route des Corbières, Arques, Limoux, Aude, Occitanie, France métropolitaine, 11190, France"
+ },
+ "Château de Peyrepertuse": {
+  "lat": 42.8708146,
+  "lon": 2.5554658,
+  "osm": "Château de Peyrepertuse, Escalier de Saint-Louis, Rouffiac-des-Corbières, Narbonne, Aude, Occitanie, France métropolitaine, 11350, France"
+ },
+ "Château de Quéribus": {
+  "lat": 42.8368023,
+  "lon": 2.6214686,
+  "osm": "Château de Quéribus, Sentier Cathare, Cucugnan, Narbonne, Aude, Occitanie, France métropolitaine, 11350, France"
+ },
+ "Château de Puilaurens": {
+  "lat": 42.8038528,
+  "lon": 2.2999839,
+  "osm": "Château de Puilaurens, Sentier Cathare Sud, Lavagnac, Puilaurens, Limoux, Aude, Occitanie, France métropolitaine, 11140, France"
+ },
+ "Château de Lastours": {
+  "lat": 43.3345386,
+  "lon": 2.3785781,
+  "osm": "Châteaux de Lastours, Route des Châteaux, Le Moulin Bas, Lacombe, Lastours, Carcassonne, Aude, Occitanie, France métropolitaine, 11600, France"
+ },
+ "Château de Carcassonne": {
+  "lat": 43.2072196,
+  "lon": 2.3631971,
+  "osm": "Château Comtal, Place Saint-Jean, Cité de Carcassonne, La Trivalle, Bastide Saint-Louis, Carcassonne, Aude, Occitanie, France métropolitaine, 11000, France"
+ }
+}

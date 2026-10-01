@@ -1,0 +1,32 @@
+SVG : tronc 71 sommets, confluence à 0.871 de la longueur ; 891 confluences IGN ; 320666 fenêtres testées
+
+== 20 meilleures correspondances (résidu Procrustes, 0 = identique) ==
+ 1. résidu 0.103 | L=0.93 km | centre 45.35103,6.09681 | 10.07 km de la tour | écart affluent 133° | le Bréda
+ 2. résidu 0.108 | L=3.33 km | centre 45.45714,5.88736 | 11.62 km de la tour | écart affluent 125° | le Cozon
+ 3. résidu 0.109 | L=2.31 km | centre 45.33981,6.11596 | 11.92 km de la tour | écart affluent 32° | sans nom
+ 4. résidu 0.110 | L=3.33 km | centre 45.51737,6.13054 | 12.55 km de la tour | écart affluent 158° | le Coisetan/le Coisin
+ 5. résidu 0.111 | L=1.60 km | centre 45.43864,6.04995 | 1.85 km de la tour | écart affluent 134° | le Bréda
+ 6. résidu 0.112 | L=0.64 km | centre 45.40386,6.16239 | 10.64 km de la tour | écart affluent 174° | le Bens
+ 7. résidu 0.112 | L=3.33 km | centre 45.37505,5.93042 | 9.86 km de la tour | écart affluent 89° | sans nom
+ 8. résidu 0.113 | L=0.31 km | centre 45.46396,6.16229 | 10.98 km de la tour | écart affluent 153° | le Gelon
+ 9. résidu 0.113 | L=3.33 km | centre 45.36459,6.14082 | 11.17 km de la tour | écart affluent 105° | le Veyton/Torrent du Veyton
+10. résidu 0.113 | L=2.31 km | centre 45.42515,6.09199 | 4.79 km de la tour | écart affluent 149° | le Bréda
+11. résidu 0.115 | L=5.75 km | centre 45.38812,6.08244 | 6.06 km de la tour | écart affluent 44° | sans nom
+12. résidu 0.115 | L=0.45 km | centre 45.51361,5.88926 | 14.52 km de la tour | écart affluent 101° | Nant de la Gorgeat
+13. résidu 0.115 | L=0.77 km | centre 45.36837,6.14031 | 10.88 km de la tour | écart affluent 6° | le Veyton/Torrent du Veyton
+14. résidu 0.116 | L=2.77 km | centre 45.40280,5.99509 | 4.01 km de la tour | écart affluent 178° | sans nom
+15. résidu 0.117 | L=0.64 km | centre 45.40041,5.89013 | 11.42 km de la tour | écart affluent 74° | le Guiers Vif
+16. résidu 0.117 | L=1.11 km | centre 45.43544,6.16528 | 10.52 km de la tour | écart affluent 80° | le Joudron
+17. résidu 0.118 | L=0.93 km | centre 45.40792,6.01952 | 2.48 km de la tour | écart affluent 148° | Ruisseau de Beau Magny
+18. résidu 0.118 | L=0.45 km | centre 45.45986,5.87859 | 12.37 km de la tour | écart affluent 112° | Ruisseau de la Recorbaz
+19. résidu 0.118 | L=0.77 km | centre 45.49731,5.92520 | 11.22 km de la tour | écart affluent 119° | Torrent des Favières
+20. résidu 0.119 | L=0.31 km | centre 45.35446,6.01291 | 8.38 km de la tour | écart affluent 150° | Ruisseau du Taillou
+
+== Contrôle miroir (même recherche, SVG inversé gauche-droite) ==
+meilleur résidu réel  : 0.103
+meilleur résidu miroir: 0.095
+quantile 0.1% : réel 0.130 | miroir 0.131
+quantile 1.0% : réel 0.145 | miroir 0.145
+quantile 5.0% : réel 0.163 | miroir 0.163
+
+meilleur à ≤ 3 km de la tour : [(np.float64(0.111), 1605, (np.float64(45.43864), np.float64(6.04995)), ['le Bréda']), (np.float64(0.114), 1605, (np.float64(45.43863), np.float64(6.04986)), ['le Bréda']), (np.float64(0.118), 929, (np.float64(45.40792), np.float64(6.01952)), ['Ruisseau de Beau Magny']), (np.float64(0.121), 774, (np.float64(45.40823), np.float64(6.01898)), ['Ruisseau de Beau Magny']), (np.float64(0.121), 1926, (np.float64(45.43919), np.float64(6.05104)), ['le Bréda'])]

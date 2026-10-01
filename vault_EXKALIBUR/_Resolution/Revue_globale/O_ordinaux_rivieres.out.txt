@@ -1,0 +1,16 @@
+pont          | Ruisseau du Bon de Loge          |  14 objets | 3e–11e depuis embouchure   5603 m | depuis source   2540 m
+pont          | Ruisseau d'Alloix                |  12 objets | 3e–11e depuis embouchure   1991 m | depuis source   2209 m
+pont          | le Gelon                         |  20 objets | 3e–11e depuis embouchure   4575 m | depuis source   5036 m
+pont          | le Cernon                        |  11 objets | 3e–11e depuis embouchure   3069 m | depuis source   1865 m
+pont          | Ruisseau Salin/le Salin          |  13 objets | 3e–11e depuis embouchure   3696 m | depuis source   3696 m
+pont          | le Coisetan                      |  11 objets | 3e–11e depuis embouchure   5463 m | depuis source   4139 m
+pont          | le Bréda                         |  35 objets | 3e–11e depuis embouchure   5703 m | depuis source   4460 m
+pont          | Canal de Renevier                |  19 objets | 3e–11e depuis embouchure   3020 m | depuis source   4112 m
+
+== 3e–11e dans une fenêtre de 10 stades ±1 % ==
+pont | le Cernon (11) | depuis la source | stade 185 m | 1865 m | 3e 45.45582,5.98027 (Pont, None) → 11e 45.46624,5.99902 (Pont, None) | 3e à 4.96 km de la tour, 11e à 4.84 km
+
+== Taux du hasard (toutes paires k, k+8) ==
+('pont', '177,6 m') 0/142 = 0.0 %
+('pont', '185 m') 2/142 = 1.4 %
+('pont', '192 m') 2/142 = 1.4 %

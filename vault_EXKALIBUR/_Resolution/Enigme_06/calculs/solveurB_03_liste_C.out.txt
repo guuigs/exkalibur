@@ -1,0 +1,112 @@
+111 lieux géocodés ; manquants (5) : [('Conques', 'Conques Abbey'), ('Château-Gaillard', 'Château Gaillard'), ('Caister', 'Caister Castle'), ('Camlann', 'Battle of Camlann'), ('Caldicot', 'Caldicot Castle')]
+Carnac                             47.5918   -3.0836  Alignements du Ménec [carte Guilhem]
+Clermont                           45.7788    3.0859  Clermont-Ferrand Cathedral [coord carte Guilhem]
+Cluny                              46.4348    4.6585  Cluny Abbey [coord carte Guilhem]
+Cadouin                            44.8115    0.8738  Cadouin Abbey [coord carte Guilhem]
+Cîteaux                            47.1281    5.0933  Cîteaux Abbey
+Clairvaux                          48.1472    4.7889  Clairvaux Abbey
+Chartres                           48.4478    1.4878  Chartres Cathedral
+Cahors                             44.4472    1.4431  Cahors Cathedral
+Carcassonne                        43.2133    2.3508  Carcassonne
+Caen                               49.1817   -0.3728  Abbey of Saint-Étienne, Caen
+Chinon                             47.1681    0.2361  Château de Chinon
+Cambrai                            50.1722    3.2333  Cambrai Cathedral
+Châlons-en-Champagne               48.9575    4.3650  Châlons-en-Champagne
+Charroux                           46.1434    0.4044  Charroux Abbey
+Compiègne                          49.4149    2.8231  Compiègne
+Corbie                             49.9089    2.5103  Corbie Abbey
+Combourg                           48.4094   -1.7506  Combourg
+Cognac                             45.7000   -0.3300  Cognac, France
+Coutances                          49.0478   -1.4458  Coutances Cathedral
+Cherbourg                          49.6390   -1.6250  Cherbourg-en-Cotentin
+Clisson                            47.0878   -1.2825  Clisson
+Cerisy                             49.1972   -0.9332  Cerisy Abbey
+Chalon-sur-Saône                   46.7806    4.8528  Chalon-sur-Saône
+Chauvigny                          46.5694    0.6475  Chauvigny
+Cléry-Saint-André                  47.8211    1.7550  Cléry-Saint-André
+Chambord                           47.6161    1.5172  Château de Chambord
+Cassel                             50.8006    2.4883  Cassel, Nord
+Crécy                              50.2531    1.8839  Crécy-en-Ponthieu
+Compostelle                        42.8806   -8.5444  Santiago de Compostela Cathedral
+Clunia                             41.7806   -3.3706  Clunia
+Chaumont                           48.1117    5.1389  Chaumont, Haute-Marne
+Clamecy                            47.4608    3.5203  Clamecy, Nièvre
+Chambéry                           45.5700    5.9118  Chambéry
+Clermont-en-Beauvaisis             49.3797    2.4133  Clermont, Oise
+Colmar                             48.0817    7.3556  Colmar
+Chalon                             46.7806    4.8528  Chalon-sur-Saône
+Chenonceau                         47.3247    1.0704  Château de Chenonceau
+Cluses                             46.0611    6.5794  Cluses
+Cîteaux-Vougeot                    47.1749    4.9555  Clos de Vougeot
+Cormery                            47.2681    0.8372  Cormery
+Cassis                             43.2167    5.5389  Cassis
+Cannes                             43.5513    7.0128  Cannes
+Calais                             50.9481    1.8564  Calais
+Cambrai2                           50.1767    3.2356  Cambrai
+Chelles                            48.8833    2.6000  Chelles, Seine-et-Marne
+Choisy                             48.7630    2.4090  Choisy-le-Roi
+Créteil                            48.7911    2.4628  Créteil
+Clichy                             48.9044    2.3064  Clichy, Hauts-de-Seine
+Courbevoie                         48.8978    2.2531  Courbevoie
+Chantilly                          49.2000    2.4667  Chantilly, Oise
+Clairefontaine                     48.6131    1.9086  Clairefontaine-en-Yvelines
+Cergy                              49.0361    2.0631  Cergy
+Chevreuse                          48.7083    2.0392  Chevreuse
+Chaource                           48.0594    4.1389  Chaource
+Champmol                           47.3217    5.0173  Champmol
+Chartreuse                         45.3633    5.7936  Grande Chartreuse
+Cambremer                          49.1528    0.0483  Cambremer
+Cerisy-la-Salle                    49.0269   -1.2811  Cerisy-la-Salle
+Cabourg                            49.2880   -0.1163  Cabourg
+Carentan                           49.3040   -1.2470  Carentan-les-Marais
+Condé-sur-Noireau                  48.8510   -0.5530  Condé-en-Normandie
+Canterbury                         51.2797    1.0831  Canterbury Cathedral
+Caerleon                           51.6103   -2.9558  Caerleon
+Cadbury Castle (Camelot)           51.0242   -2.5317  Cadbury Castle, Somerset
+Carlisle                           54.8947   -2.9386  Carlisle Cathedral
+Colchester                         51.8906    0.9030  Colchester Castle
+Chester                            53.1919   -2.8906  Chester Cathedral
+Chichester                         50.8363   -0.7808  Chichester Cathedral
+Cambridge                          52.2050    0.1225  Cambridge
+Camelford (Camlann)                50.6170   -4.6830  Camelford
+Caernarfon                         53.1393   -4.2769  Caernarfon Castle
+Conwy                              53.2800   -3.8256  Conwy Castle
+Corfe                              50.6400   -2.0580  Corfe Castle
+Cardiff                            51.4823   -3.1812  Cardiff Castle
+Carmarthen                         51.8560   -4.3160  Carmarthen
+Chepstow                           51.6439   -2.6757  Chepstow Castle
+Cressing Temple                    51.8372    0.6110  Cressing Temple
+Canterbury St Augustine            51.2789    1.0871  St Augustine's Abbey
+Castle Rising                      52.7930    0.4690  Castle Rising
+Chelmsford                         51.7300    0.4800  Chelmsford
+Cirencester                        51.7167   -1.9667  Cirencester
+Carisbrooke                        50.6874   -1.3133  Carisbrooke Castle
+Carew                              51.6983   -4.8306  Carew Castle
+Cerne Abbas                        50.8095   -2.4810  Cerne Abbas
+Colchester2                        51.8917    0.9030  Colchester
+Chatham                            51.3700    0.5200  Chatham, Kent
+Camber Castle                      50.9331    0.7325  Camber Castle
+Chertsey                           51.3950   -0.5031  Chertsey Abbey
+Cranbrook                          51.0967    0.5356  Cranbrook, Kent
+Canterbury (ville)                 51.2800    1.0800  Canterbury
+Crowborough                        51.0600    0.1600  Crowborough
+Crawley                            51.1092   -0.1872  Crawley
+Croydon                            51.3714   -0.1038  Croydon
+Cheam                              51.3600   -0.2100  Cheam
+Chertsey2                          51.3902   -0.5074  Chertsey
+Cologne                            50.9414    6.9583  Cologne Cathedral
+Constantinople (Sainte-Sophie)     41.0083   28.9800  Hagia Sophia
+Cordoue                            37.8792   -4.7797  Mosque–Cathedral of Córdoba
+Cuenca                             40.0667   -2.1500  Cuenca, Spain
+Covadonga                          43.3167   -5.0500  Covadonga
+Calatrava                          39.0740   -3.8350  Calatrava la Vieja
+Cassino                            41.4900   13.8139  Monte Cassino
+Canossa                            44.5760   10.4560  Canossa Castle
+Cefalù                             38.0397   14.0239  Cefalù Cathedral
+Caesarea                           32.5000   34.8917  Caesarea Maritima
+Cairo                              30.0444   31.2358  Cairo
+Clunia2                            41.7806   -3.3706  Clunia
+Cadix                              36.5350   -6.2975  Cádiz
+Ceuta                              35.8883   -5.3156  Ceuta
+Copenhague                         55.6761   12.5683  Copenhagen
+Cambrai/Compiègne                  49.4149    2.8231  Compiègne

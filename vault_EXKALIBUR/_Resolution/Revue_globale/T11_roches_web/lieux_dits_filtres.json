@@ -1,0 +1,162 @@
+[
+ {
+  "nom": "LE CHENE LA ROCHE ET LE VIVIER",
+  "commune": "Saint-Maximin",
+  "code": "38426",
+  "lat": 45.428266264772724,
+  "lon": 6.032323047727272,
+  "dist_km": 0.13
+ },
+ {
+  "nom": "PIERRE GROS",
+  "commune": "Saint-Maximin",
+  "code": "38426",
+  "lat": 45.4320756966942,
+  "lon": 6.033978316528926,
+  "dist_km": 0.44
+ },
+ {
+  "nom": "PRE CROCHET",
+  "commune": "Pontcharra",
+  "code": "38314",
+  "lat": 45.430424456190465,
+  "lon": 6.022018178095238,
+  "dist_km": 0.71
+ },
+ {
+  "nom": "LA PERRIERE ET VEILLARD",
+  "commune": "Pontcharra",
+  "code": "38314",
+  "lat": 45.418190453571434,
+  "lon": 6.021182130952382,
+  "dist_km": 1.4
+ },
+ {
+  "nom": "LE ROCHAT",
+  "commune": "Saint-Maximin",
+  "code": "38426",
+  "lat": 45.416069027586204,
+  "lon": 6.029085253448278,
+  "dist_km": 1.42
+ },
+ {
+  "nom": "LA PERRIERE ET VEILLARD",
+  "commune": "Pontcharra",
+  "code": "38314",
+  "lat": 45.41533616666664,
+  "lon": 6.021315007017542,
+  "dist_km": 1.67
+ },
+ {
+  "nom": "COTE ROCHAT",
+  "commune": "Saint-Maximin",
+  "code": "38426",
+  "lat": 45.431358660240974,
+  "lon": 6.058862072289157,
+  "dist_km": 2.21
+ },
+ {
+  "nom": "LE FAYEREY",
+  "commune": "Barraux",
+  "code": "38027",
+  "lat": 45.4437189813698,
+  "lon": 5.998722888767122,
+  "dist_km": 3.0
+ },
+ {
+  "nom": "ROCHE MORTE",
+  "commune": "Pontcharra",
+  "code": "38314",
+  "lat": 45.403856839999996,
+  "lon": 6.013962327142857,
+  "dist_km": 3.07
+ },
+ {
+  "nom": "NICOLET ET FAYENNE",
+  "commune": "Barraux",
+  "code": "38027",
+  "lat": 45.449457683098565,
+  "lon": 5.986767354225354,
+  "dist_km": 4.13
+ },
+ {
+  "nom": "MAUPERRIER",
+  "commune": "Barraux",
+  "code": "38027",
+  "lat": 45.44325248802397,
+  "lon": 5.978104040119763,
+  "dist_km": 4.41
+ },
+ {
+  "nom": "LE FAYET",
+  "commune": "Barraux",
+  "code": "38027",
+  "lat": 45.419126756198345,
+  "lon": 5.975647352066117,
+  "dist_km": 4.44
+ },
+ {
+  "nom": "LE FAYET",
+  "commune": "Barraux",
+  "code": "38027",
+  "lat": 45.42026263951613,
+  "lon": 5.971119474999999,
+  "dist_km": 4.75
+ },
+ {
+  "nom": "LE FAYET",
+  "commune": "Barraux",
+  "code": "38027",
+  "lat": 45.41604564690267,
+  "lon": 5.970500275221243,
+  "dist_km": 4.92
+ },
+ {
+  "nom": "PEYRAT",
+  "commune": "La Buissiere",
+  "code": "38062",
+  "lat": 45.39939208035713,
+  "lon": 5.979785116071428,
+  "dist_km": 5.15
+ },
+ {
+  "nom": "LA ROCHETTE ET CHEVANILLE",
+  "commune": "Barraux",
+  "code": "38027",
+  "lat": 45.45287495720166,
+  "lon": 5.973829508230456,
+  "dist_km": 5.19
+ },
+ {
+  "nom": "LA PERRIERE",
+  "commune": "Le Touvet",
+  "code": "38511",
+  "lat": 45.36411402307692,
+  "lon": 5.9509646807692285,
+  "dist_km": 9.52
+ },
+ {
+  "nom": "ROCHER PEYRON",
+  "commune": "Le Touvet",
+  "code": "38511",
+  "lat": 45.35909488761904,
+  "lon": 5.933508376190474,
+  "dist_km": 10.85
+ },
+ {
+  "nom": "ROCHER DU ROUX",
+  "commune": "Le Touvet",
+  "code": "38511",
+  "lat": 45.35943184161848,
+  "lon": 5.928940351445084,
+  "dist_km": 11.08
+ },
+ {
+  "nom": "A PERROCHAT",
+  "commune": "Le Touvet",
+  "code": "38511",
+  "lat": 45.34381825182924,
+  "lon": 5.925924749390246,
+  "dist_km": 12.5
+ }
+]

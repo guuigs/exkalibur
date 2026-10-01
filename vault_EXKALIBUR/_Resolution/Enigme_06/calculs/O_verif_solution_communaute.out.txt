@@ -1,0 +1,20 @@
+== Anagrammes
+ACDEINUTX ↔ NDCITEAUX : EXACTE
+ACDEINUTX ↔ CITEAUXND : EXACTE
+ARUCALIVX ↔ CLAIRVAUX : EXACTE
+
+== Chaîne des 4 C (ordre N → S)
+  Clairvaux → Cîteaux : 115.46 km
+  Cîteaux → Cluny : 83.99 km
+  Cluny → Clermont : 141.49 km
+  TOTAL L = 340.94 km
+  D (Tour → Battle → Sainte-Chapelle) = 341.60 km ; écart L/D = -0.19 %
+  D (Tour → Battle → Notre-Dame de Paris) = 342.01 km ; écart L/D = -0.31 %
+
+== Point d'arrivée (Tour → Battle, prolongé jusqu'à L) : 48.86128, 2.34250
+  distance à Sainte-Chapelle : 0.68 km
+  distance à Notre-Dame de Paris : 1.07 km
+
+== Forme : virages de la chaîne (cloches = U, deux virages ~90° même sens)
+  virage à Cîteaux : -34.7° ; virage à Cluny : -35.4° (signe + = gauche)
+  rapports de segments : 1 : 0.73 : 1.23 (cloches ~ 1 : 1,85 : 1)

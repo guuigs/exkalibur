@@ -1,0 +1,348 @@
+[
+ {
+  "lat": 45.43124,
+  "lon": 6.02224,
+  "d_tour": 719.6341902390407,
+  "d_bay": 0.9121979340997668,
+  "d_corr": 591.3173504148356,
+  "deg": 4,
+  "nats": {
+   "Sentier": 4
+  },
+  "trouee": false,
+  "eau": false,
+  "ruis_nom": null,
+  "dh": 254.22788051621154
+ },
+ {
+  "lat": 45.42237,
+  "lon": 6.04034,
+  "d_tour": 1031.0201858927494,
+  "d_bay": 1.6740540253205607,
+  "d_corr": 1023.581076289241,
+  "deg": 4,
+  "nats": {
+   "Chemin": 2,
+   "Sentier": 2
+  },
+  "trouee": false,
+  "eau": false,
+  "ruis_nom": null,
+  "dh": 198.32526995371757
+ },
+ {
+  "lat": 45.4297,
+  "lon": 6.01676,
+  "d_tour": 1099.804931047035,
+  "d_bay": 0.7240139309088146,
+  "d_corr": 680.2100598012755,
+  "deg": 4,
+  "nats": {
+   "Sentier": 4
+  },
+  "trouee": false,
+  "eau": false,
+  "ruis_nom": null,
+  "dh": 632.8521202535583
+ },
+ {
+  "lat": 45.42992,
+  "lon": 6.016,
+  "d_tour": 1161.2884164824675,
+  "d_bay": 0.7634800817311317,
+  "d_corr": 732.8191912722602,
+  "deg": 4,
+  "nats": {
+   "Sentier": 4
+  },
+  "trouee": false,
+  "eau": false,
+  "ruis_nom": null,
+  "dh": 623.7852368262936
+ },
+ {
+  "lat": 45.41745,
+  "lon": 6.03176,
+  "d_tour": 1256.9628347343842,
+  "d_bay": 1.1979037313479362,
+  "d_corr": 1092.9154774556073,
+  "deg": 4,
+  "nats": {
+   "Chemin": 4
+  },
+  "trouee": false,
+  "eau": true,
+  "ruis_nom": null,
+  "dh": 146.6325420607922
+ },
+ {
+  "lat": 45.43552,
+  "lon": 6.01656,
+  "d_tour": 1336.3905374690462,
+  "d_bay": 1.3636258321561836,
+  "d_corr": 1229.359285871307,
+  "deg": 4,
+  "nats": {
+   "Sentier": 4
+  },
+  "trouee": false,
+  "eau": true,
+  "ruis_nom": null,
+  "dh": 149.12722933816136
+ },
+ {
+  "lat": 45.43578,
+  "lon": 6.01664,
+  "d_tour": 1347.4482671998683,
+  "d_bay": 1.3914551408615918,
+  "d_corr": 1250.1265134812252,
+  "deg": 4,
+  "nats": {
+   "Sentier": 4
+  },
+  "trouee": false,
+  "eau": true,
+  "ruis_nom": null,
+  "dh": 120.4733833574226
+ },
+ {
+  "lat": 45.44134,
+  "lon": 6.03503,
+  "d_tour": 1425.3817533691094,
+  "d_bay": 2.3599277690835603,
+  "d_corr": 1413.4470348568436,
+  "deg": 4,
+  "nats": {
+   "Chemin": 3,
+   "Sentier": 1
+  },
+  "trouee": false,
+  "eau": false,
+  "ruis_nom": null,
+  "dh": 598.659731755639
+ },
+ {
+  "lat": 45.41729,
+  "lon": 6.03932,
+  "d_tour": 1436.6322636947666,
+  "d_bay": 1.7285450268995166,
+  "d_corr": 1427.8135993746205,
+  "deg": 4,
+  "nats": {
+   "Route empierrée": 2,
+   "Chemin": 2
+  },
+  "trouee": false,
+  "eau": false,
+  "ruis_nom": null,
+  "dh": 415.28741260534326
+ },
+ {
+  "lat": 45.42204,
+  "lon": 6.04783,
+  "d_tour": 1527.2973169906527,
+  "d_bay": 2.2597602293373273,
+  "d_corr": 1515.5686715033164,
+  "deg": 4,
+  "nats": {
+   "Route empierrée": 2,
+   "Chemin": 2
+  },
+  "trouee": false,
+  "eau": true,
+  "ruis_nom": null,
+  "dh": 58.41626158001182
+ },
+ {
+  "lat": 45.43276,
+  "lon": 6.01188,
+  "d_tour": 1540.0604561279326,
+  "d_bay": 1.180402957280245,
+  "d_corr": 1171.0553798718179,
+  "deg": 4,
+  "nats": {
+   "Sentier": 2,
+   "Route empierrée": 2
+  },
+  "trouee": false,
+  "eau": false,
+  "ruis_nom": null,
+  "dh": 564.1059209113689
+ },
+ {
+  "lat": 45.43276,
+  "lon": 6.01172,
+  "d_tour": 1552.048777290777,
+  "d_bay": 1.1862799209586226,
+  "d_corr": 1177.8279796647882,
+  "deg": 4,
+  "nats": {
+   "Sentier": 4
+  },
+  "trouee": false,
+  "eau": false,
+  "ruis_nom": null,
+  "dh": 569.3163874392201
+ },
+ {
+  "lat": 45.43283,
+  "lon": 6.01168,
+  "d_tour": 1557.24297118973,
+  "d_bay": 1.1946125776574459,
+  "d_corr": 1186.0241061213655,
+  "deg": 4,
+  "nats": {
+   "Sentier": 4
+  },
+  "trouee": false,
+  "eau": false,
+  "ruis_nom": null,
+  "dh": 563.6036984582831
+ },
+ {
+  "lat": 45.43272,
+  "lon": 6.01159,
+  "d_tour": 1560.5616837770785,
+  "d_bay": 1.187233421586428,
+  "d_corr": 1179.614729086476,
+  "deg": 4,
+  "nats": {
+   "Sentier": 4
+  },
+  "trouee": false,
+  "eau": false,
+  "ruis_nom": null,
+  "dh": 577.5982053424491
+ },
+ {
+  "lat": 45.42877,
+  "lon": 6.05346,
+  "d_tour": 1771.8514812541282,
+  "d_bay": 2.7602271082097327,
+  "d_corr": 1753.7024488075174,
+  "deg": 4,
+  "nats": {
+   "Chemin": 2,
+   "Sentier": 2
+  },
+  "trouee": false,
+  "eau": true,
+  "ruis_nom": null,
+  "dh": 119.75922334227788
+ },
+ {
+  "lat": 45.42695,
+  "lon": 6.05478,
+  "d_tour": 1886.0909836841613,
+  "d_bay": 2.825372708417996,
+  "d_corr": 1868.968165709418,
+  "deg": 5,
+  "nats": {
+   "Chemin": 1,
+   "Route empierrée": 2,
+   "Sentier": 2
+  },
+  "trouee": false,
+  "eau": true,
+  "ruis_nom": null,
+  "dh": 137.623739155866
+ },
+ {
+  "lat": 45.41905,
+  "lon": 6.05632,
+  "d_tour": 2267.758746697761,
+  "d_bay": 2.9568785790470034,
+  "d_corr": 2255.9122385229557,
+  "deg": 5,
+  "nats": {
+   "Chemin": 3,
+   "Sentier": 2
+  },
+  "trouee": false,
+  "eau": true,
+  "ruis_nom": null,
+  "dh": 99.48289318523133
+ },
+ {
+  "lat": 45.44777,
+  "lon": 6.04425,
+  "d_tour": 2346.181448874229,
+  "d_bay": 3.3558463690060316,
+  "d_corr": 2330.762899292784,
+  "deg": 4,
+  "nats": {
+   "Route empierrée": 2,
+   "Chemin": 1,
+   "Sentier": 1
+  },
+  "trouee": false,
+  "eau": true,
+  "ruis_nom": null,
+  "dh": 125.40545946954903
+ },
+ {
+  "lat": 45.43288,
+  "lon": 6.0603,
+  "d_tour": 2349.9006623099217,
+  "d_bay": 3.3965982338625422,
+  "d_corr": 2330.363197173912,
+  "deg": 4,
+  "nats": {
+   "Chemin": 3,
+   "Sentier": 1
+  },
+  "trouee": false,
+  "eau": true,
+  "ruis_nom": null,
+  "dh": 4.6254549004805305
+ },
+ {
+  "lat": 45.41159,
+  "lon": 6.0485,
+  "d_tour": 2352.7722370804545,
+  "d_bay": 2.6533249923585207,
+  "d_corr": 2348.8579273366495,
+  "deg": 4,
+  "nats": {
+   "Chemin": 2,
+   "Sentier": 2
+  },
+  "trouee": false,
+  "eau": true,
+  "ruis_nom": null,
+  "dh": 4.276347121248209
+ },
+ {
+  "lat": 45.44306,
+  "lon": 6.00761,
+  "d_tour": 2400.2687638600814,
+  "d_bay": 2.3610436141881057,
+  "d_corr": 2308.6054856430105,
+  "deg": 4,
+  "nats": {
+   "Chemin": 2,
+   "Route empierrée": 2
+  },
+  "trouee": false,
+  "eau": true,
+  "ruis_nom": null,
+  "dh": 9.014759788737926
+ },
+ {
+  "lat": 45.40631,
+  "lon": 6.03071,
+  "d_tour": 2486.050614834633,
+  "d_bay": 2.1079013560887856,
+  "d_corr": 2098.3621135515928,
+  "deg": 4,
+  "nats": {
+   "Chemin": 1,
+   "Sentier": 1,
+   "Route empierrée": 2
+  },
+  "trouee": false,
+  "eau": true,
+  "ruis_nom": null,
+  "dh": 75.5806656354443
+ }
+]

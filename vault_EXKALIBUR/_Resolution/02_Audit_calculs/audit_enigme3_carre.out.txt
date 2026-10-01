@@ -1,0 +1,5 @@
+Lettres visibles compatibles avec SATOR : True
+Lettres manquantes (avec repetitions) : ATAETENETEATA {'A': 4, 'T': 4, 'E': 4, 'N': 1}
+Lettres manquantes distinctes         : AENT
+Compatible avec ROTAS (inverse) : False
+TI + LG + lettres distinctes du carre : AEGILNTT | TINTAGEL trie : AEGILNTT | egal : True

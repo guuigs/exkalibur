@@ -1,0 +1,30 @@
+== (a) chaîne 6 C : Clairvaux -> Cîteaux -> Cluny -> Clermont -> Chartres -> ChâteauBayard
+   segments km [115.3, 85.1, 141.4, 320.4, 480.9] | 4 premiers = 341.8 (attendu 340,9)
+   auto-intersections des segments non adjacents :
+     ('Clairvaux', 'Cîteaux') x ('Cluny', 'Clermont') -> non
+     ('Clairvaux', 'Cîteaux') x ('Clermont', 'Chartres') -> non
+     ('Clairvaux', 'Cîteaux') x ('Chartres', 'ChâteauBayard') -> non
+     ('Cîteaux', 'Cluny') x ('Clermont', 'Chartres') -> non
+     ('Cîteaux', 'Cluny') x ('Chartres', 'ChâteauBayard') -> non
+     ('Cluny', 'Clermont') x ('Chartres', 'ChâteauBayard') -> (0.060403652586258974, 0.6789245125564911)
+   croisement avec la lame Lombrives-Urquhart : [None, None, None, None, None]
+   distance de Cluny à la droite Chartres->Bayard : 3.7 km ; Clermont : 133.1 km
+   caps: Chartres->Bayard 132.7 ; Bayard->Clairvaux 343.2
+
+== (b) 18 pétales × année de mort -> (18y)^2 pieds romains (0.296 m) ; distance et test du hasard
+   y= 14 n= 252 ->    18.80 km
+   y= 30 n= 540 ->    86.31 km
+   y= 33 n= 594 ->   104.44 km
+   y= 37 n= 666 ->   131.29 km
+   y= 41 n= 738 ->   161.21 km
+   y= 54 n= 972 ->   279.66 km
+   y= 68 n=1224 ->   443.46 km
+   y= 79 n=1422 ->   598.54 km
+   nb d'années 1..100 où 18*y ∈ [660,672] : [37] ; n=666 exact seulement y=37 : [37]
+   pieds romains: 666^2 = 443556 ; ×0.296 = 131.29 km
+
+== (c) formules 2 termes {1,3,5,N}, N<=120, ±0,03° de 64,99 : [(13, '5*N', 65), (13, 'N*5', 65), (60, '5+N', 65), (60, 'N+5', 65), (62, '3+N', 65), (62, 'N+3', 65), (64, '1+N', 65), (64, 'N+1', 65), (65, '1*N', 65), (65, 'N*1', 65), (65, 'N/1', 65.0), (66, 'N-1', 65)] ... total 14 | combinatoire testée ≈ 17280
+   somme 1+3+5=9 ; produit 15 ; 1·3·5·N=65 -> N=4.333 ; (1+3+5)·N·... N=7.221
+   64.99/π = 20.687 ; 64.99/23 = 2.826 ; 64.99/193.13 = 0.3365 ; 606.72/193.13 = 3.1415
+
+== (d) Lincoln Cathedral 53.2343,-0.5361 ; tour d'Avalon 988.86 km

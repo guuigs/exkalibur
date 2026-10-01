@@ -1,0 +1,18 @@
+lieux-dits chargés: 2476
+LE CHENE LA ROCHE ET LE VIVIER aire 7.78 ha ; distance tour->polygone 15 m ; bbox(m) [-49, -237, 302, 124] centroïde [136, -77]
+  centroïde lat,lon 45.42827,6.03232
+troncon_hydrographique_12km 263 m Ecoulement naturel  Intermittent
+troncon_hydrographique_12km 237 m Conduit forcé  Permanent
+troncon_hydrographique_12km 116 m Ecoulement naturel  Intermittent
+troncon_hydrographique_12km 242 m Conduit forcé  Permanent
+troncon_hydrographique_12km 237 m Conduit forcé  Permanent
+troncon_hydrographique_12km 286 m Ecoulement naturel  Intermittent
+troncon_hydrographique_12km 262 m Conduit forcé  Permanent
+troncon_hydrographique_12km 286 m Ecoulement naturel  Intermittent
+troncon_hydrographique_12km 289 m Ecoulement naturel  Intermittent
+surface_hydrographique_12km 0 m Retenue  Intermittent
+detail_hydrographique_12km 0 m Marais  None
+lieux-dits roche/pierre dans 20 communes: 39 / 2476
+à <=0.5 km de la tour: 2 ; à <=7.5 km: 14
+densité 0.079 /km² ; proba d'en avoir ≥1 à <=0.134 km (hasard) = 0.45 % ; à <=0.5 km = 6.0 %
+lieux-dits CHENE/VIVIER (plus proches): [(0.13, 'LE CHENE LA ROCHE ET LE VIVIER'), (0.19, 'LE CHENE'), (2.04, 'CHENEVIERE DE BAYARD'), (5.93, 'LE GRAND CHENE'), (9.7, 'PRAT CHENEVAT')]

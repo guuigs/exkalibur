@@ -1,0 +1,25 @@
+== Droites depuis la Sainte-Chapelle
+
+-- SC → Rennes (cathédrale) (cap 255.95°, 308.2 km)
+   Paimpont (abbaye, Brocéliande)         écart   +1.14 km, à  345.8 km de SC
+   Paimpont (centre commune)              écart   +2.53 km, à  346.0 km de SC
+   Val sans Retour (Tréhorenteuc)         écart   +0.93 km, à  354.8 km de SC
+   Lorient (centre)                       écart   +0.04 km, à  440.8 km de SC
+   Lorient (Enclos du port, arsenal)      écart   -0.69 km, à  438.9 km de SC
+
+-- SC → Dol-de-Bretagne (cathédrale) (cap 265.10°, 302.9 km)
+   Dinan (château)                        écart   -7.67 km, à  325.6 km de SC
+
+-- SC → Dinan (château) (cap 263.75°, 325.7 km)
+   Dol-de-Bretagne (cathédrale)           écart   +7.14 km, à  302.9 km de SC
+
+== Nul : 4038 communes à l'ouest de SC (150-400 km) prises comme « point de déroute »
+   droite à ≤ 1 km de Brocéliande : 26 (0.64 %)
+   droite à ≤ 1 km de Lorient     : 13 (0.32 %)
+   les deux                       : 10 (0.248 %)
+   → Rennes est imposé par le texte (complétion REDNES), il n'est pas choisi après coup.
+
+== Géométrie de l'épée : cap nouvelle garde SC→Lorient 256.0° ; ancienne garde León→Foix 83.6° ; lame Urquhart→Valence 169.8°
+   angle nouvelle garde / ancienne garde : 7.6° ; nouvelle garde / lame : 86.1°
+   la Sainte-Chapelle est à -326.3 km de l'axe de la lame
+   longueur SC → Lorient : 440.8 km ; longueur León → Foix : 586.5 km

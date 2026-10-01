@@ -1,0 +1,112 @@
+=== NB DE PHRASES === 12
+  P01 [87 car.] Dieu sut se montrer favorable ; dix stades romains séparaient les troisième et onzième.
+  P02 [70 car.] Le roi avait rejoint les fées, et laissé son épée aux portes d'Avalon.
+  P03 [19 car.] L'épée, évidemment.
+  P04 [25 car.] L'épée, depuis toujours !
+  P05 [46 car.] Là était la dernière clé de la quête du Graal.
+  P06 [81 car.] Tombée par trois fois, elle était revenue là où elle n'avait jamais cessé d'être.
+  P07 [31 car.] Tout commence et tout s'achève.
+  P08 [28 car.] J'entends le chant retentir.
+  P09 [145 car.] J'ai fait une dernière veille au chemin de rempart, et l'endroit m'est apparu au matin, illuminé par l'astre glorieux qui magnifiait le ruisseau.
+  P10 [154 car.] Dans la clairière, à la jonction des chemins, j'ai suivi à senestre les eaux enchantées jusqu'à la grande roche, puis fis dix pas au nord, autant à l'est.
+  P11 [93 car.] Arrivé à la souche-majesté, je fis huit derniers pas, et ma boussole suivait le jour dernier.
+  P12 [41 car.] Là, tu trouveras la coupe du charpentier.
+
+=== NB DE MOTS (tout le texte) === 138
+  mot 3  = se  | mot 11 = troisième
+=== NB DE LETTRES === 651
+  lettre 3  = e  | lettre 11 = o
+
+=== ACROSTICHE (initiales des phrases) === D L L L L T T J J D A L
+=== INITIALES DES MOTS === D s s m f d s r s l t e o L r a r l f e l s é a p d L é L d t L é l d c d l q d G T p t f e é r l o e n j c d T c e t s J l c r J f u d v a c d r e l m a a m i p l g q m l r D l c à l j d c j s à s l e e j l g r p f d p a n a à l A à l s j f h d p e m b s l j d L t t l c d c
+=== FINALES DES MOTS ==== u t e r e x s s t s e t e e i t t s s t é n e x s n e t e s s à t a e é e a e u l e r s s e t e à ù e t s é e t e t t e s e t r i t e e e u n e t t t t u u n é r e x i t e u s a e à a n s s i i à e s x s à a e e s s x s u d t à t é à a é e s t s s t a e t e r r à u s a e u r
+
+=== MOTS PAR PHRASE + 3e/11e mot ===
+  P01 (13 mots) | 3e='se' 11e='troisième'
+  P02 (13 mots) | 3e='avait' 11e='aux'
+  P03 ( 2 mots) | 3e='-' 11e='-'
+  P04 ( 3 mots) | 3e='toujours' 11e='-'
+  P05 (10 mots) | 3e='la' 11e='-'
+  P06 (14 mots) | 3e='trois' 11e="n'avait"
+  P07 ( 5 mots) | 3e='et' 11e='-'
+  P08 ( 4 mots) | 3e='chant' 11e='-'
+  P09 (23 mots) | 3e='une' 11e="l'endroit"
+  P10 (28 mots) | 3e='clairière' 11e='à'
+  P11 (16 mots) | 3e='la' 11e='ma'
+  P12 ( 7 mots) | 3e='trouveras' 11e='-'
+
+=== LETTRES PAR PHRASE ===
+  P01 : 72 lettres
+  P02 : 55 lettres
+  P03 : 15 lettres
+  P04 : 19 lettres
+  P05 : 36 lettres
+  P06 : 64 lettres
+  P07 : 25 lettres
+  P08 : 23 lettres
+  P09 : 116 lettres
+  P10 : 119 lettres
+  P11 : 74 lettres
+  P12 : 33 lettres
+
+=== TITRES : initiales, 3e et 11e ===
+  T01 [11 lettres] 'In Principio'               -> InPrincipio | 3e=P 11e=o
+  T02 [14 lettres] 'Terra incognita'            -> Terraincognita | 3e=r 11e=n
+  T03 [ 8 lettres] 'Ecce Homo'                  -> EcceHomo | 3e=c 11e=-
+  T04 [12 lettres] 'Rex dei gratia'             -> Rexdeigratia | 3e=x 11e=i
+  T05 [13 lettres] 'Lux in tenebris'            -> Luxintenebris | 3e=x 11e=r
+  T06 [14 lettres] 'Libera nos a malo'          -> Liberanosamalo | 3e=b 11e=m
+  T07 [ 7 lettres] 'Sub rosa'                   -> Subrosa | 3e=b 11e=-
+  T08 [10 lettres] 'Ultima cena'                -> Ultimacena | 3e=t 11e=-
+  T09 [13 lettres] 'Noli me tangere'            -> Nolimetangere | 3e=l 11e=e
+  T10 [15 lettres] 'Omnia vincit amor'          -> Omniavincitamor | 3e=n 11e=t
+  T11 [14 lettres] 'Consummatum est'            -> Consummatumest | 3e=n 11e=m
+  T12 [15 lettres] 'Ad vitam aeternam'          -> Advitamaeternam | 3e=v 11e=e
+  INITIALES TITRES: I T E R L L S U N O C A  => ITERLLSUNOCA
+  3e titre = Ecce Homo | 11e titre = Consummatum est
+
+=== MOTS PALINDROMES === ['elle', 'elle']
+
+=== ANAGRAMMES (lettres triées) ===
+  'Dieu sut se montrer favorable'        -> aabdeeeefilmnoorrrssttuuv
+  'dix stades romains'                   -> aaddeiimnorssstx
+  'la coupe du charpentier'              -> aaccdeeehilnopprrtuu
+  'souche majeste'                       -> aceeehjmosstu
+  'souche-majesté'                       -> aceeehjmosstu
+  'astre glorieux'                       -> aeegilorrstux
+  'jour dernier'                         -> deeijnorrru
+  'troisieme et onzieme'                 -> eeeeeiiimmnoorsttz
+  'les troisieme et onzieme'             -> eeeeeeiiilmmnoorssttz
+  'Ad vitam aeternam'                    -> aaaadeeimmnrttv
+  'derniere cle de la quete du Graal'    -> aaacdddeeeeeeegilllnqrrrtuu
+
+=== TITRE lettre à lettre ===
+   1 a
+   2 d
+   3 v
+   4 i
+   5 t
+   6 a
+   7 m
+   8 a
+   9 e
+  10 t
+  11 e
+  12 r
+  13 n
+  14 a
+  15 m
+
+=== FRÉQUENCE LETTRES (texte) ===
+   a:60 b:3 c:15 d:22 e:87 f:7 g:4 h:9 i:54 j:11 l:38 m:19 n:36 o:31 p:16 q:3 r:46 s:49 t:51 u:36 v:12 x:5 z:1 à:8 è:6 é:19 ê:2 ù:1
+
+=== RANGS 3/11 SUR DIVERSES SÉQUENCES ===
+  mots               : 3e='se'  11e='troisième'
+  lettres            : 3e='e'  11e='o'
+  phrases            : 3e="L'épée, évidemment."  11e='Arrivé à la souche-majesté, je fis huit derniers pas, et ma boussole suivait le jour dernier.'
+  titres             : 3e='Ecce Homo'  11e='Consummatum est'
+  initiales_titres   : 3e='E'  11e='C'
+
+=== ENTRE mot 3 et mot 11 (comptage) ===
+  mots[3:11] = ['montrer', 'favorable', 'dix', 'stades', 'romains', 'séparaient', 'les', 'troisième']
+  écart indices = 8

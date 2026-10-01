@@ -1,0 +1,29 @@
+sans coord: Cariñena
+sans coord: Cigales
+sans coord: Corbières
+sans coord: Cava-SantSadurni
+sans coord: Cambus
+
+== F1 vins/spiritueux France (célèbres) : n=15 tot=4095  hits D=341,61: 4  D=342,01: 4  | hits moyens à D aléatoire [250,450]: 2.6
+   N>S    Chablis > Chassagne > Condrieu > Cornas  L=340.39  croise lame=False
+   O>E    Chablis > Chassagne > Condrieu > Cornas  L=340.39  croise lame=False
+   alpha  Chablis > Chassagne > Condrieu > Cornas  L=340.39  croise lame=False
+   O>E    Condrieu > Chateauneuf-du-Pape > Cornas > Chartreuse  L=343.54  croise lame=False
+
+== F2 eaux/thermes France : n=8 tot=210  hits D=341,61: 0  D=342,01: 0  | hits moyens à D aléatoire [250,450]: 0.5
+
+== F3 whisky/bière UK-IE : n=9 tot=378  hits D=341,61: 2  D=342,01: 2  | hits moyens à D aléatoire [250,450]: 1.3
+   N>S    Cardhu > Cragganmore > Campbeltown > Coleraine  L=341.19  croise lame=True
+   O>E    Coleraine > Campbeltown > Cragganmore > Cardhu  L=341.19  croise lame=True
+
+== F4 Graal/coupe/calice : n=7 tot=105  hits D=341,61: 0  D=342,01: 0  | hits moyens à D aléatoire [250,450]: 0.0
+
+== F5 Ibérie vin/spiritueux : n=8 tot=210  hits D=341,61: 0  D=342,01: 0  | hits moyens à D aléatoire [250,450]: 0.0
+
+== F6 moines-boisson (Cluny/Cîteaux/Clairvaux/Chartreuse/Clermont/Cahors/Cassis/Cognac/Champagne) : n=11 tot=990  hits D=341,61: 4  D=342,01: 4  | hits moyens à D aléatoire [250,450]: 0.8
+   N>S    Clairvaux > Citeaux > Cluny > Clermont  L=341.02  croise lame=False
+   N>S    Champagne-Chalons > Chablis > Citeaux > Cluny  L=341.33  croise lame=False
+   N>S    Champagne-Chalons > Clairvaux > Chablis > Cluny  L=344.61  croise lame=False
+   O>E    Chablis > Champagne-Chalons > Clairvaux > Citeaux  L=344.66  croise lame=False
+
+== F7 emblématiques multi-pays : n=11 tot=990  hits D=341,61: 0  D=342,01: 0  | hits moyens à D aléatoire [250,450]: 0.0

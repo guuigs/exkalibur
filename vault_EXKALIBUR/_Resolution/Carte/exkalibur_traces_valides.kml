@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2"><Document><name>Exkalibur - tracés validés (É1-É7)</name>
+<Placemark><name>Cathédrale de León (É1, garde O)</name><Point><coordinates>-5.5671632,42.5994383,0</coordinates></Point></Placemark>
+<Placemark><name>Château de Foix (É1, quillons)</name><Point><coordinates>1.604881,42.965574,0</coordinates></Point></Placemark>
+<Placemark><name>Rennes-le-Château (É1, repère)</name><Point><coordinates>2.2633,42.9275,0</coordinates></Point></Placemark>
+<Placemark><name>Cathédrale de Valence (É1, pommeau)</name><Point><coordinates>-0.3754667,39.4752858,0</coordinates></Point></Placemark>
+<Placemark><name>Grotte de Lombrives (É1, naissance lame)</name><Point><coordinates>1.6167,42.8267,0</coordinates></Point></Placemark>
+<Placemark><name>Château d'Urquhart (É1, pointe)</name><Point><coordinates>-4.4420013,57.3241399,0</coordinates></Point></Placemark>
+<Placemark><name>Tour de Londres (É2)</name><Point><coordinates>-0.0759493,51.5081124,0</coordinates></Point></Placemark>
+<Placemark><name>Tintagel (É3)</name><Point><coordinates>-4.7585053,50.6672813,0</coordinates></Point></Placemark>
+<Placemark><name>Silchester (É4)</name><Point><coordinates>-1.1005385,51.3538459,0</coordinates></Point></Placemark>
+<Placemark><name>Westminster (É4)</name><Point><coordinates>-0.1272993,51.4993695,0</coordinates></Point></Placemark>
+<Placemark><name>Stonehenge (É5)</name><Point><coordinates>-1.826215,51.178882,0</coordinates></Point></Placemark>
+<Placemark><name>Carnac, Ménec (É5)</name><Point><coordinates>-3.0835991,47.5918383,0</coordinates></Point></Placemark>
+<Placemark><name>Clairvaux (É6, C1)</name><Point><coordinates>4.7883,48.1467,0</coordinates></Point></Placemark>
+<Placemark><name>Cîteaux (É6, C2)</name><Point><coordinates>5.0936,47.1289,0</coordinates></Point></Placemark>
+<Placemark><name>Cluny (É6, C3)</name><Point><coordinates>4.6585012,46.4348054,0</coordinates></Point></Placemark>
+<Placemark><name>Clermont (É6, C4)</name><Point><coordinates>3.0858573,45.7787583,0</coordinates></Point></Placemark>
+<Placemark><name>Battle Abbey (É6)</name><Point><coordinates>0.487,50.9143,0</coordinates></Point></Placemark>
+<Placemark><name>Sainte-Chapelle (É6-É7)</name><Point><coordinates>2.3449609,48.855375,0</coordinates></Point></Placemark>
+<Placemark><name>Rennes (É7, REDNES)</name><Point><coordinates>-1.6836,48.1117,0</coordinates></Point></Placemark>
+<Placemark><name>Paimpont / Brocéliande (É7)</name><Point><coordinates>-2.1712,48.0213,0</coordinates></Point></Placemark>
+<Placemark><name>Lorient (É7, l'Orient)</name><Point><coordinates>-3.3799,47.7494,0</coordinates></Point></Placemark>
+<Placemark><name>É1 garde</name><Style><LineStyle><color>ff0000ff</color><width>3</width></LineStyle></Style><LineString><tessellate>1</tessellate><coordinates>-5.5671632,42.5994383,0 1.604881,42.965574,0</coordinates></LineString></Placemark>
+<Placemark><name>É1 lame</name><Style><LineStyle><color>ff0000ff</color><width>3</width></LineStyle></Style><LineString><tessellate>1</tessellate><coordinates>-4.4420013,57.3241399,0 -0.3754667,39.4752858,0</coordinates></LineString></Placemark>
+<Placemark><name>É4 chemin royal</name><Style><LineStyle><color>ff00a5ff</color><width>3</width></LineStyle></Style><LineString><tessellate>1</tessellate><coordinates>-4.7585053,50.6672813,0 -1.1005385,51.3538459,0 -0.1272993,51.4993695,0</coordinates></LineString></Placemark>
+<Placemark><name>É5 Armorique → Bretagne</name><Style><LineStyle><color>ff00ffff</color><width>3</width></LineStyle></Style><LineString><tessellate>1</tessellate><coordinates>-3.0835991,47.5918383,0 -1.826215,51.178882,0</coordinates></LineString></Placemark>
+<Placemark><name>É6 les 4 C (340,9 km)</name><Style><LineStyle><color>ff00ff00</color><width>3</width></LineStyle></Style><LineString><tessellate>1</tessellate><coordinates>4.7883,48.1467,0 5.0936,47.1289,0 4.6585012,46.4348054,0 3.0858573,45.7787583,0</coordinates></LineString></Placemark>
+<Placemark><name>É6 Tour → Battle → Sainte-Chapelle (341,6 km)</name><Style><LineStyle><color>ff00ff00</color><width>3</width></LineStyle></Style><LineString><tessellate>1</tessellate><coordinates>-0.0759493,51.5081124,0 0.487,50.9143,0 2.3449609,48.855375,0</coordinates></LineString></Placemark>
+<Placemark><name>É7 nouvelle garde</name><Style><LineStyle><color>ffff00ff</color><width>3</width></LineStyle></Style><LineString><tessellate>1</tessellate><coordinates>2.3449609,48.855375,0 -1.6836,48.1117,0 -2.1712,48.0213,0 -3.3799,47.7494,0</coordinates></LineString></Placemark>
+<Placemark><name>É8 Île de la Cité → Payns (666² pieds romains, cap Jérusalem) [probable]</name><LineString><coordinates>2.3470,48.8547,0 3.9884,48.3919,0</coordinates></LineString></Placemark>
+<Placemark><name>É8 Payns (Hugues de Payns, humble serviteur du Graal)</name><Point><coordinates>3.9750,48.3833,0</coordinates></Point></Placemark>
+<Placemark><name>É8 réserve : cathédrale de Lincoln (plus haute tour, deux yeux)</name><Point><coordinates>-0.5361,53.2343,0</coordinates></Point></Placemark>
+<Placemark><name>É9 croisée des chemins (garde É7 × royaume É5), près de Camors [probable]</name><Point><coordinates>-3.00503,47.83211,0</coordinates></Point></Placemark>
+<Placemark><name>É9 croisée → Chartres (340,3 km, vers l'Est) [probable]</name><LineString><coordinates>-3.00503,47.83211,0 1.4875,48.447778,0</coordinates></LineString></Placemark>
+<Placemark><name>É9 avant-dernier C : cathédrale de Chartres (labyrinthe) [probable]</name><Point><coordinates>1.4875,48.447778,0</coordinates></Point></Placemark>
+<Placemark><name>É9 alternative : Chambord (339,1 km, plein Est) [piste secondaire]</name><Point><coordinates>1.517,47.6162,0</coordinates></Point></Placemark>
+<Placemark><name>É10 château de la gardienne : Eilean Donan [probable]</name><Point><coordinates>-5.51611111,57.27402778,0</coordinates></Point></Placemark>
+<Placemark><name>É10 Machrie Moor, Arran (« elles entouraient le roi ») [probable]</name><Point><coordinates>-5.313655,55.540829,0</coordinates></Point></Placemark>
+<Placemark><name>É10 gardienne → Machrie Moor (193,1 km) [probable]</name><LineString><coordinates>-5.51611111,57.27402778,0 -5.313655,55.540829,0</coordinates></LineString></Placemark>
+<Placemark><name>É11 Montsalvage : Saint-Palais [probable]</name><Point><coordinates>-1.0325,43.3292,0</coordinates></Point></Placemark>
+<Placemark><name>É11 château Bayard, Pontcharra (arrivée) [probable]</name><Point><coordinates>6.018889,45.423611,0</coordinates></Point></Placemark>
+<Placemark><name>É11 tour d'Avalon (piste É12)</name><Point><coordinates>6.03078,45.4288,0</coordinates></Point></Placemark>
+<Placemark><name>É11 ultime traversée Saint-Palais → Bayard (606,6 km = D·π) [probable]</name><LineString><coordinates>-1.0325,43.3292,0 6.018889,45.423611,0</coordinates></LineString></Placemark>
+<Placemark><name>É12 chemin de rempart : tour d'Avalon [probable]</name><Point><coordinates>6.03078,45.4288,0</coordinates></Point></Placemark>
+<Placemark><name>É12 prolongement ultime traversée Bayard → tour d'Avalon (1,07 km)</name><LineString><coordinates>6.018889,45.423611,0 6.03078,45.4288,0</coordinates></LineString></Placemark>
+</Document></kml>

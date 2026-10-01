@@ -1,0 +1,9 @@
+11819 lieux en C
+== anagrammes exactes mot -> lieu en C (hors identité)
+('preux', 'Cesar', 'ceras', 'MY', 135823)
+('grec', 'Caelus', 'Cuélas', 'FR', 127)
+('grec', 'Castor', 'Castro', 'BR', 71809)
+('grec', 'Clio', 'cilo', 'LK', 24712)
+('romain', 'Caelus', 'Cuélas', 'FR', 127)
+NUL: hits sur 288 mots aux lettres permutées, moyenne 5.0 min 5 max 5
+REEL: 5

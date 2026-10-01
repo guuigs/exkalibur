@@ -1,0 +1,33 @@
+Cibles D (km): {'Sainte-Chapelle': 341.61, 'Notre-Dame': 342.01, 'Sainte-Chapelle de Vincennes': 346.21, 'Saint-Denis': 334.43, 'Chartres': 360.33}
+== (a) D selon le point 'champ de bataille' (Tour -> champ -> Sainte-Chapelle, polyligne)
+  Battle Abbey (Wikipedia)                         D = 76.69 + 264.92 = 341.60 km   (droit T-SC = 341.60)
+  Battle ville (Wikipedia)                         D = 76.00 + 265.60 = 341.60 km   (droit T-SC = 341.60)
+  geo_e6.py                                        D = 76.80 + 264.81 = 341.60 km   (droit T-SC = 341.60)
+  Hastings ville (carte Guilhem)                   D = 85.64 + 255.97 = 341.62 km   (droit T-SC = 341.60)
+  Senlac/Caldbec Hill (approx. 50.9166, 0.4917)    D = 76.74 + 264.86 = 341.60 km   (droit T-SC = 341.60)
+  -> D_poly - D_droit est de l'ordre du mètre (alignement) : toutes les lectures donnent 341,6 km ± 0,1 pour Battle ; Hastings donne 341.62
+
+== (b) chaînes du noyau restreint dans ±1 % de D_SC : la chaîne est-elle le chemin le plus court de ses 4 points ?
+   340.99 (-0.18 %) Clermont - Cluny - Cîteaux - Clairvaux                  plus court chemin sur ces 4 points :  340.99 -> ORDRE ÉVIDENT (chaîne = plus court)
+   341.87 (+0.07 %) Clermont - Cadouin - Cahors - Conques                   plus court chemin sur ces 4 points :  279.97 -> ordre NON minimal
+   338.66 (-0.86 %) Conques - Cadouin - Cahors - Carcassonne                plus court chemin sur ces 4 points :  292.27 -> ordre NON minimal
+
+== (b') Toutes les chaînes des 105 lieux de la liste curée dans ±1 % de D_SC dont l'ordre est le plus court chemin de ses 4 points, ET dont tous les lieux sont en France
+  13044 chaînes ±1 % ; dont chaîne = plus court chemin : 3773 (29 %)
+  contrôles (D aléatoire, nb chaînes, nb chaînes = plus court chemin): [(314.8, 8914, 2649), (280.2, 4955, 1463), (380.2, 21632, 6056), (264.5, 3689, 1038), (357.2, 16463, 4854), (323.1, 10057, 3045), (261.6, 3469, 1049), (351.5, 14905, 4450), (257.5, 3155, 990), (336.7, 11887, 3405), (264.0, 3659, 1039), (268.1, 3987, 1155)]
+
+== (c) Sensibilité de Cluny-Clermont-Cadouin (3 C) au géocodage
+{'Cluny Abbey': (46.43416667, 4.65916667), 'Cluny': (46.4353, 4.66), 'Cadouin Abbey': (44.81, 0.874), 'Cadouin': (44.8461, 0.9103), 'Clermont-Ferrand Cathedral': (45.778727, 3.085766), 'Clermont-Ferrand': (45.7831, 3.0824)}
+  carte Guilhem : 345.21 km
+  Wikipedia Cluny Abbey  Cadouin Abbey  Clermont-Ferrand Cathedral  : 345.30 km  (+1.08 % vs D_SC)
+  Wikipedia Cluny Abbey  Cadouin Abbey  Clermont-Ferrand            : 345.29 km  (+1.08 % vs D_SC)
+  Wikipedia Cluny Abbey  Cadouin        Clermont-Ferrand Cathedral  : 340.73 km  (-0.26 % vs D_SC)
+  Wikipedia Cluny Abbey  Cadouin        Clermont-Ferrand            : 340.72 km  (-0.26 % vs D_SC)
+  Wikipedia Cluny        Cadouin Abbey  Clermont-Ferrand Cathedral  : 345.42 km  (+1.11 % vs D_SC)
+  Wikipedia Cluny        Cadouin Abbey  Clermont-Ferrand            : 345.41 km  (+1.11 % vs D_SC)
+  Wikipedia Cluny        Cadouin        Clermont-Ferrand Cathedral  : 340.85 km  (-0.22 % vs D_SC)
+  Wikipedia Cluny        Cadouin        Clermont-Ferrand            : 340.84 km  (-0.23 % vs D_SC)
+  Amplitude de l'incertitude de géocodage (~0,3 km) >= marge de 0,18 km : la chaîne à 3 C est compatible/incompatible selon la source.
+
+== (d) Point de l'axe Tour->Battle prolongé à D = 345.21 km : (48.81819514085485, 2.3449497941994784)
+   distance à la Sainte-Chapelle : 4.13 km ; à Notre-Dame : 3.89 km

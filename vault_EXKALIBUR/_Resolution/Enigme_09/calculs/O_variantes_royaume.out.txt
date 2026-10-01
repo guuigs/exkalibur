@@ -1,0 +1,49 @@
+Notables absents de la base : ['Conques', 'Cîteaux', 'Cadillac', 'Cunault', 'Caudebec-en-Caux']
+
+=== A. RÉFÉRENCE garde É7 × royaume É5 (Carnac–Stonehenge)
+    croisée 47.8321, -3.0050
+    commune la plus proche : Camors (56) (0.4 km)
+    (a) plein Est 340,9 km → 47.8321, 1.5619 ; C les plus proches : Cravant (45) 1.2 km ; Concriers (41) 8.4 km ; Charsonville (45) 10.3 km
+    (b) anneau ±1 %, cap 45-135° : 29 communes en C ; notables : Chartres (28) 341.5 km cap 77° ; Cravant (45) 342.1 km cap 88° ; Chambord (41) 340.5 km cap 92°
+        notables les plus proches de 340,9 km (tout cap) : Chambord (41) 340.5 km cap 92° ; Chartres (28) 341.5 km cap 77° ; Cravant (45) 342.1 km cap 88°
+
+=== B. garde É7 × lame É1 (croisée de l'épée : garde/lame, à Brocéliande)
+    croisée 48.0529, -1.9698
+    commune la plus proche : Monterfil (35) (1.8 km)
+    (a) plein Est 340,9 km → 48.0529, 2.6166 ; C les plus proches : Chapelon (45) 3.4 km ; Courtempierre (45) 4.8 km ; Corbeilles (45) 5.2 km
+    (b) anneau ±1 %, cap 45-135° : 28 communes en C ; notables : aucun
+        notables les plus proches de 340,9 km (tout cap) : Corbeil-Essonnes (91) 333.3 km cap 78° ; Chantilly (60) 350.8 km cap 67° ; Crécy-en-Ponthieu (80) 368.7 km cap 47°
+
+=== C. garde É7 × chemin du Conquérant É6 (il devient roi : Tour→Battle→Sainte-Chapelle) = Sainte-Chapelle
+    croisée 48.8554, 2.3450
+    commune la plus proche : Paris (75) (0.4 km)
+    (a) plein Est 340,9 km → 48.8554, 7.0045 ; C les plus proches : Cutting (57) 12.4 km ; Conthil (57) 25.0 km ; Cappel (57) 27.0 km
+    (b) anneau ±1 %, cap 45-135° : 17 communes en C ; notables : aucun
+        notables les plus proches de 340,9 km (tout cap) : Clermont-Ferrand (63) 346.1 km cap 170° ; Charroux (86) 335.3 km cap 206° ; Clairvaux-les-Lacs (39) 360.6 km cap 134°
+
+=== D. garde É7 × frontière du royaume de Bretagne (Bretagne/Maine, lon ≈ −1,02 ; ± 3 km)
+    croisée 48.2454, -1.0200
+    commune la plus proche : Juvigné (53) (1.4 km)
+    (a) plein Est 340,9 km → 48.2454, 3.5837 ; C les plus proches : Courgenay (89) 5.3 km ; Cérilly (89) 8.1 km ; Coulours (89) 9.3 km
+    (b) anneau ±1 %, cap 45-135° : 35 communes en C ; notables : aucun
+        notables les plus proches de 340,9 km (tout cap) : Coucy-le-Château-Auffrique (02) 347.1 km cap 64° ; Chaumont (18) 323.2 km cap 117° ; Chablis (89) 361.2 km cap 96°
+
+=== E. garde É1 × lame É1 (croisée d'origine de l'épée, Pyrénées)
+    croisée 42.8867, -0.9553
+    commune la plus proche : Larrau (64) (13.4 km)
+    (a) plein Est 340,9 km → 42.8867, 3.2289 ; C les plus proches : Caves (11) 22.5 km ; Claira (66) 26.9 km ; Canet-en-Roussillon (66) 29.4 km
+    (b) anneau ±1 %, cap 45-135° : 9 communes en C ; notables : aucun
+        notables les plus proches de 340,9 km (tout cap) : Collioure (66) 332.0 km cap 96° ; Cognac (16) 316.2 km cap 9° ; Céret (66) 306.9 km cap 97°
+
+=== F. garde É1 × royaume É5 (contrôle)
+    croisée 42.6793, -4.5456
+    commune la plus proche : Hendaye (64) (238.7 km)
+    (a) plein Est 340,9 km → 42.6793, -0.3754 ; C les plus proches : Cauterets (65) 28.1 km ; Cette-Eygun (64) 32.5 km ; Chèze (65) 39.5 km
+    (b) anneau ±1 %, cap 45-135° : 4 communes en C ; notables : aucun
+        notables les plus proches de 340,9 km (tout cap) : Cognac (16) 474.3 km cap 44° ; Cahors (46) 520.9 km cap 66° ; Charroux (86) 550.0 km cap 44°
+
+=== G. garde É7 × chemin royal É4 prolongé (Tintagel–Silchester)
+    croisée 29.3512, 82.9254  → HORS ZONE DE JEU (pas de croisement réel) : ÉCARTÉ
+
+=== H. garde É7 × chemin royal É4 prolongé (Silchester–Westminster)
+    croisée 39.8777, 66.8704  → HORS ZONE DE JEU (pas de croisement réel) : ÉCARTÉ

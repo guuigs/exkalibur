@@ -1,0 +1,30 @@
+== 1-4. Anagramme
+  MACHAIRE MOOR  : EXACTE  (manque {}, reste {})
+  MACHRIE MOOR   : non  (manque {}, reste {'A': 1})
+  AM MACHAIRE    : non  (manque {'A': 1}, reste {'R': 1, 'O': 2})
+  Variante « lettres communes » ROMA seul + C + IEH : non
+  Variante « JEH » (Jehovah) : non
+
+== 2. 10e « père » au concile de Troyes (ordre de la liste Wikipédia FR « Concile de Troyes (1129) »)
+   1. légat Matthieu d'Albano
+   2. archev. Reims
+   3. archev. Sens
+   4. év. Chartres
+   5. év. Soissons
+   6. év. Troyes
+   7. év. Orléans
+   8. év. Auxerre
+   9. év. Meaux
+  10. év. Châlons-sur-Marne   ← 10e : terre = CHÂLONS → C
+  11. év. Laon
+  NB : ordre à confirmer sur le texte latin du prologue de la Règle (la liste Wikipédia peut différer).
+
+== 5-6. Géographie
+  Eilean Donan → Machrie Moor : 193.13 km, cap 176.2° (sud = 180°) ; île d'Arran au sud du château : oui
+
+== « Compte-les » (objets non vivants près du roi, FAQ07-053 ; sert plus tard, FAQ07-151) : candidats, Wikipedia
+    6  cercles de pierres visibles (MM1-5 + MM11)
+   23  MM5 « Fingal's Cauldron Seat » (siège du roi Fingal) : 8 + 15 blocs
+    8  MM5 cercle intérieur
+   15  MM5 cercle extérieur
+    4  MM4 : blocs de granite

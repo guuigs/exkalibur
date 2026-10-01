@@ -1,0 +1,25 @@
+D (É10) = 193.125 km ; D·π = 606.72 km
+  Saint-Palais       → château Bayard :  606.62 km  = D × 3.1411 (π = 3.1416 ; écart -0.016 %)  cap 64.99°
+  Saint-Palais       → tour d'Avalon  :  607.69 km  = D × 3.1466 (π = 3.1416 ; écart +0.160 %)  cap 64.97°
+  Stèle de Gibraltar → château Bayard :  608.18 km  = D × 3.1492 (π = 3.1416 ; écart +0.241 %)  cap 64.72°
+  Stèle de Gibraltar → tour d'Avalon  :  609.25 km  = D × 3.1547 (π = 3.1416 ; écart +0.418 %)  cap 64.69°
+
+== Hasard 1 : autres multiplicateurs « naturels » (depuis Saint-Palais vers château Bayard)
+  π    : D×k =   606.72 km  écart à SP→Bayard   +0.016 %
+  e    : D×k =   524.97 km  écart à SP→Bayard  -13.460 %
+  φ    : D×k =   312.48 km  écart à SP→Bayard  -48.488 %
+  √10  : D×k =   610.71 km  écart à SP→Bayard   +0.675 %
+  3    : D×k =   579.38 km  écart à SP→Bayard   -4.491 %
+  11   : D×k =  2124.38 km  écart à SP→Bayard +250.198 %
+  23   : D×k =  4441.88 km  écart à SP→Bayard +632.233 %
+  6    : D×k =  1158.75 km  écart à SP→Bayard  +91.017 %
+  4    : D×k =   772.50 km  écart à SP→Bayard  +27.345 %
+
+== Hasard 2 : communes françaises dans l'anneau D·π ± 0,5 km autour de Saint-Palais
+  68 communes sur 34969 (0.19 %) : la distance seule NE désigne PAS Bayard, il faut l'angle.
+  Dans l'anneau, secteur 60–70° : ['Clavans-en-Haut-Oisans', 'Pontcharra', 'Bassens', 'Chanaz', 'La Chapelle-du-Mont-du-Chat', 'Porte-de-Savoie', 'Viviers-du-Lac']
+
+== Angle requis (le « dernier chevalier ») — NON résolu
+  cap Saint-Palais → château Bayard = 64.994° (azimut géographique)
+  relatif à l'axe de la lame É1 (352,90°) : 72.092° ; 23·π = 72.257° (proposition Discord, arrive à ~1,7 km)
+  rose des vents à 8 branches (I..VIII) : 65° ≈ entre I (N) et III (E)… aucune lecture exacte trouvée

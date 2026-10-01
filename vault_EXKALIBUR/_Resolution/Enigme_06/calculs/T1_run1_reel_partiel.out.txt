@@ -1,0 +1,16 @@
+{'curated': 107, 'communes': 3443, 'geo_big': 1241, 'geo_all': 18276, 'latin': 51} 2s
+C:\Users\Admin\Guilhem workspace\EXKALIBUR\_Resolution\Enigme_06\calculs\T1_lib.py:115: RuntimeWarning: overflow encountered in scalar add
+  for ch in w: h = h + HL[ord(ch) - 65]
+{'curated': 96, 'communes': 3197, 'geo_big': 1145, 'geo_all': 16999, 'latin': 49}
+parcours 8512 tier1 320
+REEL comptes (combos hit) : {'curated': 17, 'communes': 2245, 'geo_big': 806, 'geo_all': 5840, 'latin': 89} 31s
+hits distincts (set, noms) : 686
+curated ('Clisson',) 4 [('lat_coelis', 0, 'B', 'ligne_l1_i1_b1'), ('lat_coelis', 0, 'B', 'ligne_l0_i0_b1_REV'), ('es', 5, 'R', 'rayon_ccw_ie_s4')]
+curated ('Créteil',) 4 [('lat_sanct', 14, 'B', 'rayon_cw_ie_s2'), ('lat_sanct', 14, 'B', 'rayon_ccw_ei_s1_REV'), ('lat_long', 14, 'B', 'rayon_cw_ie_s2')]
+curated ('Coutances',) 5 [('lat_long', 72, 'B+S+T', 'anneau_int-ext_ccw_s2'), ('lat_long', 72, 'B+S+T', 'anneau_int-ext_alt_ccw_s2'), ('lat_long', 72, 'B+S+T', 'spirale_d-1_s2_r1')]
+curated ('Chartres',) 3 [('en_which', 1, 'B+S', 'anneau_ext-int_alt_cw_s7'), ('en_hallowed', 1, 'B+S', 'anneau_ext-int_alt_cw_s7'), ('en_hallowed', 2, 'B+S', 'anneau_int-ext_alt_ccw_s7_REV')]
+curated ('Caesarea',) 1 [('en_hallowed', 6, 'R+S', 'anneau_ext-int_alt_ccw_s7')]
+latin ('Cistercium',) 8 [('lat_sanct', 16, 'E', 'anneau_ext-int_cw_s5'), ('lat_sanct', 16, 'E', 'spirale_d1_s5_r0'), ('lat_sanct', 16, 'E', 'anneau_int-ext_ccw_s4_REV')]
+latin ('Cantium',) 62 [('lat_sanct', 20, 'B', 'anneau_int-ext_cw_s5'), ('lat_sanct', 20, 'B', 'spirale_d1_s5_r1'), ('lat_sanct', 20, 'B', 'anneau_ext-int_ccw_s4_REV')]
+latin ('Cassinum',) 18 [('lat_long', 60, 'B+S', 'anneau_ext-int_cw_s5'), ('lat_long', 60, 'B+S', 'spirale_d1_s5_r0'), ('lat_long', 60, 'B+S', 'anneau_int-ext_ccw_s4_REV')]
+latin ('Caesarea',) 1 [('en_hallowed', 6, 'R+S', 'anneau_ext-int_alt_ccw_s7')]

@@ -1,0 +1,80 @@
+## latlon4326 5281
+.1.0/wfs.xsd">
+      <gml:boundedBy>
+      	<gml:Envelope srsName="EPSG:4326">
+      		<gml:lowerCorner>45.407617 6.044071</gml:lowerCorner>
+      		<gml:upperCorner>45.413884 6.050721</gml:upperCorner>
+      	</gml:Envelope>
+      </gml:boundedBy>
+    <gml:featureMember>
+      <ms:PARC_PUBL_FR>
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>45.408862 6.047435</gml:lowerCorner>
+        		<gml:upperCorner>45.411882 6.050041</gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">45.411517 6.048918 45.411882 6.048934 45.411601 6.049328 45.411406 6.049484 45.411211 6.049606 45.410993 6.049693 45.410866 6.049760 45.410648 6.049865 45.410387 6.050000 45.410131 6.050041 45.409884 6.049731 45.409407 6.049283 45.409078 6.049168 45.408925 6.049114 45.408864 6.049091 45.408862 6.049064 45.408888 6.048796 45.408944 6.048553 45.409005 6.048304 45.409051 6.048011 45.409092 6.047693 45.409192 6.047690 45.409403 6.047629 45.409555 6.047554 45.409742 6.047490 45.409915 6.047435 45.410082 6.047437 45.410216 6.047523 45.410301 6.047655 45.410404 6.047831 45.410521 6.048042 45.410669 6.048238 45.410774 6.048330 45.410925 6.048424 45.411072 6.048493 45.411243 6.048531 45.411474 6.048601 45.411517 6.048918 </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:iidtn_frt>F19836X</ms:iidtn_frt>
+        <ms:llib_frt>Forêt communale de Saint-Maximin</ms:llib_frt>
+        <ms:ccod_prf>K</ms:ccod_prf>
+      </ms:PARC_PUBL_FR>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:PARC_PUBL_FR>
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>45.407617 6.044071</gml:lowerCorner>
+        		<gml:upperCorner>45.409814 6.047693</gml:upperCo
+## urn4326 5281
+.1.0/wfs.xsd">
+      <gml:boundedBy>
+      	<gml:Envelope srsName="EPSG:4326">
+      		<gml:lowerCorner>45.407617 6.044071</gml:lowerCorner>
+      		<gml:upperCorner>45.413884 6.050721</gml:upperCorner>
+      	</gml:Envelope>
+      </gml:boundedBy>
+    <gml:featureMember>
+      <ms:PARC_PUBL_FR>
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>45.408862 6.047435</gml:lowerCorner>
+        		<gml:upperCorner>45.411882 6.050041</gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">45.411517 6.048918 45.411882 6.048934 45.411601 6.049328 45.411406 6.049484 45.411211 6.049606 45.410993 6.049693 45.410866 6.049760 45.410648 6.049865 45.410387 6.050000 45.410131 6.050041 45.409884 6.049731 45.409407 6.049283 45.409078 6.049168 45.408925 6.049114 45.408864 6.049091 45.408862 6.049064 45.408888 6.048796 45.408944 6.048553 45.409005 6.048304 45.409051 6.048011 45.409092 6.047693 45.409192 6.047690 45.409403 6.047629 45.409555 6.047554 45.409742 6.047490 45.409915 6.047435 45.410082 6.047437 45.410216 6.047523 45.410301 6.047655 45.410404 6.047831 45.410521 6.048042 45.410669 6.048238 45.410774 6.048330 45.410925 6.048424 45.411072 6.048493 45.411243 6.048531 45.411474 6.048601 45.411517 6.048918 </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:iidtn_frt>F19836X</ms:iidtn_frt>
+        <ms:llib_frt>Forêt communale de Saint-Maximin</ms:llib_frt>
+        <ms:ccod_prf>K</ms:ccod_prf>
+      </ms:PARC_PUBL_FR>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:PARC_PUBL_FR>
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>45.407617 6.044071</gml:lowerCorner>
+        		<gml:upperCorner>45.409814 6.047693</gml:upperCo
+## lonlat_nocrs 715
+xml;%20subtype=gml/3.1.1  http://www.opengis.net/wfs http://schemas.opengis.net/wfs/1.1.0/wfs.xsd">
+   <gml:boundedBy>
+      <gml:Null>missing</gml:Null>
+   </gml:boundedBy>
+</wfs:FeatureCollection>
+
+

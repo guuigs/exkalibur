@@ -1,0 +1,381 @@
+{
+ "Cognac": {
+  "lat": 45.7,
+  "lon": -0.33,
+  "wiki": "Cognac, France"
+ },
+ "Chablis": {
+  "lat": 47.8156,
+  "lon": 3.7975,
+  "wiki": "Chablis"
+ },
+ "Cahors": {
+  "lat": 44.4483,
+  "lon": 1.4414,
+  "wiki": "Cahors"
+ },
+ "Cassis": {
+  "lat": 43.2167,
+  "lon": 5.5389,
+  "wiki": "Cassis"
+ },
+ "Chinon": {
+  "lat": 47.1678,
+  "lon": 0.2436,
+  "wiki": "Chinon"
+ },
+ "Chateauneuf-du-Pape": {
+  "lat": 44.0569,
+  "lon": 4.8319,
+  "wiki": "Châteauneuf-du-Pape"
+ },
+ "Condrieu": {
+  "lat": 45.4639,
+  "lon": 4.7683,
+  "wiki": "Condrieu"
+ },
+ "Cornas": {
+  "lat": 44.9611,
+  "lon": 4.85,
+  "wiki": "Cornas"
+ },
+ "Cadillac": {
+  "lat": 44.6372,
+  "lon": -0.3175,
+  "wiki": "Cadillac-sur-Garonne"
+ },
+ "Cambremer": {
+  "lat": 49.1528,
+  "lon": 0.0483,
+  "wiki": "Cambremer"
+ },
+ "Chambery": {
+  "lat": 45.57,
+  "lon": 5.9118,
+  "wiki": "Chambéry"
+ },
+ "Chartreuse": {
+  "lat": 45.36333333,
+  "lon": 5.79361111,
+  "wiki": "Grande Chartreuse"
+ },
+ "Voiron-Chartreuse": {
+  "lat": 45.3642,
+  "lon": 5.5906,
+  "wiki": "Voiron"
+ },
+ "Cointreau-Angers": {
+  "lat": 47.473612,
+  "lon": -0.554167,
+  "wiki": "Angers"
+ },
+ "Chalon": {
+  "lat": 46.7806,
+  "lon": 4.8528,
+  "wiki": "Chalon-sur-Saône"
+ },
+ "Chambolle": {
+  "lat": 47.1864,
+  "lon": 4.9533,
+  "wiki": "Chambolle-Musigny"
+ },
+ "Chassagne": {
+  "lat": 46.9378,
+  "lon": 4.7292,
+  "wiki": "Chassagne-Montrachet"
+ },
+ "Cheverny": {
+  "lat": 47.5103,
+  "lon": 1.4569,
+  "wiki": "Cour-Cheverny"
+ },
+ "Cerons": {
+  "lat": 44.6322,
+  "lon": -0.3353,
+  "wiki": "Cérons"
+ },
+ "Collioure": {
+  "lat": 42.5267,
+  "lon": 3.0814,
+  "wiki": "Collioure"
+ },
+ "Corbieres": null,
+ "Champagne-Chalons": {
+  "lat": 48.9575,
+  "lon": 4.365,
+  "wiki": "Châlons-en-Champagne"
+ },
+ "Cramant": {
+  "lat": 48.9886,
+  "lon": 3.9911,
+  "wiki": "Cramant"
+ },
+ "Chigny": {
+  "lat": 49.156,
+  "lon": 4.0636,
+  "wiki": "Chigny-les-Roses"
+ },
+ "Chouilly": {
+  "lat": 49.0261,
+  "lon": 4.0144,
+  "wiki": "Chouilly"
+ },
+ "Chavot": {
+  "lat": 49.0044,
+  "lon": 3.9306,
+  "wiki": "Chavot-Courcourt"
+ },
+ "Chaumont-Champagne": {
+  "lat": 48.1117,
+  "lon": 5.1389,
+  "wiki": "Chaumont, Haute-Marne"
+ },
+ "Calvados": {
+  "lat": 49.03333333,
+  "lon": 0.25,
+  "wiki": "Calvados (department)"
+ },
+ "Caen": {
+  "lat": 49.18138889,
+  "lon": -0.36361111,
+  "wiki": "Caen"
+ },
+ "Cerisy": {
+  "lat": 49.1958,
+  "lon": -0.9356,
+  "wiki": "Cerisy-la-Forêt"
+ },
+ "Contrexeville": {
+  "lat": 48.185,
+  "lon": 5.896,
+  "wiki": "Contrexéville"
+ },
+ "Cauterets": {
+  "lat": 42.89,
+  "lon": -0.11,
+  "wiki": "Cauterets"
+ },
+ "Chatel-Guyon": {
+  "lat": 45.9233,
+  "lon": 3.065,
+  "wiki": "Châtel-Guyon"
+ },
+ "Chateldon": {
+  "lat": 45.9775,
+  "lon": 3.5211,
+  "wiki": "Châteldon"
+ },
+ "Cransac": {
+  "lat": 44.5258,
+  "lon": 2.2853,
+  "wiki": "Cransac-les-Thermes"
+ },
+ "Capvern": {
+  "lat": 43.1,
+  "lon": 0.32,
+  "wiki": "Capvern"
+ },
+ "Cambo": {
+  "lat": 43.3589,
+  "lon": -1.4003,
+  "wiki": "Cambo-les-Bains"
+ },
+ "Chaudes-Aigues": {
+  "lat": 44.8553,
+  "lon": 3.0047,
+  "wiki": "Chaudes-Aigues"
+ },
+ "Cusset": {
+  "lat": 46.1353,
+  "lon": 3.4572,
+  "wiki": "Cusset"
+ },
+ "Camarès": {
+  "lat": 43.8233,
+  "lon": 2.8803,
+  "wiki": "Camarès"
+ },
+ "Cluny": {
+  "lat": 46.4353,
+  "lon": 4.66,
+  "wiki": "Cluny"
+ },
+ "Citeaux": {
+  "lat": 47.12805556,
+  "lon": 5.09333333,
+  "wiki": "Cîteaux Abbey"
+ },
+ "Clairvaux": {
+  "lat": 48.14722222,
+  "lon": 4.78888889,
+  "wiki": "Clairvaux Abbey"
+ },
+ "Clos-de-Vougeot": null,
+ "Cadouin": {
+  "lat": 44.81,
+  "lon": 0.874,
+  "wiki": "Cadouin Abbey"
+ },
+ "Chaource": {
+  "lat": 48.0594,
+  "lon": 4.1389,
+  "wiki": "Chaource"
+ },
+ "Campbeltown": {
+  "lat": 55.423,
+  "lon": -5.608,
+  "wiki": "Campbeltown"
+ },
+ "Cardhu": {
+  "lat": 57.47047222,
+  "lon": -3.35005556,
+  "wiki": "Cardhu distillery"
+ },
+ "Cragganmore": {
+  "lat": 57.41027778,
+  "lon": -3.395,
+  "wiki": "Cragganmore distillery"
+ },
+ "Clynelish": {
+  "lat": 58.02458333,
+  "lon": -3.86819444,
+  "wiki": "Clynelish distillery"
+ },
+ "Caol Ila": {
+  "lat": 55.85448,
+  "lon": -6.109343,
+  "wiki": "Caol Ila distillery"
+ },
+ "Cambus": null,
+ "Cork": {
+  "lat": 51.89722222,
+  "lon": -8.47,
+  "wiki": "Cork (city)"
+ },
+ "Carlow": {
+  "lat": 52.8306,
+  "lon": -6.9317,
+  "wiki": "Carlow"
+ },
+ "Clonmel": {
+  "lat": 52.3539,
+  "lon": -7.7116,
+  "wiki": "Clonmel"
+ },
+ "Cashel": {
+  "lat": 52.516717,
+  "lon": -7.889428,
+  "wiki": "Cashel, County Tipperary"
+ },
+ "Coleraine": {
+  "lat": 55.13194444,
+  "lon": -6.66694444,
+  "wiki": "Coleraine"
+ },
+ "Cooley": null,
+ "Caerphilly": {
+  "lat": 51.578,
+  "lon": -3.218,
+  "wiki": "Caerphilly"
+ },
+ "Cambridge": {
+  "lat": 52.205,
+  "lon": 0.1225,
+  "wiki": "Cambridge"
+ },
+ "Carinena": null,
+ "Calatayud": {
+  "lat": 41.35,
+  "lon": -1.63333333,
+  "wiki": "Calatayud"
+ },
+ "Cigales": null,
+ "Chinchon": {
+  "lat": 40.13944444,
+  "lon": -3.42638889,
+  "wiki": "Chinchón"
+ },
+ "Cazalla": {
+  "lat": 37.93333333,
+  "lon": -5.76666667,
+  "wiki": "Cazalla de la Sierra"
+ },
+ "Cangas-Narcea": null,
+ "Cebreiro": {
+  "lat": 42.72638889,
+  "lon": -7.02222222,
+  "wiki": "Pedrafita do Cebreiro"
+ },
+ "Cadiz": {
+  "lat": 36.535,
+  "lon": -6.2975,
+  "wiki": "Cádiz"
+ },
+ "Campo-de-Borja": null,
+ "Cebreros": {
+  "lat": 40.455,
+  "lon": -4.46472222,
+  "wiki": "Cebreros"
+ },
+ "Castellon-Peñiscola": {
+  "lat": 40.35916667,
+  "lon": 0.4075,
+  "wiki": "Peniscola"
+ },
+ "Cuenca": {
+  "lat": 40.06666667,
+  "lon": -2.15,
+  "wiki": "Cuenca, Spain"
+ },
+ "Cudillero": {
+  "lat": 43.56,
+  "lon": -6.15,
+  "wiki": "Cudillero"
+ },
+ "Colares": null,
+ "Carcavelos": {
+  "lat": 38.6833,
+  "lon": -9.3333,
+  "wiki": "Carcavelos"
+ },
+ "Cartaxo": {
+  "lat": 39.15,
+  "lon": -8.78333333,
+  "wiki": "Cartaxo"
+ },
+ "Chaves": {
+  "lat": 41.74055556,
+  "lon": -7.47138889,
+  "wiki": "Chaves, Portugal"
+ },
+ "Coimbra": {
+  "lat": 40.20277778,
+  "lon": -8.41388889,
+  "wiki": "Coimbra"
+ },
+ "Canillo": {
+  "lat": 42.56666667,
+  "lon": 1.6,
+  "wiki": "Canillo"
+ },
+ "Carnac": {
+  "lat": 47.5847,
+  "lon": -3.0794,
+  "wiki": "Carnac"
+ },
+ "Compostelle": {
+  "lat": 42.87777778,
+  "lon": -8.54444444,
+  "wiki": "Santiago de Compostela"
+ },
+ "Champagne-Epernay": {
+  "lat": 49.0403,
+  "lon": 3.96,
+  "wiki": "Épernay"
+ },
+ "Reims": {
+  "lat": 49.2628,
+  "lon": 4.0347,
+  "wiki": "Reims"
+ }
+}

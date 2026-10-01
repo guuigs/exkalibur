@@ -1,0 +1,54 @@
+DLATm=2.012 DLONm=1.998 (m/cellule)
+Points de cours d'eau dans le MNT : 2843
+
+>>> D1_sommet_tour : départ (45.42908, 6.03081) z_terrain=399.6 + œil 27.0 = 426.6 m
+
+===== D1_sommet_tour (i0=984 j0=1001 z0=426.6 m, œil=426.6 m) =====
+  cellules visibles (terrain) : 2178652 / 4000000 (54.5 %)
+  points de cours d'eau visibles : 673 / 2843
+  cours d'eau visibles (n pts) : {'(sans nom)': 374, 'Ruisseau de Rebouchet': 132, 'le Bréda': 131, 'Ruisseau de la Perrière': 18, 'Ruisseau de Tapon': 8, 'Ruisseau du Papet': 7, 'le Coisetan': 3}
+  --- test 'miroitement' (regard vers le soleil, cône ±25°) ---
+    az=54.30 : miroitement= 47  face-on= 18  les2= 15 | miroir top: {'(sans nom)': 37, 'Ruisseau de Tapon': 8, 'le Bréda': 2}
+    az=63.75 : miroitement= 54  face-on= 17  les2= 15 | miroir top: {'(sans nom)': 44, 'Ruisseau de Tapon': 8, 'le Bréda': 2}
+    az=68.07 : miroitement= 56  face-on= 18  les2= 15 | miroir top: {'(sans nom)': 46, 'Ruisseau de Tapon': 8, 'le Bréda': 2}
+    az=75.00 : miroitement= 60  face-on= 13  les2= 11 | miroir top: {'(sans nom)': 50, 'Ruisseau de Tapon': 8, 'le Bréda': 2}
+    az=80.00 : miroitement= 63  face-on= 14  les2= 11 | miroir top: {'(sans nom)': 55, 'Ruisseau de Tapon': 8}
+    az=90.00 : miroitement= 62  face-on= 16  les2= 11 | miroir top: {'(sans nom)': 54, 'Ruisseau de Tapon': 8}
+
+>>> D2_pied_tour : départ (45.42908, 6.03081) z_terrain=399.6 + œil 2.0 = 401.6 m
+
+===== D2_pied_tour (i0=984 j0=1001 z0=401.6 m, œil=401.6 m) =====
+  cellules visibles (terrain) : 1708232 / 4000000 (42.7 %)
+  points de cours d'eau visibles : 504 / 2843
+  cours d'eau visibles (n pts) : {'(sans nom)': 282, 'le Bréda': 115, 'Ruisseau de Rebouchet': 79, 'Ruisseau de la Perrière': 11, 'Ruisseau de Tapon': 7, 'Ruisseau du Papet': 7, 'le Coisetan': 3}
+  --- test 'miroitement' (regard vers le soleil, cône ±25°) ---
+    az=54.30 : miroitement= 14  face-on=  6  les2=  4 | miroir top: {'(sans nom)': 7, 'Ruisseau de Tapon': 7}
+    az=63.75 : miroitement= 20  face-on=  6  les2=  4 | miroir top: {'(sans nom)': 13, 'Ruisseau de Tapon': 7}
+    az=68.07 : miroitement= 24  face-on=  6  les2=  4 | miroir top: {'(sans nom)': 17, 'Ruisseau de Tapon': 7}
+    az=75.00 : miroitement= 32  face-on=  5  les2=  4 | miroir top: {'(sans nom)': 25, 'Ruisseau de Tapon': 7}
+    az=80.00 : miroitement= 39  face-on=  6  les2=  4 | miroir top: {'(sans nom)': 32, 'Ruisseau de Tapon': 7}
+    az=90.00 : miroitement= 43  face-on=  8  les2=  4 | miroir top: {'(sans nom)': 36, 'Ruisseau de Tapon': 7}
+
+>>> D3_Bayard : départ (45.42420, 6.01790) z_terrain=308.0 + œil 2.0 = 310.0 m
+
+===== D3_Bayard (i0=1254 j0=497 z0=310.0 m, œil=310.0 m) =====
+  cellules visibles (terrain) : 884544 / 4000000 (22.1 %)
+  points de cours d'eau visibles : 221 / 2843
+  cours d'eau visibles (n pts) : {'(sans nom)': 185, 'Ruisseau de Rebouchet': 13, 'Ruisseau de la Perrière': 12, 'Ruisseau du Papet': 10, 'le Bréda': 1}
+  --- test 'miroitement' (regard vers le soleil, cône ±25°) ---
+    az=54.30 : miroitement=  0  face-on=  0  les2=  0 | miroir top: {}
+    az=63.75 : miroitement=  0  face-on=  0  les2=  0 | miroir top: {}
+    az=68.07 : miroitement=  4  face-on=  2  les2=  0 | miroir top: {'(sans nom)': 2, 'Ruisseau de Rebouchet': 2}
+    az=75.00 : miroitement= 25  face-on=  2  les2=  0 | miroir top: {'(sans nom)': 23, 'Ruisseau de Rebouchet': 2}
+    az=80.00 : miroitement= 31  face-on=  4  les2=  0 | miroir top: {'(sans nom)': 29, 'Ruisseau de Rebouchet': 2}
+    az=90.00 : miroitement= 36  face-on=  6  les2=  0 | miroir top: {'(sans nom)': 33, 'Ruisseau de Rebouchet': 3}
+
+[SAVE] T12C_01_viewsheds.json
+
+===== Sensibilité hauteur d'œil (D1, az=64°) =====
+  œil= 0.0 m : visible=1614675 cellules | cours_eau visibles= 485 | miroitement(az64)= 17
+  œil= 2.0 m : visible=1708232 cellules | cours_eau visibles= 504 | miroitement(az64)= 20
+  œil=10.0 m : visible=1934929 cellules | cours_eau visibles= 587 | miroitement(az64)= 40
+  œil=20.0 m : visible=2087603 cellules | cours_eau visibles= 636 | miroitement(az64)= 46
+  œil=27.0 m : visible=2178652 cellules | cours_eau visibles= 673 | miroitement(az64)= 54
+  œil=40.0 m : visible=2329557 cellules | cours_eau visibles= 755 | miroitement(az64)= 65

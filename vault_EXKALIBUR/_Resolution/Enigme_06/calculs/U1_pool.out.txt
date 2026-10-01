@@ -1,0 +1,83 @@
+Cognac                 S FR  45.7000,-0.3300 <Cognac, France>
+Chablis                W FR  47.8156,3.7975 <Chablis>
+Cahors                 W FR  44.4483,1.4414 <Cahors>
+Cassis                 W FR  43.2167,5.5389 <Cassis>
+Chinon                 W FR  47.1678,0.2436 <Chinon>
+Chateauneuf-du-Pape    W FR  44.0569,4.8319 <Châteauneuf-du-Pape>
+Condrieu               W FR  45.4639,4.7683 <Condrieu>
+Cornas                 W FR  44.9611,4.8500 <Cornas>
+Cadillac               W FR  44.6372,-0.3175 <Cadillac-sur-Garonne>
+Cambremer              B FR  49.1528,0.0483 <Cambremer>
+Chambery               S FR  45.5700,5.9118 <Chambéry>
+Chartreuse             S FR  45.3633,5.7936 <Grande Chartreuse>
+Voiron-Chartreuse      S FR  45.3642,5.5906 <Voiron>
+Cointreau-Angers       S FR  47.4736,-0.5542 <Angers>
+Chalon                 W FR  46.7806,4.8528 <Chalon-sur-Saône>
+Chambolle              W FR  47.1864,4.9533 <Chambolle-Musigny>
+Chassagne              W FR  46.9378,4.7292 <Chassagne-Montrachet>
+Cheverny               W FR  47.5103,1.4569 <Cour-Cheverny>
+Cerons                 W FR  44.6322,-0.3353 <Cérons>
+Collioure              W FR  42.5267,3.0814 <Collioure>
+Corbieres              W FR  AUCUNE COORD
+Champagne-Chalons      W FR  48.9575,4.3650 <Châlons-en-Champagne>
+Cramant                W FR  48.9886,3.9911 <Cramant>
+Chigny                 W FR  49.1560,4.0636 <Chigny-les-Roses>
+Chouilly               W FR  49.0261,4.0144 <Chouilly>
+Chavot                 W FR  49.0044,3.9306 <Chavot-Courcourt>
+Chaumont-Champagne     W FR  48.1117,5.1389 <Chaumont, Haute-Marne>
+Calvados               S FR  49.0333,0.2500 <Calvados (department)>
+Caen                   S FR  49.1814,-0.3636 <Caen>
+Cerisy                 B FR  49.1958,-0.9356 <Cerisy-la-Forêt>
+Contrexeville          E FR  48.1850,5.8960 <Contrexéville>
+Cauterets              E FR  42.8900,-0.1100 <Cauterets>
+Chatel-Guyon           E FR  45.9233,3.0650 <Châtel-Guyon>
+Chateldon              E FR  45.9775,3.5211 <Châteldon>
+Cransac                E FR  44.5258,2.2853 <Cransac-les-Thermes>
+Capvern                E FR  43.1000,0.3200 <Capvern>
+Cambo                  E FR  43.3589,-1.4003 <Cambo-les-Bains>
+Chaudes-Aigues         E FR  44.8553,3.0047 <Chaudes-Aigues>
+Cusset                 E FR  46.1353,3.4572 <Cusset>
+Camarès                E FR  43.8233,2.8803 <Camarès>
+Cluny                  M FR  46.4353,4.6600 <Cluny>
+Citeaux                M FR  47.1281,5.0933 <Cîteaux Abbey>
+Clairvaux              M FR  48.1472,4.7889 <Clairvaux Abbey>
+Clos-de-Vougeot        M FR  AUCUNE COORD
+Cadouin                G FR  44.8100,0.8740 <Cadouin Abbey>
+Chaource               B FR  48.0594,4.1389 <Chaource>
+Campbeltown            S UK  55.4230,-5.6080 <Campbeltown>
+Cardhu                 S UK  57.4705,-3.3501 <Cardhu distillery>
+Cragganmore            S UK  57.4103,-3.3950 <Cragganmore distillery>
+Clynelish              S UK  58.0246,-3.8682 <Clynelish distillery>
+Caol Ila               S UK  55.8545,-6.1093 <Caol Ila distillery>
+Cambus                 S UK  AUCUNE COORD
+Cork                   B IE  51.8972,-8.4700 <Cork (city)>
+Carlow                 B IE  52.8306,-6.9317 <Carlow>
+Clonmel                B IE  52.3539,-7.7116 <Clonmel>
+Cashel                 G IE  52.5167,-7.8894 <Cashel, County Tipperary>
+Coleraine              S UK  55.1319,-6.6669 <Coleraine>
+Cooley                 S IE  AUCUNE COORD
+Caerphilly             B UK  51.5780,-3.2180 <Caerphilly>
+Cambridge              B UK  52.2050,0.1225 <Cambridge>
+Carinena               W ES  AUCUNE COORD
+Calatayud              W ES  41.3500,-1.6333 <Calatayud>
+Cigales                W ES  AUCUNE COORD
+Chinchon               S ES  40.1394,-3.4264 <Chinchón>
+Cazalla                S ES  37.9333,-5.7667 <Cazalla de la Sierra>
+Cangas-Narcea          W ES  AUCUNE COORD
+Cebreiro               G ES  42.7264,-7.0222 <Pedrafita do Cebreiro>
+Cadiz                  W ES  36.5350,-6.2975 <Cádiz>
+Campo-de-Borja         W ES  AUCUNE COORD
+Cebreros               W ES  40.4550,-4.4647 <Cebreros>
+Castellon-Peñiscola    W ES  40.3592,0.4075 <Peniscola>
+Cuenca                 W ES  40.0667,-2.1500 <Cuenca, Spain>
+Cudillero              B ES  43.5600,-6.1500 <Cudillero>
+Colares                W PT  AUCUNE COORD
+Carcavelos             W PT  38.6833,-9.3333 <Carcavelos>
+Cartaxo                W PT  39.1500,-8.7833 <Cartaxo>
+Chaves                 E PT  41.7406,-7.4714 <Chaves, Portugal>
+Coimbra                W PT  40.2028,-8.4139 <Coimbra>
+Canillo                E AD  42.5667,1.6000 <Canillo>
+Carnac                 - FR  47.5847,-3.0794 <Carnac>
+Compostelle            G ES  42.8778,-8.5444 <Santiago de Compostela>
+Champagne-Epernay      W FR  49.0403,3.9600 <Épernay>
+Reims                  W FR  49.2628,4.0347 <Reims>

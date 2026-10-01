@@ -1,0 +1,15 @@
+Cibles D (km): {'Sainte-Chapelle': 341.61, 'Notre-Dame': 342.01, 'Sainte-Chapelle de Vincennes': 346.21, 'Saint-Denis': 334.43, 'Chartres': 360.33}
+
+===== Pool A (curée) : 105 lieux (paires-chaînes non ordonnées ≈ 60,775,312)
+D= 341.61 (Sainte-Chapelle             ) ±1 % ->   13044 chaînes  (0.2s)
+D= 342.01 (Notre-Dame                  ) ±1 % ->   13181 chaînes  (0.2s)
+D= 346.21 (Sainte-Chapelle de Vincennes) ±1 % ->   13882 chaînes  (0.2s)
+D= 334.43 (Saint-Denis                 ) ±1 % ->   11814 chaînes  (0.2s)
+D= 360.33 (Chartres                    ) ±1 % ->   17159 chaînes  (0.2s)
+
+===== Pool B (geonames C, 9 pays) : 379 lieux (paires-chaînes non ordonnées ≈ 10,316,368,440)
+D= 341.61 (Sainte-Chapelle             ) ±1 % ->  325998 chaînes  (11.3s)
+D= 342.01 (Notre-Dame                  ) ±1 % ->  327638 chaînes  (11.3s)
+D= 346.21 (Sainte-Chapelle de Vincennes) ±1 % ->  348786 chaînes  (11.6s)
+D= 334.43 (Saint-Denis                 ) ±1 % ->  298565 chaînes  (10.9s)
+D= 360.33 (Chartres                    ) ±1 % ->  438215 chaînes  (12.4s)

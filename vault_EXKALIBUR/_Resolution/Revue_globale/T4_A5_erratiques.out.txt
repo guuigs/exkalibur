@@ -1,0 +1,36 @@
+Touvet 3 45.3585,5.9082 à 12.4 km de la tour
+Touvet 3 45.3491,5.9255 à 12.1 km de la tour
+Touvet 11 45.3669,5.9395 à 9.9 km de la tour
+
+## Wikipedia géosearch 8 km (articles géolocalisés)
+  6.06 km  Église Saint-Pierre de Saint-Pierre-d'Allevard
+  6.08 km  Saint-Pierre-d'Allevard
+  7.83 km  La Rochette (Savoie)
+  7.83 km  Valgelon-La Rochette
+  7.83 km  Château de la Rochette (Savoie)
+  8.16 km  Rocher de Montmélian
+  8.18 km  La Croix-de-la-Rochette
+  9.42 km  Saint-Pierre-de-Soucy
+  9.61 km  Roc de Tormery
+  9.85 km  Canton de La Rochette
+total articles géolocalisés: 95
+
+## Recherche texte Wikipedia
+Q: bloc erratique Grésivaudan Pontcharra
+    Funiculaire de Croix-Paquet | le Chemin de fer touristique du Bréda (devenu Grésivaudan Vapeur club en 2013) et entreposée à Pontcharra (Isè
+    Saint-Martin-d'Hères | détaillé : Couvent Notre-Dame de la Délivrande. La pierre du Bigot, un bloc erratique sculpté de cupules, Le c
+    Dolomieu (Isère) | se rapproche de celle du Bugey. Le secteur est également parsemé de blocs erratiques lié à la présence du glac
+    Néron (Isère) | à l&#039;ordre des Ermites déchaux de Saint-Augustin de Villard-Benoît, à Pontcharra. Ils rénovent entièrement
+Q: bloc erratique Saint-Maximin Isère
+Q: "pierre" "Saint-Maximin" Isère rocher ruisseau
+    Theys | Montbouvier et sur sa rive droite par le ruisseau de Pierre Herse, et le ruisseau de la Coche, grossi par le r
+    Pontcharra | cartographiques de la commune En Isère : Chapareillan, Barraux, La Buissière, Le Cheylas, Saint-Pierre-d&#039;
+    Chamrousse | termine par une cassure abrupte au niveau des rochers dénommés Cime des Fraches, Rocher de l&#039;Homme ou Roc
+    La Pierre | sillonné par trois ruisseaux : le ruisseau de La Pierre, le ruisseau du Nan et le ruisseau de Champalud qui so
+    Saint-Pancrasse | département de l&#039;Isère en région Auvergne-Rhône-Alpes. Depuis le 1er janvier 2019, elle est une commune d
+    Froges | par le ruisseau des Adrets. Pas loin de la ville, trois domaines skiables, deux en Chartreuse : les stations d
+Q: bloc erratique Allevard Pontcharra La Rochette glaciaire
+
+## OSM retry (natural=stone|boulder, 3 km autour de la tour)
+ERR https://overpass-api.de/api/interpreter HTTP Error 504: Gateway Timeout
+ERR https://overpass.private.coffee/api/interpreter The read operation timed out

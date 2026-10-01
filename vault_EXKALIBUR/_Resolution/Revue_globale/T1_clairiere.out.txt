@@ -1,0 +1,84 @@
+tour jonctions >=3 branches dans 2.5 km: 217
+  trouée: 2  eau<=150m: 101  trouée+eau: 2
+  altitude origine 401.28
+  compte par filtre (sur 217 jonctions): trouée 2, eau 101, public 21, vue 57, est 3
+  combinaisons:
+     ('trouee', 'eau') 2
+     ('trouee', 'pub') 0
+     ('trouee', 'vis') 2
+     ('trouee', 'est') 0
+     ('eau', 'pub') 13
+     ('eau', 'vis') 57
+     ('eau', 'est') 3
+     ('pub', 'vis') 4
+     ('pub', 'est') 0
+     ('vis', 'est') 1
+     ('trouee', 'eau', 'pub') 0
+     ('trouee', 'eau', 'vis') 2
+     ('trouee', 'eau', 'est') 0
+     ('trouee', 'pub', 'vis') 0
+     ('trouee', 'pub', 'est') 0
+     ('trouee', 'vis', 'est') 0
+     ('eau', 'pub', 'vis') 4
+     ('eau', 'pub', 'est') 0
+     ('eau', 'vis', 'est') 1
+     ('pub', 'vis', 'est') 0
+     ('trouee', 'eau', 'pub', 'vis') 0
+     ('trouee', 'eau', 'pub', 'est') 0
+     ('trouee', 'eau', 'vis', 'est') 0
+     ('trouee', 'pub', 'vis', 'est') 0
+     ('eau', 'pub', 'vis', 'est') 0
+     ('trouee', 'eau', 'pub', 'vis', 'est') 0
+  TOP 10 :
+   1 sc=3.78 45.44825,6.02694 d=2171m cap=352 ['Chemin', 'Route empierrée'] deg3 trouee=False eau=28m pub=True vue=True(degag 6 m) est=False(asp 144, pente 1%) ruisseau=06T0000000012567332/None flux vers 224 (ruisseau a 135 de la jonction) alt=255.02
+   2 sc=3.29 45.41707,6.05150 d=2074m cap=129 ['Chemin', 'Sentier'] deg3 trouee=False eau=31m pub=True vue=True(degag 4 m) est=False(asp 244, pente 52%) ruisseau=06T0000000007482228/None flux vers 271 (ruisseau a 178 de la jonction) alt=772.9
+   3 sc=3.26 45.41630,6.05584 d=2396m cap=125 ['Chemin', 'Sentier'] deg3 trouee=False eau=13m pub=True vue=True(degag 21 m) est=False(asp 281, pente 60%) ruisseau=06T0000000007482228/None flux vers 273 (ruisseau a 2 de la jonction) alt=945.92
+   4 sc=3.26 45.41622,6.05582 d=2400m cap=126 ['Chemin', 'Sentier'] deg3 trouee=False eau=22m pub=True vue=True(degag 21 m) est=False(asp 289, pente 58%) ruisseau=06T0000000007482228/None flux vers 273 (ruisseau a 4 de la jonction) alt=945.37
+   5 sc=2.85 45.41512,6.02803 d=1527m cap=188 ['Chemin'] deg3 trouee=True eau=83m pub=False vue=True(degag 7 m) est=False(asp 304, pente 29%) ruisseau=06T0000002007475645/Ruisseau de la Perrière flux vers 293 (ruisseau a 23 de la jonction) alt=422.6
+   6 sc=2.82 45.43103,6.05345 d=1788m cap=82 ['Chemin'] deg3 trouee=False eau=45m pub=False vue=True(degag 3 m) est=False(asp 305, pente 15%) ruisseau=06T0000000229389601/Ruisseau de Tapon flux vers 338 (ruisseau a 252 de la jonction) alt=505.73
+   7 sc=2.79 45.44758,6.02674 d=2100m cap=351 ['Chemin', 'Route empierrée'] deg3 trouee=False eau=7m pub=False vue=True(degag 6 m) est=False(asp 194, pente 1%) ruisseau=06T0000000012567332/None flux vers 217 (ruisseau a 308 de la jonction) alt=255.74
+   8 sc=2.79 45.44766,6.02656 d=2111m cap=351 ['Chemin', 'Route empierrée'] deg3 trouee=False eau=8m pub=False vue=True(degag 6 m) est=False(asp 316, pente 0%) ruisseau=06T0000000012567332/None flux vers 217 (ruisseau a 128 de la jonction) alt=255.36
+   9 sc=2.77 45.44922,6.02885 d=2262m cap=356 ['Chemin'] deg3 trouee=False eau=6m pub=False vue=True(degag 6 m) est=False(asp 166, pente 1%) ruisseau=06T0000000012567332/None flux vers 223 (ruisseau a 313 de la jonction) alt=255.58
+  10 sc=2.75 45.43902,6.00284 d=2458m cap=298 ['Sentier'] deg3 trouee=False eau=145m pub=False vue=True(degag 24 m) est=True(asp 94, pente 44%) ruisseau=06T0000002287791338/l'Isère flux vers 178 (ruisseau a 87 de la jonction) alt=279.41
+fort jonctions >=3 branches dans 1.5 km: 47
+  trouée: 1  eau<=150m: 21  trouée+eau: 1
+  altitude origine 337.46
+  compte par filtre (sur 47 jonctions): trouée 1, eau 21, public 0, vue 3, est 4
+  combinaisons:
+     ('trouee', 'eau') 1
+     ('trouee', 'pub') 0
+     ('trouee', 'vis') 0
+     ('trouee', 'est') 0
+     ('eau', 'pub') 0
+     ('eau', 'vis') 3
+     ('eau', 'est') 4
+     ('pub', 'vis') 0
+     ('pub', 'est') 0
+     ('vis', 'est') 2
+     ('trouee', 'eau', 'pub') 0
+     ('trouee', 'eau', 'vis') 0
+     ('trouee', 'eau', 'est') 0
+     ('trouee', 'pub', 'vis') 0
+     ('trouee', 'pub', 'est') 0
+     ('trouee', 'vis', 'est') 0
+     ('eau', 'pub', 'vis') 0
+     ('eau', 'pub', 'est') 0
+     ('eau', 'vis', 'est') 2
+     ('pub', 'vis', 'est') 0
+     ('trouee', 'eau', 'pub', 'vis') 0
+     ('trouee', 'eau', 'pub', 'est') 0
+     ('trouee', 'eau', 'vis', 'est') 0
+     ('trouee', 'pub', 'vis', 'est') 0
+     ('eau', 'pub', 'vis', 'est') 0
+     ('trouee', 'eau', 'pub', 'vis', 'est') 0
+  TOP 10 :
+   1 sc=2.86 45.43543,5.97445 d=1424m cap=251 ['Chemin'] deg3 trouee=False eau=129m pub=False vue=True(degag 4 m) est=True(asp 107, pente 30%) ruisseau=06T0000000007481653/None flux vers 103 (ruisseau a 194 de la jonction) alt=400.85
+   2 sc=2.86 45.43671,5.97364 d=1446m cap=257 ['Chemin', 'Sentier'] deg3 trouee=False eau=116m pub=False vue=True(degag 9 m) est=True(asp 98, pente 31%) ruisseau=06T0000000007481654/None flux vers 101 (ruisseau a 10 de la jonction) alt=432.97
+   3 sc=2.35 45.44991,5.97952 d=1485m cap=320 ['Chemin'] deg4 trouee=False eau=32m pub=False vue=True(degag 4 m) est=False(asp 184, pente 14%) ruisseau=06T0000000007481056/Ruisseau de la Fourchette flux vers 170 (ruisseau a 259 de la jonction) alt=427.87
+   4 sc=1.91 45.43902,6.00284 d=872m cap=94 ['Sentier'] deg3 trouee=False eau=145m pub=False vue=False(degag -32 m) est=True(asp 94, pente 44%) ruisseau=06T0000002287791338/l'Isère flux vers 178 (ruisseau a 87 de la jonction) alt=279.41
+   5 sc=1.89 45.44275,6.00571 d=1148m cap=72 ['Route empierrée'] deg3 trouee=True eau=65m pub=False vue=False(degag -53 m) est=False(asp 266, pente 4%) ruisseau=06T0000000007481042/l'Isère flux vers 194 (ruisseau a 284 de la jonction) alt=253.33
+   6 sc=1.88 45.44373,6.00581 d=1193m cap=67 ['Chemin', 'Route empierrée'] deg4 trouee=False eau=49m pub=False vue=False(degag -48 m) est=False(asp 286, pente 3%) ruisseau=06T0000000007481042/l'Isère flux vers 190 (ruisseau a 281 de la jonction) alt=252.87
+   7 sc=1.88 45.44363,6.00619 d=1216m cap=68 ['Route empierrée'] deg3 trouee=False eau=80m pub=False vue=False(degag -43 m) est=True(asp 65, pente 5%) ruisseau=06T0000000007481042/l'Isère flux vers 190 (ruisseau a 282 de la jonction) alt=252.76
+   8 sc=1.87 45.44483,6.00591 d=1251m cap=62 ['Route empierrée', 'Sentier'] deg3 trouee=False eau=57m pub=False vue=False(degag -40 m) est=False(asp 237, pente 1%) ruisseau=06T0000000007481042/l'Isère flux vers 173 (ruisseau a 263 de la jonction) alt=252.28
+   9 sc=1.39 45.43973,6.00528 d=1061m cap=89 ['Route empierrée'] deg3 trouee=False eau=50m pub=False vue=False(degag -45 m) est=False(asp 268, pente 4%) ruisseau=06T0000002287791338/l'Isère flux vers 174 (ruisseau a 264 de la jonction) alt=253.13
+  10 sc=1.39 45.44241,6.00569 d=1136m cap=74 ['Chemin', 'Route empierrée'] deg3 trouee=False eau=40m pub=False vue=False(degag -54 m) est=False(asp 261, pente 1%) ruisseau=06T0000000007481039/None flux vers 219 (ruisseau a 142 de la jonction) alt=253.06

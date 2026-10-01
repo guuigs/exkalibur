@@ -1,0 +1,31 @@
+=== T12C_00 : astronomie ===
+Position de référence : 45.429083 6.030808
+
+date                                                        decl | azimut lever | heure(solaire) | azimut a 5deg | azimut a 10deg
+30/04/1524 JULIEN (mort Bayard, calendrier historique)    17.459 |     63.75 deg |     4.67 h |     70.10 deg |     75.22 deg
+30/04/1524 GREGORIEN proleptique                          14.577 |     68.07 deg |     4.89 h |     74.26 deg |     79.33 deg
+20/03 equinoxe printemps (1524 grég.)                     -0.390 |     89.71 deg |     5.95 h |     95.66 deg |    100.88 deg
+23/09 equinoxe automne (1524 grég.)                        0.189 |     88.88 deg |     5.91 h |     94.82 deg |    100.03 deg
+21/06 solstice ete (1524 grég.)                           23.505 |     54.33 deg |     4.16 h |     61.21 deg |     66.54 deg
+21/12 solstice hiver (1524 grég.)                        -23.504 |    123.61 deg |     7.65 h |    131.24 deg |    139.12 deg
+30/04/2026 (référence moderne, grég.)                     14.710 |     67.87 deg |     4.88 h |     74.07 deg |     79.14 deg
+
+--- sensibilite date (declinaison -> azimut lever) ---
+jour (grég.) : azimut lever (deg)
+   80 (0) :  89.71
+   90 (0) :  84.11
+  100 (0) :  78.64
+  110 (0) :  73.41
+  120 (0) :  68.53
+  130 (0) :  64.15
+  140 (0) :  60.41
+
+=== Contrôle d'orientation du MNT ===
+  Tour d'Avalon          lat=45.42908 lon=6.03081 -> i= 984 j=1001  z=399.6 
+  chateau Bayard         lat=45.42420 lon=6.01790 -> i=1254 j= 497  z=308.0 
+  Breda (gorge)          lat=45.43323 lon=6.02982 -> i= 755 j= 962  z=270.4 
+  Fort Barraux           lat=45.43560 lon=5.98710 -> i= 624 j=-706  z=NA HORS MNT
+  Ruisseau Rebouchet     lat=45.42554 lon=6.03362 -> i=1180 j=1110  z=364.3 
+  Ruisseau Perriere      lat=45.42090 lon=6.02234 -> i=1436 j= 670  z=313.6 
+MNT min/max z : 246.4 / 1113.1
+Breda gorge : z doit etre ~270 m et i petit (nord) -> verifie l'orientation N->S

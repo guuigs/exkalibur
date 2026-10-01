@@ -1,0 +1,11 @@
+Overpass ERREUR : HTTP Error 403: Forbidden
+
+=== Toponymes 'roche/rocher/pierre' dans 4 km de la tour ===
+  roche morte                  (45.40410,6.01379) d=3079 m  nature=Lieu-dit habité
+  maison de roche morte        (45.40410,6.01379) d=3079 m  nature=Lieu-dit habité
+  lycée pierre de terrail      (45.43629,6.01676) d=1358 m  nature=Lycée
+
+=== Points orographiques 'Rochers' (detail_orographique) dans 4 km ===
+  les Gorges                   (45.44462,6.06323) d=3063 m  nature=Gorge
+
+=== Lieux-dits non habités 'roche/pierre' dans 4 km ===

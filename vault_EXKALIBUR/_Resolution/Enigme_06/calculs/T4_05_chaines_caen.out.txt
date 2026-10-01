@@ -1,0 +1,28 @@
+Cibles D (km): {'Sainte-Chapelle': 341.61, 'Notre-Dame': 342.01, 'Sainte-Chapelle de Vincennes': 346.21, 'Saint-Denis': 334.43, 'Chartres': 360.33}
+
+######## noyau restreint 19 lieux, D des candidats Caen : 19 lieux, 46,512 chaînes possibles
+D= 258.90 (Dames direct                ):     0 chaînes dans ±1 % (0.00 % du total) ; sans croiser la lame : 0
+D= 278.00 (Dames via Battle            ):     1 chaînes dans ±1 % (0.00 % du total) ; sans croiser la lame : 1
+D= 283.16 (Dames via Hastings          ):     0 chaînes dans ±1 % (0.00 % du total) ; sans croiser la lame : 0
+D= 259.54 (Hommes direct               ):     0 chaînes dans ±1 % (0.00 % du total) ; sans croiser la lame : 0
+D= 278.93 (Hommes via Battle           ):     1 chaînes dans ±1 % (0.00 % du total) ; sans croiser la lame : 1
+D= 284.15 (Hommes via Hastings         ):     0 chaînes dans ±1 % (0.00 % du total) ; sans croiser la lame : 0
+D= 252.19 (Bayeux direct               ):     0 chaînes dans ±1 % (0.00 % du total) ; sans croiser la lame : 0
+D= 277.75 (Bayeux via Battle           ):     1 chaînes dans ±1 % (0.00 % du total) ; sans croiser la lame : 1
+D= 284.12 (Bayeux via Hastings         ):     0 chaînes dans ±1 % (0.00 % du total) ; sans croiser la lame : 0
+D= 335.36 (MSM direct                  ):     2 chaînes dans ±1 % (0.00 % du total) ; sans croiser la lame : 2
+D= 367.83 (MSM via Battle              ):     2 chaînes dans ±1 % (0.00 % du total) ; sans croiser la lame : 2
+CONTRÔLE : 40 valeurs D aléatoires dans [200, 500] km -> nombre de chaînes ±1 % : min 0, médiane 2, max 11
+
+-- Dames via Battle 278.0
+   279.97 (+0.71%) Clermont - Conques - Cahors - Cadouin  | plus court: 279.97
+
+-- Hommes via Battle 278.93
+   279.97 (+0.37%) Clermont - Conques - Cahors - Cadouin  | plus court: 279.97
+
+-- Bayeux via Battle 277.75
+   279.97 (+0.80%) Clermont - Conques - Cahors - Cadouin  | plus court: 279.97
+
+-- Dames direct 258.9
+
+-- Bayeux direct 252.19

@@ -1,0 +1,55 @@
+== Axe Tour -> Battle (3 géocodages de Battle)
+Battle Abbey (Wikipedia)     (50.915, 0.4858)  d=76.69 km cap=149.099°
+Battle ville (Wikipedia)     (50.92, 0.48)  d=76.00 km cap=149.151°
+geo_e6.py                    (50.9143, 0.487)  d=76.80 km cap=149.075°
+
+== D candidats (a) point sur l'axe prolongé ; (b) polyligne Tour->Battle->X
+lieu                                 d(T,X)    T-B-X écart/axe abscisse  cap(T,X)
+Sainte-Chapelle                      341.61   341.61     -2.00    341.6  148.76   (Paris, île de la Cité, Passion; 48.8553,2.3450)
+Notre-Dame de Paris                  342.01   342.01     -2.20    342.0  148.73   (Paris, île de la Cité; 48.8531,2.3500)
+Sainte-Chapelle de Vincennes         346.19   346.21     -7.15    346.1  147.91   (Vincennes; 48.8423,2.4364)
+Saint-Denis Basilica                 334.40   334.43     -7.28    334.3  147.85   (nécropole royale; 48.9356,2.3597)
+Sainte-Baume                        1010.07  1010.19    +52.82   1008.7  152.11   (massif, grotte Marie-Madeleine; 43.3167,5.7500)
+Saintes, Charente-Maritime           641.98   657.31   +365.69    527.9  183.87   (Saintes; 45.7464,-0.6333)
+Chartres Cathedral                   358.17   360.33    +75.09    350.2  161.21   (voile de la Vierge; 48.4478,1.4878)
+Vézelay Abbey                        527.37   527.44    -19.75    527.0  146.95   (Ste-Madeleine, prêche 2e croisade; 47.4664,3.7486)
+Mont-Saint-Michel                    335.37   367.83   +253.95    219.1  198.33   (île / Michel; 48.6360,-1.5110)
+Lindisfarne                          477.64   627.84   -145.83   -454.9  346.89   (Holy Island (île sainte, île à marée); 55.6800,-1.8025)
+Iona                                 677.30   830.48    +50.68   -675.4  324.80   (île sainte celtique; 56.3300,-6.4100)
+Rosslyn Chapel                       524.20   676.68    -84.99   -517.3  338.44   (Rose-line, mythe Templier/Graal; 55.8553,-3.1603)
+Glastonbury Abbey                    187.70   301.93   +176.90    -62.8  258.63   (Avalon / Graal; 51.1456,-2.7144)
+Canterbury Cathedral                  84.33   134.86    -56.45     62.6  107.07   (Becket; 51.2797,1.0831)
+Reims Cathedral                      384.30   390.02   -131.36    361.2  129.10   (sacre des rois; 49.2539,4.0342)
+Sens Cathedral                       439.78   439.96    -27.55    438.9  145.50   (Sens; 48.1979,3.2837)
+Auxerre Cathedral                    488.94   489.07    -25.47    488.3  146.11   (Auxerre; 47.7979,3.5729)
+Fontainebleau                        397.68   397.68     -1.05    397.7  148.95   (Fontainebleau; 48.4097,2.7025)
+Sainte-Marie-de-la-Mer             PAS DE COORD
+Saintes-Maries-de-la-Mer             957.08   957.99   +141.07    946.7  157.61   (Saintes-Maries (Marie-Madeleine, Sara); 43.4528,4.4286)
+Amiens Cathedral                     245.38   248.24    -55.45    239.0  136.04   (Amiens (tête de saint Jean-Baptiste); 49.8950,2.3022)
+Rouen Cathedral                      244.41   246.32    +45.07    240.2  159.73   (Rouen; 49.4402,1.0950)
+Cluny Abbey                          661.33   661.40    -27.67    660.7  146.70   ((C, exclu par FAQ03-099 si C); 46.4342,4.6592)
+Sainte-Anne-d'Auray                  470.95   512.02   +399.79    249.1  207.21   (pèlerinage breton; 47.7042,-2.9528)
+Sainte-Anne-de-Beaupré              4961.94  5101.15  +2682.37  -4309.3  293.52   (hors-jeu; 47.0167,-70.9333)
+Jerusalem                           3606.51  3620.96  -2014.71   3043.6  113.66   (Jérusalem, Saint-Sépulcre; 31.7789,35.2256)
+Church of the Holy Sepulchre        3606.82  3621.28  -2015.08   3043.7  113.66   (Saint-Sépulcre; 31.7783,35.2297)
+Rome                                1431.38  1434.39   -384.21   1379.7  133.40   (Rome; 41.8933,12.4828)
+Santiago de Compostela Cathedral    1151.47  1201.39  +1065.23    439.3  216.89   (Compostelle; 42.8806,-8.5444)
+Avalon                             PAS DE COORD
+
+== (a) Lecture 'axe prolongé' : écart latéral (km) de l'axe Tour->Battle au lieu X, et écart D si D=T-X
+   Si X est à 1,9 km de l'axe, la précision annoncée (0,42 km) dépend de l'axe choisi : Battle est à 0,42 km de la droite T-SC,
+   mais SC est à ~-2.00 km de la droite T-Battle (rapport des distances 342/77).
+
+== Points de l'axe prolongé à distance D de la Tour
+D= 300.0  49.1733, 2.0431
+D= 320.0  49.0163, 2.1771
+D= 341.6  48.8466, 2.3210
+D= 345.2  48.8183, 2.3449
+D= 360.0  48.7019, 2.4428
+D= 380.0  48.5444, 2.5744
+D= 400.0  48.3868, 2.7051
+D= 429.0  48.1581, 2.8933
+D= 450.0  47.9922, 3.0285
+D= 500.0  47.5967, 3.3470
+D= 550.0  47.2004, 3.6607
+D= 600.0  46.8032, 3.9697

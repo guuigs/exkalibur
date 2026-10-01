@@ -1,0 +1,67 @@
+=== 1) Foix : distance selon point de mesure RLC × Foix
+  village/Nominatim            -> Foix château (Nominatim)   53.68 km  cap 274.8
+  village/Nominatim            -> Foix centre-ville          53.67 km  cap 274.7
+  village/Nominatim            -> Foix Tour Ronde            53.67 km  cap 274.8
+  église Ste-Marie-Madeleine   -> Foix château (Nominatim)   53.72 km  cap 274.7
+  église Ste-Marie-Madeleine   -> Foix centre-ville          53.72 km  cap 274.6
+  église Ste-Marie-Madeleine   -> Foix Tour Ronde            53.71 km  cap 274.7
+  château (ruines)             -> Foix château (Nominatim)   53.61 km  cap 274.7
+  château (ruines)             -> Foix centre-ville          53.60 km  cap 274.6
+  château (ruines)             -> Foix Tour Ronde            53.60 km  cap 274.7
+
+=== 2) Foix (53.68 km) exprimé en lieues, par lieue
+  commune 4,444 (1/25°)             12.08
+  poste 3,898                       13.77
+  métrique 4,0                      13.42
+  5,0 km (lieue "moderne")          10.74  <-- "près de 11" (10.5-10.99)
+  terrestre 4,828 (3 mi)            11.12  ~11 (>=11)
+  marine 5,556 (3 mn)                9.66
+  legua castellana 5,573             9.63
+  legua 4,19 (Alphonse X)           12.81
+  Gascogne 5,847                     9.18
+  Bourbonnais 4,88                  11.00  <-- "près de 11" (10.5-10.99)
+  Bretagne/Anjou 4,5-4,6            11.80
+  Beauce 3,2                        16.77
+  gauloise 2,2                      24.16
+  ancienne d'Occitanie ~ 4,1        13.09
+  Languedoc (lieue commune tol.) 4,44  12.09
+  legua Portugal 6,17                8.70
+  legua legal ES 5,5727              9.63
+  lieue Toulouse 4,5?               11.93
+
+=== 3) Test du hasard : pour chaque lieue, quels candidats (W, 240-300°) tombent à 10.5-10.99 lieues ?
+  commune 4,444 (1/25°)            Lordat 10.72
+  poste 3,898                      -
+  métrique 4,0                     -
+  5,0 km (lieue "moderne")         Foix 10.74, Tarascon-sur-Ariège 10.86
+  terrestre 4,828 (3 mi)           -
+  marine 5,556 (3 mn)              -
+  legua castellana 5,573           -
+  legua 4,19 (Alphonse X)          -
+  Gascogne 5,847                   Gudanes 10.53
+  Bourbonnais 4,88                 Foix 11.00
+  Bretagne/Anjou 4,5-4,6           -
+  Beauce 3,2                       -
+  gauloise 2,2                     -
+  ancienne d'Occitanie ~ 4,1       -
+  Languedoc (lieue commune tol.) 4,44 Lordat 10.73
+  legua Portugal 6,17              Montréal-de-Sos 10.52
+  legua legal ES 5,5727            -
+  lieue Toulouse 4,5?              Lordat 10.59
+
+Autre lecture : "près de 11" = 10.8-10.99 (très près) :
+   5,0 km (lieue "moderne") ['Tarascon-sur-Ariège']
+   Bourbonnais 4,88 ['Foix']
+
+=== 4) Lieue implicite si Foix = 10.5..10.99 lieues : 4.884 à 5.112 km  (5,0 km dans la plage ?  True )
+   Lieue implicite Foix=11 exactement: 4.88
+
+=== 5) Cap SC->Lorient 255.91 ; cap inverse 75.91
+  León->Foix             cap  83.58  (garde vs nouvelle garde: écart +7.67°)
+  León->Montségur        cap  84.60  (garde vs nouvelle garde: écart +8.69°)
+  León->Roquefixade      cap  83.83  (garde vs nouvelle garde: écart +7.92°)
+  León->Lordat           cap  85.39  (garde vs nouvelle garde: écart +9.48°)
+  León->Puivert          cap  84.24  (garde vs nouvelle garde: écart +8.33°)
+  León->Usson            cap  85.66  (garde vs nouvelle garde: écart +9.75°)
+  León->Montréal-de-Sos  cap  85.76  (garde vs nouvelle garde: écart +9.85°)
+  León->Gudanes          cap  84.75  (garde vs nouvelle garde: écart +8.84°)

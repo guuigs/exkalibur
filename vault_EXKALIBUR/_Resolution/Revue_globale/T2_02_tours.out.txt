@@ -1,0 +1,7 @@
+TA (45.4288, 6.03078) CB (45.423611, 6.018889) d(TA,CB)=1.093 km
+Initiales: ITERLLSUNOCA | 3e (Ecce Homo)=E, 11e (Consummatum est)=C ; en comptant l'intro : 3e=T, 11e=O
+construction_ponctuelle 66 {'Transformateur': 22, 'Croix': 20, 'Clocher': 13, 'Antenne': 10, 'Autre construction élevée': 1}
+batiment 13893 {'Indifférenciée': 13156, 'Industriel, agricole ou commercial': 680, 'Serre': 21, 'Eglise': 12, 'Château': 7, 'Chapelle': 6, 'Silo': 5, 'Tour, donjon': 5, 'Tribune': 1}
+zone_d_activite_ou_d_interet 161 {'Espace public': 21, 'Enseignement primaire': 16, 'Culte chrétien': 15, 'Mairie': 10, 'Zone industrielle': 8, 'Usine': 8, 'Centre de documentation': 7, 'Autre équipement sportif': 6, 'Station de pompage': 5, 'Divers industriel': 5, 'Centrale électrique': 4, 'Déchèterie': 4, 'Divers public ou administratif': 4, 'Maison de retraite': 4, 'Monument': 4, 'Salle de spectacle ou conférence': 4, 'Carrière': 3, 'Poste': 3, 'Caserne de pompiers': 3, 'Lycée': 3, 'Complexe sportif couvert': 3, 'Gendarmerie': 2, 'Camping': 2, 'Collège': 2, 'Point de vue': 2}
+toponymie 569 {'': 569}
+lieu_dit_non_habite 74 {'Lieu-dit non habité': 56, 'Bois': 18}

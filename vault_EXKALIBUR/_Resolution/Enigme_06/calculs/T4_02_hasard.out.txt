@@ -1,0 +1,11 @@
+X uniforme (lat48.6-50.1, lon-1.6..3.0) ; droite X->Dol ; |ecart Lorient|<=1 km : 1.06 %
+X uniforme (lat48.6-50.1, lon-1.6..3.0) ; droite X->Dol ; |ecart Lorient|<=2.3 km : 2.41 %
+X uniforme (lat48.6-50.1, lon-1.6..3.0) ; droite X->Dol ; |ecart Lorient|<=5 km : 5.34 %
+X uniforme (lat48.6-50.1, lon-1.6..3.0) ; droite X->Rennes ; |ecart Lorient|<=1 km : 1.22 %
+X uniforme (lat48.6-50.1, lon-1.6..3.0) ; droite X->Rennes ; |ecart Lorient|<=2.3 km : 2.81 %
+X uniforme (lat48.6-50.1, lon-1.6..3.0) ; droite X->Rennes ; |ecart Lorient|<=5 km : 6.10 %
+d 150 P(|ecart|<=2.3 km | cap uniforme 360°) 0.488 %  | cap dans secteur 90° : 1.952 %
+d 350 P(|ecart|<=2.3 km | cap uniforme 360°) 0.209 %  | cap dans secteur 90° : 0.837 %
+Dames->Dol : ecart Paimpont -30.2 Rennes -42.6 Lorient -2.3
+Dames->Lorient : ecart Dol 1.05 Paimpont -28.7
+P(X uniforme dans la boite est a <=2.3 km de la droite Dol-Lorient cote Caen) = 2.35 %

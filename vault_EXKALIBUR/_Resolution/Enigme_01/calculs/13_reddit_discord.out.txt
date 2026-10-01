@@ -1,0 +1,13 @@
+### Discord invite API
+{"type":0,"code":"FWjWDkazUP","inviter":{"id":"866680777714696212","username":"ravenishh","avatar":"a_990eb0a5bde3ffa6ef6b4f5bddbc5e76","discriminator":"0","public_flags":256,"flags":256,"banner":"b87ace35c68e36a0a1128731a8c5d8f6","accent_color":null,"global_name":"R\u03b1\u028b\u04bd\u0273 \u2604","avatar_decoration_data":{"asset":"a_d1e5d3aabccb3d38f21b5ac8a33fcf4d","sku_id":"1409978159255785652","expires_at":null},"collectibles":{"nameplate":{"sku_id":"1462116614131548265","asset":"nameplates/gothica/nevermore/","label":"COLLECTIBLES_GOTHICA_NEVERMORE_NP_A11Y","palette":"white"}},"display_name_styles":{"font_id":10,"effect_id":3,"colors":[11250603]},"vad_colors":null,"banner_color":null,"clan":{"identity_guild_id":null,"identity_enabled":false,"tag":null,"badge":null},"primary_guild":{"identity_guild_id":null,"identity_enabled":false,"tag":null,"badge":null}},"expires_at":null,"id":0,"flags":2,"guild":{"id":"1296156473784664126","name":"Exkalibur","splash":"698de49b66aeb535dac4eb1cb2569691","banner":"8ba4c4aba8c486d0675c9723cbee9cfd","description":null,"icon":"a_7fafd9a75ac49aa2f243e9e9dd128bc8","features":["TIERLESS_BOOSTING","ANIMATED_BANNER","VANITY_URL","AUTO_MODERATION","AN
+
+### Reddit search 'Exkalibur chasse au tresor'
+--- Exkalibur chasse au trésor: ERR HTTP Error 403: Blocked
+   parse err Expecting value: line 1 column 1 (char 0)
+--- Exkalibur Puy du Fou énigme: ERR HTTP Error 403: Blocked
+   parse err Expecting value: line 1 column 1 (char 0)
+--- chasse Exkalibur lieues: ERR HTTP Error 403: Blocked
+   parse err Expecting value: line 1 column 1 (char 0)
+
+### Reddit full-text via old.reddit r/chasseautresor?
+ERR HTTP Error 403: Blocked

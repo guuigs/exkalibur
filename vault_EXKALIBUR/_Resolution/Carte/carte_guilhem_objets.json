@@ -1,0 +1,342 @@
+[
+ {
+  "folder": "Epée - énigme 1",
+  "name": "Cathédrale de León",
+  "type": "Point",
+  "desc": "",
+  "coords_lonlat": [
+   [
+    -5.5671632,
+    42.5994383
+   ]
+  ]
+ },
+ {
+  "folder": "Epée - énigme 1",
+  "name": "Château de Foix",
+  "type": "Point",
+  "desc": "",
+  "coords_lonlat": [
+   [
+    1.604881,
+    42.965574
+   ]
+  ]
+ },
+ {
+  "folder": "Epée - énigme 1",
+  "name": "Cathédrale Sainte-Marie de Valence",
+  "type": "Point",
+  "desc": "",
+  "coords_lonlat": [
+   [
+    -0.3754667,
+    39.4752858
+   ]
+  ]
+ },
+ {
+  "folder": "Epée - énigme 1",
+  "name": "Château d'Urquhart",
+  "type": "Point",
+  "desc": "",
+  "coords_lonlat": [
+   [
+    -4.4420013,
+    57.3241399
+   ]
+  ]
+ },
+ {
+  "folder": "Epée - énigme 1",
+  "name": "Ligne 5",
+  "type": "LineString",
+  "desc": "",
+  "coords_lonlat": [
+   [
+    -4.4420013,
+    57.3241399
+   ],
+   [
+    -0.3754667,
+    39.4752858
+   ]
+  ]
+ },
+ {
+  "folder": "Epée - énigme 1",
+  "name": "Ligne 6",
+  "type": "LineString",
+  "desc": "",
+  "coords_lonlat": [
+   [
+    -5.5671632,
+    42.5994383
+   ],
+   [
+    1.604881,
+    42.965574
+   ]
+  ]
+ },
+ {
+  "folder": "Epée - énigme 1",
+  "name": "Ligne 8",
+  "type": "LineString",
+  "desc": "",
+  "coords_lonlat": [
+   [
+    2.2914706,
+    48.8621597
+   ],
+   [
+    2.3334418,
+    48.8673543
+   ],
+   [
+    2.3497497,
+    48.8671284
+   ],
+   [
+    2.3506938,
+    48.8278733
+   ],
+   [
+    2.2867499,
+    48.8282688
+   ],
+   [
+    2.2869216,
+    48.8603527
+   ]
+  ]
+ },
+ {
+  "folder": "Enigme 2",
+  "name": "Tour de Londres",
+  "type": "Point",
+  "desc": "",
+  "coords_lonlat": [
+   [
+    -0.0759493,
+    51.5081124
+   ]
+  ]
+ },
+ {
+  "folder": "Enigme 3 ",
+  "name": "Château de Tintagel",
+  "type": "Point",
+  "desc": "",
+  "coords_lonlat": [
+   [
+    -4.7585053,
+    50.6672813
+   ]
+  ]
+ },
+ {
+  "folder": "Enigme 3 ",
+  "name": "Ligne 3",
+  "type": "LineString",
+  "desc": "",
+  "coords_lonlat": [
+   [
+    -4.7585053,
+    50.6672813
+   ],
+   [
+    -1.1005385,
+    51.3538459
+   ],
+   [
+    -0.1272993,
+    51.4993695
+   ]
+  ]
+ },
+ {
+  "folder": "Enigme 4",
+  "name": "Abbaye de Westminster",
+  "type": "Point",
+  "desc": "",
+  "coords_lonlat": [
+   [
+    -0.1272993,
+    51.4993695
+   ]
+  ]
+ },
+ {
+  "folder": "Enigme 4",
+  "name": "Silchester",
+  "type": "Point",
+  "desc": "",
+  "coords_lonlat": [
+   [
+    -1.1005385,
+    51.3538459
+   ]
+  ]
+ },
+ {
+  "folder": "Enigme 5 ",
+  "name": "Stonehenge",
+  "type": "Point",
+  "desc": "",
+  "coords_lonlat": [
+   [
+    -1.826215,
+    51.178882
+   ]
+  ]
+ },
+ {
+  "folder": "Enigme 5 ",
+  "name": "Alignements du Ménec",
+  "type": "Point",
+  "desc": "",
+  "coords_lonlat": [
+   [
+    -3.0835991,
+    47.5918383
+   ]
+  ]
+ },
+ {
+  "folder": "Enigme 6",
+  "name": "Hastings",
+  "type": "Point",
+  "desc": "",
+  "coords_lonlat": [
+   [
+    0.573453,
+    50.854259
+   ]
+  ]
+ },
+ {
+  "folder": "Enigme 7",
+  "name": "Clermont",
+  "type": "Point",
+  "desc": "",
+  "coords_lonlat": [
+   [
+    3.0858573,
+    45.7787583
+   ]
+  ]
+ },
+ {
+  "folder": "Enigme 7",
+  "name": "Abbaye de Cluny",
+  "type": "Point",
+  "desc": "",
+  "coords_lonlat": [
+   [
+    4.6585012,
+    46.4348054
+   ]
+  ]
+ },
+ {
+  "folder": "Enigme 7",
+  "name": "Ligne 2",
+  "type": "LineString",
+  "desc": "",
+  "coords_lonlat": [
+   [
+    4.6585012,
+    46.4348054
+   ],
+   [
+    3.0858573,
+    45.7787583
+   ]
+  ]
+ },
+ {
+  "folder": "Enigme 7",
+  "name": "Cloître de Cadouin",
+  "type": "Point",
+  "desc": "",
+  "coords_lonlat": [
+   [
+    0.8737598,
+    44.8114955
+   ]
+  ]
+ },
+ {
+  "folder": "Enigme 7",
+  "name": "Ligne 3",
+  "type": "LineString",
+  "desc": "",
+  "coords_lonlat": [
+   [
+    3.0858573,
+    45.7787583
+   ],
+   [
+    0.8737598,
+    44.8114955
+   ]
+  ]
+ },
+ {
+  "folder": "Enigme 7",
+  "name": "Sainte-Chapelle",
+  "type": "Point",
+  "desc": "",
+  "coords_lonlat": [
+   [
+    2.3449609,
+    48.855375
+   ]
+  ]
+ },
+ {
+  "folder": "Enigme 7",
+  "name": "Ligne 7",
+  "type": "LineString",
+  "desc": "",
+  "coords_lonlat": [
+   [
+    -0.0759493,
+    51.5081124
+   ],
+   [
+    2.3449609,
+    48.855375
+   ]
+  ]
+ },
+ {
+  "folder": "Enigme 7",
+  "name": "Forêt de Brocéliande",
+  "type": "Point",
+  "desc": "",
+  "coords_lonlat": [
+   [
+    -2.1739626,
+    48.018829
+   ]
+  ]
+ },
+ {
+  "folder": "Enigme 7",
+  "name": "Garde brocéliande",
+  "type": "LineString",
+  "desc": "",
+  "coords_lonlat": [
+   [
+    -2.1739626,
+    48.018829
+   ],
+   [
+    2.3449609,
+    48.855375
+   ]
+  ]
+ }
+]

@@ -1,0 +1,2 @@
+espaces ignores: STANENGES   detail: 6.4->'trystram delyens', 2.9->'launcelot deulake', 1.2->'galahallt', 5.4->'lyonell', 23.7->'alynore', 14.9->'bors de ganys', 1.1->'galahallt', 24.6->'mordrede', 9.7->'blubrys'
+espaces comptes: STANEGGES   detail: 6.4->'trystram delyens', 2.9->'launcelot deulake', 1.2->'galahallt', 5.4->'lyonell', 23.7->'alynore', 14.9->'bors de ganys', 1.1->'galahallt', 24.6->'mordrede', 9.7->'blubrys'

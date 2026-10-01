@@ -1,0 +1,17 @@
+FR-N erreur HTTP Error 504: Gateway Timeout
+FR-N erreur HTTP Error 504: Gateway Timeout
+FR-N erreur HTTP Error 429: Aggressively rate-limiting to 1 req / min - this rule was created during active wdqs outage (797a132)
+FR-N erreur HTTP Error 429: Aggressively rate-limiting to 1 req / min - this rule was created during active wdqs outage (797a132)
+FR-N erreur HTTP Error 429: Aggressively rate-limiting to 1 req / min - this rule was created during active wdqs outage (797a132)
+FR-N erreur HTTP Error 429: Aggressively rate-limiting to 1 req / min - this rule was created during active wdqs outage (797a132)
+FR-N erreur HTTP Error 429: Aggressively rate-limiting to 1 req / min - this rule was created during active wdqs outage (797a132)
+FR-N erreur HTTP Error 429: Aggressively rate-limiting to 1 req / min - this rule was created during active wdqs outage (797a132)
+UK erreur HTTP Error 429: Aggressively rate-limiting to 1 req / min - this rule was created during active wdqs outage (797a132)
+UK erreur HTTP Error 504: Gateway Timeout
+UK erreur HTTP Error 504: Gateway Timeout
+UK erreur HTTP Error 429: Aggressively rate-limiting to 1 req / min - this rule was created during active wdqs outage (797a132)
+UK erreur HTTP Error 429: Aggressively rate-limiting to 1 req / min - this rule was created during active wdqs outage (797a132)
+UK erreur HTTP Error 429: Aggressively rate-limiting to 1 req / min - this rule was created during active wdqs outage (797a132)
+UK erreur HTTP Error 429: Aggressively rate-limiting to 1 req / min - this rule was created during active wdqs outage (797a132)
+UK erreur HTTP Error 504: Gateway Timeout
+distincts: 279

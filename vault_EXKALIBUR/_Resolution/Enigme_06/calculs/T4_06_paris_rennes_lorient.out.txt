@@ -1,0 +1,13 @@
+SC->Rennes: Paimpont +0.60 Lorient -0.70 | SC->Dol: Dinan -7.27 Lorient -70.22 | SC->Dinan: Lorient -60.52 Paimpont -46.50
+Rennes->Paimpont cap 253.9  Rennes->Lorient cap 252.7  Dol->Rennes cap 173.9  Rennes->Dinan cap 324.4
+w=0.7 km : P(Lorient a <=w de X->Rennes) X~Paris 34.7 % ; X~grande boite 0.9 %
+w=1.15 km : P(Lorient a <=w de X->Rennes) X~Paris 54.3 % ; X~grande boite 1.4 %
+w=2.3 km : P(Lorient a <=w de X->Rennes) X~Paris 90.4 % ; X~grande boite 2.8 %
+SC fixe, Y aleatoire (Bretagne est 47.9-48.4N,-2.4..-1.3) : P(|ecart Lorient|<=0.7)= 1.9 %
+Battle Abbey             T->champ  76.69 champ->SC  264.93 D=341.61  droit=341.61
+Battle ville             T->champ  76.00 champ->SC  265.61 D=341.62  droit=341.61
+Hastings                 T->champ  85.94 champ->SC  255.71 D=341.64  droit=341.61
+Senlac (Caldbec Hill)    T->champ  76.74 champ->SC  264.87 D=341.61  droit=341.61
+Telham Hill              T->champ  78.63 champ->SC  262.99 D=341.61  droit=341.61
+Point à D=341.61 sur la droite prolongée T->Battle: (48.84669420268903, 2.3215957851235443)  ecart à SC: 1.960477231539185
+1 % de D = 3.42 km ; ecart D Vincennes/ND/StDenis vs SC : [4.58, 0.4, -7.21]

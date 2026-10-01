@@ -1,0 +1,27 @@
+Cibles D (km): {'Sainte-Chapelle': 341.61, 'Notre-Dame': 342.01, 'Sainte-Chapelle de Vincennes': 346.21, 'Saint-Denis': 334.43, 'Chartres': 360.33}
+
+######## noyau thématique AVEC Carnac absent (44 lieux max) : 43 lieux, 1,480,920 chaînes possibles
+D= 341.61 (Sainte-Chapelle             ):   132 chaînes dans ±1 % (0.01 % du total) ; sans croiser la lame : 114
+D= 342.01 (Notre-Dame                  ):   133 chaînes dans ±1 % (0.01 % du total) ; sans croiser la lame : 116
+D= 346.21 (Sainte-Chapelle de Vincennes):   141 chaînes dans ±1 % (0.01 % du total) ; sans croiser la lame : 115
+D= 334.43 (Saint-Denis                 ):   150 chaînes dans ±1 % (0.01 % du total) ; sans croiser la lame : 126
+D= 360.33 (Chartres                    ):   177 chaînes dans ±1 % (0.01 % du total) ; sans croiser la lame : 144
+CONTRÔLE : 40 valeurs D aléatoires dans [200, 500] km -> nombre de chaînes ±1 % : min 7, médiane 238, max 887
+
+######## noyau restreint (19 lieux : liste des joueurs / consigne) : 19 lieux, 46,512 chaînes possibles
+D= 341.61 (Sainte-Chapelle             ):     3 chaînes dans ±1 % (0.01 % du total) ; sans croiser la lame : 3
+D= 342.01 (Notre-Dame                  ):     3 chaînes dans ±1 % (0.01 % du total) ; sans croiser la lame : 3
+D= 346.21 (Sainte-Chapelle de Vincennes):     0 chaînes dans ±1 % (0.00 % du total) ; sans croiser la lame : 0
+D= 334.43 (Saint-Denis                 ):     1 chaînes dans ±1 % (0.00 % du total) ; sans croiser la lame : 1
+D= 360.33 (Chartres                    ):     1 chaînes dans ±1 % (0.00 % du total) ; sans croiser la lame : 1
+CONTRÔLE : 40 valeurs D aléatoires dans [200, 500] km -> nombre de chaînes ±1 % : min 0, médiane 2, max 11
+
+--- chaînes du noyau restreint dans ±1 % de D(Sainte-Chapelle)
+   L= 341.87 (+0.07 %)               Clermont - Cadouin - Cahors - Conques
+   L= 340.99 (-0.18 %)               Clermont - Cluny - Cîteaux - Clairvaux
+   L= 338.66 (-0.86 %)               Conques - Cadouin - Cahors - Carcassonne
+
+--- chaînes du noyau restreint dans ±1 % de D(Notre-Dame)
+   L= 341.87 (-0.04 %)               Clermont - Cadouin - Cahors - Conques
+   L= 340.99 (-0.30 %)               Clermont - Cluny - Cîteaux - Clairvaux
+   L= 338.66 (-0.98 %)               Conques - Cadouin - Cahors - Carcassonne

@@ -1,0 +1,367 @@
+{
+ "ruisseaux": [
+  {
+   "nom": "Ruisseau de Rebouchet",
+   "position": "45.42554, 6.03362",
+   "cap_general": "E–O ; coule ONO",
+   "dist_tour": "0.42 km",
+   "source": "IGN BD TOPO (cours_d_eau, statut Validé) ; dist château Bayard 0.18 km ; identifiable: oui"
+  },
+  {
+   "nom": "le Bréda",
+   "position": "45.43323, 6.02982",
+   "cap_general": "SSE–NNO ; coule NNO",
+   "dist_tour": "0.49 km",
+   "source": "IGN BD TOPO (cours_d_eau, statut Validé) ; dist château Bayard 1.14 km ; identifiable: oui"
+  },
+  {
+   "nom": "Ruisseau de la Perrière",
+   "position": "45.42090, 6.02234",
+   "cap_general": "ESE–ONO ; coule ONO",
+   "dist_tour": "1.11 km",
+   "source": "IGN BD TOPO (cours_d_eau, statut Validé) ; dist château Bayard 0.32 km ; identifiable: oui"
+  },
+  {
+   "nom": "Ruisseau de Tapon",
+   "position": "45.43577, 6.04681",
+   "cap_general": "SE–NO ; coule NNO",
+   "dist_tour": "1.45 km",
+   "source": "IGN BD TOPO (cours_d_eau, statut Validé) ; dist château Bayard 2.57 km ; identifiable: oui"
+  },
+  {
+   "nom": "Ruisseau de la Burge",
+   "position": "45.43893, 6.05265",
+   "cap_general": "SE–NO ; coule NO",
+   "dist_tour": "2.03 km",
+   "source": "IGN BD TOPO (cours_d_eau, statut Validé) ; dist château Bayard 3.15 km ; identifiable: oui"
+  },
+  {
+   "nom": "l'Isère",
+   "position": "45.43168, 6.00384",
+   "cap_general": "NE–SO ; coule SSO",
+   "dist_tour": "2.14 km",
+   "source": "IGN BD TOPO (cours_d_eau, statut Validé) ; dist château Bayard 1.40 km ; identifiable: oui"
+  },
+  {
+   "nom": "Ruisseau de Beau Magny",
+   "position": "45.41146, 6.01463",
+   "cap_general": "SE–NO ; coule NO",
+   "dist_tour": "2.32 km",
+   "source": "IGN BD TOPO (cours_d_eau, statut Validé) ; dist château Bayard 1.37 km ; identifiable: oui"
+  },
+  {
+   "nom": "Ruisseau de la Chanelle",
+   "position": "45.44888, 6.04466",
+   "cap_general": "ENE–OSO ; coule O",
+   "dist_tour": "2.47 km",
+   "source": "IGN BD TOPO (cours_d_eau, statut Validé) ; dist château Bayard 3.47 km ; identifiable: oui"
+  },
+  {
+   "nom": "Ruisseau des Lanches",
+   "position": "45.40463, 6.03595",
+   "cap_general": "E–O ; coule O",
+   "dist_tour": "2.72 km",
+   "source": "IGN BD TOPO (cours_d_eau, statut Validé) ; dist château Bayard 2.45 km ; identifiable: oui"
+  },
+  {
+   "nom": "Ruisseau du Papet",
+   "position": "45.40440, 6.03485",
+   "cap_general": "SE–NO ; coule NO",
+   "dist_tour": "2.74 km",
+   "source": "IGN BD TOPO (cours_d_eau, statut Validé) ; dist château Bayard 2.41 km ; identifiable: oui"
+  },
+  {
+   "nom": "Ruisseau de Bessut",
+   "position": "45.40417, 6.03325",
+   "cap_general": "SSE–NNO ; coule NNO",
+   "dist_tour": "2.75 km",
+   "source": "IGN BD TOPO (cours_d_eau, statut Validé) ; dist château Bayard 2.41 km ; identifiable: oui"
+  },
+  {
+   "nom": "Ruisseau du Furet",
+   "position": "45.44650, 6.00490",
+   "cap_general": "E–O ; coule ENE",
+   "dist_tour": "2.83 km",
+   "source": "IGN BD TOPO (cours_d_eau, statut Validé) ; dist château Bayard 2.80 km ; identifiable: oui"
+  },
+  {
+   "nom": "Ancien Lit de l'Isère",
+   "position": "45.45654, 6.01583",
+   "cap_general": "NE–SO ; coule SO",
+   "dist_tour": "3.30 km",
+   "source": "IGN BD TOPO (cours_d_eau, statut Validé) ; dist château Bayard 3.70 km ; identifiable: oui"
+  },
+  {
+   "nom": "Ruisseau des Teppes",
+   "position": "45.40114, 6.01588",
+   "cap_general": "ESE–ONO ; coule ONO",
+   "dist_tour": "3.30 km",
+   "source": "IGN BD TOPO (cours_d_eau, statut Validé) ; dist château Bayard 2.48 km ; identifiable: oui"
+  },
+  {
+   "nom": "Ruisseau Pluvigny",
+   "position": "45.43384, 6.07294",
+   "cap_general": "NNE–SSO ; coule N",
+   "dist_tour": "3.32 km",
+   "source": "IGN BD TOPO (cours_d_eau, statut Validé) ; dist château Bayard 4.35 km ; identifiable: oui"
+  },
+  {
+   "nom": "Ruisseau de Maupas",
+   "position": "45.40259, 6.00633",
+   "cap_general": "ESE–ONO ; coule ONO",
+   "dist_tour": "3.50 km",
+   "source": "IGN BD TOPO (cours_d_eau, statut Validé) ; dist château Bayard 2.51 km ; identifiable: oui"
+  },
+  {
+   "nom": "Ruisseau de la Fourchette",
+   "position": "45.44596, 5.99279",
+   "cap_general": "E–O ; coule E",
+   "dist_tour": "3.54 km",
+   "source": "IGN BD TOPO (cours_d_eau, statut Validé) ; dist château Bayard 3.24 km ; identifiable: oui"
+  },
+  {
+   "nom": "Ruisseau du Bon de Loge",
+   "position": "45.45860, 6.01106",
+   "cap_general": "NNE–SSO ; coule SSO",
+   "dist_tour": "3.65 km",
+   "source": "IGN BD TOPO (cours_d_eau, statut Validé) ; dist château Bayard 3.96 km ; identifiable: oui"
+  },
+  {
+   "nom": "Ruisseau de la Bâtie",
+   "position": "45.39693, 6.05143",
+   "cap_general": "ESE–ONO ; coule ESE",
+   "dist_tour": "3.89 km",
+   "source": "IGN BD TOPO (cours_d_eau, statut Validé) ; dist château Bayard 3.88 km ; identifiable: oui"
+  },
+  {
+   "nom": "Ruisseau des Dégoutés",
+   "position": "45.42330, 5.98025",
+   "cap_general": "ESE–ONO ; coule E",
+   "dist_tour": "4.01 km",
+   "source": "IGN BD TOPO (cours_d_eau, statut Validé) ; dist château Bayard 3.02 km ; identifiable: oui"
+  },
+  {
+   "nom": "Ruisseau du Trouillet",
+   "position": "45.39292, 6.01053",
+   "cap_general": "ESE–ONO ; coule ONO",
+   "dist_tour": "4.31 km",
+   "source": "IGN BD TOPO (cours_d_eau, statut Validé) ; dist château Bayard 3.45 km ; identifiable: oui"
+  },
+  {
+   "nom": "le Cernon",
+   "position": "45.46521, 6.01103",
+   "cap_general": "ENE–OSO ; coule ENE",
+   "dist_tour": "4.33 km",
+   "source": "IGN BD TOPO (cours_d_eau, statut Validé) ; dist château Bayard 4.47 km ; identifiable: oui"
+  },
+  {
+   "nom": "Canal de Renevier",
+   "position": "45.39413, 5.99799",
+   "cap_general": "NNE–SSO ; coule SSO",
+   "dist_tour": "4.64 km",
+   "source": "IGN BD TOPO (cours_d_eau 'Canal de Renevier', canal) ; dist château Bayard 3.64 km ; identifiable: oui (canal, non ruisseau)"
+  },
+  {
+   "nom": "Ruisseau du Villard",
+   "position": "45.38832, 6.01638",
+   "cap_general": "E–O ; coule O",
+   "dist_tour": "4.65 km",
+   "source": "IGN BD TOPO (cours_d_eau, statut Validé) ; dist château Bayard 3.86 km ; identifiable: oui"
+  },
+  {
+   "nom": "(sans nom)",
+   "position": "45.42418, 6.03268",
+   "cap_general": "coule NO",
+   "dist_tour": "0.54 km",
+   "source": "IGN BD TOPO (tronçon Ecoulement naturel sans toponyme) ; dist château Bayard 1.08 km ; identifiable: non"
+  },
+  {
+   "nom": "(sans nom)",
+   "position": "45.42418, 6.03268",
+   "cap_general": "coule O",
+   "dist_tour": "0.54 km",
+   "source": "IGN BD TOPO (tronçon Ecoulement naturel sans toponyme) ; dist château Bayard 0.93 km ; identifiable: non"
+  },
+  {
+   "nom": "(sans nom)",
+   "position": "45.42212, 6.02808",
+   "cap_general": "coule NO",
+   "dist_tour": "0.78 km",
+   "source": "IGN BD TOPO (tronçon Ecoulement naturel sans toponyme) ; dist château Bayard 0.73 km ; identifiable: non"
+  },
+  {
+   "nom": "(sans nom)",
+   "position": "45.43171, 6.04198",
+   "cap_general": "coule NE",
+   "dist_tour": "0.91 km",
+   "source": "IGN BD TOPO (tronçon Ecoulement naturel sans toponyme) ; dist château Bayard 2.02 km ; identifiable: non"
+  }
+ ],
+ "intersections": [
+  {
+   "nom": "Croisement Sentier×Sentier",
+   "position": "45.431240, 6.022240",
+   "dist_tour": "0.72 km",
+   "detail": "Sentier×4 ; dist château Bayard 0.91 km ; dist corridor 0.59 km ; clairière: non ; pas de ruisseau proche ; identifiable: oui (nœud BD TOPO, 4 branches sentier/chemin)"
+  },
+  {
+   "nom": "Croisement Chemin × Sentier",
+   "position": "45.422370, 6.040340",
+   "dist_tour": "1.03 km",
+   "detail": "Chemin×2 + Sentier×2 ; dist château Bayard 1.67 km ; dist corridor 1.02 km ; clairière: non ; pas de ruisseau proche ; identifiable: oui (nœud BD TOPO, 4 branches sentier/chemin)"
+  },
+  {
+   "nom": "Croisement Sentier×Sentier",
+   "position": "45.429700, 6.016760",
+   "dist_tour": "1.10 km",
+   "detail": "Sentier×4 ; dist château Bayard 0.72 km ; dist corridor 0.68 km ; clairière: non ; pas de ruisseau proche ; identifiable: oui (nœud BD TOPO, 4 branches sentier/chemin)"
+  },
+  {
+   "nom": "Croisement Sentier×Sentier",
+   "position": "45.429920, 6.016000",
+   "dist_tour": "1.16 km",
+   "detail": "Sentier×4 ; dist château Bayard 0.76 km ; dist corridor 0.73 km ; clairière: non ; pas de ruisseau proche ; identifiable: oui (nœud BD TOPO, 4 branches sentier/chemin)"
+  },
+  {
+   "nom": "Croisement Chemin×Chemin",
+   "position": "45.417450, 6.031760",
+   "dist_tour": "1.26 km",
+   "detail": "Chemin×4 ; dist château Bayard 1.20 km ; dist corridor 1.09 km ; clairière: non ; ruisseau(sans nom) à 146m ; identifiable: oui (nœud BD TOPO, 4 branches sentier/chemin)"
+  },
+  {
+   "nom": "Croisement Sentier×Sentier",
+   "position": "45.435520, 6.016560",
+   "dist_tour": "1.34 km",
+   "detail": "Sentier×4 ; dist château Bayard 1.36 km ; dist corridor 1.23 km ; clairière: non ; ruisseau(sans nom) à 149m ; identifiable: oui (nœud BD TOPO, 4 branches sentier/chemin)"
+  },
+  {
+   "nom": "Croisement Sentier×Sentier",
+   "position": "45.435780, 6.016640",
+   "dist_tour": "1.35 km",
+   "detail": "Sentier×4 ; dist château Bayard 1.39 km ; dist corridor 1.25 km ; clairière: non ; ruisseau(sans nom) à 120m ; identifiable: oui (nœud BD TOPO, 4 branches sentier/chemin)"
+  },
+  {
+   "nom": "Croisement Chemin × Sentier",
+   "position": "45.441340, 6.035030",
+   "dist_tour": "1.43 km",
+   "detail": "Chemin×3 + Sentier ; dist château Bayard 2.36 km ; dist corridor 1.41 km ; clairière: non ; pas de ruisseau proche ; identifiable: oui (nœud BD TOPO, 4 branches sentier/chemin)"
+  },
+  {
+   "nom": "Croisement Route empierrée × Chemin",
+   "position": "45.417290, 6.039320",
+   "dist_tour": "1.44 km",
+   "detail": "Chemin×2 + Route empierrée×2 ; dist château Bayard 1.73 km ; dist corridor 1.43 km ; clairière: non ; pas de ruisseau proche ; identifiable: oui (nœud BD TOPO, 4 branches sentier/chemin)"
+  },
+  {
+   "nom": "Croisement Route empierrée × Chemin",
+   "position": "45.422040, 6.047830",
+   "dist_tour": "1.53 km",
+   "detail": "Chemin×2 + Route empierrée×2 ; dist château Bayard 2.26 km ; dist corridor 1.52 km ; clairière: non ; ruisseau(sans nom) à 58m ; identifiable: oui (nœud BD TOPO, 4 branches sentier/chemin)"
+  },
+  {
+   "nom": "Croisement Sentier × Route empierrée",
+   "position": "45.432760, 6.011880",
+   "dist_tour": "1.54 km",
+   "detail": "Route empierrée×2 + Sentier×2 ; dist château Bayard 1.18 km ; dist corridor 1.17 km ; clairière: non ; pas de ruisseau proche ; identifiable: oui (nœud BD TOPO, 4 branches sentier/chemin)"
+  },
+  {
+   "nom": "Croisement Sentier×Sentier",
+   "position": "45.432760, 6.011720",
+   "dist_tour": "1.55 km",
+   "detail": "Sentier×4 ; dist château Bayard 1.19 km ; dist corridor 1.18 km ; clairière: non ; pas de ruisseau proche ; identifiable: oui (nœud BD TOPO, 4 branches sentier/chemin)"
+  },
+  {
+   "nom": "Croisement Sentier×Sentier",
+   "position": "45.432830, 6.011680",
+   "dist_tour": "1.56 km",
+   "detail": "Sentier×4 ; dist château Bayard 1.19 km ; dist corridor 1.19 km ; clairière: non ; pas de ruisseau proche ; identifiable: oui (nœud BD TOPO, 4 branches sentier/chemin)"
+  },
+  {
+   "nom": "Croisement Sentier×Sentier",
+   "position": "45.432720, 6.011590",
+   "dist_tour": "1.56 km",
+   "detail": "Sentier×4 ; dist château Bayard 1.19 km ; dist corridor 1.18 km ; clairière: non ; pas de ruisseau proche ; identifiable: oui (nœud BD TOPO, 4 branches sentier/chemin)"
+  },
+  {
+   "nom": "Croisement Chemin × Sentier",
+   "position": "45.428770, 6.053460",
+   "dist_tour": "1.77 km",
+   "detail": "Chemin×2 + Sentier×2 ; dist château Bayard 2.76 km ; dist corridor 1.75 km ; clairière: non ; ruisseau(sans nom) à 119m ; identifiable: oui (nœud BD TOPO, 4 branches sentier/chemin)"
+  },
+  {
+   "nom": "Croisement 5 sentiers/chemins",
+   "position": "45.426950, 6.054780",
+   "dist_tour": "1.89 km",
+   "detail": "Chemin + Route empierrée×2 + Sentier×2 ; dist château Bayard 2.83 km ; dist corridor 1.87 km ; clairière: non ; ruisseau(sans nom) à 137m ; identifiable: oui (nœud BD TOPO, 5 branches sentier/chemin)"
+  },
+  {
+   "nom": "Croisement Chemin × Sentier",
+   "position": "45.419050, 6.056320",
+   "dist_tour": "2.27 km",
+   "detail": "Chemin×3 + Sentier×2 ; dist château Bayard 2.96 km ; dist corridor 2.26 km ; clairière: non ; ruisseau(sans nom) à 99m ; identifiable: oui (nœud BD TOPO, 5 branches sentier/chemin)"
+  },
+  {
+   "nom": "Croisement 4 sentiers/chemins",
+   "position": "45.447770, 6.044250",
+   "dist_tour": "2.35 km",
+   "detail": "Chemin + Route empierrée×2 + Sentier ; dist château Bayard 3.36 km ; dist corridor 2.33 km ; clairière: non ; ruisseau(sans nom) à 125m ; identifiable: oui (nœud BD TOPO, 4 branches sentier/chemin)"
+  },
+  {
+   "nom": "Croisement Chemin × Sentier",
+   "position": "45.432880, 6.060300",
+   "dist_tour": "2.35 km",
+   "detail": "Chemin×3 + Sentier ; dist château Bayard 3.40 km ; dist corridor 2.33 km ; clairière: non ; ruisseau(sans nom) à 4m ; identifiable: oui (nœud BD TOPO, 4 branches sentier/chemin)"
+  },
+  {
+   "nom": "Croisement Chemin × Sentier",
+   "position": "45.411590, 6.048500",
+   "dist_tour": "2.35 km",
+   "detail": "Chemin×2 + Sentier×2 ; dist château Bayard 2.65 km ; dist corridor 2.35 km ; clairière: non ; ruisseau(sans nom) à 4m ; identifiable: oui (nœud BD TOPO, 4 branches sentier/chemin)"
+  },
+  {
+   "nom": "Croisement Chemin × Route empierrée",
+   "position": "45.443060, 6.007610",
+   "dist_tour": "2.40 km",
+   "detail": "Chemin×2 + Route empierrée×2 ; dist château Bayard 2.36 km ; dist corridor 2.31 km ; clairière: non ; ruisseau(sans nom) à 9m ; identifiable: oui (nœud BD TOPO, 4 branches sentier/chemin)"
+  },
+  {
+   "nom": "Croisement 4 sentiers/chemins",
+   "position": "45.406310, 6.030710",
+   "dist_tour": "2.49 km",
+   "detail": "Chemin + Route empierrée×2 + Sentier ; dist château Bayard 2.11 km ; dist corridor 2.10 km ; clairière: non ; ruisseau(sans nom) à 75m ; identifiable: oui (nœud BD TOPO, 4 branches sentier/chemin)"
+  }
+ ],
+ "roches": [
+  {
+   "nom": "LE CHENE LA ROCHE ET LE VIVIER",
+   "position": "45.42827, 6.03232",
+   "dist_tour": "0.13 km",
+   "type": "lieu-dit cadastral (Saint-Maximin) ; contient 'LA ROCHE' + chêne + vivier ; dist château Bayard 1.18 km ; identifiable: oui (nom officiel cadastre)"
+  },
+  {
+   "nom": "PIERRE GROS",
+   "position": "45.43208, 6.03398",
+   "dist_tour": "0.44 km",
+   "type": "lieu-dit cadastral (Saint-Maximin), 'pierre gros' = grosse pierre ; dist château Bayard 1.52 km ; identifiable: oui (nom)"
+  },
+  {
+   "nom": "LE ROCHAT",
+   "position": "45.41607, 6.02909",
+   "dist_tour": "1.42 km",
+   "type": "lieu-dit cadastral + toponymie BD TOPO (Lieu-dit habité) ; dist château Bayard 1.13 km ; identifiable: oui"
+  },
+  {
+   "nom": "COTE ROCHAT",
+   "position": "45.43136, 6.05886",
+   "dist_tour": "2.21 km",
+   "type": "lieu-dit cadastral + toponymie + detail_orographique (Crête) ; dist château Bayard 3.24 km ; identifiable: oui"
+  },
+  {
+   "nom": "ROCHE MORTE",
+   "position": "45.40410, 6.01379",
+   "dist_tour": "3.07 km",
+   "type": "lieu-dit cadastral (Pontcharra) + toponymie BD TOPO (Lieu-dit habité, 'maison de roche morte') ; dist château Bayard 2.18 km ; identifiable: oui"
+  }
+ ],
+ "conclusion": "Coordonnées utilisées : tour d'Avalon = 45.42887, 6.03101 (toponyme BD TOPO 'tour d'avallon', Saint-Maximin) ; château Bayard = 45.42337, 6.01894 (toponyme 'château bayard', Pontcharra). NOTE : les coordonnées 45.4931, 6.1497 données dans la tâche sont erronées (à ~11 km au NE, hors Saint-Maximin) ; toutes les données IGN et tous les rapports T1-T4 utilisent 45.4288, 6.0308. Ruisseaux : 24 cours d'eau nommés + 193 tronçons 'écoulement naturel' sans nom dans 5 km ; le plus proche est le Ruisseau de Rebouchet (0.42 km de la tour, 0.18 km de Bayard, coule ONO), puis le Bréda (0.49 km, coule NNO) ; aucun ruisseau sans nom à moins de 300 m du corridor Bayard→Avalon. Intersections : 22 croisements réels de 2+ sentiers/chemins (≥4 branches) dans 2,5 km, aucun en clairière, aucun cumulant clairière+eau ; le plus proche de la tour est à 720 m (4 sentiers, 45.43124, 6.02224). Roches : AUCUN bloc rocheux ni 'Rochers' cartographié dans 5 km (le plus proche : Rocher de Saint-Georges à 5,41 km ; les 5 'Bloc rocheux isolé' IGN sont à >9,3 km) → cohérent avec FAQ07-126 ('grande roche non visible sur Maps'). Seuls 2 toponymes de roche sont proches de la tour : LE CHENE LA ROCHE ET LE VIVIER (0,13 km, contient 'LA ROCHE') et PIERRE GROS (0,44 km, 'grosse pierre'). Faux positifs écartés : PRE CROCHET (crochet ≠ roche), lycée Pierre de Terrail (bâtiment, nom de Bayard), Saint-Roch (saint). Aucune correspondance 1,85 km cherchée (consigne)."
+}

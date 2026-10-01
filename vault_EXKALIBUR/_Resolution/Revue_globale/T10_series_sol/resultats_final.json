@@ -1,0 +1,344 @@
+{
+ "familles": [
+  {
+   "famille": "ponts",
+   "nb_elements": 66,
+   "paires_1850m": [
+    {
+     "i": 0,
+     "j": 39,
+     "dist_m": 1839.7,
+     "A": {
+      "lat": 45.4506,
+      "lon": 6.04259
+     },
+     "B": {
+      "lat": 45.45478,
+      "lon": 6.06541
+     }
+    },
+    {
+     "i": 1,
+     "j": 34,
+     "dist_m": 1849.3,
+     "A": {
+      "lat": 45.42002,
+      "lon": 6.01462
+     },
+     "B": {
+      "lat": 45.43646,
+      "lon": 6.0182
+     }
+    },
+    {
+     "i": 1,
+     "j": 46,
+     "dist_m": 1844.0,
+     "A": {
+      "lat": 45.42002,
+      "lon": 6.01462
+     },
+     "B": {
+      "lat": 45.40537,
+      "lon": 6.00355
+     }
+    },
+    {
+     "i": 2,
+     "j": 44,
+     "dist_m": 1848.9,
+     "A": {
+      "lat": 45.43566,
+      "lon": 6.03903
+     },
+     "B": {
+      "lat": 45.4237,
+      "lon": 6.02257
+     }
+    },
+    {
+     "i": 6,
+     "j": 25,
+     "dist_m": 1863.4,
+     "A": {
+      "lat": 45.44762,
+      "lon": 6.02666
+     },
+     "B": {
+      "lat": 45.44341,
+      "lon": 6.00354
+     }
+    },
+    {
+     "i": 6,
+     "j": 41,
+     "dist_m": 1866.0,
+     "A": {
+      "lat": 45.44762,
+      "lon": 6.02666
+     },
+     "B": {
+      "lat": 45.43113,
+      "lon": 6.02222
+     }
+    },
+    {
+     "i": 8,
+     "j": 38,
+     "dist_m": 1839.5,
+     "A": {
+      "lat": 45.43949,
+      "lon": 6.05303
+     },
+     "B": {
+      "lat": 45.45392,
+      "lon": 6.06456
+     }
+    },
+    {
+     "i": 9,
+     "j": 45,
+     "dist_m": 1847.5,
+     "A": {
+      "lat": 45.42666,
+      "lon": 6.00822
+     },
+     "B": {
+      "lat": 45.41075,
+      "lon": 6.01504
+     }
+    },
+    {
+     "i": 12,
+     "j": 63,
+     "dist_m": 1857.3,
+     "A": {
+      "lat": 45.41663,
+      "lon": 6.0091
+     },
+     "B": {
+      "lat": 45.4333,
+      "lon": 6.00761
+     }
+    },
+    {
+     "i": 15,
+     "j": 63,
+     "dist_m": 1833.9,
+     "A": {
+      "lat": 45.41681,
+      "lon": 6.00805
+     },
+     "B": {
+      "lat": 45.4333,
+      "lon": 6.00761
+     }
+    },
+    {
+     "i": 16,
+     "j": 21,
+     "dist_m": 1849.8,
+     "A": {
+      "lat": 45.42357,
+      "lon": 6.01098
+     },
+     "B": {
+      "lat": 45.4402,
+      "lon": 6.0116
+     }
+    },
+    {
+     "i": 18,
+     "j": 65,
+     "dist_m": 1832.9,
+     "A": {
+      "lat": 45.42227,
+      "lon": 6.0087
+     },
+     "B": {
+      "lat": 45.43255,
+      "lon": 6.02706
+     }
+    },
+    {
+     "i": 27,
+     "j": 59,
+     "dist_m": 1834.6,
+     "A": {
+      "lat": 45.44368,
+      "lon": 6.01427
+     },
+     "B": {
+      "lat": 45.45236,
+      "lon": 6.03427
+     }
+    },
+    {
+     "i": 35,
+     "j": 37,
+     "dist_m": 1833.2,
+     "A": {
+      "lat": 45.42457,
+      "lon": 5.99798
+     },
+     "B": {
+      "lat": 45.41159,
+      "lon": 6.01246
+     }
+    },
+    {
+     "i": 41,
+     "j": 51,
+     "dist_m": 1847.0,
+     "A": {
+      "lat": 45.43113,
+      "lon": 6.02222
+     },
+     "B": {
+      "lat": 45.41452,
+      "lon": 6.022
+     }
+    },
+    {
+     "i": 42,
+     "j": 47,
+     "dist_m": 1856.1,
+     "A": {
+      "lat": 45.43548,
+      "lon": 5.98638
+     },
+     "B": {
+      "lat": 45.44297,
+      "lon": 6.00764
+     }
+    },
+    {
+     "i": 45,
+     "j": 50,
+     "dist_m": 1854.2,
+     "A": {
+      "lat": 45.41075,
+      "lon": 6.01504
+     },
+     "B": {
+      "lat": 45.42244,
+      "lon": 5.9981
+     }
+    },
+    {
+     "i": 55,
+     "j": 61,
+     "dist_m": 1861.9,
+     "A": {
+      "lat": 45.41931,
+      "lon": 5.98244
+     },
+     "B": {
+      "lat": 45.40647,
+      "lon": 5.99775
+     }
+    }
+   ],
+   "verdict": "favori"
+  },
+  {
+   "famille": "passerelles",
+   "nb_elements": 2,
+   "paires_1850m": [],
+   "verdict": "écarté (n=2 < 13)"
+  },
+  {
+   "famille": "croix",
+   "nb_elements": 8,
+   "paires_1850m": [],
+   "verdict": "écarté (n=8 < 13)"
+  },
+  {
+   "famille": "bornes",
+   "nb_elements": 0,
+   "paires_1850m": [],
+   "verdict": "écarté (absent)"
+  },
+  {
+   "famille": "gués",
+   "nb_elements": 0,
+   "paires_1850m": [],
+   "verdict": "écarté (absent)"
+  },
+  {
+   "famille": "sources_fontaines_lavoirs",
+   "nb_elements": 36,
+   "paires_1850m": [
+    {
+     "i": 13,
+     "j": 16,
+     "dist_m": 1865.6,
+     "A": {
+      "lat": 45.40627,
+      "lon": 6.02168
+     },
+     "B": {
+      "lat": 45.42071,
+      "lon": 6.03385
+     }
+    },
+    {
+     "i": 22,
+     "j": 25,
+     "dist_m": 1845.6,
+     "A": {
+      "lat": 45.42759,
+      "lon": 6.04072
+     },
+     "B": {
+      "lat": 45.41164,
+      "lon": 6.04726
+     }
+    },
+    {
+     "i": 30,
+     "j": 35,
+     "dist_m": 1857.4,
+     "A": {
+      "lat": 45.42234,
+      "lon": 6.03446
+     },
+     "B": {
+      "lat": 45.4388,
+      "lon": 6.03041
+     }
+    }
+   ],
+   "verdict": "écarté (matière pierre/eau, pas de bois ; 3 paires = bruit)"
+  },
+  {
+   "famille": "arbres_remarquables",
+   "nb_elements": 0,
+   "paires_1850m": [],
+   "verdict": "écarté (absent)"
+  },
+  {
+   "famille": "pierres_plantées",
+   "nb_elements": 0,
+   "paires_1850m": [],
+   "verdict": "écarté (absent)"
+  },
+  {
+   "famille": "sections_empierrées",
+   "nb_elements": 361,
+   "paires_1850m": [
+    {
+     "note": "469 paires, bruit statistique (attendu ≈556)"
+    }
+   ],
+   "verdict": "écarté (bruit pur ; empierrée = pierre, incompatible bois n°11)"
+  },
+  {
+   "famille": "seuils_barrages",
+   "nb_elements": 1,
+   "paires_1850m": [],
+   "verdict": "écarté (n=1)"
+  }
+ ],
+ "conclusion": "Balayage BDTOPO_V3 complet des 10 familles dans 4 km autour de la tour d'Avalon. Aucune famille ne présente de signal statistique net : toutes les paires à 1850 m sont au niveau du hasard (ponts 18 paires pour 18,4 attendues ; fontaines 3 pour 5,4 ; empierrées 469 pour 556). Les ponts sont la seule famille compatible avec toutes les contraintes physiques (≥13 éléments, matière mixte pierre/bois, surface où l'on marche, proximité eau) => FAVORI par élimination. La paire n°3-n°11 exacte reste indéterminée : la BDTOPO ne contient aucun champ d'ordre, et les ponts nommés (Pont des Lots, des Bretonnières, du Furet, de la Gache, Mathieu, des Mollettes) sont répartis sur des ruisseaux distincts sans série linéaire évidente."
+}

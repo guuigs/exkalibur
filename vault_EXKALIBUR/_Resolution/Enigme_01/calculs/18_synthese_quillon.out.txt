@@ -1,0 +1,51 @@
+==================================================================================================================================
+SYNTHESE QUILLON EST — 'pres de 11 lieues vers le Couchant depuis Rennes-le-Chateau,'
+'dans ce chateau ou brule la memoire du pays cathare'
+==================================================================================================================================
+
+candidat                           km  cap |     l.commune 4,4448        l.Paris 3,898     l.metrique 4,000       l.Artois 3,975     l.Gascogne 5,847       l.marine 5,556  1/25 degre (lieues  | dlon_l. naive_l.
+Château de Gudanes               50.1  252 |                11.27                12.85                12.52                12.60                 8.57                 9.02                11.25 |    14.56    15.00   [feu 0/3]
+Chapelle de Lujat                50.9  257 |                11.46                13.07                12.74                12.82                 8.71                 9.17                11.44 |    15.20    15.43   [feu 0/3]
+Castella                         51.6  268 |                11.62                13.25                12.91                12.99                 8.83                 9.29                11.60 |    15.84    15.85   [feu 0/3]
+Château de Lordat                45.2  248 |                10.17                11.59                11.30                11.37                 7.73                 8.13                10.15 |    12.86    13.40   [feu 1/3]
+Château de Foix                  53.7  275 |                12.09                13.78                13.43                13.52                 9.19                 9.67                12.07 |    16.45    16.48   [feu 1/3]
+Château de Roquefixade           41.5  272 |                 9.34                10.65                10.37                10.44                 7.10                 7.47                 9.32 |    12.74    12.74   [feu 1/3]
+Château de Miglos                56.7  255 |                12.75                14.54                14.17                14.26                 9.69                10.20                12.73 |    16.80    17.12   [feu 0/3]
+Château de Calamès               57.7  264 |                12.99                14.81                14.44                14.53                 9.88                10.39                12.97 |    17.61    17.67   [feu 0/3]
+Château de Montségur             35.5  261 |                 7.99                 9.11                 8.88                 8.93                 6.07                 6.39                 7.97 |    10.76    10.83   [feu 3/3]
+Château de Montaillou            33.6  242 |                 7.56                 8.62                 8.40                 8.46                 5.75                 6.05                 7.55 |     9.13     9.78   [feu 1/3]
+Château de Montréal-de-Sos       65.6  254 |                14.76                16.83                16.40                16.51                11.22                11.81                14.73 |    19.33    19.76   [feu 1/3]
+Castella                         66.4  286 |                14.94                17.04                16.61                16.71                11.36                11.96                14.92 |    19.66    20.07   [feu 0/3]
+Château de Puivert               16.9  268 |                 3.80                 4.34                 4.23                 4.25                 2.89                 3.04                 3.80 |     5.19     5.19   [feu 1/3]
+
+Qui donne 11 a moins de 4 % ? (|lieues-11|/11 <= 0.04)
+  - Château de Gudanes             : l.commune 4,4448 ; 1/25 degre (lieues de 25 au degre)   [feu 0/3]
+  - Château de Lordat              : l.metrique 4,000 ; l.Artois 3,975   [feu 1/3]
+  - Château de Roquefixade         : l.Paris 3,898   [feu 1/3]
+  - Château de Montségur           : 1/25 degre en LONGITUDE (11/25 = 0,44 deg de lon) ; distance en degres sur carte plate (sqrt(dlat^2+dlon^2))   [feu 3/3]
+  - Château de Montréal-de-Sos     : l.Gascogne 5,847   [feu 1/3]
+  - Castella                       : l.Gascogne 5,847   [feu 0/3]
+
+### Anatomie de l'epee : ces chateaux rendent-ils une croix plausible ?
+   (angle a Lombrives entre la lame Lombrives->Urquhart et le quillon Lombrives->Leon ;
+    ecart du chateau a la droite Mercator Leon->Lombrives = alignement garde/rocher ;
+    intersection garde x axe Urquhart->Valence)
+   Château de Puivert             croix= 77.3 deg | aligne garde-rocher ecart   -9.4 km | garde x axe = 42.8551, -0.9493 (   12 km de Jaca)
+   Château de Montaillou          croix= 77.3 deg | aligne garde-rocher ecart    5.0 km | garde x axe = 42.7730, -0.9346 (    4 km de Jaca)
+   Château de Montségur           croix= 77.3 deg | aligne garde-rocher ecart   -5.1 km | garde x axe = 42.8282, -0.9445 (    9 km de Jaca)
+   Château de Roquefixade         croix= 77.3 deg | aligne garde-rocher ecart  -12.3 km | garde x axe = 42.8679, -0.9516 (   14 km de Jaca)
+   Château de Lordat              croix= 77.3 deg | aligne garde-rocher ecart    5.7 km | garde x axe = 42.7654, -0.9333 (    3 km de Jaca)
+   Château de Gudanes             croix= 77.3 deg | aligne garde-rocher ecart    4.6 km | garde x axe = 42.7701, -0.9341 (    4 km de Jaca)
+   Chapelle de Lujat              croix= 77.3 deg | aligne garde-rocher ecart    0.4 km | garde x axe = 42.7940, -0.9384 (    6 km de Jaca)
+   Castella                       croix= 77.3 deg | aligne garde-rocher ecart   -9.3 km | garde x axe = 42.8494, -0.9483 (   12 km de Jaca)
+   Château de Foix                croix= 77.3 deg | aligne garde-rocher ecart  -15.9 km | garde x axe = 42.8868, -0.9550 (   16 km de Jaca)
+   Château de Miglos              croix= 77.3 deg | aligne garde-rocher ecart    2.9 km | garde x axe = 42.7781, -0.9355 (    4 km de Jaca)
+   Château de Calamès             croix= 77.3 deg | aligne garde-rocher ecart   -5.4 km | garde x axe = 42.8254, -0.9440 (    9 km de Jaca)
+   Château de Montréal-de-Sos     croix= 77.3 deg | aligne garde-rocher ecart    6.2 km | garde x axe = 42.7561, -0.9316 (    3 km de Jaca)
+   Castella                       croix= 77.3 deg | aligne garde-rocher ecart  -29.9 km | garde x axe = 42.9685, -0.9696 (   25 km de Jaca)
+
+### Points de reference pour 'pres de 11 lieues' (les 3 lectures testees)
+   11 l.commune plein ouest (48,9 km)   ->  42.926,  1.6622 | plus proches : Castella 3.4 km ; Château de Foix 6.5 km ; Château de Roquefixade 7.5 km
+   11 l.Paris plein ouest (42,9 km)     ->  42.926,  1.7361 | plus proches : Château de Roquefixade 2.0 km ; Castella 8.9 km ; Château de Montségur 9.6 km
+   11 l.metrique plein ouest (44,0 km)  ->  42.926,  1.7223 | plus proches : Château de Roquefixade 2.9 km ; Castella 7.9 km ; Château de Foix 10.5 km
+   11/25 degre de LONGITUDE             ->  42.927,  1.8227 | plus proches : Château de Montségur 5.8 km ; Château de Roquefixade 5.8 km ; Castella 15.9 km

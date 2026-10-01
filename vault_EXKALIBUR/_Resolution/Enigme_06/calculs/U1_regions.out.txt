@@ -1,0 +1,15 @@
+sans coord Cabranes
+
+== Iberie NO (Graal Galice, vin/cidre): n=9 tot=378 hits(341,61)=5 hits(342,01)=5 ; hasard moyen=2.00
+   O>E Cambados > Compostelle > Cebreiro > Covadonga L=344.54 croise lame=False
+   O>E Cambados > Compostelle > Cebreiro > CangasOnis L=339.74 croise lame=False
+   N>S CangasOnis > Covadonga > Compostelle > Cambados L=341.54 croise lame=False
+   O>E Cambados > Compostelle > Cudillero > CangasOnis L=339.61 croise lame=False
+   O>E Cambados > Cudillero > CangasOnis > Covadonga L=338.70 croise lame=False
+   O>E Cambados > Compostelle > Cebreiro > Covadonga L=344.54 croise lame=False
+   O>E Cambados > Compostelle > Cebreiro > CangasOnis L=339.74 croise lame=False
+   N>S CangasOnis > Covadonga > Compostelle > Cambados L=341.54 croise lame=False
+   O>E Cambados > Compostelle > Cudillero > CangasOnis L=339.61 croise lame=False
+   O>E Cambados > Cudillero > CangasOnis > Covadonga L=338.70 croise lame=False
+
+== (i) 2 boissons + 2 Normandie : 0 hits / 24024 chaînes (0.00 %) ; hasard (D aléatoire, 15 tirages) : 2.0 hits moyens

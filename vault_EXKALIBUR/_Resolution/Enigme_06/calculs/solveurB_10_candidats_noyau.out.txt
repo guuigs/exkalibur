@@ -1,0 +1,134 @@
+Cibles D (km): {'Sainte-Chapelle': 341.61, 'Notre-Dame': 342.01, 'Sainte-Chapelle de Vincennes': 346.21, 'Saint-Denis': 334.43, 'Chartres': 360.33}
+43 lieux ; 1,480,920 chaînes ; fenêtre ±1 %
+
+Sainte-Chapelle            D=  341.60 :  132 chaînes ±1 % ; ordre évident : 41 ; + sans croiser la lame : 33
+       341.8 (+0.06 %) Chartres - Chelles - Cambrai - Crécy
+       342.0 (+0.12 %) Caerleon - Cadbury Castle (Camelot) - Chichester - Cherbourg
+       341.2 (-0.12 %) Chelles - Clairefontaine - Caen - Cherbourg
+       342.2 (+0.17 %) Clermont - Cîteaux - Champmol - Chaource
+       341.0 (-0.18 %) Clermont - Cluny - Cîteaux - Clairvaux
+       342.3 (+0.20 %) Caerleon - Cadbury Castle (Camelot) - Cherbourg - Caen
+       340.8 (-0.24 %) Cîteaux - Clairvaux - Chaource - Clairefontaine
+       342.5 (+0.26 %) Caerleon - Chichester - Cressing Temple - Colchester
+
+Notre-Dame de Paris        D=  342.01 :  133 chaînes ±1 % ; ordre évident : 42 ; + sans croiser la lame : 34
+       342.0 (-0.00 %) Caerleon - Cadbury Castle (Camelot) - Chichester - Cherbourg
+       342.2 (+0.06 %) Clermont - Cîteaux - Champmol - Chaource
+       341.8 (-0.06 %) Chartres - Chelles - Cambrai - Crécy
+       342.3 (+0.08 %) Caerleon - Cadbury Castle (Camelot) - Cherbourg - Caen
+       342.5 (+0.14 %) Caerleon - Chichester - Cressing Temple - Colchester
+       342.6 (+0.17 %) Caerleon - Cerne Abbas - Cherbourg - Caen
+       342.7 (+0.20 %) Cadbury Castle (Camelot) - Cerne Abbas - Chichester - Crécy
+       341.2 (-0.24 %) Chelles - Clairefontaine - Caen - Cherbourg
+
+Ste-Chapelle Vincennes     D=  346.21 :  141 chaînes ±1 % ; ordre évident : 52 ; + sans croiser la lame : 43
+       346.3 (+0.03 %) Cherbourg - Chichester - Cressing Temple - Cambridge
+       346.1 (-0.03 %) Clairvaux - Chaource - Corbie - Cambrai
+       346.4 (+0.06 %) Chichester - Colchester - Canterbury - Cassel
+       346.0 (-0.06 %) Cambrai - Crécy - Canterbury - Cambridge
+       345.9 (-0.09 %) Chartres - Chelles - Chaource - Champmol
+       346.6 (+0.11 %) Cambrai - Crécy - Cressing Temple - Cambridge
+       345.8 (-0.12 %) Canterbury - Calais - Cambrai - Chelles
+       346.7 (+0.14 %) Chaource - Clairefontaine - Compiègne - Corbie
+
+Saint-Denis                D=  334.42 :  150 chaînes ±1 % ; ordre évident : 48 ; + sans croiser la lame : 35
+       334.5 (+0.02 %) Cressing Temple - Calais - Cassel - Compiègne
+       334.6 (+0.05 %) Cîteaux - Champmol - Clairvaux - Clairefontaine
+       334.6 (+0.05 %) Chartres - Compiègne - Crécy - Cassel
+       334.6 (+0.05 %) Colchester - Cassel - Crécy - Cambrai
+       334.7 (+0.08 %) Cambrai - Calais - Canterbury - Chichester
+       333.8 (-0.19 %) Cadbury Castle (Camelot) - Chichester - Canterbury - Cressing Temple
+       333.7 (-0.22 %) Chartres - Chelles - Corbie - Calais
+       335.2 (+0.23 %) Chartres - Chelles - Compiègne - Chaource
+
+Chartres                   D=  360.33 :  177 chaînes ±1 % ; ordre évident : 59 ; + sans croiser la lame : 48
+       360.5 (+0.05 %) Caerleon - Cadbury Castle (Camelot) - Chichester - Cambridge
+       360.5 (+0.05 %) Caerleon - Cerne Abbas - Chichester - Cherbourg
+       360.1 (-0.06 %) Clairvaux - Compiègne - Corbie - Cassel
+       360.6 (+0.07 %) Canterbury - Cressing Temple - Cambridge - Cerne Abbas
+       360.6 (+0.07 %) Canterbury - Calais - Compiègne - Clairefontaine
+       360.0 (-0.09 %) Canterbury - Calais - Chelles - Clairefontaine
+       360.9 (+0.16 %) Cluny - Clermont - Conques - Cahors
+       361.0 (+0.19 %) Cambrai - Cassel - Crécy - Chichester
+
+Vézelay                    D=  527.43 : 1347 chaînes ±1 % ; ordre évident : 404 ; + sans croiser la lame : 310
+       527.4 (-0.01 %) Clermont - Cluny - Champmol - Compiègne
+       527.4 (-0.01 %) Chartres - Compiègne - Cassel - Cambridge
+       527.4 (-0.01 %) Chartres - Clairefontaine - Cambrai - Chichester
+       527.4 (-0.01 %) Cologne - Cassel - Corbie - Chelles
+       527.4 (-0.01 %) Chelles - Compiègne - Chichester - Cambridge
+       527.5 (+0.01 %) Clairvaux - Chaource - Clairefontaine - Canterbury
+       527.5 (+0.01 %) Caen - Cherbourg - Cadbury Castle (Camelot) - Colchester
+       527.5 (+0.01 %) Cambrai - Cressing Temple - Chichester - Cerne Abbas
+
+Mont-Saint-Michel          D=  367.83 :  219 chaînes ±1 % ; ordre évident : 80 ; + sans croiser la lame : 75
+       367.9 (+0.02 %) Caen - Canterbury - Calais - Cassel
+       367.9 (+0.02 %) Cambrai - Corbie - Calais - Cambridge
+       367.9 (+0.02 %) Compiègne - Corbie - Calais - Cambridge
+       368.0 (+0.05 %) Chartres - Corbie - Cambrai - Calais
+       368.0 (+0.05 %) Caen - Chartres - Chelles - Corbie
+       368.0 (+0.05 %) Compiègne - Calais - Cressing Temple - Cambridge
+       367.6 (-0.06 %) Cîteaux - Champmol - Clairvaux - Cambrai
+       367.6 (-0.06 %) Colchester - Crécy - Corbie - Chelles
+
+Sainte-Baume               D= 1010.18 : 14462 chaînes ±1 % ; ordre évident : 2365 ; + sans croiser la lame : 1525
+      1010.2 (+0.00 %) Cluny - Chaource - Cadbury Castle (Camelot) - Chester
+      1010.2 (+0.00 %) Cluny - Compiègne - Caerleon - Chester
+      1010.2 (+0.00 %) Cadouin - Chinon - Canterbury - Caerleon
+      1010.2 (+0.00 %) Conques - Cluny - Cassel - Chichester
+      1010.2 (+0.00 %) Conques - Corbie - Chichester - Cambridge
+      1010.2 (+0.00 %) Cadbury Castle (Camelot) - Cassel - Clairvaux - Chartreuse
+      1010.2 (+0.00 %) Carcassonne - Cahors - Calais - Cressing Temple
+      1010.2 (+0.00 %) Carcassonne - Compiègne - Cassel - Colchester
+
+Saintes (17)               D=  657.31 : 3488 chaînes ±1 % ; ordre évident : 851 ; + sans croiser la lame : 630
+       657.3 (-0.00 %) Cadouin - Chartres - Chaource - Clairvaux
+       657.3 (-0.00 %) Chartres - Caen - Cadbury Castle (Camelot) - Chester
+       657.3 (-0.00 %) Conques - Clairefontaine - Corbie - Crécy
+       657.3 (-0.00 %) Conques - Clairefontaine - Chelles - Cambrai
+       657.3 (-0.00 %) Cologne - Corbie - Canterbury - Chichester
+       657.3 (-0.00 %) Chelles - Corbie - Cressing Temple - Cherbourg
+       657.4 (+0.01 %) Chartres - Chelles - Cassel - Cerne Abbas
+       657.4 (+0.01 %) Caen - Cerne Abbas - Cambridge - Calais
+
+Reims                      D=  390.02 :  285 chaînes ±1 % ; ordre évident : 95 ; + sans croiser la lame : 79
+       390.0 (-0.01 %) Clairvaux - Corbie - Crécy - Cassel
+       390.0 (-0.01 %) Conques - Cadouin - Charroux - Chinon
+       390.0 (-0.01 %) Compiègne - Cassel - Canterbury - Cambridge
+       389.9 (-0.03 %) Cîteaux - Chelles - Compiègne - Corbie
+       389.8 (-0.06 %) Cluny - Cîteaux - Champmol - Compiègne
+       390.3 (+0.07 %) Clairvaux - Chelles - Clairefontaine - Corbie
+       389.7 (-0.08 %) Clairvaux - Chaource - Cambrai - Crécy
+       390.4 (+0.10 %) Chester - Caerleon - Cerne Abbas - Chichester
+
+Saintes-Maries-de-la-Mer   D=  957.99 : 12910 chaînes ±1 % ; ordre évident : 2310 ; + sans croiser la lame : 1510
+       958.0 (+0.00 %) Clermont - Cherbourg - Cadbury Castle (Camelot) - Cressing Temple
+       958.0 (+0.00 %) Cadouin - Chaource - Compiègne - Cologne
+       958.0 (+0.00 %) Clairvaux - Cologne - Calais - Caen
+       958.0 (+0.00 %) Conques - Cluny - Clairefontaine - Cressing Temple
+       958.0 (+0.00 %) Conques - Chinon - Cherbourg - Cassel
+       958.0 (+0.00 %) Canterbury - Cîteaux - Cluny - Charroux
+       958.0 (+0.00 %) Canterbury - Crécy - Cîteaux - Cahors
+       958.0 (+0.00 %) Canterbury - Crécy - Caen - Chartreuse
+
+Rosslyn                    D=  676.68 : 4280 chaînes ±1 % ; ordre évident : 1056 ; + sans croiser la lame : 779
+       676.7 (+0.00 %) Cluny - Chelles - Chartres - Charroux
+       676.7 (+0.00 %) Cluny - Calais - Canterbury - Colchester
+       676.7 (+0.00 %) Clairvaux - Chartreuse - Conques - Cahors
+       676.7 (+0.00 %) Cadbury Castle (Camelot) - Cressing Temple - Colchester - Carlisle
+       676.7 (+0.00 %) Caen - Cadbury Castle (Camelot) - Colchester - Cassel
+       676.7 (+0.00 %) Colchester - Canterbury - Chartres - Champmol
+       676.7 (+0.00 %) Chester - Cadbury Castle (Camelot) - Cerne Abbas - Cambrai
+       676.7 (+0.00 %) Charroux - Chinon - Chichester - Cressing Temple
+
+Glastonbury                D=  301.93 :   71 chaînes ±1 % ; ordre évident : 25 ; + sans croiser la lame : 22
+       301.9 (-0.01 %) Crécy - Cassel - Colchester - Cambridge
+       301.5 (-0.14 %) Clairvaux - Chelles - Compiègne - Corbie
+       302.4 (+0.16 %) Cressing Temple - Cambridge - Cadbury Castle (Camelot) - Cerne Abbas
+       301.3 (-0.21 %) Crécy - Cassel - Cressing Temple - Cambridge
+       301.1 (-0.27 %) Canterbury - Cassel - Crécy - Compiègne
+       300.7 (-0.41 %) Cassel - Crécy - Compiègne - Clairefontaine
+       300.6 (-0.44 %) Cambrai - Corbie - Crécy - Clairefontaine
+       303.3 (+0.45 %) Chartres - Clairefontaine - Compiègne - Cassel
+
+Canterbury                 D=  134.86 :    1 chaînes ±1 % ; ordre évident : 0 ; + sans croiser la lame : 0

@@ -1,0 +1,31 @@
+wiki fr: {'Abbaye de la Chaise-Dieu': (45.3208, 3.6961, 'Abbaye de La Chaise-Dieu'), 'Souvigny': (46.53555556, 3.19277778, 'Souvigny'), 'Limoges': (45.85, 1.25, 'Limoges'), 'Troyes': (48.297419, 4.074263, 'Troyes'), 'Barbonne-Fayel': (48.6578, 3.6969, 'Barbonne-Fayel')}
+
+== chaînes a priori
+U1 Urbain II chrono : Chaise-Dieu(18/08/1095) > Cluny(11/09-25/10) > Clermont(nov 1095) > Carcassonne(1096)
+    L= 577.19 km  écart/341,60 = +68.97 %  /342,01 = +68.77 %  croise lame: False  jambes: Chaise-Dieu-Cluny 144.5, Cluny-Clermont 141.5, Clermont-Carcassonne 291.2
+U2 Urbain II sans Chaise-Dieu (3 C seulement) Cluny > Clermont > Carcassonne
+    L= 432.65 km  écart/341,60 = +26.65 %  /342,01 = +26.50 %  croise lame: False  jambes: Cluny-Clermont 141.5, Clermont-Carcassonne 291.2
+U3 Cluny > Clermont > Cahors > Carcassonne (non attesté, pour mémoire)
+    L= 493.12 km  écart/341,60 = +44.36 %  /342,01 = +44.18 %  croise lame: False  jambes: Cluny-Clermont 141.5, Clermont-Cahors 196.3, Cahors-Carcassonne 155.3
+J1 pistes joueurs : Clermont > Cluny > Cîteaux > Clairvaux (ordre géographique, non chronologique)
+    L= 340.99 km  écart/341,60 = -0.18 %  /342,01 = -0.30 %  croise lame: False  jambes: Clermont-Cluny 141.5, Cluny-Cîteaux 83.9, Cîteaux-Clairvaux 115.6
+J2 Cluny > Clermont > Cadouin (3 C, piste Guilhem)
+    L= 345.21 km  écart/341,60 = +1.06 %  /342,01 = +0.94 %  croise lame: False  jambes: Cluny-Clermont 141.5, Clermont-Cadouin 203.7
+
+== permutations de {Chaise-Dieu, Cluny, Clermont, Carcassonne}
+   Chaise-Dieu > Cluny > Carcassonne > Clermont             837.45 
+   Chaise-Dieu > Clermont > Carcassonne > Cluny             762.56 
+   Chaise-Dieu > Carcassonne > Cluny > Clermont             800.89 
+   Chaise-Dieu > Carcassonne > Clermont > Cluny             690.30 
+   Clermont > Chaise-Dieu > Carcassonne > Cluny             729.05 
+   Clermont > Carcassonne > Chaise-Dieu > Cluny             693.35 
+   Carcassonne > Chaise-Dieu > Cluny > Clermont             543.69 
+   Carcassonne > Chaise-Dieu > Clermont > Cluny             468.79 
+   Carcassonne > Cluny > Chaise-Dieu > Clermont             615.95 
+   Carcassonne > Cluny > Clermont > Chaise-Dieu             612.89 
+   Carcassonne > Clermont > Chaise-Dieu > Cluny             505.35 
+   Carcassonne > Clermont > Cluny > Chaise-Dieu             577.19 
+
+pool France : 67 lieux
+tirage aléatoire de 4 lieux en C (France) : P(existe un ordre à ±1 % de 341,6) = 0.74 %  ; P(plus court chemin à ±1 %) = 0.23 %  (N=30000)
+une chaîne d'ordre fixé (tirage ordonné) tombe à ±1 % : 0.063 %

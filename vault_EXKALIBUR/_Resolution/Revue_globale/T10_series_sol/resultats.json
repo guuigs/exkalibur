@@ -1,0 +1,445 @@
+{
+ "centre": {
+  "lat": 45.4288,
+  "lon": 6.0308,
+  "nom": "tour d_Avalon, Saint-Maximin (Isere)"
+ },
+ "fenetre_paire_m": [
+  1831.5,
+  1868.5
+ ],
+ "familles": {
+  "ponts": {
+   "label": "Ponts (nature=Pont)",
+   "n_4km": 66,
+   "n_paires_1850m": 18,
+   "verdict": "favori",
+   "paires": [
+    {
+     "idx": [
+      0,
+      39
+     ],
+     "dist_m": 1839.7,
+     "A": {
+      "lat": 45.4506,
+      "lon": 6.04259,
+      "topo": null
+     },
+     "B": {
+      "lat": 45.45478,
+      "lon": 6.06541,
+      "topo": null
+     }
+    },
+    {
+     "idx": [
+      1,
+      34
+     ],
+     "dist_m": 1849.3,
+     "A": {
+      "lat": 45.42002,
+      "lon": 6.01462,
+      "topo": null
+     },
+     "B": {
+      "lat": 45.43646,
+      "lon": 6.0182,
+      "topo": null
+     }
+    },
+    {
+     "idx": [
+      1,
+      46
+     ],
+     "dist_m": 1844.0,
+     "A": {
+      "lat": 45.42002,
+      "lon": 6.01462,
+      "topo": null
+     },
+     "B": {
+      "lat": 45.40537,
+      "lon": 6.00355,
+      "topo": null
+     }
+    },
+    {
+     "idx": [
+      2,
+      44
+     ],
+     "dist_m": 1848.9,
+     "A": {
+      "lat": 45.43566,
+      "lon": 6.03903,
+      "topo": null
+     },
+     "B": {
+      "lat": 45.4237,
+      "lon": 6.02257,
+      "topo": null
+     }
+    },
+    {
+     "idx": [
+      6,
+      25
+     ],
+     "dist_m": 1863.4,
+     "A": {
+      "lat": 45.44762,
+      "lon": 6.02666,
+      "topo": null
+     },
+     "B": {
+      "lat": 45.44341,
+      "lon": 6.00354,
+      "topo": null
+     }
+    },
+    {
+     "idx": [
+      6,
+      41
+     ],
+     "dist_m": 1866.0,
+     "A": {
+      "lat": 45.44762,
+      "lon": 6.02666,
+      "topo": null
+     },
+     "B": {
+      "lat": 45.43113,
+      "lon": 6.02222,
+      "topo": null
+     }
+    },
+    {
+     "idx": [
+      8,
+      38
+     ],
+     "dist_m": 1839.5,
+     "A": {
+      "lat": 45.43949,
+      "lon": 6.05303,
+      "topo": "Pont des Bretonnières"
+     },
+     "B": {
+      "lat": 45.45392,
+      "lon": 6.06456,
+      "topo": null
+     }
+    },
+    {
+     "idx": [
+      9,
+      45
+     ],
+     "dist_m": 1847.5,
+     "A": {
+      "lat": 45.42666,
+      "lon": 6.00822,
+      "topo": null
+     },
+     "B": {
+      "lat": 45.41075,
+      "lon": 6.01504,
+      "topo": null
+     }
+    },
+    {
+     "idx": [
+      12,
+      63
+     ],
+     "dist_m": 1857.3,
+     "A": {
+      "lat": 45.41663,
+      "lon": 6.0091,
+      "topo": null
+     },
+     "B": {
+      "lat": 45.4333,
+      "lon": 6.00761,
+      "topo": null
+     }
+    },
+    {
+     "idx": [
+      15,
+      63
+     ],
+     "dist_m": 1833.9,
+     "A": {
+      "lat": 45.41681,
+      "lon": 6.00805,
+      "topo": null
+     },
+     "B": {
+      "lat": 45.4333,
+      "lon": 6.00761,
+      "topo": null
+     }
+    },
+    {
+     "idx": [
+      16,
+      21
+     ],
+     "dist_m": 1849.8,
+     "A": {
+      "lat": 45.42357,
+      "lon": 6.01098,
+      "topo": null
+     },
+     "B": {
+      "lat": 45.4402,
+      "lon": 6.0116,
+      "topo": null
+     }
+    },
+    {
+     "idx": [
+      18,
+      65
+     ],
+     "dist_m": 1832.9,
+     "A": {
+      "lat": 45.42227,
+      "lon": 6.0087,
+      "topo": null
+     },
+     "B": {
+      "lat": 45.43255,
+      "lon": 6.02706,
+      "topo": null
+     }
+    },
+    {
+     "idx": [
+      27,
+      59
+     ],
+     "dist_m": 1834.6,
+     "A": {
+      "lat": 45.44368,
+      "lon": 6.01427,
+      "topo": null
+     },
+     "B": {
+      "lat": 45.45236,
+      "lon": 6.03427,
+      "topo": "Pont des Lots"
+     }
+    },
+    {
+     "idx": [
+      35,
+      37
+     ],
+     "dist_m": 1833.2,
+     "A": {
+      "lat": 45.42457,
+      "lon": 5.99798,
+      "topo": null
+     },
+     "B": {
+      "lat": 45.41159,
+      "lon": 6.01246,
+      "topo": null
+     }
+    },
+    {
+     "idx": [
+      41,
+      51
+     ],
+     "dist_m": 1847.0,
+     "A": {
+      "lat": 45.43113,
+      "lon": 6.02222,
+      "topo": null
+     },
+     "B": {
+      "lat": 45.41452,
+      "lon": 6.022,
+      "topo": null
+     }
+    },
+    {
+     "idx": [
+      42,
+      47
+     ],
+     "dist_m": 1856.1,
+     "A": {
+      "lat": 45.43548,
+      "lon": 5.98638,
+      "topo": null
+     },
+     "B": {
+      "lat": 45.44297,
+      "lon": 6.00764,
+      "topo": null
+     }
+    },
+    {
+     "idx": [
+      45,
+      50
+     ],
+     "dist_m": 1854.2,
+     "A": {
+      "lat": 45.41075,
+      "lon": 6.01504,
+      "topo": null
+     },
+     "B": {
+      "lat": 45.42244,
+      "lon": 5.9981,
+      "topo": null
+     }
+    },
+    {
+     "idx": [
+      55,
+      61
+     ],
+     "dist_m": 1861.9,
+     "A": {
+      "lat": 45.41931,
+      "lon": 5.98244,
+      "topo": null
+     },
+     "B": {
+      "lat": 45.40647,
+      "lon": 5.99775,
+      "topo": null
+     }
+    }
+   ],
+   "paires_attendues_bruit": 18.4
+  },
+  "passerelles": {
+   "label": "Passerelles (Pont detail=Passerelle)",
+   "n_4km": 2,
+   "n_paires_1850m": 0,
+   "verdict": "ecarte",
+   "paires": []
+  },
+  "croix": {
+   "label": "Croix",
+   "n_4km": 8,
+   "n_paires_1850m": 0,
+   "verdict": "ecarte",
+   "paires": []
+  },
+  "bornes": {
+   "label": "Bornes",
+   "n_4km": 0,
+   "n_paires_1850m": 0,
+   "verdict": "ecarte",
+   "paires": []
+  },
+  "gues": {
+   "label": "Gués",
+   "n_4km": 0,
+   "n_paires_1850m": 0,
+   "verdict": "ecarte",
+   "paires": []
+  },
+  "fontaines_sources_lavoirs": {
+   "label": "Sources/Fontaines/Lavoirs",
+   "n_4km": 36,
+   "n_paires_1850m": 3,
+   "verdict": "ecarte",
+   "paires": [
+    {
+     "idx": [
+      13,
+      16
+     ],
+     "dist_m": 1865.6,
+     "A": {
+      "lat": 45.40627,
+      "lon": 6.02168,
+      "topo": null
+     },
+     "B": {
+      "lat": 45.42071,
+      "lon": 6.03385,
+      "topo": null
+     }
+    },
+    {
+     "idx": [
+      22,
+      25
+     ],
+     "dist_m": 1845.6,
+     "A": {
+      "lat": 45.42759,
+      "lon": 6.04072,
+      "topo": null
+     },
+     "B": {
+      "lat": 45.41164,
+      "lon": 6.04726,
+      "topo": null
+     }
+    },
+    {
+     "idx": [
+      30,
+      35
+     ],
+     "dist_m": 1857.4,
+     "A": {
+      "lat": 45.42234,
+      "lon": 6.03446,
+      "topo": null
+     },
+     "B": {
+      "lat": 45.4388,
+      "lon": 6.03041,
+      "topo": null
+     }
+    }
+   ],
+   "paires_attendues_bruit": 5.4
+  },
+  "arbres_remarquables": {
+   "label": "Arbres remarquables",
+   "n_4km": 0,
+   "n_paires_1850m": 0,
+   "verdict": "ecarte",
+   "paires": []
+  },
+  "pierres_plantees": {
+   "label": "Pierres plantées",
+   "n_4km": 0,
+   "n_paires_1850m": 0,
+   "verdict": "ecarte",
+   "paires": []
+  },
+  "sections_empierrees": {
+   "label": "Sections empierrées (Route empierrée)",
+   "n_4km": 361,
+   "n_paires_1850m": 0,
+   "verdict": "ecarte",
+   "paires": [],
+   "paires_attendues_bruit": 556.0
+  },
+  "seuils_barrages": {
+   "label": "Seuils/Barrages",
+   "n_4km": 1,
+   "n_paires_1850m": 0,
+   "verdict": "ecarte",
+   "paires": []
+  }
+ }
+}

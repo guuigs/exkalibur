@@ -1,0 +1,60 @@
+1) ' Dieu sut se montrer favorable ' -> 25 lettres : dieusutsemontrerfavorable
+Carré 5x5 (lignes):
+    d i e u s
+    u t s e m
+    o n t r e
+    r f a v o
+    r a b l e
+Colonnes:
+    d u o r r
+    i t n f a
+    e s t a b
+    u e r v l
+    s m e o e
+Diag principale: d t t v e
+Diag anti     : s e t f r
+Boustrophedon : dieusmestuontreovafrrable
+Spirale (lecture SATOR) : dieusmeoelbarroutservafnt
+
+2) Anagrammes ciblés
+   'avalon' dans le sac ? True
+   'breba' dans le sac ? False
+   'breda' dans le sac ? True
+   'isere' dans le sac ? True
+   'grenoble' dans le sac ? False
+   'lune' dans le sac ? True
+   'etoile' dans le sac ? True
+   'soleil' dans le sac ? False
+   'roche' dans le sac ? False
+   'souche' dans le sac ? False
+   'epee' dans le sac ? False
+   'coupe' dans le sac ? False
+   'graal' dans le sac ? False
+   'bois' dans le sac ? True
+   'foret' dans le sac ? True
+   'champ' dans le sac ? False
+   'stade' dans le sac ? True
+   'rempart' dans le sac ? False
+   'majeste' dans le sac ? False
+   'roche' dans le sac ? False
+   'ruisseau' dans le sac ? True
+   'sentier' dans le sac ? True
+   'chemin' dans le sac ? False
+   'bayard' dans le sac ? False
+   'tintagel' dans le sac ? False
+   'ecce homo' dans le sac ? False
+
+3) Comptages
+   'dix stades romains'             = 16 lettres
+   'separaient'                     = 10 lettres
+   'les troisieme et onzieme'       = 21 lettres
+   'la coupe du charpentier'        = 20 lettres
+   'souche majeste'                 = 13 lettres
+   'astre glorieux'                 = 13 lettres
+   'jour dernier'                   = 11 lettres
+   'Dieu sut se montrer favorable'  = 25 lettres
+
+4) Rappel : 12 phrases, 138 mots, 651 lettres (calculé précédemment)
+5) Acrostiche titres = ITERLLSUNOCA
+   ITER = True (latin : chemin/route/voyage)
+   reste après ITER = LLSUNOCA

@@ -1,0 +1,11 @@
+lieux de culte nommés: 49
+Pierre [('Église Saint-Pierre', 6.06), ('Église Saint-Pierre', 9.49), ('Église Saint-Pierre', 4.68)]
+Barthélemy [('Église Saint-Barthélemy', 7.03)]
+Jacques [('Ancien Hôpital Saint-Jacques', 4.63)]
+185 paires d'apôtres différents: []
+177.6 paires d'apôtres différents: []
+192 paires d'apôtres différents: []
+lieux de culte nommés 49 paires 1176 dans 185±1%: 3 => 0.0026
+routes Jacques 60 km: 2
+12155815 S07 - Des Grangettes à Saint-Jacques S07 d_TA=30.4
+15524579 Les Tours Saint-Jacques None d_TA=36.8

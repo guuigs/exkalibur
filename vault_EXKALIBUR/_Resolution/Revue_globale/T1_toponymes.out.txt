@@ -1,0 +1,132 @@
+communes [('38006', 'Allevard'), ('38062', 'La Buissière'), ('38075', 'Chapareillan'), ('38078', 'La Chapelle-du-Bard'), ('38100', 'Le Cheylas'), ('38163', 'Le Haut-Bréda'), ('38314', 'Pontcharra'), ('38418', 'Sainte-Marie-du-Mont'), ('38426', 'Saint-Maximin'), ('38439', 'Crêts en Belledonne'), ('38466', 'Saint-Vincent-de-Mercuze'), ('73082', 'La Chavanne'), ('73141', 'Laissaud'), ('73151', 'Porte-de-Savoie'), ('73215', 'Valgelon-La Rochette'), ('73276', 'Saint-Pierre-de-Soucy'), ('73324', 'Villaroux')]
+items 3067
+
+## arc-en-ciel
+  école maternelle arc-en-ciel       BDTOPO:toponymie             4.03 km cap  26° (45.46111,6.05412) Enseignement primaire
+
+## avalon
+  AVALON                             cadastre:Saint-Maximin       0.09 km cap  23° (45.42956,6.03126) lieu-dit
+  avalon                             BDTOPO:toponymie             0.17 km cap  39° (45.42997,6.03217) Lieu-dit habité
+
+## bayard
+  VERGER DE BAYARD                   cadastre:Pontcharra          1.06 km cap 230° (45.42273,6.02037) lieu-dit
+  château bayard                     BDTOPO:toponymie             1.10 km cap 236° (45.42337,6.01894) Château
+  CHATEAU BAYARD                     cadastre:Pontcharra          1.17 km cap 237° (45.42320,6.01806) lieu-dit
+  caserne bayard                     BDTOPO:toponymie             1.56 km cap 301° (45.43616,6.01376) Gendarmerie
+  Caserne Bayard                     BDTOPO:zone_d_activite_ou_d_ 1.60 km cap 301° (45.43628,6.01323) Gendarmerie
+  bayard                             BDTOPO:toponymie             1.62 km cap 310° (45.43818,6.01489) Quartier
+  BOIS BAYARD                        cadastre:Pontcharra          1.74 km cap 266° (45.42776,6.00858) lieu-dit
+  CHENEVIERE DE BAYARD               cadastre:Pontcharra          2.04 km cap 294° (45.43627,6.00687) lieu-dit
+  la bayarde et lepinay              BDTOPO:toponymie             2.54 km cap 220° (45.41155,6.00951) Lieu-dit habité
+  LA BAYARDE ET LEPINAY              cadastre:Pontcharra          2.56 km cap 216° (45.41032,6.01127) lieu-dit
+  BAYARD                             cadastre:Allevard            4.39 km cap 134° (45.40131,6.07109) lieu-dit
+  A BAYARD                           cadastre:Allevard            4.51 km cap 136° (45.39923,6.07041) lieu-dit
+  bayard                             BDTOPO:toponymie             4.60 km cap 135° (45.39919,6.07192) Lieu-dit habité
+
+## chant
+  CHANTE-MERLE                       cadastre:Saint-Maximin       1.87 km cap  59° (45.43740,6.05142) lieu-dit
+  chantabord                         BDTOPO:toponymie             2.54 km cap  18° (45.45050,6.04109) Lieu-dit habité
+  CHANTABORD                         cadastre:Laissaud            2.58 km cap  16° (45.45100,6.04043) lieu-dit
+  CHANTE MERLE                       cadastre:Crêts en Belledonne 5.00 km cap 161° (45.38626,6.05159) lieu-dit
+
+## clairière
+  le clairfait                       BDTOPO:toponymie             3.90 km cap 193° (45.39468,6.01938) Lieu-dit habité
+  LA MATRE ET CLAIRFAIT              cadastre:Pontcharra          3.92 km cap 189° (45.39406,6.02228) lieu-dit
+  BOIS DU CLAIRFAIT                  cadastre:Pontcharra          4.02 km cap 184° (45.39279,6.02672) lieu-dit
+  bois de clairfait                  BDTOPO:toponymie             4.17 km cap 178° (45.39129,6.03192) Bois
+  clair matin                        BDTOPO:toponymie             5.22 km cap 151° (45.38767,6.06313) Camping
+  SAINT-CLAIR                        cadastre:Valgelon-La Rochett 6.27 km cap  60° (45.45645,6.10088) lieu-dit
+  SAINT-CLAIR                        cadastre:Valgelon-La Rochett 6.38 km cap  58° (45.45837,6.10088) lieu-dit
+
+## fontaine
+  Fontaine (nature, sans nom)        BDTOPO:detail_hydrographique 0.91 km cap 166° (45.42088,6.03355) Fontaine
+  Fontaine (nature, sans nom)        BDTOPO:detail_hydrographique 0.92 km cap 204° (45.42129,6.02580) Fontaine
+  Fontaine (nature, sans nom)        BDTOPO:detail_hydrographique 1.11 km cap 358° (45.43880,6.03041) Fontaine
+  Fontaine (nature, sans nom)        BDTOPO:detail_hydrographique 1.15 km cap  87° (45.42922,6.04547) Fontaine
+  Fontaine (nature, sans nom)        BDTOPO:detail_hydrographique 1.15 km cap 264° (45.42776,6.01612) Fontaine
+  Fontaine (nature, sans nom)        BDTOPO:detail_hydrographique 1.33 km cap 348° (45.44053,6.02741) Fontaine
+  Fontaine (nature, sans nom)        BDTOPO:detail_hydrographique 1.60 km cap  84° (45.43012,6.05118) Fontaine
+  Fontaine (nature, sans nom)        BDTOPO:detail_hydrographique 2.20 km cap 219° (45.41348,6.01294) Fontaine
+  Fontaine (nature, sans nom)        BDTOPO:detail_hydrographique 2.24 km cap 215° (45.41242,6.01403) Fontaine
+  Fontaine (nature, sans nom)        BDTOPO:detail_hydrographique 2.60 km cap 195° (45.40627,6.02168) Fontaine
+  Fontaine (nature, sans nom)        BDTOPO:detail_hydrographique 2.65 km cap 208° (45.40781,6.01469) Fontaine
+  fontaine de la frace               BDTOPO:toponymie             3.43 km cap  85° (45.43107,6.07467) Lieu-dit non habité
+  Fontaine (nature, sans nom)        BDTOPO:detail_hydrographique 3.81 km cap  54° (45.44883,6.07048) Fontaine
+  Fontaine (nature, sans nom)        BDTOPO:detail_hydrographique 3.82 km cap 301° (45.44689,5.98920) Fontaine
+  école primaire la fontaine-la chap BDTOPO:toponymie             3.84 km cap  56° (45.44778,6.07192) Enseignement primaire
+  Fontaine (nature, sans nom)        BDTOPO:detail_hydrographique 3.86 km cap  56° (45.44805,6.07198) Fontaine
+  Fontaine (nature, sans nom)        BDTOPO:detail_hydrographique 3.95 km cap 155° (45.39641,6.05170) Fontaine
+  Fontaine (nature, sans nom)        BDTOPO:detail_hydrographique 4.03 km cap 123° (45.40887,6.07395) Fontaine
+  Fontaine (nature, sans nom)        BDTOPO:detail_hydrographique 4.05 km cap 124° (45.40801,6.07344) Fontaine
+  les fontanettes                    BDTOPO:toponymie             4.09 km cap  77° (45.43653,6.08205) Grange
+  Fontaine (nature, sans nom)        BDTOPO:detail_hydrographique 4.11 km cap 280° (45.43521,5.97891) Fontaine
+  Fontaine (nature, sans nom)        BDTOPO:detail_hydrographique 4.14 km cap 278° (45.43452,5.97841) Fontaine
+  Fontaine (nature, sans nom)        BDTOPO:detail_hydrographique 4.14 km cap  58° (45.44830,6.07606) Fontaine
+  Fontaine (nature, sans nom)        BDTOPO:detail_hydrographique 4.16 km cap 283° (45.43738,5.97895) Fontaine
+  Fontaine (nature, sans nom)        BDTOPO:detail_hydrographique 4.19 km cap 277° (45.43354,5.97751) Fontaine
+  Fontaine (nature, sans nom)        BDTOPO:detail_hydrographique 4.23 km cap 292° (45.44330,5.98066) Fontaine
+  Fontaine (nature, sans nom)        BDTOPO:detail_hydrographique 4.24 km cap 275° (45.43220,5.97668) Fontaine
+  Fontaine (nature, sans nom)        BDTOPO:detail_hydrographique 4.24 km cap 282° (45.43693,5.97767) Fontaine
+  Fontaine (nature, sans nom)        BDTOPO:detail_hydrographique 4.27 km cap 159° (45.39275,6.04968) Fontaine
+  Fontaine (nature, sans nom)        BDTOPO:detail_hydrographique 4.28 km cap 129° (45.40448,6.07324) Fontaine
+  Fontaine (nature, sans nom)        BDTOPO:detail_hydrographique 4.30 km cap 160° (45.39249,6.04956) Fontaine
+  Fontaine (nature, sans nom)        BDTOPO:detail_hydrographique 4.33 km cap  31° (45.46210,6.05960) Fontaine
+  Fontaine (nature, sans nom)        BDTOPO:detail_hydrographique 4.38 km cap  40° (45.45890,6.06702) Fontaine
+  FONTAINE ANTREE                    cadastre:Allevard            4.51 km cap 141° (45.39716,6.06700) lieu-dit
+  lotissement des fontanettes        BDTOPO:toponymie             4.55 km cap 205° (45.39174,6.00594) Quartier
+  Fontaine (nature, sans nom)        BDTOPO:detail_hydrographique 4.56 km cap 254° (45.41780,5.97449) Fontaine
+  Fontaine (nature, sans nom)        BDTOPO:detail_hydrographique 4.61 km cap 240° (45.40866,5.97915) Fontaine
+  Fontaine (nature, sans nom)        BDTOPO:detail_hydrographique 4.63 km cap  47° (45.45711,6.07431) Fontaine
+  Fontaine (nature, sans nom)        BDTOPO:detail_hydrographique 4.63 km cap 255° (45.41843,5.97331) Fontaine
+  Fontaine (nature, sans nom)        BDTOPO:detail_hydrographique 4.72 km cap  41° (45.46083,6.07053) Fontaine
+  Fontaine (nature, sans nom)        BDTOPO:detail_hydrographique 4.74 km cap 149° (45.39190,6.06120) Fontaine
+  Fontaine (nature, sans nom)        BDTOPO:detail_hydrographique 4.74 km cap 315° (45.45899,5.98781) Fontaine
+  Fontaine (nature, sans nom)        BDTOPO:detail_hydrographique 4.78 km cap  46° (45.45814,6.07555) Fontaine
+  Fontaine (nature, sans nom)        BDTOPO:detail_hydrographique 4.85 km cap 318° (45.46130,5.98926) Fontaine
+  Fontaine (nature, sans nom)        BDTOPO:detail_hydrographique 4.94 km cap 320° (45.46320,5.99070) Fontaine
+  Fontaine (nature, sans nom)        BDTOPO:detail_hydrographique 4.94 km cap 324° (45.46505,5.99410) Fontaine
+  Fontaine (nature, sans nom)        BDTOPO:detail_hydrographique 4.98 km cap 235° (45.40372,5.97789) Fontaine
+  Fontaine (nature, sans nom)        BDTOPO:detail_hydrographique 5.10 km cap 234° (45.40195,5.97775) Fontaine
+  FONTANIL                           cadastre:Crêts en Belledonne 5.13 km cap 195° (45.38435,6.01328) lieu-dit
+  Fontaine (nature, sans nom)        BDTOPO:detail_hydrographique 5.18 km cap 138° (45.39406,6.07504) Fontaine
+  Fontaine (nature, sans nom)        BDTOPO:detail_hydrographique 5.20 km cap 318° (45.46390,5.98672) Fontaine
+  Fontaine (nature, sans nom)        BDTOPO:detail_hydrographique 5.24 km cap 321° (45.46590,5.98939) Fontaine
+  Fontaine (nature, sans nom)        BDTOPO:detail_hydrographique 5.30 km cap 138° (45.39328,6.07612) Fontaine
+  Fontaine (nature, sans nom)        BDTOPO:detail_hydrographique 6.03 km cap 304° (45.45988,5.96743) Fontaine
+  Fontaine (nature, sans nom)        BDTOPO:detail_hydrographique 6.18 km cap 312° (45.46652,5.97267) Fontaine
+  FONTAINE BENOIT                    cadastre:Sainte-Marie-du-Mon 6.50 km cap 264° (45.42282,5.94796) lieu-dit
+
+## fée
+  le fayet                           BDTOPO:toponymie             4.55 km cap 255° (45.41854,5.97429) Lieu-dit habité
+  château du fayet                   BDTOPO:toponymie             4.71 km cap 254° (45.41761,5.97251) Château
+  bois du fayet                      BDTOPO:toponymie             5.20 km cap 252° (45.41471,5.96721) Bois
+
+## loup
+  tire-loup                          BDTOPO:toponymie             1.60 km cap  98° (45.42679,6.05105) Bois
+  tire loup                          BDTOPO:toponymie             1.60 km cap  98° (45.42679,6.05105) Bois
+  tire loup et les taches            BDTOPO:toponymie             1.60 km cap  98° (45.42679,6.05105) Bois
+  TIRE LOUP ET LES TACHES            cadastre:Saint-Maximin       1.82 km cap  98° (45.42638,6.05388) lieu-dit
+
+## rempart
+  LE CRET DU MUR                     cadastre:Pontcharra          2.56 km cap 184° (45.40581,6.02829) lieu-dit
+  MOLLARD BILLARD ET LES MURAILLES   cadastre:Allevard            3.83 km cap 132° (45.40533,6.06670) lieu-dit
+
+## roche
+  LE CHENE LA ROCHE ET LE VIVIER     cadastre:Saint-Maximin       0.13 km cap 116° (45.42827,6.03232) lieu-dit
+  PRE CROCHET                        cadastre:Pontcharra          0.71 km cap 284° (45.43042,6.02202) lieu-dit
+  le rochat                          BDTOPO:toponymie             1.40 km cap 188° (45.41634,6.02812) Lieu-dit habité
+  LE ROCHAT                          cadastre:Saint-Maximin       1.42 km cap 185° (45.41607,6.02909) lieu-dit
+  COTE ROCHAT                        cadastre:Saint-Maximin       2.21 km cap  82° (45.43136,6.05886) lieu-dit
+  côte rochat                        BDTOPO:toponymie             2.46 km cap  94° (45.42721,6.06227) Crête
+  roche morte                        BDTOPO:toponymie             3.05 km cap 205° (45.40410,6.01379) Lieu-dit habité
+  maison de roche morte              BDTOPO:toponymie             3.05 km cap 205° (45.40410,6.01379) Lieu-dit habité
+  LA ROCHE                           cadastre:Crêts en Belledonne 5.18 km cap 163° (45.38411,6.04961) lieu-dit
+  LA ROCHE                           cadastre:Crêts en Belledonne 5.53 km cap 164° (45.38096,6.05006) lieu-dit
+  AU ROCHAT                          cadastre:Villaroux           5.63 km cap  48° (45.46259,6.08458) lieu-dit
+  LES ROCHETTES                      cadastre:Chapareillan        6.46 km cap 320° (45.47337,5.97761) lieu-dit
+
+## âne
+  ehpad le granier                   BDTOPO:toponymie             0.76 km cap 336° (45.43501,6.02685) Maison de retraite
+  h.l.m. granier                     BDTOPO:toponymie             4.80 km cap 211° (45.39186,5.99885) Quartier
+  centre de secours de chapareillan- BDTOPO:toponymie             4.88 km cap 320° (45.46277,5.99120) Caserne de pompiers
+  BUGANIERE                          cadastre:La Chapelle-du-Bard 5.04 km cap 105° (45.41641,6.09290) lieu-dit

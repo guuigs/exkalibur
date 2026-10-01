@@ -1,0 +1,54 @@
+tile 45.339 5.901 48
+tile 45.339 5.966 18
+tile 45.339 6.031 31
+tile 45.339 6.096 66
+tile 45.399 5.901 58
+tile 45.399 5.966 4
+tile 45.399 6.031 49
+tile 45.399 6.096 101
+tile 45.459 5.901 94
+tile 45.459 5.966 6
+tile 45.459 6.031 12
+tile 45.459 6.096 18
+TOTAL 505
+('F19885U', "Forêt communale d'Allevard") 35 ['1', '2', '3', '4', '5', '6', '7', '8', '9', '10', '11', '12', '13', '14', '15', '16', '17', '18', '19', '20', '21', '22', '23', '24', '25', '26', '27', '28', '29', '30', '31', '32', '33', '34', '35']
+('F20283C', "Forêt communale d'Apremont") 36 ['1', '2', '3', '4', '5', '6', '7', '8', '9', '10', '11', '12', '13', '14', '15', '16', '17', '18', '19', '20', '21', '22', '23', '24', '25', '26', '27', '28', '29', '30', '31', '32', '33', '34', '35', '36']
+('F20334B', "Forêt communale d'Arbin") 3 ['2', '3', '4']
+('F20370L', "Forêt communale d'Arvillard") 34 ['10', '11', '12', '14', '15', '16', '17', '19', '20', '27', '28', '29', '30', '31', '32', '33', '34', '35', '36', '37', '38', '48', '49', '50', '51', '52', '53', '60', '61', '62', '63', '64', '65', '70']
+('F20126B', "Forêt communale d'Entremont-Le-Vieux") 11 ['G', 'H', 'I', 'K', 'L', 'M', 'N', 'O', 'P', 'Q', 'S']
+('F19697O', 'Forêt communale de Barraux') 14 ['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J', 'K', 'L', 'M', 'N']
+('F19718J', 'Forêt communale de Chapareillan') 28 ['1', '2', '3', '4', '5', '6', '7', '8', '9', '10', '11', '12', '13', '14', '15', '16', '17', '18', '19', '20', '21', '22', '23', '24', '25', '26', '27', '28']
+('F19954L', 'Forêt communale de Cheylas') 2 ['1', '2']
+('F20159I', 'Forêt communale de Chignin') 1 ['XX']
+('F58458J', 'Forêt communale de Crêt En Belledonne') 20 ['1', '2', '3', '4', '5', '19', '20', '21', '22', '25', '26', '27', '28', '29', '30', '31', '32', '33', '34', '35']
+('F99816B', 'Forêt communale de La Croix De La Rochette') 2 ['1', '2']
+('F19782V', 'Forêt communale de La-Buissiere') 6 ['1', '2', '3', '4', '5', '6']
+('F19835W', 'Forêt communale de La-Chapelle-Du-Bard') 39 ['1', '2', '3', '4', '5', '6', '8', 'A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J', 'K', 'M', 'N', 'O', 'P', 'Q', 'R', 'S', 'U', 'V', 'W', 'X', 'Y', 'Z', '10', 'L1', 'L2', 'T1', 'T2', 'T3', 'HC1', 'HC2']
+('F19796J', 'Forêt communale de La-Flachere') 2 ['1', '2']
+('F20250V', 'Forêt communale de La-Table') 2 ['27', '33']
+('F19998D', 'Forêt communale de La-Terrasse') 1 ['1']
+('F20025E', 'Forêt communale de La-Trinité') 4 ['1', '2', '3', '4']
+('F19924H', 'Forêt communale de Le-Haut-Bréda-Pinsot') 36 ['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J', 'K', 'L', 'O', 'P', '13', '14', '15', '16', '17', '18', '19', '20', '21', '22', '23', '24', '25', '26', '27', '28', '29', '30', '31', '32', '33', '34']
+('F29475Q', 'Forêt communale de Montagnole') 2 ['1', '2']
+('F20319M', 'Forêt communale de Montmelian') 2 ['1', '2']
+('F19822J', 'Forêt communale de Plateau-Des-Petites-Roches-Saint-Bernard-Du-Touvet') 11 ['1', '2', '3', '4', '5', '6', '7', '8', '9', '29', '30']
+('F19925I', 'Forêt communale de Pontcharra') 22 ['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J', 'K', 'L', 'M', 'N', 'O', 'P', 'Q', 'R', 'S', 'T', 'U', 'V']
+('F20273S', 'Forêt communale de Porte-De-Savoie-Francin') 1 ['XX']
+('F20335C', 'Forêt communale de Porte-De-Savoie-Les-Marches') 5 ['1', '2', '3', '4', '5']
+('F20115Q', 'Forêt communale de Presle') 3 ['9', '10', '11']
+('F20222T', 'Forêt communale de Saint-Baldoph') 21 ['6', '7', '10', '11', '12', '13', '14', '15', '16', '17', '18', '20', '21', '22', '23', '24', '25', '26', '27', '28', '29']
+('F19836X', 'Forêt communale de Saint-Maximin') 16 ['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J', 'K', 'L', 'M', 'N', 'O', 'P']
+('F20238J', 'Forêt communale de Saint-Pierre-De-Soucy') 10 ['1', '2', '3', '4', '5', '6', '7', '8', '9', '10']
+('F19849K', 'Forêt communale de Saint-Vincent-De-Mercuze') 6 ['1', '2', '3', '4', '5', '6']
+('F19742H', "Forêt communale de Sainte-Marie-D'Alloix") 2 ['1', '2']
+('F19993Y', 'Forêt communale de Sainte-Marie-Du-Mont') 5 ['A', 'B', 'C', 'D', 'E']
+('F20263I', 'Forêt communale de Villard-Sallet') 2 ['1', '2']
+('F20201Y', 'Forêt communale de Villaroux') 2 ['A', 'B']
+('F20168R', 'Forêt communale des Mollettes') 1 ['1']
+('F19740F', 'Forêt communale du Moutaret') 10 ['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J']
+('F19831S', 'Forêt communale du Touvet') 15 ['1', '2', '3', '4', '5', '6', '7', '8', '9', '10', '11', '12', '13', '14', '15']
+('F49419S', 'Forêt de la Communauté De Communes  Pays Du Grésivaudan') 2 ['1', '2']
+('F19768H', 'Forêt domaniale R.T.M. Boutat') 43 ['1', '2', '3', '4', '5', '6', '7', '8', '9', '10', '11', '12', '13', '14', '15', '16', '20', '21', '22', '23', '24', '25', '26', '27', '28', '29', '30', '31', '32', '33', '34', '35', '36', '37', '38', '39', '40', '41', '42', '43', '44', '45', '46']
+('F20186J', 'Forêt domaniale de Prés-Marais-Villaroux') 3 ['1', '2', '3']
+('F19858T', 'Forêt domaniale de Saint-Hugon') 36 ['1', '2', '3', '4', '5', '6', '7', '8', '24', '25', '26', '27', '28', '29', '30', '31', '32', '33', '34', '35', '36', '37', '38', '39', '40', '41', '42', '43', '44', '45', '46', '47', '48', '49', '50', '51']
+('F19988T', 'Forêt sectionale de Glapigneux') 9 ['1', '2', '3', '4', '5', '6', '7', '8', '9']

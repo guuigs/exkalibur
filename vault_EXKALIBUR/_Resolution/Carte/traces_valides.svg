@@ -1,0 +1,65 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 1551" font-family="Georgia, serif" font-size="10">
+<rect width="900" height="1551" fill="#f5efe0" stroke="#8a7a5a"/>
+<line x1="0" x2="900" y1="1374.2" y2="1374.2" stroke="#e0d6c0"/><text x="4" y="1372.2" fill="#a09070">40°N</text>
+<line x1="0" x2="900" y1="1060.9" y2="1060.9" stroke="#e0d6c0"/><text x="4" y="1058.9" fill="#a09070">45°N</text>
+<line x1="0" x2="900" y1="719.0" y2="719.0" stroke="#e0d6c0"/><text x="4" y="717.0" fill="#a09070">50°N</text>
+<line x1="0" x2="900" y1="339.4" y2="339.4" stroke="#e0d6c0"/><text x="4" y="337.4" fill="#a09070">55°N</text>
+<line y1="0" y2="1551" x1="23.1" x2="23.1" stroke="#e0d6c0"/>
+<line y1="0" y2="1551" x1="253.8" x2="253.8" stroke="#e0d6c0"/>
+<line y1="0" y2="1551" x1="484.6" x2="484.6" stroke="#e0d6c0"/>
+<line y1="0" y2="1551" x1="715.4" x2="715.4" stroke="#e0d6c0"/>
+<polyline points="227.7,1214.5 558.7,1191.4" fill="none" stroke="#8b1a1a" stroke-width="2"><title>É1 garde</title></polyline>
+<polyline points="279.6,146.7 467.3,1405.7" fill="none" stroke="#8b1a1a" stroke-width="2"><title>É1 lame</title></polyline>
+<polyline points="265.0,670.7 433.8,620.4 478.7,609.6" fill="none" stroke="#6b4e16" stroke-width="2"><title>É4 chemin royal</title></polyline>
+<polyline points="342.3,887.7 400.3,633.3" fill="none" stroke="#555" stroke-width="2"><title>É5 Armorique → Bretagne</title></polyline>
+<polyline points="705.6,849.6 719.7,919.3 699.6,966.1 627.0,1009.7" fill="none" stroke="#1f4e8c" stroke-width="2"><title>É6 les 4 C (340,9 km)</title></polyline>
+<polyline points="481.1,608.9 507.1,652.7 592.8,800.2" fill="none" stroke="#1f4e8c" stroke-width="2"><title>É6 Tour → Battle → Sainte-Chapelle (341,6 km)</title></polyline>
+<polyline points="592.8,800.2 406.9,852.0 384.4,858.2 328.6,876.9" fill="none" stroke="#2e7d32" stroke-width="2"><title>É7 nouvelle garde</title></polyline>
+<polyline points="592.9,800.3 668.7,832.6" fill="none" stroke="#b8860b" stroke-width="2" stroke-dasharray="5,3"><title>É8 Île de la Cité → Payns (666² pieds romains, cap Jérusalem) [probable]</title></polyline>
+<polyline points="345.9,871.3 553.3,828.7" fill="none" stroke="#7b1fa2" stroke-width="2" stroke-dasharray="5,3"><title>É9 croisée → Chartres (340,3 km, vers l'Est) [probable]</title></polyline>
+<polyline points="230.0,150.9 239.4,295.5" fill="none" stroke="#c2185b" stroke-width="2" stroke-dasharray="5,3"><title>É10 gardienne → Machrie Moor (193,1 km) [probable]</title></polyline>
+<polyline points="437.0,1168.4 762.4,1033.2" fill="none" stroke="#ef6c00" stroke-width="2" stroke-dasharray="5,3"><title>É11 ultime traversée Saint-Palais → Bayard (606,6 km = D·π) [probable]</title></polyline>
+<polyline points="762.4,1033.2 763.0,1032.8" fill="none" stroke="#2e7d32" stroke-width="2"><title>É12 prolongement ultime traversée Bayard → tour d'Avalon (1,07 km)</title></polyline>
+<circle cx="227.7" cy="1214.5" r="3" fill="#8b1a1a"><title>Cathédrale de León (É1, garde O)</title></circle><text x="231.7" y="1211.5" fill="#222">Cathédrale de León</text>
+<circle cx="558.7" cy="1191.4" r="3" fill="#8b1a1a"><title>Château de Foix (É1, quillons)</title></circle><text x="562.7" y="1188.4" fill="#222">Château de Foix</text>
+<circle cx="589.1" cy="1193.8" r="3" fill="#8b1a1a"><title>Rennes-le-Château (É1, repère)</title></circle><text x="593.1" y="1190.8" fill="#222">Rennes-le-Château</text>
+<circle cx="467.3" cy="1405.7" r="3" fill="#8b1a1a"><title>Cathédrale de Valence (É1, pommeau)</title></circle><text x="471.3" y="1402.7" fill="#222">Cathédrale de Valence</text>
+<circle cx="559.2" cy="1200.2" r="3" fill="#8b1a1a"><title>Grotte de Lombrives (É1, naissance lame)</title></circle><text x="563.2" y="1197.2" fill="#222">Grotte de Lombrives</text>
+<circle cx="279.6" cy="146.7" r="3" fill="#8b1a1a"><title>Château d'Urquhart (É1, pointe)</title></circle><text x="283.6" y="143.7" fill="#222">Château d'Urquhart</text>
+<circle cx="481.1" cy="608.9" r="3" fill="#333"><title>Tour de Londres (É2)</title></circle><text x="485.1" y="605.9" fill="#222">Tour de Londres</text>
+<circle cx="265.0" cy="670.7" r="3" fill="#333"><title>Tintagel (É3)</title></circle><text x="269.0" y="667.7" fill="#222">Tintagel</text>
+<circle cx="433.8" cy="620.4" r="3" fill="#6b4e16"><title>Silchester (É4)</title></circle><text x="437.8" y="617.4" fill="#222">Silchester</text>
+<circle cx="478.7" cy="609.6" r="3" fill="#6b4e16"><title>Westminster (É4)</title></circle><text x="482.7" y="606.6" fill="#222">Westminster</text>
+<circle cx="400.3" cy="633.3" r="3" fill="#555"><title>Stonehenge (É5)</title></circle><text x="404.3" y="630.3" fill="#222">Stonehenge</text>
+<circle cx="342.3" cy="887.7" r="3" fill="#555"><title>Carnac, Ménec (É5)</title></circle><text x="346.3" y="884.7" fill="#222">Carnac, Ménec</text>
+<circle cx="705.6" cy="849.6" r="3" fill="#1f4e8c"><title>Clairvaux (É6, C1)</title></circle><text x="709.6" y="846.6" fill="#222">Clairvaux</text>
+<circle cx="719.7" cy="919.3" r="3" fill="#1f4e8c"><title>Cîteaux (É6, C2)</title></circle><text x="723.7" y="916.3" fill="#222">Cîteaux</text>
+<circle cx="699.6" cy="966.1" r="3" fill="#1f4e8c"><title>Cluny (É6, C3)</title></circle><text x="703.6" y="963.1" fill="#222">Cluny</text>
+<circle cx="627.0" cy="1009.7" r="3" fill="#1f4e8c"><title>Clermont (É6, C4)</title></circle><text x="631.0" y="1006.7" fill="#222">Clermont</text>
+<circle cx="507.1" cy="652.7" r="3" fill="#1f4e8c"><title>Battle Abbey (É6)</title></circle><text x="511.1" y="649.7" fill="#222">Battle Abbey</text>
+<circle cx="592.8" cy="800.2" r="3" fill="#1f4e8c"><title>Sainte-Chapelle (É6-É7)</title></circle><text x="596.8" y="797.2" fill="#222">Sainte-Chapelle</text>
+<circle cx="406.9" cy="852.0" r="3" fill="#2e7d32"><title>Rennes (É7, REDNES)</title></circle><text x="410.9" y="849.0" fill="#222">Rennes</text>
+<circle cx="384.4" cy="858.2" r="3" fill="#2e7d32"><title>Paimpont / Brocéliande (É7)</title></circle><text x="388.4" y="855.2" fill="#222">Paimpont / Brocéliande</text>
+<circle cx="328.6" cy="876.9" r="3" fill="#2e7d32"><title>Lorient (É7, l'Orient)</title></circle><text x="332.6" y="873.9" fill="#222">Lorient</text>
+<circle cx="668.1" cy="833.2" r="3" fill="#b8860b"><title>É8 Payns (Hugues de Payns, humble serviteur du Graal)</title></circle><text x="672.1" y="830.2" fill="#222">É8 Payns</text>
+<circle cx="459.9" cy="478.4" r="3" fill="#b8860b"><title>É8 réserve : cathédrale de Lincoln (plus haute tour, deux yeux)</title></circle><text x="463.9" y="475.4" fill="#222">É8 réserve : cathédrale de Lincoln</text>
+<circle cx="345.9" cy="871.3" r="3" fill="#7b1fa2"><title>É9 croisée des chemins (garde É7 × royaume É5), près de Camors [probable]</title></circle><text x="349.9" y="868.3" fill="#222">É9 croisée des chemins</text>
+<circle cx="553.3" cy="828.7" r="3" fill="#7b1fa2"><title>É9 avant-dernier C : cathédrale de Chartres (labyrinthe) [probable]</title></circle><text x="557.3" y="825.7" fill="#222">É9 avant-dernier C : cathédrale de</text>
+<circle cx="554.6" cy="886.1" r="3" fill="#7b1fa2"><title>É9 alternative : Chambord (339,1 km, plein Est) [piste secondaire]</title></circle><text x="558.6" y="883.1" fill="#222">É9 alternative : Chambord</text>
+<circle cx="230.0" cy="150.9" r="3" fill="#c2185b"><title>É10 château de la gardienne : Eilean Donan [probable]</title></circle><text x="234.0" y="147.9" fill="#222">É10 château de la gardienne : Eile</text>
+<circle cx="239.4" cy="295.5" r="3" fill="#c2185b"><title>É10 Machrie Moor, Arran (« elles entouraient le roi ») [probable]</title></circle><text x="243.4" y="292.5" fill="#222">É10 Machrie Moor, Arran</text>
+<circle cx="437.0" cy="1168.4" r="3" fill="#ef6c00"><title>É11 Montsalvage : Saint-Palais [probable]</title></circle><text x="441.0" y="1165.4" fill="#222">É11 Montsalvage : Saint-Palais</text>
+<circle cx="762.4" cy="1033.2" r="3" fill="#ef6c00"><title>É11 château Bayard, Pontcharra (arrivée) [probable]</title></circle><text x="766.4" y="1030.2" fill="#222">É11 château Bayard, Pontcharra</text>
+<circle cx="763.0" cy="1032.8" r="3" fill="#ef6c00"><title>É11 tour d'Avalon (piste É12)</title></circle><text x="767.0" y="1029.8" fill="#222">É11 tour d'Avalon</text>
+<circle cx="763.0" cy="1032.8" r="3" fill="#2e7d32"><title>É12 chemin de rempart : tour d'Avalon [probable]</title></circle><text x="767.0" y="1029.8" fill="#222">É12 chemin de rempart : tour d'Ava</text>
+<rect x="830" y="8" width="10" height="10" fill="#8b1a1a"/><text x="844" y="16">É1</text>
+<rect x="830" y="22" width="10" height="10" fill="#6b4e16"/><text x="844" y="30">É4</text>
+<rect x="830" y="36" width="10" height="10" fill="#555"/><text x="844" y="44">É5</text>
+<rect x="830" y="50" width="10" height="10" fill="#1f4e8c"/><text x="844" y="58">É6</text>
+<rect x="830" y="64" width="10" height="10" fill="#2e7d32"/><text x="844" y="72">É7</text>
+<rect x="830" y="78" width="10" height="10" fill="#b8860b"/><text x="844" y="86">É8</text>
+<rect x="830" y="92" width="10" height="10" fill="#7b1fa2"/><text x="844" y="100">É9</text>
+<rect x="830" y="106" width="10" height="10" fill="#c2185b"/><text x="844" y="114">É10</text>
+<rect x="830" y="120" width="10" height="10" fill="#ef6c00"/><text x="844" y="128">É11</text>
+<rect x="830" y="134" width="10" height="10" fill="#2e7d32"/><text x="844" y="142">É12</text>
+<text x="830" y="160" fill="#555">- - probable</text></svg>

@@ -1,0 +1,25 @@
+[Epée - énigme 1] Point      'Cathédrale de León': 42.59944,-5.56716
+[Epée - énigme 1] Point      'Château de Foix': 42.96557,1.60488
+[Epée - énigme 1] Point      'Cathédrale Sainte-Marie de Valence': 39.47529,-0.37547
+[Epée - énigme 1] Point      "Château d'Urquhart": 57.32414,-4.44200
+[Epée - énigme 1] LineString 'Ligne 5': 2 pts: (57.3241,-4.4420) -> (39.4753,-0.3755)
+[Epée - énigme 1] LineString 'Ligne 6': 2 pts: (42.5994,-5.5672) -> (42.9656,1.6049)
+[Epée - énigme 1] LineString 'Ligne 8': 6 pts: (48.8622,2.2915) -> (48.8674,2.3334) -> (48.8671,2.3497) -> (48.8279,2.3507) -> (48.8283,2.2867) -> (48.8604,2.2869)
+[Enigme 2] Point      'Tour de Londres': 51.50811,-0.07595
+[Enigme 3 ] Point      'Château de Tintagel': 50.66728,-4.75851
+[Enigme 3 ] LineString 'Ligne 3': 3 pts: (50.6673,-4.7585) -> (51.3538,-1.1005) -> (51.4994,-0.1273)
+[Enigme 4] Point      'Abbaye de Westminster': 51.49937,-0.12730
+[Enigme 4] Point      'Silchester': 51.35385,-1.10054
+[Enigme 5 ] Point      'Stonehenge': 51.17888,-1.82621
+[Enigme 5 ] Point      'Alignements du Ménec': 47.59184,-3.08360
+[Enigme 6] Point      'Hastings': 50.85426,0.57345
+[Enigme 7] Point      'Clermont': 45.77876,3.08586
+[Enigme 7] Point      'Abbaye de Cluny': 46.43481,4.65850
+[Enigme 7] LineString 'Ligne 2': 2 pts: (46.4348,4.6585) -> (45.7788,3.0859)
+[Enigme 7] Point      'Cloître de Cadouin': 44.81150,0.87376
+[Enigme 7] LineString 'Ligne 3': 2 pts: (45.7788,3.0859) -> (44.8115,0.8738)
+[Enigme 7] Point      'Sainte-Chapelle': 48.85538,2.34496
+[Enigme 7] LineString 'Ligne 7': 2 pts: (51.5081,-0.0759) -> (48.8554,2.3450)
+[Enigme 7] Point      'Forêt de Brocéliande': 48.01883,-2.17396
+[Enigme 7] LineString 'Garde brocéliande': 2 pts: (48.0188,-2.1740) -> (48.8554,2.3450)
+24 objets

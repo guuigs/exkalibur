@@ -1,0 +1,244 @@
+
+--- FAQ02-006 [#LANGUES] ---
+Q: Le 22 mai sera- t -il possible de recevoir les énigmes en version digitale, en version anglaise et ou espagnole, en plus de la version française?
+A: Elles ne seront pas disponibles tout de suite en version anglaise et espagnole puisqu'on est en train de travailler dessus, de les finaliser, mais elles seront disponibles assez vite sur votre espace joueur.
+
+--- FAQ04-038 [#REXDEIGRATIA] ---
+Q: Dans Rex dei gratia, la traduction anglaise a amené un doute nouveau sur la compréhension de la calligraphie. La formule “le garçon descendant de Rome” signifie-t-elle que le garçon a des aïeux romains, ou bien qu'il initie un trajet en partant de la ville de Rome?
+A: Non, il n'initie pas de trajet en partant de la ville de Rome, mais il est en filiation, il a un lien particulier et historique avec Rome.
+
+--- FAQ04-055 [#LANGUES] ---
+Q: En cas de nuance entre le parchemin français et sa version anglaise, doit-on toujours privilégier le texte français pour interpréter et exécuter les consignes?
+A: Non, les joueurs anglais, tout comme les joueurs français, sont sur un pied d ’égalité s'agissant de résoudre la chasse.
+
+--- FAQ04-182 [#ADVITAMAETERNAM] ---
+Q: La dernière énigme, version anglaise, la phrase est en français, est-ce volontaire?
+A: Oui. Tout à fait.
+
+--- FAQ06-265 [#ADVITAMAETERNAM] ---
+Q: Je ne sais pas ce que vous entendez par D. “ A sénestre” ne figure pas dans la version anglaise.
+A: Ce mot n' a pas d'importance. Il signifie à gauche.
+
+--- FAQ07-218 [#ADVITAMAETERNAM] ---
+Q: Dans la traduction anglaise de Ad Vitam Æternam, "Dieu sut se montrer favorable" n'est pas traduit en anglais mais est resté en français. Est-ce volontaire ?
+A: Oui, tout à fait.
+
+--- FAQ05-105 [#SUBROSA] ---
+Q: Dans l 'énigme Sub Rosa, est-ce que les personnes utilisant la traduction anglaise de " l 'Orient" (the East) ne sont pas lésées ?
+A: Les anglais ne sont pas lésés dans la chasse, les versions ont bien été équilibrées.
+
+--- FAQ07-201 [#ADVITAMAETERNAM] ---
+Q: Un point virgule permet généralement de séparer deux propositions indépendantes mais liées par le sens. Ai-je raison de penser que la présence d 'un point virgule dans la phrase "Dieu sut se montrer favorable; dix stades romains séparaient les troisième et onzième" signifie qu'il faut utiliser la proposition Dieu sut se montrer favorable pour comprendre ce que représentent les troisième et onzième ?
+A: Non pas nécessairement.
+
+--- FAQ02-270 [#VOLATILE] ---
+Q: Normalement, on connaîtra à cette occasion la solution de la Chouette d'Or. Étienne a dit qu'il a regardé toutes les solutions de jeux passés et qu'il était adepte de la Chouette d'Or. J'aimerais bien qu'il fasse un commentaire.
+A: J'ai évidemment regardé les solutions de la Chouette d'Or puisque j'ai cherché la Chouette d'Or pendant trois ans et c'est la chasse qui m' a plongé, on va dire, qui m' a donné le virus de la chasse au trésor, qui m' a donné envie de créer Unsolved. Je ne ferais pas de commentaire parce que les esprits sont encore extrêmement chauds à ce sujet. J'ai regardé le film, j'ai bien aimé le film. Après, s'agissant des solutions, j'ai un avis qui m'est propre et que je ne souhaite pas partager pour l'instant.
+
+--- FAQ03-089 [#THÉMATIQUES] ---
+Q: Certains détails récurrents des énigmes, notamment le bestiaire, des références au froid, la lumière ou la solitude du chevalier, semblent faire écho à des récits modernes d'aspirations chrétiennes ou ésotériques où la figure du roi caché ou du gardien essolé prend une place centrale. Est-ce volontaire et faut-il un peu te dire contre pour éclairer le sens profond de la quête?
+A: La légende arthurienne est infinie. Les écrits, les historiens, les écrivains qui ont ensuite fantasmé, enrichi ou détourné cette légende sont légion, et la chasse à un parti pris très clair. En tout cas, à identifier très fortement. Et c'est à vous de trouver le parti pris que fait transparaître le narrateur.
+
+--- FAQ03-254 [#OMNIAVINCITAMOR] ---
+Q: Dans Omnia vincit Amor, le nom de Dieu fait-il référence à celui de la religion chrétienne?
+A: Impossible de vous répondre.
+
+--- FAQ07-098 [#ENLUMINURE11] ---
+Q: On sait que culturellement, le carré de lettres classiques de l'enluminure trois donnait une interprétation chrétienne tardive dans une autre disposition des lettres. Je me posais la question. Le chemin de pierre de l'enluminure onze a un lien dans sa résolution avec le carré de lettres figurant sur l'enluminure trois. Et du coup, si je dois tenter de remplir chaque pierre par une lettre dans un carré magique.
+A: Ça rejoint plusieurs questions que j'ai eues auparavant. Et là-dessus, évidemment, je ne pourrais pas vous dévoiler l'action à faire par rapport à l'enluminure onze.
+
+--- FAQ07-162 [#AUTRES] ---
+Q: Bonjour Étienne, faut-il trouver des accessoires ou des indices à emporter pour avancer notre quête ?
+A: Vous n'avez besoin de rien d'autre à part les éléments contenus dans le parchemin et ensuite d'une bonne connexion Internet.
+
+--- FAQ01-015 [#VALIDATIONS] ---
+Q: Le système de vérification en ligne sera-t-il payant ?
+A: Non. Il est en cours de refonte. On sort un nouveau site internet Unsolved ce mois-ci qui regroupera l'ensemble de nos chasses au trésor et nos futurs jeux de société. Et il y aura l'espace de vérification qui sera disponible sur ce site. Je vous en dirai plus dès que le site est en ligne. Mais on l' a conçu pour qu'il soit le plus simple, le plus accessible et qu’il reste gratuit puisqu'il est avant tout à destination des joueurs à mobilité réduite et des joueurs vivant à l'étranger qui n'ont pas le loisir de pouvoir se déplacer partout en Europe aussi facilement que des Européens non handicapés. Ce système restera largement accessible.
+
+--- FAQ01-042 [#RÉFÉRENCESEXTERNES] ---
+Q: Le fait de jouer sur d'autres chasses conçues par vous peut-il être d'un certain avantage ou d'un avantage certain pour résoudre celle-ci ? Et plus précisément certains cryptogrammes ?
+A: Je ne suis pas sûr d’être bien placé pour répondre à cette question sans prêcher pour ma paroisse. Je pense que comme tout créateur d'énigmes, sur plusieurs énigmes proposées, il y a forcément un style, des marottes ou des façons de coder qui peuvent se rapprocher. Après ce que j'essaye sur chacune des chasses, c’est évidemment, le thème est différent, de pas créer de répétition ou de pas utiliser les mêmes cryptos. Parce que ce serait dommage, notamment pour les joueurs qui participent à plusieurs chasses d’Unsolved à la fois.
+
+--- FAQ04-088 [#UNSOLVED] ---
+Q: Sur le livret du jeu, il est écrit l'objet de votre quête est l'épée du roi Arthur, la légendaire Exkalibur, forgée au pied de la citadelle de Carcassonne. Alors que sur le site d’Unsolved, il est écrit : le roi confiait aux chevaliers de la Table ronde une dernière quête: trouver le Graal. Ces informations ne me paraissent pas cohérentes, cherchons-nous le Graal ou l'épée?
+A: Vous cherchez le Graal. C 'est d'ailleurs la quête des chevaliers de la Table ronde, donc c 'est la quête d'Arthur. Et cette quête vous donne droit d'être digne de l'héritage d'Arthur, donc de prendre la place et de gagner donc Exkalibur. Exkalibur est la récompense de la chasse.
+
+--- FAQ04-102 [#UNSOLVED] ---
+Q: An de grâce cinq cent quarante-deux, le roi Arthur meurt au combat. Est-ce la date pour la mort du roi Arthur sur le site internet d 'Unsolved Hunts?
+A: Vous ne trouverez pas d ’informations sur les énigmes d ’Exkalibur sur nos sites internet. Ils ne sont pas faits par moi.
+
+--- FAQ04-155 [#UNSOLVED] ---
+Q: Le cheminement détaillé des douze énigmes demandées lors de la soumission du Pile-Poil sur le site de Unsolved correspond-il au niveau de précision attendue par les questions du dernier progressivomètre?
+A: Oui, même plus que ça. Enfin, il me faut vraiment un cheminement complet sur toute votre résolution de A à Z. Donc, en effet, ça peut prendre plusieurs pages, au moins.
+
+--- FAQ03-013 [#ADVITAMAETERNAM] ---
+Q: Concernant l'énigme Ad Vitam, n'y aurait-il pas de très légers anachronismes relatifs au narrateur?
+A: Il peut y avoir des légers anachronismes dans la chasse. Mais pas sur des éléments cruciaux, pas sur des éléments importants. Ça peut être des anachronismes architecturaux ou pour situer un endroit, parce qu'aujourd'hui, cet endroit est associé dans notre imaginaire à des éléments récents. Il n'y aura pas d'anachronisme sur ce qui compte vraiment, à savoir l'histoire, à savoir le narratif, à savoir ce qui est raconté par l'auteur du parchemin.
+
+--- FAQ02-051 [#AMISAVENTURIERS] ---
+Q: Je me demandais si à ce stade de la quête, il était déjà possible de repérer des éléments afin d'identifier l'auteur du texte préliminaire.
+A: Oui, mais ce ne sera pas suffisant pour l'identifier à coup sûr.
+
+--- FAQ01-006 [#ÉNIGME2] ---
+Q: Dans la deuxième énigme, quand l'auteur du manuscrit écrit “dit LAC”, veut-il dire que mon tout parle et dit lac ? Ou bien veut-il dire que mon tout est aussi appelé LAC ? Ou enfin est-ce LAC qui nous dit “trouve mon tout” ?
+A: C ’est la dernière proposition, c 'est LAC qui vous dit “trouve mon tout”.
+
+--- FAQ02-125 [#TERRAINCOGNITA] ---
+Q: Énigme 2, est-ce que le terme LAC peut être déduit avec seulement les éléments que nous avons à notre disposition à date?
+A: Vous comprendrez mieux l'utilisation, l'identité de LAC avec le reste des énigmes.
+
+--- FAQ04-081 [#NARRATEUR] ---
+Q: Concernant l'identité du narrateur, celui-ci est-il à déterminer uniquement par association d'idées, ou aurait-il pu nous laisser un crypto sur son identité?
+A: C'est une très bonne question et il y a tout ce qu'il faut en effet dans le parchemin pour trouver sans se tromper et sans hésiter le bon narrateur.
+
+--- FAQ04-133 [#NARRATEUR] ---
+Q: Est-ce que la résolution des énigmes nous aide à trouver l'identité du narrateur ou celle-ci se trouve ailleurs? Narratif? Parchemin?
+A: Il y a plusieurs moyens de trouver le narrateur, que ce soit par code, crypto ou par votre lecture du parchemin.
+
+--- FAQ05-027 [#TERRAINCOGNITA] ---
+Q: Terra incognita : le narrateur fait s'exprimer LAC sur l 'ensemble de la charade, semble-t'il. Je pense avoir identifier LAC, est ce que je fais fausse route sur son identité si je trouve un anachronisme important entre ce LAC et un passage de la charade (mon second, en l 'occurence) ?
+A: Non.
+
+--- FAQ06-054 [#NARRATEUR] ---
+Q: Faut-il avoir l 'identité du narrateur afin de pouvoir identifier le groupe de chevaliers de l 'enluminure deux, ainsi que ceux situés dans les quatre angles ?
+A: Non.
+
+--- FAQ07-140 [#NARRATEUR] ---
+Q: Sans révéler son identité, pouvez-vous confirmer que le narrateur est un personnage historique ayant exercé un pouvoir politique ou religieux majeur dans son pays et que son lien au mythe arthurien relève davantage d'un usage idéologique que d'une simple fascination littéraire ?
+A: Je vous confirme que c'est un personnage historique de premier ordre qui est connu et je vous confirme également qu'il y a un lien très fort avec le mythe arthurien.
+
+--- FAQ02-136 [#CARTE] ---
+Q: La femme qui tient la rose des vents a -t-elle une identité précise qui est à découvrir?
+A: Je ne peux pas répondre.
+
+--- FAQ06-049 [#OMNIAVINCITAMOR] ---
+Q: Est-il indispensable de connaître l 'identité du narrateur pour résoudre correctement Omnia Vincit Amor ?
+A: Non.
+
+--- FAQ06-070 [#LAC] ---
+Q: Trouver l 'identité de lac peut-elle m'aider dans la résolution des trois dernières énigmes ?
+A: Non.
+
+--- FAQ06-165 [#CONSUMMATUMEST] ---
+Q: Connaître l 'identité du narrateur nous aide-t-il pour trouver Montsalvage ?
+A: [Non].
+
+--- FAQ01-041 [#RÉFÉRENCESEXTERNES] ---
+Q: La légende arthurienne ayant plusieurs versions, et cette chasse ayant été créée avec la sortie du nouveau spectacle, est-ce que l'auteur des énigmes les a crées en ayant connaissance des scénarios du spectacle pour que les deux soient cohérents ?
+A: Oui, j'ai en effet eu le scénario du spectacle. Je crois que c'est Nicolas de Villers qui rédige encore tous les nouveaux spectacles. Donc j'ai eu accès au scénario et j'ai essayé de créer des clins d'œil. Mais l'objectif, ce n'est pas qu'il faille voir forcément le nouveau spectacle pour trouver des indices pour avancer dans la quête Exkalibur. Donc ça reste deux choses indépendantes, même s'il y a des ponts et des clins d'œil.
+
+--- FAQ03-069 [#ANACHRONISMES] ---
+Q: La Venus de Milo, l'arbre d'or et l'anneau en or sont trois exemples d'éléments anachroniques par rapport à la période évoquée dans les énigmes puisqu'ils ont été découverts ou créés bien plus tard, parfois même au vingtième siècle. Dans la mesure où l'on cherche à identifier l'auteur des énigmes et donc à situer leur date de rédaction, doit-on accorder de l'importance aux éléments graphiques présents sur la carte ou dans les enluminures?
+A: Non, ce ne sont pas ces éléments graphiques anachroniques qui vont vous aider à l'identifier, mais plutôt ce qui est raconté, donc la calligraphie, la rédaction, ce dont vous parle le narrateur, qui vous permettra de l'identifier correctement. S'il y a des anachronismes, ils sont avant tout à visée d'identification de lieux pour vous les joueurs et pour les besoins des énigmes, mais pas pour l'identification du narrateur.
+
+--- FAQ03-010 [#CARTE] ---
+Q: Est-ce que l'auteur des énigmes a -t-il pu voir l'arbre d'or présent sur la carte?
+A: Non, il s'agit d'un anachronisme. Un anachronisme partiel.
+
+--- FAQ01-045 [#DIFFICULTÉ] ---
+Q: Selon vous, comment classeriez-vous le niveau de difficulté d'Exkalibur par rapport à l'Élixir et au Naga ?
+A: Exkalibur est prévu pour durer autant que l’Élixir. Cependant, je pense que Exkalibur est légèrement plus accessible que l'Élixir. Notamment parce que son thème est plus grand public. Et Exkalibur, de l'autre côté, est plus difficile que le Naga d’Or qui est prévu pour durer entre un et trois ans.
+
+--- FAQ01-198 [#STRUCTURE] ---
+Q: Y a -t-il plus ou moins de cryptos que l'Élixir ? Quel niveau de difficulté ? Et si vous deviez donner un pourcentage entre cryptos, recherches et interprétations ?
+A: Je ne donnerais pas de pourcentage. Mais en effet, comme l’Élixir et le Naga, dans Exkalibur il y a une part de résolution qui va tenir à des recherches, à de la documentation, à des notions, des connaissances historiques, culturelles, religieuses que vous pourriez avoir. Une part de cryptographie, de décodage, de déchiffrement. A vous de trouver les bons codes et à les décoder. Et puis une part d'interprétation, d'association d'idées, d'imagination pour évidemment que ça reste une chasse résolue vraiment par un cerveau humain plein de bon sens et capable d'imagination et d'inventivité, contrairement à une intelligence artificielle par exemple.
+
+--- FAQ02-276 [#VOLATILE] ---
+Q: Quand on voit ta résolution sur la chouette, c'est-à-dire sortir des sentiers battus et pas tout à fait proche de la réalité. Étant très terre à terre et n'aimant pas partir dans des exécutions, dois-je revoir ma méthode pour Exkalibur? En gros, pour la création d'Exkalibur et l'Élixir d’Or, tu fonctionnais comme tu as fonctionné pour chercher la Chouette d'Or?
+A: Pour moi, c'est une expérience très différente d'être créateur de chasse ou d'être joueur sur une chasse. Et la Chouette d'Or est encore plus particulière puisqu'elle a duré 30 ans. Et donc, lorsque j'ai commencé à plancher sur la Chouette d'Or, on avait déjà un immense passif, beaucoup de pistes qui avaient déjà été trouvées par des dizaines de milliers de joueurs. Et donc, il me semblait logique d'avoir un regard neuf et de creuser ma piste personnelle. Quand je suis en création de chasse, c'est très différent. Ça dépend aussi du thème de la chasse. Par exemple, la chasse de l'Élixir, par ses thèmes, l'ésotérisme, l'alchimie, un certain vocabulaire assez secret, va répondre à une logique qui peut être plus symbolique, interprétative. La chasse du Naga d’Or, qui va sans doute bientôt se terminer, était peut-être davantage crypto, même s'il y avait toujours une part de transcendant et d'absolu même s'il y avait toujours une part de transcendant et d'absolu qui me semble important pour donner consistance et pour donner de la profondeur à la chasse. Et puis, s'agissant d'Exkalibur, vous le saurez bien assez tôt.
+
+--- FAQ03-067 [#DIFFICULTÉ] ---
+Q: Cette chasse est-elle du même niveau de complexité mais simplement plus longue que le Naga d ’Or?
+A: Non, la chasse Exkalibur est plus difficile que la chasse du Naga d ’Or. Elle est cependant moins difficile que la chasse de l'Élixir d 'Or.
+
+--- FAQ03-221 [#INDICES] ---
+Q: La résolution complète de la chasse est-elle humainement possible et imaginable dès maintenant, ou bien son calibrage prévoit-il nécessairement la divulgation à venir d'indices déterminants par des FAQs ou communiqués officiels?
+A: J'en saurai plus après le progressivomètre. En effet, mon objectif, c'est de calibrer pour qu'il y ait le besoin de moins d'indices possibles. Ça peut varier d'une chasse à l'autre, je sais que sur l'élixir, il y a beaucoup d'indices. Sur le Naga, il y a eu simplement un seul indice qui était lié au Naga Junior. Ça peut varier. J'en saurai plus en octobre.
+
+--- FAQ03-341 [#CARTOGRAPHIE] ---
+Q: Comparé au Naga d'or, on avait en page 18 de la résolution des réponses, on voit un poisson dessiné, est ce que l'épée sera retranscrite sur MyMaps?
+A: Je pourrais pas vous répondre. Ce n’est pas parce qu'il y a des solutions dans le Naga qui y aurait forcément le même format de solutions dans Exkalibur.
+
+--- FAQ07-078 [#ADVITAMAETERNAM] ---
+Q: Si j'ai bien compris, la souche Majesté n'est visible que sur place et pas de Google Maps, comment soumettre une solution de chez soi. Comment, si c'est le cas, peut-on valider une solution de chez soi et soumettre un trajet qui finit pile-poil puisqu'on n' a pas pu avoir de précisions sur les derniers pas
+A: Il est logique que je ne vous aie pas mis des éléments qui soient trouvables facilement sur Google Maps pour éviter des raccourcis informatiques. Ceci dit, c'était également le cas pour le Naga d'or. C'est-à-dire que c'était près d'un escalier. Il n'y avait pas de Google Street View, de Google Maps à cet endroit-là. Ce que je vous invite à m'envoyer, c'est des captures d'écran vues du ciel de la clairière que vous pouvez identifier et ensuite m'expliquer par un paragraphe comment vous arrivez jusqu'au lieu final. Expliquez ce sur quoi vous vous attendez à tomber et les pas précis que vous pouvez faire. Mais pour le coup, la fin de cette chasse, une fois que vous avez trouvé la clairière, vous avez quasiment fini la chasse. Il n'y a pas beaucoup de mystère sur le dernier parcours à faire. Ce qui compte, c'est le point de départ.
+
+--- FAQ07-142 [#AUTRES] ---
+Q: En tant que nouveau joueur, est-ce que j'ai mes chances par rapport aux anciens ? En effet, il me semble avoir lu que vous aviez donné des indices pour faire avancer le jeu. Or, il est prévu pour durer entre deux et cinq ans. Ces indices peuvent-ils être déterminants ? Pourquoi ne pourrait-on pas trouver sans les indices ?
+A: La première chasse qui a été découverte de notre côté, c'était un novice en chasse au trésor. Donc je ne pense pas du tout qu'il y ait une prime aux anciens. Je pense que généralement, en fin de chasse, il y a énormément de joueurs qui finissent par être très proches du lieu final et que ça devient une course contre-la-montre. C'était en tout cas le cas pour le Naga d'or puisqu'il y avait une vingtaine de joueurs qui étaient dans un mouchoir de poche et on a eu trois réponses gagnantes en moins d'un week-end. Donc ça s'est joué à quelques heures d'écart entre le premier et le deuxième alors que la chasse a duré neuf mois. Donc non, non, je dirais pas du tout ça. Et d'ailleurs, parmi l'écosystème des chasses au trésor c'est sûrement des chasses où il y a le moins d'indices donnés. Le Naga d'or, il y a eu un seul indice qui a été donné, je crois. Et Exkalibur, on n'est qu'à un seul coup de pouce qui était pas vraiment un indice utile pour les joueurs les plus avancés puisque ça permettait de trouver des éléments que les joueurs les plus avancés avaient déjà. Et ce sera également le cas dans l'indice que je donnerai à l'occasion des un an. C'est ce qui permet de rattraper justement les joueurs les plus avancés.
+
+--- FAQ03-213 [#STRUCTURE] ---
+Q: Est-ce que réaliser un tableau comme celui des huit éléments du Naga est nécessaire dans la chasse?
+A: Là-dessus, je ne pourrais pas vous répondre. Chaque chasse répond à une logique qui est somme toute différente, mais il peut parfois y avoir une façon de réfléchir, de raisonner similaire.
+
+--- FAQ01-013 [#ÉNIGME2] ---
+Q: Est-ce que LAC peut trouver plusieurs significations comme RC dans l'Élixir d'Or ?
+A: Ça me semble un peu trop tôt pour répondre à cette question.
+
+--- FAQ01-128 [#COFFRE] ---
+Q: Si la quête de la chasse au trésor est faite en groupe, est-il possible de partager la récompense de plusieurs manières différentes ?
+A: Nous on aura besoin d'un chef d'équipe à qui remette la récompense officiellement. Et puis après on vous laisse vous débrouiller au sein de votre équipe pour savoir comment vous faites. Ça me parait un peu plus compliqué sur Exkalibur que sur l'Élixir d'Or par exemple, où c'est une cave à vin avec 3600 bouteilles de vin, donc c'est plus facilement partageable. Là sur l'épée Exkalibur, il faudra se mettre d'accord sur qui la garde.
+
+--- FAQ01-024 [#COFFRE] ---
+Q: Pouvez-vous nous indiquer à quelle profondeur la contremarque a été enterrée ?
+A: Alors oui, donc ce n’est pas l’épée qui a été enterrée. L'épée est toujours au Puy du Fou puisqu'elle attendra son vainqueur, et donc c'est un coffre qui contient un autre élément mystère et secret qui sera découvert par le vainqueur, qui a été enterré. Et ça a été enterré à environ 40 cm de profondeur.
+
+--- FAQ01-034 [#COFFRE] ---
+Q: La durée de la chasse est annoncée entre deux et cinq ans. Est-ce que ça veut dire qu'il nous manquera forcément des indices ou des éléments pour trouver la contremarque avant deux ans ?
+A: Non, c'est juste une estimation qui vaut ce qu'elle vaut, parce que c'est une science très inexacte. Moi j'ai estimé que ça pouvait tenir entre deux et cinq ans en faisant la somme des fourchettes d'estimation énigme par énigme. Mais après, tout dépend de votre niveau de sagacité et du nombre de personnes qui vont vraiment s'impliquer et chercher Exkalibur pendant toute la durée du jeu. Donc ça peut être très variable. Ça peut durer moins longtemps comme ça peut… Alors ça ne pourra pas durer plus longtemps puisqu’en l'occurrence, le règlement cape la fin de la chasse à cinq ans, mais ça peut durer moins de deux ans si les joueurs progressent plus rapidement que je ne l'avais imaginé.
+
+--- FAQ01-025 [#VALIDATIONS] ---
+Q: Si une personne envoie la solution exacte au système de validation, le jeu est-il mis en pause pour que cette personne ait le temps de s'organiser pour aller déterrer le coffre ? Ou est-ce qu'une autre personne peu le déterrer entre temps et être déclarée gagnante ?
+A: C'est le fait de déterrer le coffre qui vous donne la situation d'être un droit porteur et donc de pouvoir prétendre à l'épée. Et donc moi je m'engage à vous appeler et à vous répondre le plus rapidement possible si je vois passer la bonne solution sur le système de validation. Mais ce sera à vous, à ce moment-là, de vous dépêcher pour aller déterrer le coffre avant les autres. Car il se peut, c'est déjà arrivé sur d'autres chasses au trésor, que à la fin ce soit une course contre la montre et qu’il y ait un déblocage qui se fasse en même temps auprès de plusieurs équipes de joueurs. Et où ça puisse se jouer à moins de quelques heures d'écart. Et donc comme le système de validation reste facultatif, c'est le fait de déterrer, d'être en possession de l'élément qu’il y a dans coffre qui vous donne le titre de vainqueur de la chasse. Et donc si, si vous ne pouvez pas vous déplacer mais que vous avez fait valider votre solution à distance, ça veut dire demander à un proche ou à une personne de votre équipe de se déplacer à votre place. Il y aura des cas particuliers, peut-être si vous êtes handicapé, etc. Mais sinon, voilà le cas général.
+
+--- FAQ01-161 [#RÉFÉRENCESEXTERNES] ---
+Q: Est-ce que les yeux rouges des animaux sont une piste aux étoiles ?
+A: Il n'y aura pas les mêmes cryptos qu'il peut y avoir dans des chasses célèbres comme Masquerade ou d 'autres. J'essaie justement de lire toutes les solutions de tous les chasses passées pour faire en sorte que le final soit unique.
+
+--- FAQ02-002 [#COFFRE] ---
+Q: Ne faut-il pas une autorisation de l'État pour enterrer et déterrer le coffre?
+A: En principe, oui. Dans les faits, il y a une tolérance sur l'ensemble des chasses au trésor. Il y en a un peu plus de sept cents qui ont été lancées depuis quarante ans. Le risque, évidemment, de demander une autorisation, pour moi, notamment, c'est qu'il y a un gros risque qui est pris au niveau de la pour moi, notamment, c'est qu'il y a un gros risque qui est pris au niveau de la confidentialité du lieu d'enfouissement du coffre. Et c'est la raison pour laquelle je ne demande pas d'autorisation.
+
+--- FAQ02-043 [#CONCEPTION] ---
+Q: Lors de la création de la quête, décidez-vous de l'endroit de la cache avant d'imaginer et d’écrire les énigmes, ou bien, durant, à la fin de l'écriture des énigmes que vous choisissez l'emplacement où vous allez cacher le coffre?
+A: Les deux sont tout à fait possibles. j'ai pu avoir recours à ces deux méthodes pour des chasses différentes.
+
+--- FAQ02-208 [#DISCORD] ---
+Q: À ce stade, à ce que vous pouvez lire dans les différents salons, trouvez-vous que les recherches sont plutôt en avance ou en retard par rapport à vos projections?
+A: J'ai essayé de le faire sur les deux premières chasses et j'ai rapidement abandonné puisque le volume de message ne me permet pas de suivre. Et c'est d'autant plus vrai sur Exkalibur. Donc je ne lis pas tout.
+
+--- FAQ02-213 [#REXDEIGRATIA] ---
+Q: Les mots "embrassait" au lieu de "embrasait" plus logique et "leur" au lieu de "lui" sont-ils volontaires ou sont-ce des coquilles?
+A: Oui, c'est bien “embrassait” et “leur” au lieu de “lui”. Attendez, laissez-moi juste une seconde pour vérifier où vous êtes. Le roi que Dieu leur avait donné, c'est une référence au peuple celte. Vous avez raison, c'est lui. Vous n'êtes pas sympa de corriger toutes mes fautes d'orthographe, mais je comprends votre point de vue puisque il y a certaines chasses où ça peut avoir son importance. Mais je prends toujours un grand coup à mon ego.
+
+--- FAQ02-312 [#CONCEPTION] ---
+Q: Si vous n’aviez pas été le concepteur de cette chasse, quels seraient tous les moyens, styles ou approches que vous auriez utilisés pour résoudre ces énigmes comme un simple joueur? Comment aborderiez-vous chacune d’elles, sans connaissance préalable? Et quels types de logiques privilégieriez-vous? Par ailleurs, pourquoi avoir choisi une écriture si particulière, notamment cette narration à la deuxième personne façon "amis aventuriers", ou encore l’évocation de la forge de l’épée plutôt que son histoire arthurienne? Ce choix est-il simplement poétique ou dissimule-t-il une architecture cryptée, à plusieurs niveaux de lecture, comme on peut le voir dans certains récits à double fond? Peut-on considérer que cette narration fonctionne comme une carte mentale? Une forme de tutoriel masqué? Dans le cas où certaines de ces questions ne peuvent recevoir de réponse directe, pourriez-vous alors nous éclairer sur votre processus de création?
+A: Donc, quand j'ai été joueur de chasses au trésor, généralement, je fonctionne ainsi : Donc, je commence par lire l'ensemble des énigmes, à noter tout ce qui me saute aux yeux, à constituer une carte mentale, à ensuite mener des recherches approfondies sur les éléments qui me semblent ensuite mener des recherches approfondies sur les éléments qui me semblent les plus importants, à casser les cryptos qui sont en clair. Et puis ensuite, j'essaie de trouver l'ordre des énigmes pour les casser une à une et, progresser à tâtons à partir de là avec les éléments dont je dispose. J'ai une préférence évidemment pour les énigmes plutôt littéraires, métaphysiques, religieuses, philosophiques, historiques. Je n'aime pas trop les énigmes mathématiques, mais bon, ça c'est, on va dire, un tropisme qui m'est propre.
+
+--- FAQ02-315 [#FAQ] ---
+Q: On est d'accord que cette FAQ nous montre déjà qu'on s'est parfois pris la tête sur les détails qui ne servent finalement à rien.
+A: Alors ça, malheureusement, je vous rassure, c'est le lot de toutes les chasses au trésor.
+
+--- FAQ02-332 [#COFFRE] ---
+Q: Quel type de gagnant imaginez-vous pour cette chasse ? Créatif, scientifique, un mix de tout, monsieur de tout le monde?
+A: Je m'efforce de faire des chasses qui ne sont pas trop crypto ou en tout cas qui ne vont pas favoriser des chasseurs de trésors émérites qui ont des logiciels de force brute qui peuvent casser des chasses très rapidement. Et donc toutes mes chasses reposent sur de la recherche, de la documentation, des connaissances, de l'interprétation, de la cryptographie, de l'association d 'idées. Et tout est bêta-testé avec l'intelligence artificielle. Donc mon objectif est qu'en effet, en tout cas, le final d 'une chasse repose plus sur une intuition, un parti pris, un choix fait par un joueur plutôt qu'une résolution, on va dire, plus bête et méchante.
+
+--- FAQ02-336 [#COFFRE] ---
+Q: Le maire de Dabo a -t-il du souci à se faire dans cette nouvelle chasse?
+A: Je ne peux pas répondre puisque ça invaliderait une commune, mais je vous rassure, je lis les solutions de toutes les chasses pour être sûr que les chasses que je crée soient uniques et ne copient pas ou ne s'inspirent pas de chasses précédentes.
+
+--- FAQ04-112 [#COFFRE] ---
+Q: N'ayant jamais fait de chasse au trésor que me conseillerais-tu pour aborder correctement la finale?
+A: Je peux conseiller de regarder déjà des solutions d'autres chasses au trésor et puis en même temps de prendre des distances avec puisque le final est très différent des conventions, on va dire. Donc de garder, on va dire, une très grande liberté d'interprétation, de choix, d'initiatives. Ouvrez un peu vos perspectives pour trouver quelque chose qui soit élégant par rapport à tout ce que vous avez découvert jusque-là.
+
+--- FAQ05-180 [#UNSOLVED] ---
+Q: Dans la conception d’Exkalibur, quel a été pour vous le choix ou l’arbitrage le plus délicat à faire en tant que créateur, par rapport à vos chasses précédentes ?
+A: Comme pour toutes les chasses, le plus dur est d'enlever, et de calibrer. En l'occurrence, pour Exkalibur, je me suis restreint à un angle narratif bien particulier, pour éviter l'infini de la légende.
+
+--- FAQ01-050 [#RÉFÉRENCESEXTERNES] ---
+Q: Est-ce que c'est parce que cette chasse nous amène sur les îles britanniques que vous avez souhaité faire un clin d'œil à Masquerade dans la première énigme ?
+A: Il y a en effet des clins d'œil à d'autres créateurs ou d'autres chasses au trésor, dans la plupart des chasses que je crée. Mais il est rare que un élément important dans une enluminure ou dans un texte ne fasse qu’office de clin d'œil. Il peut y avoir plusieurs lectures.
+
+--- FAQ06-075 [#UNSOLVED] ---
+Q: Une petite pointe de nostalgie chouettesque aurait-elle eu comme conséquence une allusion cachée à la célèbre chasse dans un décryptage ?
+A: Il y a tellement de cryptos, de références dans chaque chasse qu'il peut y avoir des liens, surtout quand on en cherche, mais je ne cherche jamais, pour ma part, à m'inspirer des autres chasses, car ce serait très ennuyeux et ça retire une grande partie de mon plaisir de créateur.
