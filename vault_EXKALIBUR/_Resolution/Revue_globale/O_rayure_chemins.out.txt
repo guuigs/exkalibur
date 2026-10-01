@@ -1,0 +1,34 @@
+noeuds degré>=3 <=4,5 km : 577
+ARRÊT temps (partiel)
+SVG : tronc 71 sommets, confluence à 0.871 de la longueur ; 577 confluences IGN ; 362338 fenêtres testées
+
+== 20 meilleures correspondances (résidu Procrustes, 0 = identique) ==
+ 1. résidu 0.111 | L=0.31 km | centre 45.40546,6.03741 | 2.65 km de la tour | écart affluent 122° | sans nom
+ 2. résidu 0.117 | L=0.93 km | centre 45.43443,6.06372 | 2.65 km de la tour | écart affluent 2° | sans nom
+ 3. résidu 0.120 | L=0.31 km | centre 45.43460,6.06901 | 3.05 km de la tour | écart affluent 25° | sans nom
+ 4. résidu 0.120 | L=0.77 km | centre 45.40796,6.04088 | 2.45 km de la tour | écart affluent 164° | sans nom
+ 5. résidu 0.121 | L=0.93 km | centre 45.44768,6.00967 | 2.67 km de la tour | écart affluent 180° | sans nom
+ 6. résidu 0.122 | L=0.26 km | centre 45.44316,6.00592 | 2.51 km de la tour | écart affluent 18° | sans nom
+ 7. résidu 0.123 | L=0.37 km | centre 45.44125,6.03447 | 1.41 km de la tour | écart affluent 47° | sans nom
+ 8. résidu 0.123 | L=0.22 km | centre 45.41205,6.05674 | 2.75 km de la tour | écart affluent 113° | sans nom
+ 9. résidu 0.124 | L=0.77 km | centre 45.40451,6.04943 | 3.07 km de la tour | écart affluent 152° | sans nom
+10. résidu 0.124 | L=0.45 km | centre 45.40638,6.02809 | 2.50 km de la tour | écart affluent 81° | sans nom
+11. résidu 0.124 | L=0.54 km | centre 45.43307,6.06101 | 2.41 km de la tour | écart affluent 88° | sans nom
+12. résidu 0.126 | L=0.64 km | centre 45.39069,6.04101 | 4.31 km de la tour | écart affluent 50° | sans nom
+13. résidu 0.126 | L=1.11 km | centre 45.39246,6.03636 | 4.06 km de la tour | écart affluent 171° | sans nom
+14. résidu 0.126 | L=0.54 km | centre 45.42335,6.07791 | 3.73 km de la tour | écart affluent 83° | sans nom
+15. résidu 0.126 | L=1.34 km | centre 45.40069,6.04579 | 3.34 km de la tour | écart affluent 138° | sans nom
+16. résidu 0.126 | L=2.31 km | centre 45.45513,6.00625 | 3.50 km de la tour | écart affluent 94° | sans nom
+17. résidu 0.127 | L=0.45 km | centre 45.42144,6.07036 | 3.20 km de la tour | écart affluent 49° | sans nom
+18. résidu 0.127 | L=0.18 km | centre 45.42202,6.05419 | 1.98 km de la tour | écart affluent 19° | sans nom
+19. résidu 0.127 | L=0.15 km | centre 45.46436,6.05194 | 4.29 km de la tour | écart affluent 142° | sans nom
+20. résidu 0.128 | L=0.15 km | centre 45.39826,6.05137 | 3.76 km de la tour | écart affluent 94° | sans nom
+
+== Contrôle miroir (même recherche, SVG inversé gauche-droite) ==
+meilleur résidu réel  : 0.111
+meilleur résidu miroir: 0.103
+quantile 0.1% : réel 0.138 | miroir 0.137
+quantile 1.0% : réel 0.158 | miroir 0.157
+quantile 5.0% : réel 0.203 | miroir 0.200
+
+meilleur à ≤ 3 km de la tour : [(np.float64(0.111), 311, (np.float64(45.40546), np.float64(6.03741)), []), (np.float64(0.117), 929, (np.float64(45.43443), np.float64(6.06372)), []), (np.float64(0.118), 929, (np.float64(45.43446), np.float64(6.06369)), []), (np.float64(0.12), 929, (np.float64(45.4343), np.float64(6.06349)), []), (np.float64(0.12), 774, (np.float64(45.40796), np.float64(6.04088)), [])]
