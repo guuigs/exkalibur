@@ -1,0 +1,7 @@
+SVG : tronc+queue 71 pts ; corr x~y = 0.78
+x(y) brut      corr max=0.926 cap=212 départ=(45.42536,6.03974) médiane par cap=0.852
+sans tendance  corr max=0.759 cap=220 départ=(45.42373,6.04358) médiane par cap=0.564
+miroir         corr max=0.906 cap=268 départ=(45.42916,6.04819) médiane par cap=0.852
+inversé        corr max=0.913 cap=356 départ=(45.41885,6.02976) médiane par cap=0.856
+TÉMOINS marche aléatoire corr max : [0.915 0.716 0.868 0.987 0.869 0.809 0.803 0.952]  moyenne 0.865
+26 s
