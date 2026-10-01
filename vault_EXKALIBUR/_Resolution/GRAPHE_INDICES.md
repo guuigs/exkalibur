@@ -90,12 +90,8 @@
 - Fil « narrateur = Bayard » : É9 (jour de honte / gloire, Marignan), É11 (dernier chevalier). À vérifier en É12.
 - Ouvert : dérivation de l'angle (64,99° géo ; 72,09° / lame É1).
 
-## É12 Ad vitam aeternam (30/09, 🔴 sauf départ 🟡)
-- Entrées : droite É11 prolongée → **tour d'Avalon** (+1,07 km après Bayard, FAQ07-256 « très finement ») ; Avalon ↔ Hugues de Lincoln (É8 « plus haute tour ») ; coupe = enluminure R5G (FAQ07-005).
-- Ouvert : 3e et 11e (10 stades = 1,85 km), clairière (terrain), jour dernier (azimut), pas.
-
-## Revue globale (30/09, après les 12 énigmes) : voir `Revue_globale/00_SYNTHESE.md`
-- **Tour d'Avalon** 🟡+ : droite É11, É8 (Lincoln / Hugues d'Avalon), enluminure 12 (tour effondrée, deux yeux, cloche = Lincoln ; Glastonbury Tor), FAQ07-019 (É8 + enluminure 12 concaténés = « très précieux »).
-- Enluminure 12 : vieillard à la scie = saint Simon (11e apôtre, Mt 10) ? D'où la piste 3e/11e = apôtres (Jacques / Simon), non placée sur le terrain.
-- Rayure de l'épée : forme seule (FAQ06-161, 03-059) ; aucun cours d'eau de la BD TOPO ne correspond (contrôle miroir), il faut le LiDAR ou le terrain.
-- Narrateur = Bayard 🟡 ; angle É11 et « jour dernier » = lever du soleil le 30/04/1524 (hypothèse).
+## É12 Ad vitam aeternam (01/10, 🔴 sauf départ 🟡) : détail dans `Enigme_12/solution.md`
+- Entrées : droite É11 prolongée → **tour d'Avalon** (+1,07 km après Bayard, FAQ07-256) ; Avalon = « la pommeraie » ; Hugues d'Avalon ↔ Lincoln (É8) ; Rue du Rempart à 82 m de la tour ; coupe = enluminure 9 (FAQ07-005).
+- Pistes vivantes : 3e/11e = biche de Cérynie / pommes d'or d'Hercule ; croix de l'enluminure 11 (1, 3, √5) comme gabarit ; décompte des maillons d'or ; grande roche = rocher de l'épée ; ruisseau de Tapon.
+- Écartés : zones A/B/C, étang d'Avalon (ENS), nombre d'or, rayure (profil/chemin/code), phrase de 25 lettres, classes d'objets à 1 850 m, chemin de croix, cartes à jouer.
+- Ouvert : 3e et 11e (10 stades = 1,85 km), clairière, grande roche, direction É11 (64,99°), pas.

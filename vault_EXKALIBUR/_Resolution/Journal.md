@@ -31,8 +31,10 @@
 
 - 30/09 : É12 : départ probable = tour d'Avalon (alignement É11 prolongé, 607,69 km). 3e/11e non résolus ; FAQ confirme que personne ne les a. Coffre non trouvé (Discord). OSM : pas de chemin de croix balisé à 12 km.
 
-- 30/09 : revue globale (agents T1 terrain IGN, T2 3e/11e, T3 zones d'ombre É1-11) + enluminure 12 + rayure de l'épée (SVG de Guilhem). Voir Revue_globale/00_SYNTHESE.md.
+- 30/09 : revue globale (agents T1 terrain IGN, T2 3e/11e, T3 zones d'ombre É1-11) + enluminure 12 + rayure de l'épée (SVG de Guilhem). Synthèse archivée (`_archive_brut_2026-10-01.zip`) ; état à jour dans `Enigme_12/solution.md`.
 
 - 30/09 soir : Guilhem VALIDE « jour dernier » = 30/04/1524 (63,7° julien). Tests : ponts ordinaux (bruit), scieries (rien), rayure vs LiDAR HD (non discriminant, contrôle miroir). T4 lancé (grande roche + parcelles ONF).
 
 - 30/09 soir : T4 rendu. Parcelles ONF à lettres, donc ❌. Piste vivante : lieu-dit « Le Chêne, la Roche et le Vivier » au pied de la tour (étang de 1 ha). Orthophoto produite.
+
+- 01/10 : séance É12 (Discord lu, enluminures 9 et 11 relues, maillons d'or, Hercule 3e/11e, rayure, vergers, croix de l'enl. 11 avec √5 confirmé). Aucune zone. **Nettoyage** : `solution.md` réécrit (faits / règles / pistes / abandons) ; notes de travail, briefs et rapports de sous-agents archivés dans `_archive_brut_2026-10-01.zip` ; `00_ETAT.md` et `GRAPHE_INDICES.md` mis à jour.
