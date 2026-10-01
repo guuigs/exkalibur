@@ -1,0 +1,21 @@
+OSM objets ≤1,2 km : 348
+
+=== 11e = Pont des Bretonnières (Google) (45.439475, 6.053043) | tour→11e 2085 m, rempart→11e 2019 m
+   PRÈS AVALON    1865 m | tour  678 m | OSM | man_made=reservoir_covered | None | None | 45.43515,6.02994
+   PRÈS AVALON    1865 m | tour  694 m | OSM | amenity=bench | None | None | 45.43529,6.02989
+   (tous objets dans l'anneau : 6 ; dont près d'Avalon : 2)
+   contrôle : 237 objets à ≤800 m de la tour × fraction 2.695% = 6.4 attendus par hasard
+
+=== 11e = Pont des Bretonnières (BD TOPO) (45.4395, 6.053) | tour→11e 2083 m, rempart→11e 2017 m
+   PRÈS AVALON    1863 m | tour  678 m | OSM | man_made=reservoir_covered | None | None | 45.43515,6.02994
+   PRÈS AVALON    1863 m | tour  694 m | OSM | amenity=bench | None | None | 45.43529,6.02989
+   (tous objets dans l'anneau : 6 ; dont près d'Avalon : 2)
+   contrôle : 237 objets à ≤800 m de la tour × fraction 2.703% = 6.4 attendus par hasard
+
+=== 11e = Pont isolé du barrage (BD TOPO) (45.43566, 6.03903) | tour→11e 973 m, rempart→11e 897 m
+   (tous objets dans l'anneau : 6 ; dont près d'Avalon : 0)
+   contrôle : 237 objets à ≤800 m de la tour × fraction 0.000% = 0.0 attendus par hasard
+
+=== 11e = Barrage (BD TOPO) (45.43583, 6.03972) | tour→11e 1023 m, rempart→11e 948 m
+   (tous objets dans l'anneau : 7 ; dont près d'Avalon : 0)
+   contrôle : 237 objets à ≤800 m de la tour × fraction 0.000% = 0.0 attendus par hasard

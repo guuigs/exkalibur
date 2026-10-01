@@ -1,0 +1,15 @@
+parcours                                                   N   L km d_tour m  borne : 3→11 possible ≥ 1850-18 ?
+Parcours patrimoine Saint-Maximin (PDF Apidae)             9    5.2        5  impossible : pas de 11e poste
+CO patrimoine Bayard Pontcharra/St-Maximin                10    5.0     1454  impossible : pas de 11e poste
+Parcours santé patrimoine Pontcharra (Isère Outdoor)      11    6.7      880  chemin 3→11 ≈ 4872 m (8/11 de 6.7 km) -> non exclu (estimation grossière ; emprise carte ≲ 0,7 km => exclu en pratique pour Allevard)
+Parcours thématique Barraux (10 étapes)                   10    6.5     4203  impossible : pas de 11e poste
+Parcours thématique Chapareillan (8 étapes)                8   None     7415  impossible : pas de 11e poste
+Sentier forestier Plateau de la Puce, Chapareillan        40    2.3     6999  chemin 3→11 ≈ 460 m (8/40 de 2.3 km) -> exclu (≪1832)
+CO patrimoine Allevard village                            11    2.5     5188  chemin 3→11 ≈ 1818 m (8/11 de 2.5 km) -> exclu (≪1832)
+CO ludique Lac de la Mirande, Allevard                    11    1.5     4878  chemin 3→11 ≈ 1090 m (8/11 de 1.5 km) -> exclu (≪1832)
+Randonnée des Hameaux (OSM rel. 2825942)                   4    5.0       35  impossible : pas de 11e poste
+
+Santé Pontcharra (11 bornes, positions APPROXIMATIVES) : d(3,11) = 835 m ; d(i,i+8) = [445, 777, 835]
+Toutes paires (55) : min 132  max 2539  médiane 952 ; paires dans 1850±18 : 0
+Contrôle : fenêtre ±18 m sur distances 0–2539 m : 1.42 % par hasard (≈ 36/2539)
+Paires > 1832 m : 5 ; d(3,11)=835 m => rejeté (écart 1014 m).

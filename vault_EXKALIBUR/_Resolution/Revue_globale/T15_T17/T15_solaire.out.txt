@@ -1,0 +1,272 @@
+jonctions deg>=3 (Chemin/Sentier/Route empierrée) : 768 au total ; 330 dans 3200 m
+==============================================================================
+1. SOLEIL — date : 30/04/1524 julien = 10/05/1524 grégorien, JD(0h UT) = 2277818.5
+   déclinaison à midi ≈ 17.596°, équation du temps ≈ +4.3 min (temps solaire vrai ; lon 6.030 E ⇒ midi moyen local = 12h − 24 min UT)
+   Heures = temps solaire VRAI local (pas d'heure légale en 1524).
+   Hauteurs/azimuts : hauteur géométrique vraie du centre ; azimut depuis le nord, sens horaire.
+
+   Lever/coucher théoriques (horizon plat, bord sup.) : lever 04h38 (az 63.3°)  coucher 19h22 (az 296.9°)  jour = 14.74 h
+   Horizon réel depuis RP (angle d'élévation max ; distance de l'obstacle) :
+     az  50° :  3.41°  à 6400 m
+     az  56° :  3.33°  à 4600 m
+     az  60° :  2.18°  à 4600 m
+     az  64° :  2.06°  à 12000 m
+     az  70° :  2.36°  à 2480 m
+     az  76° :  4.87°  à 3100 m
+     az  80° :  6.36°  à 2920 m
+     az  90° :  9.81°  à 3000 m
+     az 100° : 12.19°  à 3100 m
+     az 110° : 13.59°  à 2920 m
+     az 120° : 14.85°  à 2760 m
+     az 240° :  7.13°  à 11400 m
+     az 250° :  7.85°  à 9700 m
+     az 260° :  9.82°  à 7900 m
+     az 270° : 10.65°  à 7500 m
+     az 280° : 10.35°  à 7200 m
+     az 290° :  9.24°  à 8900 m
+     az 300° :  6.86°  à 8700 m
+     az 310° :  3.01°  à 10700 m
+   Lever APPARENT depuis RP (bord sup. du soleil franchit le relief) : 04h56, az 66.6°, hauteur vraie 1.81°
+   Coucher APPARENT depuis RP : 18h18, az 285.7°, hauteur vraie 9.34°   → jour apparent = 13.36 h
+
+   Directions solaires (même soleil pour RP et TA : 82 m d'écart, parallaxe nulle) :
+   modèle                                           rang moment   heure   haut.   azimut   soleil visible au-dessus du relief RP ?
+   T1 temporaires (horizon plat)                    3e   début    07h05    23.79°   88.76°  oui (horizon 9.5°)
+   T1 temporaires (horizon plat)                    3e   milieu   07h42    30.26°   95.44°  oui (horizon 11.3°)
+   T1 temporaires (horizon plat)                    3e   fin      08h19    36.64°  102.68°  oui (horizon 12.8°)
+   T1 temporaires (horizon plat)                    11e  début    16h55    23.73°  271.47°  oui (horizon 10.9°)
+   T1 temporaires (horizon plat)                    11e  milieu   17h32    17.29°  277.85°  oui (horizon 10.5°)
+   T1 temporaires (horizon plat)                    11e  fin      18h08    10.95°  284.11°  oui (horizon 9.7°)
+   T2 temporaires (lever/coucher apparents relief)  3e   début    07h10    24.62°   89.59°  oui (horizon 9.7°)
+   T2 temporaires (lever/coucher apparents relief)  3e   milieu   07h43    30.48°   95.68°  oui (horizon 11.3°)
+   T2 temporaires (lever/coucher apparents relief)  3e   fin      08h17    36.27°  102.23°  oui (horizon 12.6°)
+   T2 temporaires (lever/coucher apparents relief)  11e  début    16h04    32.54°  262.20°  oui (horizon 10.1°)
+   T2 temporaires (lever/coucher apparents relief)  11e  milieu   16h38    26.71°  268.44°  oui (horizon 10.6°)
+   T2 temporaires (lever/coucher apparents relief)  11e  fin      17h11    20.85°  274.34°  oui (horizon 10.7°)
+   E1 égales depuis le lever théorique              3e   début    06h38    18.99°   83.99°  oui (horizon 8.1°)
+   E1 égales depuis le lever théorique              3e   milieu   07h08    24.24°   89.21°  oui (horizon 9.6°)
+   E1 égales depuis le lever théorique              3e   fin      07h38    29.51°   94.64°  oui (horizon 11.1°)
+   E2 égales canoniales depuis 6h (tierce=9h)       3e   début    08h00    33.32°   98.81°  oui (horizon 12.0°)
+   E2 égales canoniales depuis 6h (tierce=9h)       3e   milieu   08h30    38.47°  104.94°  oui (horizon 13.3°)
+   E2 égales canoniales depuis 6h (tierce=9h)       3e   fin      09h00    43.47°  111.72°  oui (horizon 13.7°)
+   E1 égales depuis le lever théorique              11e  début    14h38    47.02°  242.84°  oui (horizon 7.3°)
+   E1 égales depuis le lever théorique              11e  milieu   15h08    42.19°  250.26°  oui (horizon 7.9°)
+   E1 égales depuis le lever théorique              11e  fin      15h38    37.15°  256.84°  oui (horizon 9.5°)
+   E2 égales canoniales depuis 6h (tierce=9h)       11e  début    16h00    33.38°  261.26°  oui (horizon 10.0°)
+   E2 égales canoniales depuis 6h (tierce=9h)       11e  milieu   16h30    28.15°  266.94°  oui (horizon 10.4°)
+   E2 égales canoniales depuis 6h (tierce=9h)       11e  fin      17h00    22.89°  272.30°  oui (horizon 10.9°)
+   E3 égales depuis minuit                          3e   3h00     03h00   -15.02°   44.29°  NON (sous l'horizon)
+   E3 égales depuis minuit                          11e  11h00    11h00    59.47°  150.94°  hors plage horizon calculée
+
+==============================================================================
+2. JONCTIONS QUALIFIÉES (nœuds de degré>=3 des tronçons Chemin/Sentier/Route empierrée BD TOPO)
+   critères : <=60 m d'un tronçon hydrographique ; aucun bâtiment à <50 m ; visible depuis l'origine ; dans 2500 m
+   jonctions dans 2500 m (RP ou TA) : 216 ; ruisseau<=60 m et bâtiment>=50 m : 45
+   visibles depuis RP (observateur à 2 m) : 17  ; (observateur à 12 m : 21)
+   visibles depuis TA (observateur à 2 m) : 15  ; (observateur à 12 m : 20)
+   --- qualifiées depuis RP (h_obs 2 m) : lat, lon, dist, azimut, ruisseau(dist), bât(dist), degré
+     45.43198, 6.06164   2389 m  az   84.1°  Ruisseau de la Burge (41 m)  bât 179 m  deg 3
+     45.42907, 6.05576   1920 m  az   92.3°  Ruisseau de Tapon (41 m)  bât 169 m  deg 3
+     45.42204, 6.04783   1558 m  az  123.5°  Ecoulement naturel (58 m)  bât 345 m  deg 4
+     45.41630, 6.05584   2439 m  az  127.9°  Ecoulement naturel (13 m)  bât 821 m  deg 3
+     45.41622, 6.05582   2443 m  az  128.1°  Ecoulement naturel (22 m)  bât 813 m  deg 3
+     45.41704, 6.05099   2096 m  az  132.5°  Ecoulement naturel (24 m)  bât 579 m  deg 3
+     45.41678, 6.00811   2308 m  az  231.3°  Ruisseau de Rebouchet (5 m)  bât 52 m  deg 3
+     45.43973, 6.00528   2304 m  az  298.7°  l'Isère (50 m)  bât 100 m  deg 3
+     45.44088, 6.00831   2170 m  az  304.7°  le Bréda (16 m)  bât 122 m  deg 3
+     45.44241, 6.00569   2435 m  az  305.3°  le Coisetan (41 m)  bât 207 m  deg 3
+     45.44306, 6.00761   2359 m  az  308.8°  le Coisetan (9 m)  bât 246 m  deg 4
+     45.44336, 6.00754   2385 m  az  309.3°  le Coisetan (42 m)  bât 272 m  deg 3
+     45.44453, 6.01383   2127 m  az  320.5°  le Coisetan (9 m)  bât 175 m  deg 3
+     45.44766, 6.02656   2022 m  az  349.7°  le Coisetan (9 m)  bât 132 m  deg 3
+     45.44758, 6.02674   2010 m  az  350.1°  le Coisetan (8 m)  bât 126 m  deg 3
+     45.44825, 6.02694   2082 m  az  350.9°  le Coisetan (29 m)  bât 202 m  deg 3
+     45.44922, 6.02885   2170 m  az  355.2°  le Coisetan (7 m)  bât 362 m  deg 3
+   --- qualifiées depuis TA (h_obs 2 m) : lat, lon, dist, azimut, ruisseau(dist), bât(dist), degré
+     45.43198, 6.06164   2427 m  az   82.4°  Ruisseau de la Burge (41 m)  bât 179 m  deg 3
+     45.42907, 6.05576   1947 m  az   90.0°  Ruisseau de Tapon (41 m)  bât 169 m  deg 3
+     45.41678, 6.00811   2238 m  az  232.3°  Ruisseau de Rebouchet (5 m)  bât 52 m  deg 3
+     45.43045, 6.02225    685 m  az  282.9°  Canal (51 m)  bât 54 m  deg 3
+     45.43098, 6.02223    702 m  az  287.5°  Canal (15 m)  bât 51 m  deg 3
+     45.43973, 6.00528   2317 m  az  300.7°  l'Isère (50 m)  bât 100 m  deg 3
+     45.44088, 6.00831   2191 m  az  306.8°  le Bréda (16 m)  bât 122 m  deg 3
+     45.44241, 6.00569   2457 m  az  307.1°  le Coisetan (41 m)  bât 207 m  deg 3
+     45.44306, 6.00761   2386 m  az  310.7°  le Coisetan (9 m)  bât 246 m  deg 4
+     45.44336, 6.00754   2412 m  az  311.2°  le Coisetan (42 m)  bât 272 m  deg 3
+     45.44453, 6.01383   2169 m  az  322.4°  le Coisetan (9 m)  bât 175 m  deg 3
+     45.44766, 6.02656   2093 m  az  350.9°  le Coisetan (9 m)  bât 132 m  deg 3
+     45.44758, 6.02674   2081 m  az  351.2°  le Coisetan (8 m)  bât 126 m  deg 3
+     45.44825, 6.02694   2153 m  az  352.0°  le Coisetan (29 m)  bât 202 m  deg 3
+     45.44922, 6.02885   2244 m  az  356.1°  le Coisetan (7 m)  bât 362 m  deg 3
+
+==============================================================================
+3. JONCTIONS QUALIFIÉES SUR CHAQUE DIRECTION SOLAIRE (cône ±3.0°, ≤2500 m) ET CONTRÔLE
+   CONTRÔLE (200 azimuts aléatoires, cône identique) : moyenne de jonctions qualifiées par direction
+     origine RP cône ±1.5° : tout azimut 0-360 : 0.15 (max 2, part de directions à 0 jonction 88%) | azimuts E 40-125 : 0.12 | azimuts O 234-320 : 0.17
+     origine RP cône ±3.0° : tout azimut 0-360 : 0.35 (max 3, part de directions à 0 jonction 75%) | azimuts E 40-125 : 0.18 | azimuts O 234-320 : 0.41
+     origine RP cône ±5.0° : tout azimut 0-360 : 0.54 (max 4, part de directions à 0 jonction 68%) | azimuts E 40-125 : 0.40 | azimuts O 234-320 : 0.71
+     origine TA cône ±1.5° : tout azimut 0-360 : 0.18 (max 3, part de directions à 0 jonction 86%) | azimuts E 40-125 : 0.07 | azimuts O 234-320 : 0.28
+     origine TA cône ±3.0° : tout azimut 0-360 : 0.28 (max 4, part de directions à 0 jonction 80%) | azimuts E 40-125 : 0.14 | azimuts O 234-320 : 0.57
+     origine TA cône ±5.0° : tout azimut 0-360 : 0.53 (max 4, part de directions à 0 jonction 71%) | azimuts E 40-125 : 0.20 | azimuts O 234-320 : 0.94
+
+   DIRECTIONS SOLAIRES : nb de jonctions qualifiées (cône ±1.5° / ±3.0°) ; si >0, détail
+   -- origine RP
+     T1 temporaires (horizon plat)                3e  début   07h05 az  88.76° : ±1.5°:0  ±3°:0  ±5°:2   (contrôle ±3° même secteur : moy 0.18 ; P(ctrl>=obs)=100%)
+     T1 temporaires (horizon plat)                3e  milieu  07h42 az  95.44° : ±1.5°:0  ±3°:0  ±5°:1   (contrôle ±3° même secteur : moy 0.18 ; P(ctrl>=obs)=100%)
+     T1 temporaires (horizon plat)                3e  fin     08h19 az 102.68° : ±1.5°:0  ±3°:0  ±5°:0   (contrôle ±3° même secteur : moy 0.18 ; P(ctrl>=obs)=100%)
+     T1 temporaires (horizon plat)                11e début   16h55 az 271.47° : ±1.5°:0  ±3°:0  ±5°:0   (contrôle ±3° même secteur : moy 0.41 ; P(ctrl>=obs)=100%)
+     T1 temporaires (horizon plat)                11e milieu  17h32 az 277.85° : ±1.5°:0  ±3°:0  ±5°:0   (contrôle ±3° même secteur : moy 0.41 ; P(ctrl>=obs)=100%)
+     T1 temporaires (horizon plat)                11e fin     18h08 az 284.11° : ±1.5°:0  ±3°:0  ±5°:0   (contrôle ±3° même secteur : moy 0.41 ; P(ctrl>=obs)=100%)
+     T2 temporaires (lever/coucher apparents reli 3e  début   07h10 az  89.59° : ±1.5°:0  ±3°:1  ±5°:1   (contrôle ±3° même secteur : moy 0.18 ; P(ctrl>=obs)=18%)
+     T2 temporaires (lever/coucher apparents reli 3e  milieu  07h43 az  95.68° : ±1.5°:0  ±3°:0  ±5°:1   (contrôle ±3° même secteur : moy 0.18 ; P(ctrl>=obs)=100%)
+     T2 temporaires (lever/coucher apparents reli 3e  fin     08h17 az 102.23° : ±1.5°:0  ±3°:0  ±5°:0   (contrôle ±3° même secteur : moy 0.18 ; P(ctrl>=obs)=100%)
+     T2 temporaires (lever/coucher apparents reli 11e début   16h04 az 262.20° : ±1.5°:0  ±3°:0  ±5°:0   (contrôle ±3° même secteur : moy 0.41 ; P(ctrl>=obs)=100%)
+     T2 temporaires (lever/coucher apparents reli 11e milieu  16h38 az 268.44° : ±1.5°:0  ±3°:0  ±5°:0   (contrôle ±3° même secteur : moy 0.41 ; P(ctrl>=obs)=100%)
+     T2 temporaires (lever/coucher apparents reli 11e fin     17h11 az 274.34° : ±1.5°:0  ±3°:0  ±5°:0   (contrôle ±3° même secteur : moy 0.41 ; P(ctrl>=obs)=100%)
+     E1 égales depuis le lever théorique          3e  début   06h38 az  83.99° : ±1.5°:1  ±3°:1  ±5°:1   (contrôle ±3° même secteur : moy 0.18 ; P(ctrl>=obs)=18%)
+     E1 égales depuis le lever théorique          3e  milieu  07h08 az  89.21° : ±1.5°:0  ±3°:0  ±5°:1   (contrôle ±3° même secteur : moy 0.18 ; P(ctrl>=obs)=100%)
+     E1 égales depuis le lever théorique          3e  fin     07h38 az  94.64° : ±1.5°:0  ±3°:1  ±5°:1   (contrôle ±3° même secteur : moy 0.18 ; P(ctrl>=obs)=18%)
+     E2 égales canoniales depuis 6h (tierce=9h)   3e  début   08h00 az  98.81° : ±1.5°:0  ±3°:0  ±5°:0   (contrôle ±3° même secteur : moy 0.18 ; P(ctrl>=obs)=100%)
+     E2 égales canoniales depuis 6h (tierce=9h)   3e  milieu  08h30 az 104.94° : ±1.5°:0  ±3°:0  ±5°:0   (contrôle ±3° même secteur : moy 0.18 ; P(ctrl>=obs)=100%)
+     E2 égales canoniales depuis 6h (tierce=9h)   3e  fin     09h00 az 111.72° : ±1.5°:0  ±3°:0  ±5°:0   (contrôle ±3° même secteur : moy 0.18 ; P(ctrl>=obs)=100%)
+     E1 égales depuis le lever théorique          11e début   14h38 az 242.84° : ±1.5°:0  ±3°:0  ±5°:0   (contrôle ±3° même secteur : moy 0.41 ; P(ctrl>=obs)=100%)
+     E1 égales depuis le lever théorique          11e milieu  15h08 az 250.26° : ±1.5°:0  ±3°:0  ±5°:0   (contrôle ±3° même secteur : moy 0.41 ; P(ctrl>=obs)=100%)
+     E1 égales depuis le lever théorique          11e fin     15h38 az 256.84° : ±1.5°:0  ±3°:0  ±5°:0   (contrôle ±3° même secteur : moy 0.41 ; P(ctrl>=obs)=100%)
+     E2 égales canoniales depuis 6h (tierce=9h)   11e début   16h00 az 261.26° : ±1.5°:0  ±3°:0  ±5°:0   (contrôle ±3° même secteur : moy 0.41 ; P(ctrl>=obs)=100%)
+     E2 égales canoniales depuis 6h (tierce=9h)   11e milieu  16h30 az 266.94° : ±1.5°:0  ±3°:0  ±5°:0   (contrôle ±3° même secteur : moy 0.41 ; P(ctrl>=obs)=100%)
+     E2 égales canoniales depuis 6h (tierce=9h)   11e fin     17h00 az 272.30° : ±1.5°:0  ±3°:0  ±5°:0   (contrôle ±3° même secteur : moy 0.41 ; P(ctrl>=obs)=100%)
+     E3 égales depuis minuit                      11e 11h00   11h00 az 150.94° : ±1.5°:0  ±3°:0  ±5°:0   (contrôle ±3° même secteur : moy 0.18 ; P(ctrl>=obs)=100%)
+   -- origine TA
+     T1 temporaires (horizon plat)                3e  début   07h05 az  88.76° : ±1.5°:1  ±3°:1  ±5°:1   (contrôle ±3° même secteur : moy 0.14 ; P(ctrl>=obs)=14%)
+     T1 temporaires (horizon plat)                3e  milieu  07h42 az  95.44° : ±1.5°:0  ±3°:0  ±5°:0   (contrôle ±3° même secteur : moy 0.14 ; P(ctrl>=obs)=100%)
+     T1 temporaires (horizon plat)                3e  fin     08h19 az 102.68° : ±1.5°:0  ±3°:0  ±5°:0   (contrôle ±3° même secteur : moy 0.14 ; P(ctrl>=obs)=100%)
+     T1 temporaires (horizon plat)                11e début   16h55 az 271.47° : ±1.5°:0  ±3°:0  ±5°:0   (contrôle ±3° même secteur : moy 0.57 ; P(ctrl>=obs)=100%)
+     T1 temporaires (horizon plat)                11e milieu  17h32 az 277.85° : ±1.5°:0  ±3°:0  ±5°:0   (contrôle ±3° même secteur : moy 0.57 ; P(ctrl>=obs)=100%)
+     T1 temporaires (horizon plat)                11e fin     18h08 az 284.11° : ±1.5°:1  ±3°:1  ±5°:2   (contrôle ±3° même secteur : moy 0.57 ; P(ctrl>=obs)=36%)
+     T2 temporaires (lever/coucher apparents reli 3e  début   07h10 az  89.59° : ±1.5°:1  ±3°:1  ±5°:1   (contrôle ±3° même secteur : moy 0.14 ; P(ctrl>=obs)=14%)
+     T2 temporaires (lever/coucher apparents reli 3e  milieu  07h43 az  95.68° : ±1.5°:0  ±3°:0  ±5°:0   (contrôle ±3° même secteur : moy 0.14 ; P(ctrl>=obs)=100%)
+     T2 temporaires (lever/coucher apparents reli 3e  fin     08h17 az 102.23° : ±1.5°:0  ±3°:0  ±5°:0   (contrôle ±3° même secteur : moy 0.14 ; P(ctrl>=obs)=100%)
+     T2 temporaires (lever/coucher apparents reli 11e début   16h04 az 262.20° : ±1.5°:0  ±3°:0  ±5°:0   (contrôle ±3° même secteur : moy 0.57 ; P(ctrl>=obs)=100%)
+     T2 temporaires (lever/coucher apparents reli 11e milieu  16h38 az 268.44° : ±1.5°:0  ±3°:0  ±5°:0   (contrôle ±3° même secteur : moy 0.57 ; P(ctrl>=obs)=100%)
+     T2 temporaires (lever/coucher apparents reli 11e fin     17h11 az 274.34° : ±1.5°:0  ±3°:0  ±5°:0   (contrôle ±3° même secteur : moy 0.57 ; P(ctrl>=obs)=100%)
+     E1 égales depuis le lever théorique          3e  début   06h38 az  83.99° : ±1.5°:0  ±3°:1  ±5°:1   (contrôle ±3° même secteur : moy 0.14 ; P(ctrl>=obs)=14%)
+     E1 égales depuis le lever théorique          3e  milieu  07h08 az  89.21° : ±1.5°:1  ±3°:1  ±5°:1   (contrôle ±3° même secteur : moy 0.14 ; P(ctrl>=obs)=14%)
+     E1 égales depuis le lever théorique          3e  fin     07h38 az  94.64° : ±1.5°:0  ±3°:0  ±5°:1   (contrôle ±3° même secteur : moy 0.14 ; P(ctrl>=obs)=100%)
+     E2 égales canoniales depuis 6h (tierce=9h)   3e  début   08h00 az  98.81° : ±1.5°:0  ±3°:0  ±5°:0   (contrôle ±3° même secteur : moy 0.14 ; P(ctrl>=obs)=100%)
+     E2 égales canoniales depuis 6h (tierce=9h)   3e  milieu  08h30 az 104.94° : ±1.5°:0  ±3°:0  ±5°:0   (contrôle ±3° même secteur : moy 0.14 ; P(ctrl>=obs)=100%)
+     E2 égales canoniales depuis 6h (tierce=9h)   3e  fin     09h00 az 111.72° : ±1.5°:0  ±3°:0  ±5°:0   (contrôle ±3° même secteur : moy 0.14 ; P(ctrl>=obs)=100%)
+     E1 égales depuis le lever théorique          11e début   14h38 az 242.84° : ±1.5°:0  ±3°:0  ±5°:0   (contrôle ±3° même secteur : moy 0.57 ; P(ctrl>=obs)=100%)
+     E1 égales depuis le lever théorique          11e milieu  15h08 az 250.26° : ±1.5°:0  ±3°:0  ±5°:0   (contrôle ±3° même secteur : moy 0.57 ; P(ctrl>=obs)=100%)
+     E1 égales depuis le lever théorique          11e fin     15h38 az 256.84° : ±1.5°:0  ±3°:0  ±5°:0   (contrôle ±3° même secteur : moy 0.57 ; P(ctrl>=obs)=100%)
+     E2 égales canoniales depuis 6h (tierce=9h)   11e début   16h00 az 261.26° : ±1.5°:0  ±3°:0  ±5°:0   (contrôle ±3° même secteur : moy 0.57 ; P(ctrl>=obs)=100%)
+     E2 égales canoniales depuis 6h (tierce=9h)   11e milieu  16h30 az 266.94° : ±1.5°:0  ±3°:0  ±5°:0   (contrôle ±3° même secteur : moy 0.57 ; P(ctrl>=obs)=100%)
+     E2 égales canoniales depuis 6h (tierce=9h)   11e fin     17h00 az 272.30° : ±1.5°:0  ±3°:0  ±5°:0   (contrôle ±3° même secteur : moy 0.57 ; P(ctrl>=obs)=100%)
+     E3 égales depuis minuit                      11e 11h00   11h00 az 150.94° : ±1.5°:0  ±3°:0  ±5°:0   (contrôle ±3° même secteur : moy 0.14 ; P(ctrl>=obs)=100%)
+
+   Détail des jonctions trouvées dans un cône ±3° d'une direction solaire :
+     [RP] 45.42907, 6.05576  1920 m  az   92.3°  ruisseau Ruisseau de Tapon (41 m)  <- E1 3e fin; T2 3e début
+     [RP] 45.43198, 6.06164  2389 m  az   84.1°  ruisseau Ruisseau de la Burge (41 m)  <- E1 3e début
+     [TA] 45.42907, 6.05576  1947 m  az   90.0°  ruisseau Ruisseau de Tapon (41 m)  <- E1 3e milieu; T1 3e début; T2 3e début
+     [TA] 45.43045, 6.02225   685 m  az  282.9°  ruisseau Canal (51 m)  <- T1 11e fin
+     [TA] 45.43198, 6.06164  2427 m  az   82.4°  ruisseau Ruisseau de la Burge (41 m)  <- E1 3e début
+
+==============================================================================
+4. ÉCLAIREMENT DU RUISSEAU AU LEVER APPARENT (soleil rasant) ET VISIBLE DEPUIS RP
+   lever apparent RP : 04h56, azimut 66.6°, bord sup. apparent 2.40° (centre vrai 1.81°)
+   échantillons de cours d'eau (50 m) dans 2500 m : 897
+   visibles depuis RP (obs 2 m, cible 0,5 m) : 188
+   lever apparent (04h56, az 66.6°, haut. bord sup. 2.40°) : 2/188 échantillons visibles éclairés
+       l'Isère                            2 éch. éclairés (~100 m)
+       éclairés — bornes : lat 45.42388–45.42404, lon 6.00097–6.00101 ; dist RP 2439–2447 m ; az RP 254–255°
+   lever apparent +10 min (05h06, az 68.4°, haut. bord sup. 3.92°) : 23/188 échantillons visibles éclairés
+       l'Isère                            21 éch. éclairés (~1050 m)
+       Conduit forcé                      2 éch. éclairés (~100 m)
+       éclairés — bornes : lat 45.42388–45.43064, lon 6.00024–6.03652 ; dist RP 396–2493 m ; az RP 76–269°
+   lever apparent +30 min (05h26, az 71.8°, haut. bord sup. 7.13°) : 134/188 échantillons visibles éclairés
+       le Coisetan                        41 éch. éclairés (~2050 m)
+       l'Isère                            38 éch. éclairés (~1900 m)
+       Ecoulement naturel                 27 éch. éclairés (~1350 m)
+       Canal                              18 éch. éclairés (~900 m)
+       le Bréda                           8 éch. éclairés (~400 m)
+       Conduit forcé                      2 éch. éclairés (~100 m)
+       éclairés — bornes : lat 45.42065–45.45211, lon 6.00024–6.03652 ; dist RP 396–2497 m ; az RP 0–360°
+   Jonctions qualifiées depuis RP dont le cours d'eau (<=60 m) est éclairé au lever apparent :
+  [fetch origine] 1 pts, 1 requêtes
+     45.43198, 6.06164  2389 m az   84.1°  ruisseau (41 m) éclairé au lever apparent : non (horizon vers soleil 27.0° vs soleil 2.4°)
+  [fetch lit j] 134 pts, 2 requêtes
+     45.42907, 6.05576  1920 m az   92.3°  ruisseau (41 m) éclairé au lever apparent : non (horizon vers soleil 32.5° vs soleil 2.4°)
+  [fetch lit j] 117 pts, 2 requêtes
+     45.42204, 6.04783  1558 m az  123.5°  ruisseau (58 m) éclairé au lever apparent : non (horizon vers soleil 31.5° vs soleil 2.4°)
+  [fetch lit j] 119 pts, 2 requêtes
+     45.41630, 6.05584  2439 m az  127.9°  ruisseau (13 m) éclairé au lever apparent : non (horizon vers soleil 37.0° vs soleil 2.4°)
+  [fetch lit j] 135 pts, 2 requêtes
+     45.41622, 6.05582  2443 m az  128.1°  ruisseau (22 m) éclairé au lever apparent : non (horizon vers soleil 35.7° vs soleil 2.4°)
+  [fetch lit j] 125 pts, 2 requêtes
+     45.41704, 6.05099  2096 m az  132.5°  ruisseau (24 m) éclairé au lever apparent : non (horizon vers soleil 29.9° vs soleil 2.4°)
+  [fetch lit j] 52 pts, 1 requêtes
+     45.41678, 6.00811  2308 m az  231.3°  ruisseau (5 m) éclairé au lever apparent : non (horizon vers soleil 4.8° vs soleil 2.4°)
+  [fetch lit j] 84 pts, 1 requêtes
+  [fetch origine] 1 pts, 1 requêtes
+     45.43973, 6.00528  2304 m az  298.7°  ruisseau (50 m) éclairé au lever apparent : non (horizon vers soleil 4.1° vs soleil 2.4°)
+  [fetch lit j] 93 pts, 1 requêtes
+     45.44088, 6.00831  2170 m az  304.7°  ruisseau (16 m) éclairé au lever apparent : non (horizon vers soleil 15.3° vs soleil 2.4°)
+  [fetch lit j] 102 pts, 2 requêtes
+     45.44241, 6.00569  2435 m az  305.3°  ruisseau (41 m) éclairé au lever apparent : non (horizon vers soleil 6.1° vs soleil 2.4°)
+  [fetch lit j] 109 pts, 2 requêtes
+     45.44306, 6.00761  2359 m az  308.8°  ruisseau (9 m) éclairé au lever apparent : non (horizon vers soleil 5.3° vs soleil 2.4°)
+  [fetch lit j] 109 pts, 2 requêtes
+     45.44336, 6.00754  2385 m az  309.3°  ruisseau (42 m) éclairé au lever apparent : non (horizon vers soleil 5.1° vs soleil 2.4°)
+  [fetch lit j] 119 pts, 2 requêtes
+     45.44453, 6.01383  2127 m az  320.5°  ruisseau (9 m) éclairé au lever apparent : non (horizon vers soleil 8.5° vs soleil 2.4°)
+  [fetch lit j] 135 pts, 2 requêtes
+  [fetch origine] 1 pts, 1 requêtes
+     45.44766, 6.02656  2022 m az  349.7°  ruisseau (9 m) éclairé au lever apparent : non (horizon vers soleil 5.0° vs soleil 2.4°)
+  [fetch lit j] 126 pts, 2 requêtes
+  [fetch origine] 1 pts, 1 requêtes
+     45.44758, 6.02674  2010 m az  350.1°  ruisseau (8 m) éclairé au lever apparent : non (horizon vers soleil 5.0° vs soleil 2.4°)
+  [fetch lit j] 132 pts, 2 requêtes
+  [fetch origine] 1 pts, 1 requêtes
+     45.44825, 6.02694  2082 m az  350.9°  ruisseau (29 m) éclairé au lever apparent : non (horizon vers soleil 5.0° vs soleil 2.4°)
+  [fetch lit j] 136 pts, 2 requêtes
+  [fetch origine] 1 pts, 1 requêtes
+     45.44922, 6.02885  2170 m az  355.2°  ruisseau (7 m) éclairé au lever apparent : non (horizon vers soleil 5.1° vs soleil 2.4°)
+
+==============================================================================
+5. TRIANGLE : droites RP→soleil 3e heure et RP→soleil 11e heure, deux points à 1850 m l'un de l'autre
+   (jonctions de chemins quelconques, 100–3000 m, cône ±2.0° ; paire à 1850 ± 18.5 m ; aucune exigence ruisseau/visibilité ici)
+   -- origine RP
+     T1 temporaires (horizon plat)                début  3e 07h05 az  88.76° / 11e 16h55 az 271.47° (écart 182.7°) : 0 paires ; contrôle (200 rotations) moy 0.00, max 0 ; P(ctrl>=obs)=100%
+     T1 temporaires (horizon plat)                milieu 3e 07h42 az  95.44° / 11e 17h32 az 277.85° (écart 182.4°) : 0 paires ; contrôle (200 rotations) moy 0.00, max 0 ; P(ctrl>=obs)=100%
+     T1 temporaires (horizon plat)                fin    3e 08h19 az 102.68° / 11e 18h08 az 284.11° (écart 181.4°) : 0 paires ; contrôle (200 rotations) moy 0.00, max 0 ; P(ctrl>=obs)=100%
+     T2 temporaires (lever/coucher apparents reli début  3e 07h10 az  89.59° / 11e 16h04 az 262.20° (écart 172.6°) : 0 paires ; contrôle (200 rotations) moy 0.00, max 0 ; P(ctrl>=obs)=100%
+     T2 temporaires (lever/coucher apparents reli milieu 3e 07h43 az  95.68° / 11e 16h38 az 268.44° (écart 172.8°) : 0 paires ; contrôle (200 rotations) moy 0.01, max 1 ; P(ctrl>=obs)=100%
+     T2 temporaires (lever/coucher apparents reli fin    3e 08h17 az 102.23° / 11e 17h11 az 274.34° (écart 172.1°) : 0 paires ; contrôle (200 rotations) moy 0.01, max 1 ; P(ctrl>=obs)=100%
+     E1 égales depuis le lever théorique          début  3e 06h38 az  83.99° / 11e 14h38 az 242.84° (écart 158.8°) : 0 paires ; contrôle (200 rotations) moy 0.03, max 2 ; P(ctrl>=obs)=100%
+     E1 égales depuis le lever théorique          milieu 3e 07h08 az  89.21° / 11e 15h08 az 250.26° (écart 161.0°) : 0 paires ; contrôle (200 rotations) moy 0.02, max 2 ; P(ctrl>=obs)=100%
+     E1 égales depuis le lever théorique          fin    3e 07h38 az  94.64° / 11e 15h38 az 256.84° (écart 162.2°) : 0 paires ; contrôle (200 rotations) moy 0.00, max 0 ; P(ctrl>=obs)=100%
+     E2 égales canoniales depuis 6h (tierce=9h)   début  3e 08h00 az  98.81° / 11e 16h00 az 261.26° (écart 162.4°) : 0 paires ; contrôle (200 rotations) moy 0.00, max 0 ; P(ctrl>=obs)=100%
+     E2 égales canoniales depuis 6h (tierce=9h)   milieu 3e 08h30 az 104.94° / 11e 16h30 az 266.94° (écart 162.0°) : 0 paires ; contrôle (200 rotations) moy 0.03, max 1 ; P(ctrl>=obs)=100%
+     E2 égales canoniales depuis 6h (tierce=9h)   fin    3e 09h00 az 111.72° / 11e 17h00 az 272.30° (écart 160.6°) : 0 paires ; contrôle (200 rotations) moy 0.04, max 2 ; P(ctrl>=obs)=100%
+   -- origine TA
+     T1 temporaires (horizon plat)                début  3e 07h05 az  88.76° / 11e 16h55 az 271.47° (écart 182.7°) : 0 paires ; contrôle (200 rotations) moy 0.01, max 1 ; P(ctrl>=obs)=100%
+     T1 temporaires (horizon plat)                milieu 3e 07h42 az  95.44° / 11e 17h32 az 277.85° (écart 182.4°) : 0 paires ; contrôle (200 rotations) moy 0.00, max 0 ; P(ctrl>=obs)=100%
+     T1 temporaires (horizon plat)                fin    3e 08h19 az 102.68° / 11e 18h08 az 284.11° (écart 181.4°) : 0 paires ; contrôle (200 rotations) moy 0.01, max 1 ; P(ctrl>=obs)=100%
+     T2 temporaires (lever/coucher apparents reli début  3e 07h10 az  89.59° / 11e 16h04 az 262.20° (écart 172.6°) : 0 paires ; contrôle (200 rotations) moy 0.03, max 1 ; P(ctrl>=obs)=100%
+     T2 temporaires (lever/coucher apparents reli milieu 3e 07h43 az  95.68° / 11e 16h38 az 268.44° (écart 172.8°) : 0 paires ; contrôle (200 rotations) moy 0.01, max 1 ; P(ctrl>=obs)=100%
+     T2 temporaires (lever/coucher apparents reli fin    3e 08h17 az 102.23° / 11e 17h11 az 274.34° (écart 172.1°) : 0 paires ; contrôle (200 rotations) moy 0.01, max 2 ; P(ctrl>=obs)=100%
+     E1 égales depuis le lever théorique          début  3e 06h38 az  83.99° / 11e 14h38 az 242.84° (écart 158.8°) : 0 paires ; contrôle (200 rotations) moy 0.01, max 1 ; P(ctrl>=obs)=100%
+     E1 égales depuis le lever théorique          milieu 3e 07h08 az  89.21° / 11e 15h08 az 250.26° (écart 161.0°) : 0 paires ; contrôle (200 rotations) moy 0.02, max 3 ; P(ctrl>=obs)=100%
+     E1 égales depuis le lever théorique          fin    3e 07h38 az  94.64° / 11e 15h38 az 256.84° (écart 162.2°) : 0 paires ; contrôle (200 rotations) moy 0.07, max 5 ; P(ctrl>=obs)=100%
+     E2 égales canoniales depuis 6h (tierce=9h)   début  3e 08h00 az  98.81° / 11e 16h00 az 261.26° (écart 162.4°) : 0 paires ; contrôle (200 rotations) moy 0.07, max 6 ; P(ctrl>=obs)=100%
+     E2 égales canoniales depuis 6h (tierce=9h)   milieu 3e 08h30 az 104.94° / 11e 16h30 az 266.94° (écart 162.0°) : 0 paires ; contrôle (200 rotations) moy 0.07, max 5 ; P(ctrl>=obs)=100%
+     E2 égales canoniales depuis 6h (tierce=9h)   fin    3e 09h00 az 111.72° / 11e 17h00 az 272.30° (écart 160.6°) : 0 paires ; contrôle (200 rotations) moy 0.01, max 1 ; P(ctrl>=obs)=100%
+
+   Table analytique (loi des cosinus) : distances d3, d11 avec |P3P11| = 1850 m pour l'écart angulaire du milieu T1
+   écart angulaire 182.40° ; d3 -> d11 :
+     d3= 200 m -> d11 = 1650 m
+     d3= 500 m -> d11 = 1350 m
+     d3= 800 m -> d11 = 1050 m
+     d3=1000 m -> d11 = 850 m
+     d3=1500 m -> d11 = 350 m
+     d3=2000 m -> d11 = 
+     d3=2500 m -> d11 = 

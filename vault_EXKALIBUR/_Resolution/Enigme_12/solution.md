@@ -87,6 +87,12 @@ tags:
 | Classes d'objets BD TOPO/OSM à 1 850 m (17 classes, croix, ponts, fontaines…) | toutes au niveau du hasard |
 | Chemin de croix proche de la tour, apôtres en toponymes | aucun chemin de croix dans OSM (4 km) ; 15 toponymes d'apôtres, aucune paire à 1 850 m |
 | Cartes à jouer pour placer les 3e/11e | Bayard est le seul chevalier local ; aucun nom de carte utile autour ; cartes ↔ chevaliers relèvent de l'É11 |
+| 3e/11e = ponts d'un même cours d'eau (72 cours d'eau, BD TOPO + OSM, 128 numérotations) | 0 paire à 1 850 ±18 m avec l'un des deux près de la tour ; taux 2,3 % ≈ hasard (0,9-2,2 %) — `Revue_globale/T15_T17/T15_ponts.*` |
+| 3e/11e = stations d'un chemin de croix réel | aucun chemin de croix extérieur à stations numérotées à ≤ 6 km ; croix quelconques : 2 paires à 1 850 m pour 2,0 attendues — `T15_chemin_croix.*` |
+| 3e/11e = 3e et 11e heures solaires du 30/04/1524 depuis le rempart | directions ≈ 95° et ≈ 275° ; une seule jonction qualifiée (Tapon, 1 920 m, az. 92°), p = 18 % ; 0 paire à 1 850 m — `T15_solaire.*` |
+| Pont des Bretonnières (idée Guilhem) comme 11e ou repère | 2 085 m de la tour (+12,7 %), rang 10/11/12 selon la source ; rien de significatif à 1 850 m près d'Avalon — `Enigme_12/T16_pont_Bretonnieres.md`, `T16*`, `T17*` |
+| 3e/11e = postes d'un parcours numéroté (CO, parcours de santé, patrimoine) | parcours ≤ 10 postes autour d'Avalon ; parcours de santé de Pontcharra : 3→11 ≈ 835 m ; aucune paire à 1 850 m — `T18_parcours.*` |
+| 3e/11e = bornes numérotées (frontière Savoie–Dauphiné 1760, pylônes, poteaux incendie, golf, réseau pédestre) | bornes frontière n° 39-58 près de Pontcharra (≥ 7 km) ; pylônes 3→11 = 1 144/1 513 m ; aucun 3-11 à 1 850 m ; golfs sans données — `T18_series.*` |
 | Parcelles ONF à lettres, scieries, Machrie Moor | hors fenêtre ou échelle fausse |
 | Saint Maurice pour le soldat de l'enl. 9 | lecture d'un agent sans vision ; reste « possible », non établi |
 | Brame-Farine (biche), Champ Lernier, Cernon, Merlin, Maupas, « les trois têtes » | échos de noms sans lien démontré ; à plus de 2 km du rempart sauf Merlin |

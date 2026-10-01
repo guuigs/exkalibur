@@ -1,0 +1,55 @@
+
+=== KMZ bornes frontière 1822 (sentier-nature)
+  effectif: 35 numéros distincts (35 points), de 5 à 92
+  n°3: ABSENT
+  n°11: ABSENT
+  paires (i,i+8): 25 ; dans 1850±18: []
+  toutes paires: 595 ; dans 1850±18: 1 (0.17 %) [(40, 43, 1857)]
+
+=== OSM boundary_stone numérotées
+  effectif: 14 numéros distincts (14 points), de 9 à 46
+  n°3: ABSENT
+  n°11: ABSENT
+  paires (i,i+8): 1 ; dans 1850±18: []
+  toutes paires: 91 ; dans 1850±18: 1 (1.10 %) [(40, 43, 1854)]
+
+=== Union KMZ+OSM bornes (numéros mélangés: séries partiellement différentes)
+  effectif: 38 numéros distincts (49 points), de 5 à 92
+  n°3: ABSENT
+  n°11: ABSENT
+  paires (i,i+8): 46 ; dans 1850±18: []
+  toutes paires: 1165 ; dans 1850±18: 4 (0.34 %) [(40, 43, 1857), (40, 43, 1854), (40, 43, 1857), (40, 43, 1854)]
+
+=== Pylônes RTE (OSM ref, 3 km)
+  effectif: 21 numéros distincts (27 points), de 0 à 20
+  n°3: [(45.4352128, 6.029483), (45.4316755, 6.0277769)]
+  n°11: [(45.4452317, 6.0261725)]
+  >>> 3e–11e : 1144 m  (hors 1850±18) | 3e à 689 m de la tour, 11e à 1832 m
+  >>> 3e–11e : 1513 m  (hors 1850±18) | 3e à 373 m de la tour, 11e à 1832 m
+  paires (i,i+8): 19 ; dans 1850±18: []
+  toutes paires: 345 ; dans 1850±18: 2 (0.58 %) [(4, 13, 1859), (6, 10, 1833)]
+
+=== Poteaux incendie (OSM ref, 3 km)
+  effectif: 76 numéros distincts (85 points), de 1 à 210
+  n°3: [(45.4300648, 6.0048008)]
+  n°11: [(45.4240957, 6.0025907)]
+  >>> 3e–11e : 686 m  (hors 1850±18) | 3e à 2032 m de la tour, 11e à 2271 m
+  paires (i,i+8): 60 ; dans 1850±18: [(75, 1846)]
+  toutes paires: 3561 ; dans 1850±18: 54 (1.52 %) [(1, 24, 1843), (1, 84, 1837), (3, 24, 1857), (3, 58, 1845), (6, 24, 1848), (6, 87, 1839), (7, 57, 1859), (7, 88, 1844)]
+
+=== Bornes 1822 — géographie de la série
+  B05 (45.59971758262807, 5.631384132137222)  à 36.4 km de la tour
+  B06 (45.5359425881637, 5.673669781785503)  à 30.3 km de la tour
+  B10 (45.41491308750719, 5.854942394242775)  à 13.8 km de la tour
+  B14 (45.39168981396502, 5.899201426152654)  à 11.1 km de la tour
+  B22 (45.41096381717956, 5.924878773212667)  à 8.5 km de la tour
+  B35 (45.4101720359836, 5.911840995859098)  à 9.5 km de la tour
+  B44 (45.49226562271236, 5.965985136783245)  à 8.7 km de la tour
+  distance B05–B10 = 26.9 km ; B06–B10 = 19.5 km ; B10–B14 = 4.3 km
+  => 3e et 11e de cette série (3 en Ain/Isère sud Pont-de-Beauvoisin, 11 près de St-Pierre-d'Entremont) sont à >20 km l'une de l'autre, pas à 1,85 km.
+  bornes numérotées les plus proches de la tour (m, n°): [(7291, 46), (7701, 14), (7782, 9), (8120, 27), (8136, 28), (8195, 29)]
+
+=== Randonnée des Hameaux : topo Isère Outdoor = 4 pastilles numérotées (1-4) ; GPX 310 trkpt, 0 waypoint ; nœuds OSM = noms sans numéro => pas de 11e.
+=== Golfs ≤15 km (OSM): Porte-de-Savoie 8,1 km, Granier-Apremont 11,1 km ; aucun golf=hole/tee/green dans OSM (requête vide).
+
+=== Témoin : 2 points aléatoires dans un disque de 3 km : P(d=1850±18) = 0.92 % (=> une paire (3,11) donnée sur un jeu de 3 km tombe par hasard ~ ce taux)

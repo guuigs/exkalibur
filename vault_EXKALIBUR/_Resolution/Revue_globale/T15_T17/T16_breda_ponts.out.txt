@@ -1,0 +1,129 @@
+Bréda reconstruit : 24 tronçons OSM, 32.8 km, de la source à l'Isère
+
+== tous franchissements (barrages inclus) — depuis l'EMBOUCHURE
+ 1 (45.44080,6.00812) path        None                             bridge=yes mat=None | tour  2198 m | PB  3508 m
+ 2 (45.43929,6.01092) rail        Ligne de Grenoble à Montmélian   bridge=yes mat=None | tour  1923 m | PB  3287 m
+ 3 (45.43922,6.01112) tertiary    Rue du Bréda                     bridge=yes mat=None | tour  1905 m | PB  3271 m
+ 4 (45.43716,6.01574) footway     None                             bridge=yes mat=None | tour  1480 m | PB  2922 m
+ 5 (45.43647,6.01823) footway     None                             bridge=yes mat=None | tour  1280 m | PB  2737 m
+ 6 (45.43493,6.02175) secondary   Rue du Grésivaudan               bridge=yes mat=None | tour   961 m | PB  2493 m
+ 7 (45.43316,6.02405) tertiary    Rue Laurent Gayet                bridge=None mat=None | tour   695 m | PB  2369 m
+ 8 (45.43292,6.02449) bridge      Place Bayard                     bridge=None mat=None | tour   652 m | PB  2344 m
+ 9 (45.43258,6.02568) secondary   Route des Gorges                 bridge=yes mat=None | tour   558 m | PB  2268 m
+10 (45.43266,6.02714) primary     None                             bridge=yes mat=None | tour   490 m | PB  2159 m
+11 (45.43580,6.03969) dam         None                             bridge=None mat=None | tour  1018 m | PB  1119 m
+12 (45.43947,6.05303) track       None                             bridge=yes mat=None | tour  2083 m | PB     1 m
+13 (45.44335,6.08122) proposed    Ligne Nouvelle Lyon - Turin      bridge=None mat=None | tour  4241 m | PB  2240 m
+14 (45.44043,6.09596) secondary   Pont de l'Île                    bridge=yes mat=None | tour  5238 m | PB  3350 m
+   >>> 3e-11e = 2261 m  (cible 1850 ±18)
+
+== tous franchissements (barrages inclus) — depuis la SOURCE
+ 1 (45.25790,6.08060) path        None                             bridge=None mat=None | tour 19429 m | PB 20305 m
+ 2 (45.26423,6.07152) path        None                             bridge=None mat=None | tour 18605 m | PB 19539 m
+ 3 (45.27300,6.07973) path        None                             bridge=yes mat=None | tour 17772 m | PB 18628 m
+ 4 (45.27955,6.07522) dam         None                             bridge=None mat=None | tour 16986 m | PB 17867 m
+ 5 (45.28203,6.07449) unclassified Route de la Martinette           bridge=yes mat=None | tour 16704 m | PB 17587 m
+ 6 (45.28499,6.07695) path        None                             bridge=None mat=None | tour 16423 m | PB 17279 m
+ 7 (45.28530,6.07717) path        None                             bridge=None mat=None | tour 16393 m | PB 17247 m
+ 8 (45.28821,6.07638) dam         Barrage de Fond de France        bridge=None mat=None | tour 16064 m | PB 16919 m
+ 9 (45.28847,6.07646) unclassified None                             bridge=yes mat=None | tour 16037 m | PB 16890 m
+10 (45.29690,6.07903) secondary   None                             bridge=yes mat=None | tour 15173 m | PB 15983 m
+11 (45.30476,6.07936) path        None                             bridge=yes mat=None | tour 14335 m | PB 15120 m
+12 (45.31884,6.08316) tertiary    None                             bridge=yes mat=None | tour 12923 m | PB 13619 m
+13 (45.31970,6.08343) weir        None                             bridge=None mat=None | tour 12839 m | PB 13528 m
+14 (45.33657,6.09151) track       None                             bridge=None mat=None | tour 11327 m | PB 11830 m
+15 (45.35560,6.09831) residential Rue Louise Barnier               bridge=yes mat=None | tour  9723 m | PB  9973 m
+16 (45.36060,6.09814) dam         None                             bridge=None mat=None | tour  9253 m | PB  9451 m
+17 (45.38336,6.08406) path        None                             bridge=yes mat=None | tour  6567 m | PB  6693 m
+18 (45.38500,6.08275) path        None                             bridge=yes mat=None | tour  6361 m | PB  6486 m
+19 (45.38610,6.08191) path        None                             bridge=yes mat=None | tour  6225 m | PB  6348 m
+20 (45.38660,6.08165) path        None                             bridge=yes mat=None | tour  6170 m | PB  6289 m
+21 (45.38734,6.08182) path        None                             bridge=yes mat=None | tour  6116 m | PB  6217 m
+22 (45.39010,6.07954) path        None                             bridge=yes mat=None | tour  5767 m | PB  5867 m
+23 (45.39196,6.07770) path        None                             bridge=yes mat=None | tour  5517 m | PB  5623 m
+24 (45.39292,6.07596) secondary   Rue de la Libération             bridge=yes mat=None | tour  5347 m | PB  5477 m
+25 (45.39348,6.07533) secondary   Rue du Grand Pont                bridge=yes mat=None | tour  5268 m | PB  5403 m
+26 (45.39420,6.07586) bridge      None                             bridge=None mat=None | tour  5236 m | PB  5340 m
+27 (45.40017,6.07851) dam         None                             bridge=None mat=None | tour  4919 m | PB  4801 m
+28 (45.40151,6.07989) secondary   Boulevard des Anciens d'Algérie  bridge=yes mat=None | tour  4907 m | PB  4713 m
+29 (45.40550,6.08131) footway     None                             bridge=None mat=None | tour  4734 m | PB  4374 m
+30 (45.41739,6.08934) unclassified None                             bridge=yes mat=None | tour  4750 m | PB  3749 m
+31 (45.42386,6.09113) track       None                             bridge=yes mat=None | tour  4743 m | PB  3442 m
+32 (45.43091,6.09497) secondary   None                             bridge=yes mat=None | tour  5011 m | PB  3407 m
+33 (45.43870,6.09510) proposed    Ligne Nouvelle Lyon - Turin      bridge=None mat=None | tour  5130 m | PB  3283 m
+34 (45.44043,6.09596) secondary   Pont de l'Île                    bridge=yes mat=None | tour  5238 m | PB  3350 m
+35 (45.44335,6.08122) proposed    Ligne Nouvelle Lyon - Turin      bridge=None mat=None | tour  4241 m | PB  2240 m
+36 (45.43947,6.05303) track       None                             bridge=yes mat=None | tour  2083 m | PB     1 m
+37 (45.43580,6.03969) dam         None                             bridge=None mat=None | tour  1018 m | PB  1119 m
+38 (45.43266,6.02714) primary     None                             bridge=yes mat=None | tour   490 m | PB  2159 m
+39 (45.43258,6.02568) secondary   Route des Gorges                 bridge=yes mat=None | tour   558 m | PB  2268 m
+40 (45.43292,6.02449) bridge      Place Bayard                     bridge=None mat=None | tour   652 m | PB  2344 m
+41 (45.43316,6.02405) tertiary    Rue Laurent Gayet                bridge=None mat=None | tour   695 m | PB  2369 m
+42 (45.43493,6.02175) secondary   Rue du Grésivaudan               bridge=yes mat=None | tour   961 m | PB  2493 m
+43 (45.43647,6.01823) footway     None                             bridge=yes mat=None | tour  1280 m | PB  2737 m
+44 (45.43716,6.01574) footway     None                             bridge=yes mat=None | tour  1480 m | PB  2922 m
+45 (45.43922,6.01112) tertiary    Rue du Bréda                     bridge=yes mat=None | tour  1905 m | PB  3271 m
+46 (45.43929,6.01092) rail        Ligne de Grenoble à Montmélian   bridge=yes mat=None | tour  1923 m | PB  3287 m
+47 (45.44080,6.00812) path        None                             bridge=yes mat=None | tour  2198 m | PB  3508 m
+   >>> 3e-11e = 3532 m  (cible 1850 ±18)
+
+== sans barrages/seuils — depuis l'EMBOUCHURE
+ 1 (45.44080,6.00812) path        None                             bridge=yes mat=None | tour  2198 m | PB  3508 m
+ 2 (45.43929,6.01092) rail        Ligne de Grenoble à Montmélian   bridge=yes mat=None | tour  1923 m | PB  3287 m
+ 3 (45.43922,6.01112) tertiary    Rue du Bréda                     bridge=yes mat=None | tour  1905 m | PB  3271 m
+ 4 (45.43716,6.01574) footway     None                             bridge=yes mat=None | tour  1480 m | PB  2922 m
+ 5 (45.43647,6.01823) footway     None                             bridge=yes mat=None | tour  1280 m | PB  2737 m
+ 6 (45.43493,6.02175) secondary   Rue du Grésivaudan               bridge=yes mat=None | tour   961 m | PB  2493 m
+ 7 (45.43316,6.02405) tertiary    Rue Laurent Gayet                bridge=None mat=None | tour   695 m | PB  2369 m
+ 8 (45.43292,6.02449) bridge      Place Bayard                     bridge=None mat=None | tour   652 m | PB  2344 m
+ 9 (45.43258,6.02568) secondary   Route des Gorges                 bridge=yes mat=None | tour   558 m | PB  2268 m
+10 (45.43266,6.02714) primary     None                             bridge=yes mat=None | tour   490 m | PB  2159 m
+11 (45.43947,6.05303) track       None                             bridge=yes mat=None | tour  2083 m | PB     1 m
+12 (45.44335,6.08122) proposed    Ligne Nouvelle Lyon - Turin      bridge=None mat=None | tour  4241 m | PB  2240 m
+13 (45.44043,6.09596) secondary   Pont de l'Île                    bridge=yes mat=None | tour  5238 m | PB  3350 m
+14 (45.43870,6.09510) proposed    Ligne Nouvelle Lyon - Turin      bridge=None mat=None | tour  5130 m | PB  3283 m
+   >>> 3e-11e = 3270 m  (cible 1850 ±18)
+
+== sans barrages/seuils — depuis la SOURCE
+ 1 (45.25790,6.08060) path        None                             bridge=None mat=None | tour 19429 m | PB 20305 m
+ 2 (45.26423,6.07152) path        None                             bridge=None mat=None | tour 18605 m | PB 19539 m
+ 3 (45.27300,6.07973) path        None                             bridge=yes mat=None | tour 17772 m | PB 18628 m
+ 4 (45.28203,6.07449) unclassified Route de la Martinette           bridge=yes mat=None | tour 16704 m | PB 17587 m
+ 5 (45.28499,6.07695) path        None                             bridge=None mat=None | tour 16423 m | PB 17279 m
+ 6 (45.28530,6.07717) path        None                             bridge=None mat=None | tour 16393 m | PB 17247 m
+ 7 (45.28847,6.07646) unclassified None                             bridge=yes mat=None | tour 16037 m | PB 16890 m
+ 8 (45.29690,6.07903) secondary   None                             bridge=yes mat=None | tour 15173 m | PB 15983 m
+ 9 (45.30476,6.07936) path        None                             bridge=yes mat=None | tour 14335 m | PB 15120 m
+10 (45.31884,6.08316) tertiary    None                             bridge=yes mat=None | tour 12923 m | PB 13619 m
+11 (45.33657,6.09151) track       None                             bridge=None mat=None | tour 11327 m | PB 11830 m
+12 (45.35560,6.09831) residential Rue Louise Barnier               bridge=yes mat=None | tour  9723 m | PB  9973 m
+13 (45.38336,6.08406) path        None                             bridge=yes mat=None | tour  6567 m | PB  6693 m
+14 (45.38500,6.08275) path        None                             bridge=yes mat=None | tour  6361 m | PB  6486 m
+15 (45.38610,6.08191) path        None                             bridge=yes mat=None | tour  6225 m | PB  6348 m
+16 (45.38660,6.08165) path        None                             bridge=yes mat=None | tour  6170 m | PB  6289 m
+17 (45.38734,6.08182) path        None                             bridge=yes mat=None | tour  6116 m | PB  6217 m
+18 (45.39010,6.07954) path        None                             bridge=yes mat=None | tour  5767 m | PB  5867 m
+19 (45.39196,6.07770) path        None                             bridge=yes mat=None | tour  5517 m | PB  5623 m
+20 (45.39292,6.07596) secondary   Rue de la Libération             bridge=yes mat=None | tour  5347 m | PB  5477 m
+21 (45.39348,6.07533) secondary   Rue du Grand Pont                bridge=yes mat=None | tour  5268 m | PB  5403 m
+22 (45.39420,6.07586) bridge      None                             bridge=None mat=None | tour  5236 m | PB  5340 m
+23 (45.40151,6.07989) secondary   Boulevard des Anciens d'Algérie  bridge=yes mat=None | tour  4907 m | PB  4713 m
+24 (45.40550,6.08131) footway     None                             bridge=None mat=None | tour  4734 m | PB  4374 m
+25 (45.41739,6.08934) unclassified None                             bridge=yes mat=None | tour  4750 m | PB  3749 m
+26 (45.42386,6.09113) track       None                             bridge=yes mat=None | tour  4743 m | PB  3442 m
+27 (45.43091,6.09497) secondary   None                             bridge=yes mat=None | tour  5011 m | PB  3407 m
+28 (45.43870,6.09510) proposed    Ligne Nouvelle Lyon - Turin      bridge=None mat=None | tour  5130 m | PB  3283 m
+29 (45.44043,6.09596) secondary   Pont de l'Île                    bridge=yes mat=None | tour  5238 m | PB  3350 m
+30 (45.44335,6.08122) proposed    Ligne Nouvelle Lyon - Turin      bridge=None mat=None | tour  4241 m | PB  2240 m
+31 (45.43947,6.05303) track       None                             bridge=yes mat=None | tour  2083 m | PB     1 m
+32 (45.43266,6.02714) primary     None                             bridge=yes mat=None | tour   490 m | PB  2159 m
+33 (45.43258,6.02568) secondary   Route des Gorges                 bridge=yes mat=None | tour   558 m | PB  2268 m
+34 (45.43292,6.02449) bridge      Place Bayard                     bridge=None mat=None | tour   652 m | PB  2344 m
+35 (45.43316,6.02405) tertiary    Rue Laurent Gayet                bridge=None mat=None | tour   695 m | PB  2369 m
+36 (45.43493,6.02175) secondary   Rue du Grésivaudan               bridge=yes mat=None | tour   961 m | PB  2493 m
+37 (45.43647,6.01823) footway     None                             bridge=yes mat=None | tour  1280 m | PB  2737 m
+38 (45.43716,6.01574) footway     None                             bridge=yes mat=None | tour  1480 m | PB  2922 m
+39 (45.43922,6.01112) tertiary    Rue du Bréda                     bridge=yes mat=None | tour  1905 m | PB  3271 m
+40 (45.43929,6.01092) rail        Ligne de Grenoble à Montmélian   bridge=yes mat=None | tour  1923 m | PB  3287 m
+41 (45.44080,6.00812) path        None                             bridge=yes mat=None | tour  2198 m | PB  3508 m
+   >>> 3e-11e = 7129 m  (cible 1850 ±18)

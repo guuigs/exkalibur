@@ -1,0 +1,11 @@
+Objets bruts: 256 ; uniques <=6 km (dedoublonnes a 25 m): 37
+Counter({'BDTOPO': 30, 'OSM': 6, 'LVV': 1}) Counter({'Croix': 28, 'cross': 4, 'Oratoire': 2, 'wayside_cross': 2, 'Calvaire?/Croix': 1})
+
+PAIRES a 1850+-18 m : 2 sur 666 paires
+   1853.3 m  OSM:node9122972149 (cross,45.458604,6.054886, TA 3782 m)  <->  OSM:node9196370724 (cross,45.443089,6.046208, TA 1967 m)
+   1846.3 m  IGN:CONSPONC0000000231404854 (Croix,45.449738,6.086062, TA 4885 m)  <->  IGN:CONSPONC0000000351456726 (Croix,45.458986,6.066402, TA 4332 m)
+
+CONTROLE (n=37 points uniformes/disque 6 km, 20000 tirages) : nb paires a 1850+-18 : moyenne 2.00, mediane 2, P(>=1)=0.863, P(>=2)=0.593, max=10
+Distribution observee des distances inter-croix : <=6 km: part dans [1832,1868] = 0.0030
+
+Total 'chemin de croix' numerote retrouve dans 6 km : voir rapport (aucun).

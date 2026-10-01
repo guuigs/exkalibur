@@ -1,0 +1,151 @@
+== COURS D'EAU NOMMÉS (ligne reconstruite) à ≤ 6 km de la tour: 72 (BDTOPO 39, OSM 33)
+structures pont: BDTOPO=199 OSM=180  (classes: {'passerelle': 13, 'autre': 82, 'routier': 179, 'chemin': 43, 'sentier': 39, 'rail': 23})
+
+== FRANCHISSEMENTS par ligne (après dédup 15 m, variante TOUS_PONTS / UNION) ==
+BDTOPO   Ancien Lit de l'Isère                         long= 1860m (tot  1860m, comp+[], trous=0) n_raw=  4  n_dedup=  0  A:source in alt=256.98  B:in alt=252.54
+BDTOPO   l'Isère                                       long=30628m (tot 34519m, comp+[222], trous=0) n_raw= 18  n_dedup=  4  A:embouch. hors-zone alt=231.62  B:hors-zone alt=275.57
+BDTOPO   Ruisseau du Furet                             long= 5908m (tot  5908m, comp+[], trous=0) n_raw= 17  n_dedup=  4  A:embouch. in alt=250.58  B:hors-zone alt=1619.02
+BDTOPO   Glandon                                       long= 8702m (tot  8702m, comp+[], trous=0) n_raw=  4  n_dedup=  1  A:source hors-zone alt=1147.75  B:in alt=259.61
+BDTOPO   le Buisson                                    long= 5073m (tot  5075m, comp+[], trous=0) n_raw=  8  n_dedup=  4  A:embouch. in alt=412.87  B:hors-zone alt=1721.43
+BDTOPO   Ruisseau du Villard                           long= 2595m (tot  3217m, comp+[], trous=0) n_raw= 19  n_dedup=  0  A:embouch. in alt=244.7  B:in alt=945.43
+BDTOPO   Ruisseau de la Jeannotte                      long= 2226m (tot  2230m, comp+[], trous=0) n_raw=  6  n_dedup=  5  A:source hors-zone alt=1227.39  B:in alt=424.91
+BDTOPO   le Bens                                       long=12059m (tot 13466m, comp+[1402], trous=0) n_raw=  3  n_dedup=  0  A:source hors-zone alt=1440.31  B:in alt=362.71
+BDTOPO   Ruisseau de la Bâtie                          long= 1841m (tot  1841m, comp+[], trous=0) n_raw= 17  n_dedup=  0  A:source in alt=931.09  B:in alt=487.11
+BDTOPO   Ruisseau des Dégoutés                         long= 4141m (tot  4141m, comp+[], trous=0) n_raw=  8  n_dedup=  2  A:source hors-zone alt=1626.25  B:in alt=303.64
+BDTOPO   Ruisseau de la Fourchette                     long= 4474m (tot  4474m, comp+[], trous=0) n_raw= 14  n_dedup=  2  A:embouch. in alt=288.51  B:hors-zone alt=1203.55
+BDTOPO   Ruisseau de Maupas                            long= 2846m (tot  2846m, comp+[], trous=0) n_raw= 12  n_dedup=  0  A:embouch. in alt=248.35  B:in alt=1125.84
+BDTOPO   le Cernon                                     long= 7087m (tot  7087m, comp+[], trous=0) n_raw= 29  n_dedup=  9  A:embouch. in alt=256.61  B:hors-zone alt=1191.99
+BDTOPO   Ruisseau de Rebouchet                         long= 6259m (tot  6259m, comp+[], trous=0) n_raw= 42  n_dedup= 13  A:embouch. in alt=249.38  B:in alt=1068.71
+BDTOPO   le Coisetan                                   long= 7028m (tot  7028m, comp+[], trous=0) n_raw= 30  n_dedup= 10  A:source hors-zone alt=256.6  B:in alt=249.9
+BDTOPO   le Bréda                                      long=24568m (tot 24660m, comp+[], trous=0) n_raw= 83  n_dedup= 28  A:source hors-zone alt=916.15  B:in alt=249.83
+BDTOPO   Ruisseau des Granges                          long= 3687m (tot  3687m, comp+[], trous=0) n_raw= 14  n_dedup=  5  A:source hors-zone alt=861.21  B:in alt=244.07
+BDTOPO   Ruisseau du Papet                             long= 6225m (tot  6225m, comp+[], trous=0) n_raw= 32  n_dedup=  9  A:source in alt=1131.42  B:in alt=245.4
+BDTOPO   Ruisseau de la Chanelle                       long= 3569m (tot  3569m, comp+[], trous=0) n_raw= 16  n_dedup=  5  A:embouch. in alt=256.63  B:in alt=539.68
+BDTOPO   Ruisseau de la Perrière                       long= 3170m (tot  4765m, comp+[1596], trous=0) n_raw= 12  n_dedup=  2  A:source in alt=1108.38  B:in alt=282.01
+BDTOPO   Ruisseau de la Burge                          long= 1842m (tot  1842m, comp+[], trous=0) n_raw= 14  n_dedup=  2  A:source in alt=853.06  B:in alt=294.7
+BDTOPO   Ruisseau de la Ville/Ruisseau du Rif Mort     long= 4634m (tot  4634m, comp+[], trous=0) n_raw=  9  n_dedup=  4  A:embouch. in alt=322.42  B:hors-zone alt=1545.06
+BDTOPO   Canal de Renevier                             long=11801m (tot 11801m, comp+[], trous=0) n_raw= 12  n_dedup=  3  A:embouch. hors-zone alt=232.38  B:in alt=248.54
+BDTOPO   Ruisseau des Lanches                          long=  813m (tot   813m, comp+[], trous=0) n_raw=  7  n_dedup=  1  A:embouch. in alt=660.58  B:in alt=1081.38
+BDTOPO   Ruisseau du Trouillet                         long= 1868m (tot  1868m, comp+[], trous=0) n_raw= 18  n_dedup=  1  A:embouch. in alt=247.36  B:in alt=916.62
+BDTOPO   Ruisseau de Tapon                             long= 2333m (tot  2337m, comp+[], trous=0) n_raw= 14  n_dedup=  3  A:source in alt=877.82  B:in alt=288.92
+BDTOPO   Ruisseau de la Ville                          long= 2495m (tot  3355m, comp+[860], trous=0) n_raw= 14  n_dedup=  3  A:embouch. in alt=244.21  B:in alt=322.42
+BDTOPO   Ruisseau de Bessut                            long=  767m (tot   767m, comp+[], trous=0) n_raw=  4  n_dedup=  0  A:embouch. in alt=618.07  B:in alt=1047.85
+BDTOPO   Ruisseau de Romanon                           long=  714m (tot   714m, comp+[], trous=0) n_raw=  2  n_dedup=  0  A:source hors-zone alt=435.01  B:in alt=301.7
+BDTOPO   Ruisseau de la Maladière/Ruisseau de Séchiden long=  579m (tot   579m, comp+[], trous=0) n_raw=  1  n_dedup=  0  A:source in alt=744.46  B:in alt=426.94
+BDTOPO   Ruisseau de Beau Magny                        long= 2165m (tot  2165m, comp+[], trous=0) n_raw= 11  n_dedup=  1  A:source in alt=924.72  B:in alt=278.82
+BDTOPO   Ruisseau de la Maladière                      long= 3872m (tot  3872m, comp+[], trous=0) n_raw= 28  n_dedup=  6  A:source in alt=426.94  B:in alt=245.66
+BDTOPO   Ruisseau du Croset                            long= 2991m (tot  2991m, comp+[], trous=0) n_raw= 14  n_dedup=  1  A:embouch. in alt=260.82  B:hors-zone alt=589.68
+BDTOPO   Ruisseau Pluvigny                             long= 1435m (tot  1440m, comp+[], trous=0) n_raw= 11  n_dedup=  2  A:source in alt=828.31  B:in alt=321.04
+BDTOPO   le Bard                                       long= 3999m (tot  4004m, comp+[], trous=0) n_raw=  9  n_dedup=  4  A:embouch. in alt=377.19  B:hors-zone alt=1495.38
+BDTOPO   Ruisseau du Catus                             long= 1766m (tot  1766m, comp+[], trous=0) n_raw=  5  n_dedup=  0  A:source in alt=1013.83  B:hors-zone alt=423.99
+BDTOPO   le Béal de l'Ormet                            long= 1748m (tot  1748m, comp+[], trous=0) n_raw=  2  n_dedup=  2  A:embouch. in alt=256.99  B:hors-zone alt=264.58
+BDTOPO   Ruisseau des Teppes                           long= 1643m (tot  1643m, comp+[], trous=0) n_raw=  7  n_dedup=  0  A:source in alt=832.67  B:in alt=264.61
+BDTOPO   Ruisseau du Colovron                          long=  406m (tot   406m, comp+[], trous=0) n_raw=  0  n_dedup=  0  A:embouch. hors-zone alt=361.06  B:in alt=509.42
+OSM      L'Isère                                       long=22405m (tot 22405m, comp+[], trous=0) n_raw= 18  n_dedup=  5  A:embouch. hors-zone alt=233.51  B:hors-zone alt=264.65
+OSM      Le Bréda                                      long=16484m (tot 16574m, comp+[90], trous=0) n_raw= 83  n_dedup= 27  A:embouch. in alt=249.83  B:hors-zone alt=570.43
+OSM      Le Bens                                       long=15682m (tot 15682m, comp+[], trous=0) n_raw=  3  n_dedup=  0  A:source hors-zone alt=2317.85  B:in alt=362.76
+OSM      Le Cernon                                     long= 7857m (tot  7857m, comp+[], trous=0) n_raw= 42  n_dedup= 12  A:source hors-zone alt=1109.46  B:in alt=251.99
+OSM      Ruisseau de Chamoux                           long=   11m (tot    11m, comp+[], trous=0) n_raw=  0  n_dedup=  0  A:source hors-zone alt=316.57  B:hors-zone alt=313.8
+OSM      Ruisseau du Bon de Loge                       long= 3265m (tot  4899m, comp+[1634], trous=0) n_raw=  4  n_dedup=  2  A:source hors-zone alt=261.35  B:in alt=257.31
+OSM      Ruisseau du Rebouchet                         long= 5048m (tot  5048m, comp+[], trous=0) n_raw= 33  n_dedup= 11  A:embouch. in alt=251.15  B:in alt=840.25
+OSM      Le Bard                                       long= 3368m (tot  3368m, comp+[], trous=0) n_raw=  9  n_dedup=  4  A:embouch. in alt=377.1  B:hors-zone alt=1248.17
+OSM      Canal de Renevier                             long= 3574m (tot  7067m, comp+[3123], trous=0) n_raw= 36  n_dedup=  9  A:source in alt=281.32  B:in alt=251.15
+OSM      Ruisseau des Dégoutés                         long= 2925m (tot  2925m, comp+[], trous=3) n_raw=  8  n_dedup=  2  A:embouch. in alt=303.64  B:hors-zone alt=1061.42
+OSM      Ruisseau du Rif Mort                          long= 2917m (tot  2917m, comp+[], trous=0) n_raw=  9  n_dedup=  4  A:embouch. in alt=322.42  B:hors-zone alt=952.76
+OSM      Ruisseau du Furet                             long= 5056m (tot  5056m, comp+[], trous=3) n_raw= 17  n_dedup=  4  A:embouch. in alt=251.73  B:hors-zone alt=1056.6
+OSM      Le Buisson                                    long= 3777m (tot  3777m, comp+[], trous=0) n_raw=  8  n_dedup=  4  A:embouch. in alt=412.67  B:hors-zone alt=1549.38
+OSM      Ruisseau de la Jeannotte                      long= 1856m (tot  1856m, comp+[], trous=2) n_raw=  6  n_dedup=  5  A:source hors-zone alt=1076.02  B:in alt=425.04
+OSM      Adduction EDF Arc-Isere                       long=19466m (tot 19466m, comp+[], trous=0) n_raw=  0  n_dedup=  0  A:embouch. hors-zone alt=503.46  B:hors-zone alt=504.12
+OSM      Ruisseau de la Maladière                      long= 3319m (tot  4485m, comp+[1166], trous=1) n_raw= 21  n_dedup=  6  A:source in alt=343.93  B:in alt=245.65
+OSM      Ruisseau du Papet                             long= 3207m (tot  3207m, comp+[], trous=0) n_raw= 23  n_dedup=  6  A:source in alt=617.75  B:in alt=247.76
+OSM      Ruisseau des Granges                          long= 3694m (tot  3694m, comp+[], trous=0) n_raw= 16  n_dedup=  5  A:embouch. in alt=244.08  B:hors-zone alt=861.09
+OSM      Ruisseau de la Ville                          long= 2509m (tot  2509m, comp+[], trous=0) n_raw= 17  n_dedup=  3  A:source in alt=322.42  B:in alt=244.21
+OSM      Ruisseau de la Fourchette                     long= 3907m (tot  3907m, comp+[], trous=0) n_raw= 14  n_dedup=  2  A:embouch. in alt=286.38  B:hors-zone alt=972.54
+OSM      Ruisseau de Tapon                             long= 2348m (tot  2348m, comp+[], trous=0) n_raw= 14  n_dedup=  4  A:source in alt=877.82  B:in alt=289.36
+OSM      Ruisseau de la Burge                          long= 1963m (tot  1963m, comp+[], trous=0) n_raw= 15  n_dedup=  2  A:source in alt=911.66  B:in alt=295.64
+OSM      Ruisseau de Pluvigny                          long= 1437m (tot  1437m, comp+[], trous=0) n_raw= 11  n_dedup=  2  A:source in alt=828.31  B:in alt=318.24
+OSM      Ruisseau de Beau-Magny                        long= 1898m (tot  1898m, comp+[], trous=0) n_raw=  9  n_dedup=  1  A:embouch. in alt=276.54  B:in alt=782.17
+OSM      Ruisseau de la Perrière                       long= 3172m (tot  3172m, comp+[], trous=0) n_raw= 13  n_dedup=  2  A:source in alt=1108.38  B:in alt=281.82
+OSM      Ruisseau du Villard                           long= 2560m (tot  2560m, comp+[], trous=0) n_raw= 16  n_dedup=  0  A:source in alt=945.43  B:in alt=244.93
+OSM      Ruisseau de la Chanelle                       long= 2712m (tot  2712m, comp+[], trous=0) n_raw= 11  n_dedup=  4  A:source in alt=410.99  B:in alt=256.29
+OSM      Le Béal de l'Ormet                            long= 1105m (tot  1109m, comp+[], trous=0) n_raw=  0  n_dedup=  0  A:source hors-zone alt=264.02  B:in alt=259.52
+OSM      Glandon                                       long= 3109m (tot  3109m, comp+[], trous=0) n_raw=  7  n_dedup=  3  A:source hors-zone alt=280.68  B:in alt=256.99
+OSM      Le Coisetan                                   long= 7408m (tot  7408m, comp+[], trous=0) n_raw= 30  n_dedup= 10  A:embouch. in alt=251.48  B:hors-zone alt=256.48
+OSM      Prise d'eau de la centrale de Détrier         long=  210m (tot   210m, comp+[], trous=0) n_raw=  1  n_dedup=  1  A:embouch. in alt=344.24  B:in alt=346.32
+OSM      Ruisseau de Maupas                            long= 2702m (tot  2702m, comp+[], trous=0) n_raw= 12  n_dedup=  0  A:embouch. in alt=244.83  B:in alt=1138.85
+OSM      Ruisseau de Bois-Vieux                        long=  621m (tot   621m, comp+[], trous=0) n_raw=  3  n_dedup=  0  A:source in alt=638.39  B:in alt=330.93
+
+== NUMÉROTATIONS (ligne × jeu de franchissements × variante × sens) : total=1628, avec ≥ 11 franchissements: 128
+   dont lignes distinctes (nom,src) avec ≥11 en variante quelconque: 16
+    ('le Bréda', 'BDTOPO') 26 numérotations ≥11
+    ('Le Bréda', 'OSM') 26 numérotations ≥11
+    ('Ruisseau de Rebouchet', 'BDTOPO') 14 numérotations ≥11
+    ('Le Cernon', 'OSM') 12 numérotations ≥11
+    ('Ruisseau du Rebouchet', 'OSM') 8 numérotations ≥11
+    ('Ruisseau du Villard', 'BDTOPO') 4 numérotations ≥11
+    ('Ruisseau de la Bâtie', 'BDTOPO') 4 numérotations ≥11
+    ('Ruisseau du Papet', 'BDTOPO') 4 numérotations ≥11
+    ('Ruisseau du Trouillet', 'BDTOPO') 4 numérotations ≥11
+    ('Ruisseau de la Maladière', 'BDTOPO') 4 numérotations ≥11
+    ('Canal de Renevier', 'OSM') 4 numérotations ≥11
+    ('Ruisseau de la Maladière', 'OSM') 4 numérotations ≥11
+    ('Ruisseau du Papet', 'OSM') 4 numérotations ≥11
+    ('Ruisseau de la Burge', 'OSM') 4 numérotations ≥11
+    ('Ruisseau du Villard', 'OSM') 4 numérotations ≥11
+    ('Ruisseau de Maupas', 'BDTOPO') 2 numérotations ≥11
+
+== DISTRIBUTION des distances 3e–11e (toutes numérotations ≥ 11) ==
+  n=128  min=373  médiane=2068  max=7141
+       0–  250 m : 0
+     250–  500 m : 4
+     500–  750 m : 0
+     750– 1000 m : 10
+    1000– 1250 m : 3
+    1250– 1500 m : 12
+    1500– 1750 m : 14
+    1750– 2000 m : 20
+    2000– 2500 m : 20
+    2500– 3000 m : 2
+    3000– 4000 m : 5
+    4000– 6000 m : 18
+    6000–20000 m : 20
+  dans 1850±18 m : 3 / 128 = 2.34 %
+  densité attendue si uniforme sur [373,7141] (étendue observée): 0.53 %
+  numérotations 3e–11e entre 1000 et 3000 m: 71 ; probabilité uniforme 36/2000=1.8 % -> attendu 1.3
+
+== CONTRÔLE: autres paires (même nombre de ponts ≥ j) — proportion dans 1850±18 m (faux positifs) ==
+  paire  3-11 : n=128  dans fenêtre= 3 (2.3 %)
+  paire  2-10 : n=178  dans fenêtre= 4 (2.2 %)
+  paire  4-12 : n= 98  dans fenêtre= 5 (5.1 %)
+  paire  3-13 : n= 82  dans fenêtre= 0 (0.0 %)
+  paire  8-16 : n= 56  dans fenêtre= 1 (1.8 %)
+  paire  1- 9 : n=252  dans fenêtre=24 (9.5 %)
+  paire  5-13 : n= 82  dans fenêtre= 0 (0.0 %)
+  paire  6-14 : n= 72  dans fenêtre= 0 (0.0 %)
+  paire  7-15 : n= 66  dans fenêtre= 1 (1.5 %)
+  paire  9-17 : n= 54  dans fenêtre= 0 (0.0 %)
+  toutes paires (i,i+8): n=1318 dans fenêtre=42 (3.19 %)
+
+== CONTRÔLE aléatoire: mêmes lignes, mêmes nombres de franchissements, positions tirées uniformément le long de la ligne ==
+  tirages=38400, dans fenêtre=356 (0.93 %)
+
+== CANDIDATS: 3e–11e à 1850 ± 18 m ET l'un des deux à < 1,5 km de la tour: 0 ==
+
+== Pour information: 12 numérotations 3e–11e les plus proches de 1850 m (sans filtre tour) ==
+    1865.1 m | Le Cernon                    [OSM/BD] TOUS_PONTS                 EMBOUCHURE | #3 45.46624,5.99902 (routier, tour 4819 m) #11 45.45583,5.98027 (sentier, tour 4939 m)
+    1865.1 m | Le Cernon                    [OSM/BD] TOUS+GUES                  EMBOUCHURE | #3 45.46624,5.99902 (routier, tour 4819 m) #11 45.45583,5.98027 (sentier, tour 4939 m)
+    1865.1 m | Le Cernon                    [OSM/BD] TOUS+GUES+SOL              EMBOUCHURE | #3 45.46624,5.99902 (routier, tour 4819 m) #11 45.45583,5.98027 (sentier, tour 4939 m)
+    1880.1 m | Ruisseau de la Maladière     [BDTOPO/UNION] TOUS+GUES+SOL              SOURCE | #3 45.43118,5.97950 (chemin, tour 4010 m) #11 45.41614,5.99051 (routier, tour 3458 m)
+    1890.6 m | Ruisseau de Rebouchet        [BDTOPO/UNION] TOUS_PONTS                 EMBOUCHURE | #3 45.41895,6.00914 (autre, tour 2032 m) #11 45.42461,6.03198 (routier, tour 506 m)
+    1890.6 m | Ruisseau de Rebouchet        [BDTOPO/UNION] TOUS_PONTS                 SOURCE | #3 45.42461,6.03198 (routier, tour 506 m) #11 45.41895,6.00914 (autre, tour 2032 m)
+    1890.6 m | Ruisseau de Rebouchet        [BDTOPO/UNION] TOUS+GUES                  EMBOUCHURE | #3 45.41895,6.00914 (autre, tour 2032 m) #11 45.42461,6.03198 (routier, tour 506 m)
+    1890.6 m | Ruisseau de Rebouchet        [BDTOPO/UNION] TOUS+GUES                  SOURCE | #3 45.42461,6.03198 (routier, tour 506 m) #11 45.41895,6.00914 (autre, tour 2032 m)
+    1890.6 m | Ruisseau du Rebouchet        [OSM/UNION] TOUS_PONTS                 SOURCE | #3 45.42461,6.03198 (routier, tour 506 m) #11 45.41895,6.00914 (autre, tour 2032 m)
+    1890.6 m | Ruisseau du Rebouchet        [OSM/UNION] TOUS+GUES                  SOURCE | #3 45.42461,6.03198 (routier, tour 506 m) #11 45.41895,6.00914 (autre, tour 2032 m)
+    1779.8 m | Ruisseau de Rebouchet        [BDTOPO/BD] TOUS+GUES+SOL              SOURCE | #3 45.41839,6.04890 (sol_sentier, tour 1846 m) #11 45.42196,6.02667 (sol_routier, tour 856 m)
+    1779.4 m | Ruisseau de Rebouchet        [BDTOPO/UNION] TOUS+GUES+SOL              SOURCE | #3 45.41839,6.04890 (sol_sentier, tour 1846 m) #11 45.42196,6.02668 (routier, tour 856 m)
+
+== TAUX DE FAUX POSITIFS ==
+  numérotations testables (≥11 franchissements) = 128 (fortement redondantes: mêmes ponts, variantes emboîtées, 2 sens)
+  taux par chance (paires témoins ci-dessus + tirage aléatoire): 0.93 % (aléatoire) ; moyenne des paires: 2.25 %
+  nb de numérotations (3,11) dans fenêtre sans filtre tour: 3 ; avec filtre tour: 0 ; attendu par chance (taux aléatoire × n): 1.2
