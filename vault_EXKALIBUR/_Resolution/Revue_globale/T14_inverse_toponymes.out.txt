@@ -1,0 +1,152 @@
+lieux-dits 671 | dist max à la tour km 12.663111923797244
+
+=== départ tour (45.4288, 6.03078)
+ anneau 1750-1950 m : 23 lieux-dits
+   1754 m cap 293° DESSOUS LE GRAND FOSSE                 Pontcharra             (45.43498,6.01009) 
+   1770 m cap  64° LA SERVE ET LA CORVA                   Saint-Maximin          (45.43582,6.05113) 
+   1822 m cap  98° TIRE LOUP ET LES TACHES                Saint-Maximin          (45.42638,6.05388) 
+   1835 m cap  17° LE RIVET                               Laissaud               (45.44461,6.03748) 
+   1836 m cap 282° LA GARE                                Pontcharra             (45.43226,6.00777) 
+   1862 m cap  79° POUCHAT                                Saint-Maximin          (45.43203,6.05419) 
+   1867 m cap  57° LES GORGES                             Saint-Maximin          (45.43804,6.05075) 
+   1870 m cap 223° HERCULEE                               Pontcharra             (45.41645,6.01451) biche/Hercule
+   1873 m cap  59° CHANTE-MERLE                           Saint-Maximin          (45.43740,6.05142) chant/oiseau
+   1881 m cap 239° GAYETS                                 Pontcharra             (45.42003,6.01017) 
+   1885 m cap 121° REBOUCHET ET LE GRAND ADRET            Saint-Maximin          (45.41996,6.05139) 
+   1886 m cap 214° PLANTES LES                            Pontcharra             (45.41470,6.01734) 
+   1894 m cap   9° LES MARAIS                             Laissaud               (45.44561,6.03471) 
+   1907 m cap 156° PRE COUPOU                             Saint-Maximin          (45.41318,6.04088) clairiere
+   1924 m cap  14° PACAILLER                              Laissaud               (45.44562,6.03654) 
+   1933 m cap 276° PRE BRUN                               Pontcharra             (45.43051,6.00613) clairiere
+   1935 m cap 207° CHANET                                 Pontcharra             (45.41331,6.01948) 
+   1939 m cap 136° MALADRET                               Saint-Maximin          (45.41616,6.04790) 
+   1941 m cap  84° MONTESSIEU                             Saint-Maximin          (45.43056,6.05552) 
+   1941 m cap 342° PRES COMMUNAUX                         Pontcharra             (45.44539,6.02303) clairiere
+   1945 m cap 226° PLAN DE VILLARD NOIR                   Pontcharra             (45.41669,6.01280) clairiere
+   1947 m cap  94° LE RAT                                 Saint-Maximin          (45.42752,6.05567) 
+   1949 m cap 184° SAINTE-CATHERINE ET BERTHAUD           Pontcharra             (45.41131,6.02909) 
+
+=== départ rue_rempart (45.42977, 6.03118)
+ anneau 1750-1950 m : 24 lieux-dits
+   1757 m cap 248° LE RENEVIER                            Pontcharra             (45.42385,6.01031) 
+   1778 m cap 263° BOIS BAYARD                            Pontcharra             (45.42776,6.00858) souche/bois
+   1780 m cap 206° LA PERRIERE ET VEILLARD                Pontcharra             (45.41534,6.02132) roche
+   1783 m cap   9° LES MARAIS                             Laissaud               (45.44561,6.03471) 
+   1783 m cap  59° LES GORGES                             Saint-Maximin          (45.43804,6.05075) 
+   1793 m cap  62° CHANTE-MERLE                           Saint-Maximin          (45.43740,6.05142) chant/oiseau
+   1800 m cap 198° PAPET                                  Pontcharra             (45.41442,6.02387) 
+   1807 m cap 192° AU REPLAT DU PAPET                     Pontcharra             (45.41388,6.02635) 
+   1811 m cap 102° TIRE LOUP ET LES TACHES                Saint-Maximin          (45.42638,6.05388) 
+   1812 m cap  13° PACAILLER                              Laissaud               (45.44562,6.03654) 
+   1813 m cap  82° POUCHAT                                Saint-Maximin          (45.43203,6.05419) 
+   1824 m cap 213° COTE ROSE                              Pontcharra             (45.41609,6.01828) 
+   1848 m cap 279° LA GARE                                Pontcharra             (45.43226,6.00777) 
+   1849 m cap 340° PRES COMMUNAUX                         Pontcharra             (45.44539,6.02303) clairiere
+   1873 m cap  44° BEAUREGARD                             Laissaud               (45.44180,6.04799) 
+   1874 m cap  51° LES GORGES                             Laissaud               (45.44045,6.04975) 
+   1902 m cap  87° MONTESSIEU                             Saint-Maximin          (45.43056,6.05552) 
+   1910 m cap  24° CHATAIGNERAIE                          Laissaud               (45.44548,6.04109) 
+   1913 m cap 326° PRE TORCHON                            Pontcharra             (45.44405,6.01751) clairiere
+   1915 m cap   0° LES MARAIS                             Laissaud               (45.44699,6.03134) 
+   1918 m cap 125° REBOUCHET ET LE GRAND ADRET            Saint-Maximin          (45.41996,6.05139) 
+   1924 m cap   5° PRE JENVIEUX                           Laissaud               (45.44700,6.03347) souche/bois|clairiere
+   1927 m cap  97° LE RAT                                 Saint-Maximin          (45.42752,6.05567) 
+   1938 m cap 351° PRE DU PERE                            Laissaud               (45.44697,6.02712) clairiere
+
+=== départ avalon_lieudit (45.42956, 6.03126)
+ anneau 1750-1950 m : 24 lieux-dits
+   1754 m cap 249° LE RENEVIER                            Pontcharra             (45.42385,6.01031) 
+   1758 m cap 290° DESSOUS LE GRAND FOSSE                 Pontcharra             (45.43498,6.01009) 
+   1762 m cap 206° LA PERRIERE ET VEILLARD                Pontcharra             (45.41534,6.02132) roche
+   1779 m cap 199° PAPET                                  Pontcharra             (45.41442,6.02387) 
+   1781 m cap 264° BOIS BAYARD                            Pontcharra             (45.42776,6.00858) souche/bois
+   1786 m cap 192° AU REPLAT DU PAPET                     Pontcharra             (45.41388,6.02635) 
+   1790 m cap  58° LES GORGES                             Saint-Maximin          (45.43804,6.05075) 
+   1798 m cap  61° CHANTE-MERLE                           Saint-Maximin          (45.43740,6.05142) chant/oiseau
+   1800 m cap 101° TIRE LOUP ET LES TACHES                Saint-Maximin          (45.42638,6.05388) 
+   1805 m cap   9° LES MARAIS                             Laissaud               (45.44561,6.03471) 
+   1809 m cap 214° COTE ROSE                              Pontcharra             (45.41609,6.01828) 
+   1810 m cap  81° POUCHAT                                Saint-Maximin          (45.43203,6.05419) 
+   1833 m cap  13° PACAILLER                              Laissaud               (45.44562,6.03654) 
+   1857 m cap 279° LA GARE                                Pontcharra             (45.43226,6.00777) 
+   1873 m cap 340° PRES COMMUNAUX                         Pontcharra             (45.44539,6.02303) clairiere
+   1884 m cap  50° LES GORGES                             Laissaud               (45.44045,6.04975) 
+   1885 m cap  44° BEAUREGARD                             Laissaud               (45.44180,6.04799) 
+   1896 m cap  87° MONTESSIEU                             Saint-Maximin          (45.43056,6.05552) 
+   1900 m cap 124° REBOUCHET ET LE GRAND ADRET            Saint-Maximin          (45.41996,6.05139) 
+   1918 m cap  97° LE RAT                                 Saint-Maximin          (45.42752,6.05567) 
+   1929 m cap  23° CHATAIGNERAIE                          Laissaud               (45.44548,6.04109) 
+   1936 m cap 326° PRE TORCHON                            Pontcharra             (45.44405,6.01751) clairiere
+   1939 m cap   0° LES MARAIS                             Laissaud               (45.44699,6.03134) 
+   1947 m cap   5° PRE JENVIEUX                           Laissaud               (45.44700,6.03347) souche/bois|clairiere
+
+=== départ bayard (45.42337, 6.01894)
+ anneau 1750-1950 m : 25 lieux-dits
+   1759 m cap 108° LES ROUTES ET LA PINOTTE               Saint-Maximin          (45.41837,6.04032) 
+   1773 m cap 262° LES ESSARDS                            La Buissiere           (45.42107,5.99646) 
+   1798 m cap  19° LA COURRERIE                           Pontcharra             (45.43864,6.02652) 
+   1800 m cap  60° LA SERVE                               Saint-Maximin          (45.43150,6.03889) 
+   1810 m cap 189° LES PLATTES ET PACHOUD                 Pontcharra             (45.40731,6.01515) 
+   1821 m cap 353° LES METANIES                           Pontcharra             (45.43963,6.01615) 
+   1827 m cap 212° AU VERNAY                              Pontcharra             (45.40947,6.00645) 
+   1828 m cap  27° VILLAGE DE VILLARD-BENOIT              Pontcharra             (45.43798,6.02969) 
+   1850 m cap 274° RENEVIER                               La Buissiere           (45.42448,5.99529) 
+   1855 m cap  90° LES TILLES                             Saint-Maximin          (45.42336,6.04271) 
+   1857 m cap  39° MALATRET                               Pontcharra             (45.43628,6.03405) 
+   1858 m cap 141° SAINTE - CATHERINE                     Pontcharra             (45.41040,6.03396) 
+   1882 m cap  54° RATIER                                 Saint-Maximin          (45.43330,6.03847) 
+   1884 m cap  31° PRE MARGUERI                           Pontcharra             (45.43787,6.03142) clairiere
+   1889 m cap  72° GRIBAUDAN                              Saint-Maximin          (45.42869,6.04193) 
+   1892 m cap 166° PLAN DE LA SOIE                        Pontcharra             (45.40687,6.02482) clairiere
+   1892 m cap  82° VERANGER                               Saint-Maximin          (45.42566,6.04296) 
+   1894 m cap 115° LES TEYSSONNIERES                      Saint-Maximin          (45.41624,6.04098) 
+   1894 m cap  10° AU PLAN DE VILLARD-BENOIT              Pontcharra             (45.44012,6.02333) clairiere
+   1904 m cap 332° PRE CHABERT                            Pontcharra             (45.43846,6.00741) clairiere
+   1905 m cap 310° LA GACHE                               Barraux                (45.43439,6.00024) 
+   1913 m cap 300° RENEVIER                               Barraux                (45.43210,5.99782) 
+   1943 m cap 173° MONTAUCHER                             Pontcharra             (45.40602,6.02190) 
+   1945 m cap  34° PRE MARGUERI                           Pontcharra             (45.43792,6.03278) clairiere
+   1947 m cap 179° LE CRET ET LA VERSANE                  Pontcharra             (45.40586,6.01922) 
+
+=== SEMANTIQUE GLOBALE (tous lieux-dits, dist à la tour) ===
+-- dieu/grâce
+    2.13 km cap   2° PRE JEAN VIEUX                           Laissaud             (45.44795,6.03175)
+    2.78 km cap 145° LE REBON                                 Saint-Maximin        (45.40825,6.05112)
+    3.48 km cap 297° LA VERSANNE                              Barraux              (45.44283,5.99096)
+    3.49 km cap 293° LA VERSANNE                              Barraux              (45.44106,5.98964)
+    3.51 km cap 292° LA VERSANNE                              Barraux              (45.44074,5.98915)
+   12.32 km cap 219° MONTABON                                 Le Touvet            (45.34248,5.93188)
+-- biche/Hercule
+    1.06 km cap 230° VERGER DE BAYARD                         Pontcharra           (45.42273,6.02037)
+    1.87 km cap 223° HERCULEE                                 Pontcharra           (45.41645,6.01451)
+    2.08 km cap 218° HERCULER                                 Pontcharra           (45.41413,6.01427)
+    3.04 km cap 155° BRAME FARINE                             Pontcharra           (45.40406,6.04728)
+-- chant/oiseau
+    1.87 km cap  59° CHANTE-MERLE                             Saint-Maximin        (45.43740,6.05142)
+    2.58 km cap  17° CHANTABORD                               Laissaud             (45.45100,6.04043)
+-- roche
+    0.13 km cap 116° LE CHENE LA ROCHE ET LE VIVIER           Saint-Maximin        (45.42827,6.03232)
+    0.44 km cap  34° PIERRE GROS                              Saint-Maximin        (45.43208,6.03398)
+    0.71 km cap 285° PRE CROCHET                              Pontcharra           (45.43042,6.02202)
+    1.40 km cap 212° LA PERRIERE ET VEILLARD                  Pontcharra           (45.41819,6.02118)
+    1.42 km cap 185° LE ROCHAT                                Saint-Maximin        (45.41607,6.02909)
+    1.67 km cap 206° LA PERRIERE ET VEILLARD                  Pontcharra           (45.41534,6.02132)
+    2.21 km cap  83° COTE ROCHAT                              Saint-Maximin        (45.43136,6.05886)
+    3.02 km cap  71° PERROSAN                                 Saint-Maximin        (45.43763,6.06740)
+    3.07 km cap 205° ROCHE MORTE                              Pontcharra           (45.40386,6.01396)
+    3.15 km cap 254° PRE PERRET                               La Buissiere         (45.42120,5.99186)
+    4.41 km cap 291° MAUPERRIER                               Barraux              (45.44325,5.97810)
+    5.15 km cap 231° PEYRAT                                   La Buissiere         (45.39939,5.97979)
+    5.19 km cap 301° LA ROCHETTE ET CHEVANILLE                Barraux              (45.45287,5.97383)
+    7.04 km cap 218° LES PERRAILLES                           Sainte-Marie-d'Alloix (45.37925,5.97474)
+    8.50 km cap 217° PERROTTE                                 Saint-Vincent-de-Mercuze (45.36737,5.96598)
+    9.52 km cap 221° LA PERRIERE                              Le Touvet            (45.36411,5.95096)
+   10.85 km cap 224° ROCHER PEYRON                            Le Touvet            (45.35909,5.93351)
+   11.08 km cap 226° ROCHER DU ROUX                           Le Touvet            (45.35943,5.92894)
+   12.50 km cap 221° A PERROCHAT                              Le Touvet            (45.34382,5.92592)
+-- eau
+    0.13 km cap 116° LE CHENE LA ROCHE ET LE VIVIER           Saint-Maximin        (45.42827,6.03232)
+    2.39 km cap   7° LES MARECHES                             Laissaud             (45.45012,6.03446)
+    2.63 km cap  23° AU RUISSEAU                              Laissaud             (45.45058,6.04395)
+    9.54 km cap 225° LE VIVIER                                Le Touvet            (45.36765,5.94502)
+-- souche/bois

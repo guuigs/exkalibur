@@ -1,0 +1,65 @@
+                           tour rue_rempar  avalon_ld     bayard pierre_gro chene_roch   HERCULEE   HERCULER BRAME_FARI CHANTE_MER VERGER_BAY
+tour                          0        112         92       1104        442        134       1870       2079       3038       1873       1056
+rue_rempart                 112          0         24       1191        337        190       1971       2184       3123       1793       1151
+avalon_ld                    92         24          0       1182        351        166       1958       2169       3099       1798       1140
+bayard                     1104       1191       1182          0       1521       1178        843       1091       3083       2976        132
+pierre_gros                 442        337        351       1521          0        443       2308       2520       3284       1484       1486
+chene_roche_vivier          134        190        166       1178        443          0       1912       2111       2934       1803       1118
+HERCULEE                   1870       1971       1958        843       2308       1912          0        259       2905       3704        834
+HERCULER                   2079       2184       2169       1091       2520       2111        259          0       2810       3886       1069
+BRAME_FARINE               3038       3123       3099       3083       3284       2934       2905       2810          0       3722       2953
+CHANTE_MERLE               1873       1793       1798       2976       1484       1803       3704       3886       3722          0       2921
+VERGER_BAYARD              1056       1151       1140        132       1486       1118        834       1069       2953       2921          0
+
+HERCULEE -> avalon_ld : 1958 m, cap 221.9°, écart à 1850 : +5.82 %
+HERCULEE -> tour : 1870 m, cap 222.8°, écart à 1850 : +1.08 %
+HERCULEE -> rue_rempart : 1971 m, cap 221.3°, écart à 1850 : +6.54 %
+HERCULEE -> bayard : 843 m, cap 204.2°, écart à 1850 : -54.42 %
+HERCULER -> tour : 2079 m, cap 218.3°, écart à 1850 : +12.39 %
+CHANTE_MERLE -> tour : 1873 m, cap 59.3°, écart à 1850 : +1.24 %
+
+lieux-dits <5 km de la tour: 399
+PAIRE 1850±1%  LA BURGE|Saint-Maximin <-> CHANTE-MERLE|Saint-Maximin : 1847 m
+PAIRE 1850±1%  CHANTE-MERLE|Saint-Maximin <-> MOLLARD MOUTON|Saint-Maximin : 1858 m
+PAIRE 1850±1%  CHANTE-MERLE|Saint-Maximin <-> CROLA|Pontcharra : 1835 m
+PAIRE 1850±1%  CHANTE-MERLE|Saint-Maximin <-> AU GARD|Pontcharra : 1861 m
+PAIRE 1850±1%  CHANTE-MERLE|Saint-Maximin <-> LES CORVEES|Laissaud : 1866 m
+PAIRE 1850±1%  RATIER|Saint-Maximin <-> VERGER DE BAYARD|Pontcharra : 1837 m
+PAIRE 1850±1%  LE CHENE|Saint-Maximin <-> HERCULEE|Pontcharra : 1844 m
+PAIRE 1850±1%  AVALON|Saint-Maximin <-> LA GARE|Pontcharra : 1857 m
+PAIRE 1850±1%  AVALON|Saint-Maximin <-> PACAILLER|Laissaud : 1833 m
+PAIRE 1850±1%  LES PLANCHES|Saint-Maximin <-> BRAME FARINE|Pontcharra : 1862 m
+PAIRE 1850±1%  LE GRAND PLAN|Saint-Maximin <-> HERCULEE|Pontcharra : 1865 m
+PAIRE 1850±1%  BRAME FARINE|Pontcharra <-> PRA DE BERT|Pontcharra : 1840 m
+PAIRE 1850±1%  BRAME FARINE|Pontcharra <-> AU GEORGES DU PAPET|Pontcharra : 1853 m
+PAIRE 1850±1%  PRE TORCHON|Pontcharra <-> CHANTABORD|Laissaud : 1856 m
+PAIRE 1850±1%  MALATRET|Pontcharra <-> VERGER DE BAYARD|Pontcharra : 1846 m
+PAIRE 1850±1%  VILLAGE DE VILLARD-BENOIT|Pontcharra <-> VERGER DE BAYARD|Pontcharra : 1845 m
+PAIRE 1850±1%  LA COURRERIE|Pontcharra <-> VERGER DE BAYARD|Pontcharra : 1833 m
+PAIRE 1850±1%  CHENEVIERE DE BAYARD|Pontcharra <-> VERGER DE BAYARD|Pontcharra : 1837 m
+PAIRE 1850±1%  LA GARE|Pontcharra <-> HERCULEE|Pontcharra : 1834 m
+PAIRE 1850±1%  HERCULEE|Pontcharra <-> PRE PERRET|La Buissiere : 1846 m
+PAIRE 1850±1%  VERGER DE BAYARD|Pontcharra <-> MONTAUCHER|Pontcharra : 1862 m
+PAIRE 1850±1%  HERCULER|Pontcharra <-> MOLLARD ET CUGNET|Pontcharra : 1840 m
+--- paires thématiques <-> thématiques (toutes distances)
+  CHANTE-MERLE|Saint-Maximin               AVALON|Saint-Maximin                     1799 m
+  CHANTE-MERLE|Saint-Maximin               BRAME FARINE|Pontcharra                  3722 m
+  CHANTE-MERLE|Saint-Maximin               HERCULEE|Pontcharra                      3704 m
+  CHANTE-MERLE|Saint-Maximin               VERGER DE BAYARD|Pontcharra              2921 m
+  CHANTE-MERLE|Saint-Maximin               HERCULER|Pontcharra                      3886 m
+  CHANTE-MERLE|Saint-Maximin               CHANTABORD|Laissaud                      1738 m
+  AVALON|Saint-Maximin                     BRAME FARINE|Pontcharra                  3099 m
+  AVALON|Saint-Maximin                     HERCULEE|Pontcharra                      1957 m
+  AVALON|Saint-Maximin                     VERGER DE BAYARD|Pontcharra              1139 m
+  AVALON|Saint-Maximin                     HERCULER|Pontcharra                      2168 m
+  AVALON|Saint-Maximin                     CHANTABORD|Laissaud                      2489 m
+  BRAME FARINE|Pontcharra                  HERCULEE|Pontcharra                      2905 m
+  BRAME FARINE|Pontcharra                  VERGER DE BAYARD|Pontcharra              2953 m
+  BRAME FARINE|Pontcharra                  HERCULER|Pontcharra                      2810 m
+  BRAME FARINE|Pontcharra                  CHANTABORD|Laissaud                      5247 m
+  HERCULEE|Pontcharra                      VERGER DE BAYARD|Pontcharra              834 m
+  HERCULEE|Pontcharra                      HERCULER|Pontcharra                      259 m
+  HERCULEE|Pontcharra                      CHANTABORD|Laissaud                      4341 m
+  VERGER DE BAYARD|Pontcharra              HERCULER|Pontcharra                      1069 m
+  VERGER DE BAYARD|Pontcharra              CHANTABORD|Laissaud                      3511 m
+  HERCULER|Pontcharra                      CHANTABORD|Laissaud                      4580 m
