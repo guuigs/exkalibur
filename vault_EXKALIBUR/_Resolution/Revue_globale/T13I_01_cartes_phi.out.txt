@@ -1,0 +1,35 @@
+phi = 1.618033988749895  phi^2 = 2.618033988749895  sqrt5 = 2.23606797749979
+cos(72deg) = 0.309017 ; (sqrt5-1)/4 = 0.309017
+angle d'or = 360/phi^2 = 137.50776405003785
+
+-- Triangle 1, sqrt5, 3 --
+sides: [1, 2.2361, 3] ineq: 3.23606797749979 > 3 -> True
+angles: 14.312 33.557 132.130 (sum 180.000)
+triangle droit 1,2,sqrt5 : angle opp 2 = atan2(2,1) = 63.4349 deg
+
+-- Croix 11x11 --
+bras = 11 pierres, centre = 6e (vide). R aux distances 1,1,5,5 du centre -> positions 1,5,7,11
+3e et 11e : positions 3 et 11, separes de 8 cases
+10 stades separent 3e/11e -> 1 case = 10/8 = 1.25 stade = 231.25 m
+si 1re->11e = 10 stades -> 1 case = 1 stade ; 3->11 = 8 stades = 1480 m
+
+-- Jeu de cartes (rangs) --
+52 cartes: As=1,2..10, Valet=11, Dame=12, Roi=13  -> 3='trois', 11='Valet'
+32 (piquet): 7..10,V,D,R,As -> pas de '3'
+tarot mineur: As=1..10, Valet=11, Cavalier=12, Dame=13, Roi=14 -> 11=Valet, 12=Cavalier(=chevalier)
+valets FR: trefle=Lancelot, coeur=La Hire, carreau=Hector, pique=Ogier/Hogier
+dames FR: coeur=Judith, carreau=Rachel, pique=Pallas, trefle=Argine
+rois FR: coeur=Charlemagne, carreau=Cesar, pique=David, trefle=Alexandre
+
+-- Anchors --
+TourAvalon(brief)    -> arriveeE11:   1144.3 m   d/(1850/phi)=1.0009   d*phi= 1851.6
+TourAvalon(exk.py)   -> arriveeE11:   1127.8 m   d/(1850/phi)=0.9864   d*phi= 1824.8
+RueRempart(brief)    -> arriveeE11:   1207.3 m   d/(1850/phi)=1.0559   d*phi= 1953.5
+Bayard(exk.py)       -> arriveeE11:    101.2 m   d/(1850/phi)=0.0885   d*phi=  163.8
+
+-- Anchors vs 10 stades --
+1850/phi = 1143.36 m ; 1850/phi^2 = 706.64 m ; 1850*phi = 2993.36 m
+Tour(brief)->arriveeE11 = 1144.3 m ; x phi = 1851.6 m (10 stades = 1850)
+
+-- E11 angle du dernier chevalier --
+cap SP->Bayard = 64.98 deg ; axe lame E1 = 352.90 -> angle = 72.08 deg (vs 72 = 360/5)
