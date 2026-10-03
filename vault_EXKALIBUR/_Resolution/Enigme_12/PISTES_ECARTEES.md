@@ -29,3 +29,6 @@
 | « royaume entre le 3e et le 11e » | introuvable dans FAQ 1-8 et nos notes Discord : source à retrouver avant de l'utiliser | recherche 03/10 |
 | Sens 11 → 3 de Machrie Moor (275,78°) depuis la tour | tombe dans Pontcharra et ses zones d'activités jusqu'à 3,2 km : maisons à < 80 m, aucune clairière | t32 |
 | **Règle (décision de Guilhem, 03/10)** : toute zone dans Pontcharra (ville, zones d'activités, gare) | abandonnée d'office, ne plus la proposer | décision de Guilhem |
+| Grand Voyage de Romans (stations III et XI) | ~250-400 m l'une de l'autre, pas 1 850 m | romanshistorique.fr |
+| Bornes sardes de la frontière Dauphiné-Savoie | numérotées 37 à 67 dans le secteur | A.H.C.S. 2022 |
+| 12 batailles d'Arthur comme vecteur (3e → 11e) | 350 km ; cap 331,6° vers Pontcharra | Nennius |
