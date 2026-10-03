@@ -5,6 +5,18 @@
 Actés au 03/10 : narrateur = Bayard (vers 1524 du Roman de la Rose) ; 1re phrase = citation du Roman de la Rose (fontaine de Narcisse) ; « ? » de l'enluminure 11 = 11 ; dernier chevalier = Bédivère ; « Tombée par trois fois… revenue là où elle n'avait jamais cessé d'être » = Excalibur rendue au lac par Bédivère à la 3e tentative.
 Actés le 03/10 (nuit) : **3e et 11e = lieux des chapitres III (le mur et l'entrée = chemin de rempart, le départ) et XI (fontaine de Narcisse sous le pin = zone finale) du Roman de la Rose** ; direction = soleil levant d'été ; **zone n°1 = clairière de Guilhem, pré des Bretonnières / cascade de la Burge (45.43821, 6.05049 ; 1 844 m de la tour, −0,3 %)**. Tire-Loup J5 passe n°2. Détails : `Enigme_12/solution.md`, dernière section.
 
+
+**État au 03/10/2026, fin de séance (à relire en premier)** : voir `Enigme_12/analyse_3_options.md`, sections finales.
+
+| Piste | Contenu | Confiance |
+|---|---|---|
+| Piste n°1 | **Table des saints**. 3e = Jacques (gourde, enl. 8, confirmée par Guilhem) ; 11e = Simon (scie, enl. 12, confirmée). 12 places autour du rempart, rayon 1 850/√3 = 1 068 m. Clairière de Muraillat (J2 : 45.43204, 6.04388, 1 067 m, cap 70,7°). Ruisseau suivi, eau à gauche, jusqu'à la prise d'eau du Tapon ; 4 points à creuser candidats. | lecture ~40 %, point précis < 5 % |
+| Piste gardée | Le loup (Tire-Loup J5). | ~10 % |
+
+Prochaines étapes :
+- faire trancher la grande roche (G1/G2) par des photos ;
+- tester les symboles du ciel de l'enl. 9 sur cette zone.
+
 > **Méthode depuis le 30/09** : `GRAPHE_INDICES.md` (fils rouges, entrées → sorties de chaque énigme, filtre d'élimination en 3 questions, pistes écartées). À lire juste après ce fichier.
 
 **Dernière mise à jour :** 29/09/2026 21:05
