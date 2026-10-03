@@ -159,3 +159,12 @@ Sur la planche, on voit la gourde (enl. 8, bord droit) et la scie (enl. 12, bord
 - Hasard : sur le cercle de 1 068 m, un point tombe à ≤ 50 m d'un croisement de ≥ 4 branches à ≥ 150 m des maisons dans 0,5 % des cas ; nous avons testé ~14 places distinctes, donc ~7 % de chance d'un tel « succès » par hasard.
 - Points à vérifier : sens de « à senestre » (les sources coulent vers le NO, vers Le Mouret et ses maisons) ; grande roche ; accès en fauteuil ; histoire du pré (État-Major).
 Image : `images_travail/t35_table_Christ_Orient_Mouret.jpg`.
+
+### Le Mouret : « à senestre » = sur la rive gauche (lecture de Guilhem, 03/10 nuit) — `outils_scratch/t36_*`
+- Décision de Guilhem : « à senestre » veut dire que le narrateur est sur la rive GAUCHE du cours d'eau (définie en regardant vers l'aval). En remontant le courant sur la rive gauche, l'eau est à gauche et on monte dans la forêt. L'histoire du pré n'a pas d'importance (étape ancrée en 2026).
+- Le croisement du Mouret (z 518 m) est sur la rive gauche du ruisseau de Rebouchet (intermittent), à 195 m.
+- Chemins du croisement : sentier NE (35°, 153 m, presque plat, arrive à 65 m du ruisseau) ; chemin E (77°, 299 m, monte de 521 à 600 m, pente max 51 %, moyenne ~26 %, arrive à 66 m du ruisseau près d'une confluence) ; sentier S (186°, 479 m, vers les deux sources et Le Rossan) ; chemin O (251°, vers Le Mouret, maisons à 58 m).
+- Parcours proposé : croisement → chemin vers l'est → ruisseau de Rebouchet (confluence) → remonter vers le sud-est par le sentier du rebord de la rive gauche, l'eau à gauche → grande roche.
+- Relief : la rive gauche du Rebouchet est une gorge à flancs rocheux ; 15 affleurements raides détectés (pente > 42°, saillie > 0,8 m), dont 9 rive gauche : 45.423998, 6.042453 (3 m du ruisseau) ; 45.423874, 6.042977 (4 m) ; 45.423544, 6.04383 ; 45.423402, 6.044154 ; 45.422775, 6.044514 ; 45.42252, 6.044485 ; 45.421319, 6.045054. Le LiDAR ne permet pas de dire lequel « barre le chemin » : il faut des photos.
+- Accès en fauteuil (FAQ03-112) : le chemin vers l'est est raide (moyenne ~26 %) ; seul le sentier NE est plat.
+Image : `images_travail/t36_mouret_rebouchet_lidar.jpg`.
