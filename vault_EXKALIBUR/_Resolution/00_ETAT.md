@@ -1,5 +1,9 @@
 # 00 — ÉTAT (à relire EN PREMIER à chaque reprise)
 
+## RÈGLE DE TRAVAIL (Guilhem, 03/10/2026) — à appliquer en priorité
+**Quand une lecture est logique vis-à-vis du texte de l'énigme (ex. : Bédivère et les trois tentatives pour rendre l'épée = « Tombée par trois fois »), ON L'ACTE et on avance dessus**, sans attendre une preuve chiffrée. On ne la remet en cause que si une réponse de l'auteur la contredit.
+Actés au 03/10 : narrateur = Bayard (vers 1524 du Roman de la Rose) ; 1re phrase = citation du Roman de la Rose (fontaine de Narcisse) ; « ? » de l'enluminure 11 = 11 ; dernier chevalier = Bédivère ; « Tombée par trois fois… revenue là où elle n'avait jamais cessé d'être » = Excalibur rendue au lac par Bédivère à la 3e tentative.
+
 > **Méthode depuis le 30/09** : `GRAPHE_INDICES.md` (fils rouges, entrées → sorties de chaque énigme, filtre d'élimination en 3 questions, pistes écartées). À lire juste après ce fichier.
 
 **Dernière mise à jour :** 29/09/2026 21:05
