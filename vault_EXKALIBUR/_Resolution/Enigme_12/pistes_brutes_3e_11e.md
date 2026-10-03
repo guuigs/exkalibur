@@ -142,3 +142,20 @@ Projection (MM3 au rempart, MM11 à 10 stades, ×8,84) :
 - MM9, MM10 : hors de la zone LiDAR (La Frette ; vers Barraux, 8,6 km).
 - (MM12, hors série : 507 m au sud, Le Plantier, semi-ouvert, croisement à 110 m.)
 **Verdict** : aucun des sites 4 à 10 ne tombe sur une clairière en forêt visible avec un croisement proche. Seule coïncidence notable : MM7 près du fort Barraux.
+
+## Apôtres : listes, orientations de la table, et candidat du MOURET (03/10, nuit) — `outils_scratch/t35_*`
+**Les trois listes** (seule l'identité change, la géométrie des places 3 et 11 est la même) :
+- Matthieu 10 : 3 Jacques le Majeur (gourde, bâton), 11 Simon (scie) ;
+- Marc 3 : 3 Jean (calice), 11 Simon (scie) ;
+- Luc 6 et Actes 1 : 3 Jacques le Majeur, 11 Jude/Thaddée (massue).
+Sur la planche, on voit la gourde (enl. 8, bord droit) et la scie (enl. 12, bord droit) : c'est l'ordre de Matthieu.
+**Distance du croisement** : aucune FAQ ne dit que le croisement peut être « plus loin ». Mais FAQ07-120 dit que les 10 stades séparent les 3e et 11e, pas le rempart et la clairière : la distance rempart → jonction n'est pas fixée par l'auteur.
+**Orientations testées** (table ronde de 12 places, rayon 1 068 m, centre = sommet de la tour) : cadran (12 au nord, deux sens), Pierre à l'Orient (deux sens), Christ à l'Orient (deux sens), Pierre sur la droite de l'É11 (65°, deux sens), Jacques tourné vers Compostelle (262°, deux sens). Planche posée sur le terrain (nord en haut, gourde → scie = 1 850 m ; rempart = pointe, garde, pommeau ou centre de l'épée) et vecteur gourde → scie (180°) : aucun résultat utile.
+**Seule règle qui tombe juste : Christ à l'Orient**, en tête de table entre les places 12 et 1. Il regarde vers l'ouest (vers le centre), donc sa droite est au nord ; les apôtres sont numérotés depuis sa droite. Places : k → 90° − (30k − 15) ; Jacques (3) à 15°, **Simon (11) à 135°**.
+- Place de Simon : 45.42208, 6.04066. **Croisement de 4 chemins à 48 m : 45.422426, 6.040299** (chemin, sentier, piste), Le Mouret, 1 021 m de la tour, cap 135°.
+- Visible : relief dégagé depuis le sommet (−3,1 m) ET le pied (−2,9 m). Le croisement est en lisière, au bord est d'un grand pré visible depuis le pied de la tour (zone cyan de l'image).
+- Maisons à 190 m ; forêt autour 62 % ; ligne haute tension à proximité.
+- **Deux SOURCES** (BD TOPO) à 74 m (45.421767, 6.040189) et 162 m (45.421003, 6.039873) au sud, le long du sentier vers Le Rossan. Ruisseau de Rebouchet (intermittent) à 195 m au nord. Lavoir à 457 m.
+- Hasard : sur le cercle de 1 068 m, un point tombe à ≤ 50 m d'un croisement de ≥ 4 branches à ≥ 150 m des maisons dans 0,5 % des cas ; nous avons testé ~14 places distinctes, donc ~7 % de chance d'un tel « succès » par hasard.
+- Points à vérifier : sens de « à senestre » (les sources coulent vers le NO, vers Le Mouret et ses maisons) ; grande roche ; accès en fauteuil ; histoire du pré (État-Major).
+Image : `images_travail/t35_table_Christ_Orient_Mouret.jpg`.
