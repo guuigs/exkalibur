@@ -257,3 +257,57 @@ Chaîne : (1) l'enl. 11 est la carte rudimentaire de Machrie Moor (FAQ8) ; « ? 
 Suite du texte à vérifier : « à senestre les eaux enchantées » = descendre le Tapon vers le nord (aval) jusqu'à un gros rocher qui barre la gorge ; puis 10 pas N, 10 pas E (souche-majesté), 8 pas au cap du lever du 30/04/1524 (~63,7° vrai, ~61° magnétique).
 Faiblesses : la gorge est profonde (le ruisseau est ~70 m sous la plate-forme) ; la plate-forme est masquée au sol par les arbres proches vue de la tour (le relief, lui, ne la masque pas) ; LiDAR trop interpolé dans la gorge (pentes rocheuses) pour voir la roche. Images : `images_travail/CARTE_piste_J5_TireLoup.jpg`, `t20_lidar_J5_gorge_tapon.jpg`. **Confiance zone (±200 m) : ~35 %.**
 - Visibilité de J5 depuis le sommet de la tour (LiDAR 1 m, arbres compris) : sol de la plate-forme 0/610 cellules visibles ; cimes autour 18/2 601. MAIS la réponse exacte de l'auteur (FAQ05-155) est : « l'endroit est **dans le champ de vision** » (pas « on voit le sol ») ⇒ J5 est bien dans le champ de vision (versant face à la tour, relief non masquant). Contrainte satisfaite au sens de l'auteur.
+
+## 03/10 (nuit) — CLAIRIÈRE DE GUILHEM (pré des Bretonnières) + lecture « III / XI » du Roman de la Rose
+**Point de Guilhem** (lien Google Maps, épingle) : **C = 45.4382069, 6.0504879**, extrémité SO du pré sur la terrasse rive gauche du Bréda, 150-200 m au SO de la passerelle et de la cascade de la Burge.
+- **Distance** : sommet de la tour → C = **1 844 m (−0,3 %, dans le 1 %)**, cap 55,7°. Le pré entier est à cheval sur l'anneau des 10 stades, quel que soit le point de départ retenu : depuis la Rue du Rempart, le centre du pré est à 1 843 m (−0,4 %) ; depuis Le Vivier, la cascade est à 1 831 m (−1,0 %) et le nœud « Les Gorges » à 1 868 m (+1,0 %).
+- **Soleil** (horizon réel calculé avec le RGE Alti IGN jusqu'à 80 km, `outils_scratch/t21_horizon_tour.py`, `t21_lever_soleil.py`) : depuis la tour, l'horizon est à 2,6-3,3° entre 50 et 65°. Le lever le plus au nord, au solstice d'été, se fait à **58,9°** (54,4° avec un horizon plat). Le **rayon du lever au solstice** coupe l'anneau des 10 stades à 45.43747, 6.05126. Le **sentier du bord SE du pré** (OSM 315387059) coupe cet anneau à **45.43766, 6.05109**, soit à environ 22 m de ce point. Le cap de C (55,7°) correspond au solstice sur un horizon plat ; avec l'horizon réel, le soleil n'est jamais à 55,7° le matin. En mai (récit du Roman), le lever se fait à 60,7-72°.
+- **Lumière** : au solstice, le soleil se lève dans l'axe de la vallée du Bréda (≈ 55°) et éclaire la gorge en enfilade, ce qui colle avec « l'astre glorieux qui magnifiait le ruisseau ».
+- **Terrain** :
+  - z ≈ 294 m.
+  - Pré ouvert d'environ 150 × 50 m dans une forêt de gorge. Il était déjà ouvert en 1950-65 (`t21_clairiere_ortho_1950.jpg`), donc « resté clairière » (FAQ03-274).
+  - Bâtiment le plus proche à environ 230 m.
+  - Bréda à 14 m.
+  - **Cascade du Ruisseau de la Burge** à 200 m NE. FAQ04-132 : il y a une cascade dans Ad vitam. FAQ03-152 : eaux enchantées = « le ruisseau ».
+  - Sentiers : piste au bord SE du pré, passerelle sur la Burge, nœud « Les Gorges », pont des Bretonnières.
+  - **Aucune jonction de chemins cartographiée DANS le pré.** Les jonctions les plus proches sont la passerelle / Les Gorges (bout NE) et la croisée entre le sentier du bord SE et l'anneau.
+  - Le LiDAR montre un petit cercle d'environ 10 m dans le pré (45.43827, 6.05092 ; 1 875 m de la tour) : origine inconnue (rond de sorcière ? place de charbonnière ?).
+- Images :
+  - `images_travail/CARTE_clairiere_Bretonnieres_large.jpg` et `CARTE_clairiere_Bretonnieres_planIGN.jpg` : anneau, rayon du solstice, tour → C ;
+  - `t21_clairiere_chemins_ortho.jpg` et `t21_clairiere_chemins_lidar.jpg` : chemins OSM en rouge, BD TOPO en vert ;
+  - `t21_clairiere_relief_local.jpg` : relief local, arbres en vert ;
+  - `t21_clairiere_ortho_zoom.jpg` et `t21_clairiere_ortho_1950.jpg`.
+
+**Lecture des « troisième et onzième » qui en découle (ACTÉE selon la règle de Guilhem, révisable si l'auteur la contredit)** :
+
+Le 2e paragraphe de l'É12 suit pas à pas le *Roman de la Rose* (trad. Marteau) :
+
+| Énigme 12 | Roman de la Rose (Marteau) |
+|---|---|
+| « J'entends le chant retentir » | v. 499-510 : « Quand j'ouïs les oiseaux chanter » |
+| « chemin de rempart » | « Contournant du grand mur carré » |
+| l'entrée | ch. **III** : Oiseuse ouvre la porte |
+| eaux, roche, souche | ch. **XI** : fontaine de Narcisse sous le pin, avec la citation « Dieu sut se montrer favorable » (v. 1524) |
+| « l'astre glorieux qui magnifiait le ruisseau » | « Lorsque le soleil… ses rais en la fontaine jette », dans la fontaine |
+
+⇒ **3e = le lieu du chapitre III** (le mur, l'entrée : notre chemin de rempart) ; **11e = le lieu du chapitre XI** (la fontaine sous le pin : la zone finale, eaux, pierre, souche).
+
+Contrôle avec la grille des réponses de l'auteur :
+
+| Réponse de l'auteur | Contrôle |
+|---|---|
+| Même nature (FAQ06-009) | ✓ chapitres / lieux du Roman |
+| Un seul de chaque (FAQ06-216) | ✓ |
+| Le 13e mène ailleurs (FAQ06-133) | ✓ ch. XIII = flèche d'Amour au rosier, un autre lieu |
+| 8e/16e incorrects (FAQ8) | ✓ ch. VIII Courtoisie, XVI : pas des lieux |
+| Écharde (FAQ07-068) | ✓ ni écharde sur le chemin de rempart (pierre), ni sur le 3e ; écharde possible sur le 11e (pin, souche) |
+| On marche surtout sur l'un des deux (FAQ06-247) | ✓ le chemin de rempart |
+| Les positionner par rapport à un point de départ (FAQ07-120) | ✓ le 3e EST le départ |
+| Rempart = départ, l'astre indique où aller, et c'est là que 3e/11e servent (FAQ06-166) | ✓ ils donnent la distance de 10 stades dans la direction du soleil du matin |
+| 1re phrase = confirmateur de la zone (FAQ07-088) | ✓ elle vient du ch. XI |
+| Pas liés à un chevalier (FAQ07-065) | ✓ |
+| « Texte de 1 500 ans ? » | ✓ NRP, pas « non » |
+
+Point faible : le guichet du ch. III est « de charme » (du bois). Si « la troisième » désigne la porte et non le lieu où l'on marche, l'écharde contredit cette lecture.
+
+**Conséquence** : la zone finale (fontaine = eaux enchantées / grande roche / souche) est à 10 stades du rempart, vers le soleil levant d'été. Le pré des Bretonnières, avec la cascade de la Burge, est le seul secteur ouvert avec un ruisseau et une cascade sur cet anneau entre 50° et 60°. **Piste actée n°1 (remplace Tire-Loup, qui passe n°2)**, confiance de zone (±200 m) estimée à environ 40 % (jugement). Lecture du terrain proposée, NON vérifiée : jonction au bout NE du pré (sentier du bord SE × passerelle de la Burge), puis la Burge remontée jusqu'à la roche de la cascade (« elle vous bloquera le passage », « difficile à toucher sans se mouiller »), puis 10 pas N, 10 pas E (souche-majesté), puis 8 pas au cap du « jour dernier ». Il faut des photos de terrain ou Street View/Panoramax de la cascade pour la grande roche (FAQ06-060 : « il faudra vous rendre sur place »).

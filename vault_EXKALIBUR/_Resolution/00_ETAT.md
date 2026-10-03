@@ -3,6 +3,7 @@
 ## RÈGLE DE TRAVAIL (Guilhem, 03/10/2026) — à appliquer en priorité
 **Quand une lecture est logique vis-à-vis du texte de l'énigme (ex. : Bédivère et les trois tentatives pour rendre l'épée = « Tombée par trois fois »), ON L'ACTE et on avance dessus**, sans attendre une preuve chiffrée. On ne la remet en cause que si une réponse de l'auteur la contredit.
 Actés au 03/10 : narrateur = Bayard (vers 1524 du Roman de la Rose) ; 1re phrase = citation du Roman de la Rose (fontaine de Narcisse) ; « ? » de l'enluminure 11 = 11 ; dernier chevalier = Bédivère ; « Tombée par trois fois… revenue là où elle n'avait jamais cessé d'être » = Excalibur rendue au lac par Bédivère à la 3e tentative.
+Actés le 03/10 (nuit) : **3e et 11e = lieux des chapitres III (le mur et l'entrée = chemin de rempart, le départ) et XI (fontaine de Narcisse sous le pin = zone finale) du Roman de la Rose** ; direction = soleil levant d'été ; **zone n°1 = clairière de Guilhem, pré des Bretonnières / cascade de la Burge (45.43821, 6.05049 ; 1 844 m de la tour, −0,3 %)**. Tire-Loup J5 passe n°2. Détails : `Enigme_12/solution.md`, dernière section.
 
 > **Méthode depuis le 30/09** : `GRAPHE_INDICES.md` (fils rouges, entrées → sorties de chaque énigme, filtre d'élimination en 3 questions, pistes écartées). À lire juste après ce fichier.
 
