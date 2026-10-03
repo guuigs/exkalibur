@@ -107,3 +107,47 @@ On a vérifié chaque zone sur six sources : Cassini (XVIIIe), État-Major (1820
 - le point de départ ;
 - « 10 stades = du rempart à la clairière » ;
 - ou la direction donnée par le soleil.
+
+## NOUVELLE PISTE (03/10, soir) — Clairière de Muraillat / Beloncin → prise d'eau du Tapon
+**Méthode** (`outils_scratch/t27_scan_sans_distance.py`) : on ne suppose plus que la clairière est à 10 stades (FAQ07-120 : les 10 stades séparent les 3e et 11e). On a balayé les ~2 000 jonctions cartographiées entre 300 m et 3,2 km de la tour (caps 20 à 170°) avec ces critères :
+- jonction sans arbres, dans une zone ouverte (≥ 25-35 % sur 25 m) entourée de forêt (≥ 35-45 % entre 50 et 120 m) ;
+- ruisseau à moins de 80-120 m, avec des points accessibles (< 20 m de dénivelé) à plus de 100 m des maisons ;
+- relief qui ne masque pas depuis le pied de la tour.
+
+Un seul secteur sérieux ressort.
+
+**Le lieu** : jonctions J1, J2, J3 (45.43186-45.43254, 6.04352-6.04448), lieux-dits Muraillat (119 m), Beloncin, Combatassalin.
+- Distance : **1 067 m** du sommet de la tour, cap **70,7°** (1 025 m et 75,7° depuis la Rue du Rempart).
+- Clairière (prés) dans une forêt, chemin, ruisseau BD TOPO « sans nom » (intermittent) à 66 m.
+
+**Pour**
+1. **Seule « clairière restée clairière » prouvée** :
+   - pré traversé par un chemin le long d'un ruisseau sur l'État-Major (1820-66) ;
+   - ouvert en 1950-65 ;
+   - ouvert aujourd'hui, mais désormais entouré de forêt récente (trou sur la couche « forêts anciennes »).
+   - Cela colle avec FAQ03-274 et FAQ06-197 (chemins anciens).
+2. **Senestre naturel** : le ruisseau coule vers le NE et la croisée est sur sa rive droite. En descendant par le chemin qui le longe, **l'eau reste à gauche**, sans traverser. Cela colle avec FAQ03-082 (on marche dans le sens du courant).
+3. Le chemin descend en pente douce (≤ 5 % sur 350 m), donc accessible en fauteuil (FAQ03-112). Il passe à 130-250 m des maisons (FAQ05-107).
+4. **En aval, à 440 m, le ruisseau tombe (pente 52 %) dans la gorge rocheuse du Tapon, à la PRISE D'EAU DU TAPON.**
+   - L'eau « continue » ensuite vers le Bréda.
+   - Une roche ou une barre à la sortie de la gorge « bloquerait le passage ».
+   - La retenue de la prise d'eau pourrait être le **bassin** de l'enluminure 9 (FAQ03-308). C'est une hypothèse.
+5. Visible depuis le pied de la tour : le relief ne masque pas (−1,1 m).
+6. **Cap 70,7° depuis le sommet de la tour.** Le lever du soleil réel (horizon calculé) se fait :
+
+   | Date | Cap du lever |
+   |---|---|
+   | 30 avril (calendrier moderne) | 72,4° |
+   | 10 mai = 30/04/1524 julien | 67,6° |
+
+   Le lieu est entre les deux, à < 2° de la date de mort de Bayard, le « jour dernier ». Cela colle avec « l'astre glorieux qui vous indique où aller » (FAQ06-166).
+7. Près du rempart (FAQ06-244). FAQ06-025 : le chemin de rempart n'est pas l'un des chemins de la jonction, « même s'ils sont très proches ».
+
+**Contre**
+1. **Pas à 10 stades** (1 067 m, soit 5,8 stades). Il faut que les 10 stades ne concernent que les 3e et 11e, et ceux-ci ne sont toujours pas identifiés.
+2. Le ruisseau est **intermittent** (BD TOPO) : risque d'être à sec.
+3. La prise d'eau est un ouvrage EDF (anachronisme possible, FAQ07-290). La grande roche n'est pas vérifiée.
+4. Personne ne l'a encore proposée. Ce n'est pas un argument en soi.
+
+**Confiance** : ~15 %, au même niveau que la piste du loup gardée (Tire-Loup J5, ~10-15 %).
+Images : `images_travail/t27_*`.
