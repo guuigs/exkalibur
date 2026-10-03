@@ -105,3 +105,7 @@ Scripts : `outils_scratch/t31_*`. Visibilité calculée arbres compris (LiDAR 1 
   - E clairière (45.431636, 6.057138) : 2 066 m, 79,2°, entourée de forêt à 80 %, visible du sommet ET du pied, maisons à 117 m ; mais c'est la tranchée d'une ligne haute tension et le croisement le plus proche est à 259 m.
 - FAQ05-107 (« le lieu final du coffre est éloigné de tout bâtiment ») vise le coffre, pas forcément la jonction : une jonction près d'un hameau reste possible si le coffre est à 150 m ou plus.
 - Conclusion : on ne peut pas avoir à la fois l'axe du loup et une clairière visible. Il faut choisir : (1) loup + J5 en lisant « champ de vision » largement ; (2) clairière visible : secteur Le Crêt / Couvat (cap 80°, 1 740-1 850 m), sans le vecteur de Machrie Moor.
+
+### Correction des caps (03/10, nuit)
+- Les balayages t29 (anneau 1 068 m) et t31 (couloir) mesuraient les caps dans la grille Lambert 93, tournée de 2,2° par rapport au nord vrai ici (cap vrai = cap grille − 2,2°). Caps vrais des clairières visibles : A Le Crêt 79,5°, B 77,7°, E 77,0°, D Le Couvet 69,0°. Le couloir « 86-106° » couvrait en vrai 83,8-103,8°. Les conclusions ne changent pas.
+- Cibles à 1 850 m depuis le sommet, cap vrai : 64,99° (droite de l'É11) → 45.43591, 6.05244 ; 67,6° (lever 30/04/1524) → croisement de routes à 12 m (45.43524, 6.05272), en plein champ (forêt autour 9 %), pas une clairière ; 72,1° et 72,4° → Le Couvat, maisons à 30-40 m ; 95,78° (loup) → J5 à 33 m.
