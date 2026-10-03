@@ -257,3 +257,9 @@ Le cap change peu le point d'arrivée (moins de 1 m) ; la roche et la longueur d
 - La précision du LiDAR et des tracés est de ±5 à 10 m.
 
 **Confiance pour un point précis : < 5 %.** C'est la limite du travail depuis un bureau.
+
+## Vérification de la jonction de Muraillat (03/10, après le dossier)
+- **J2 (45.432042, 6.043877) n'est PAS un croisement** : dans OSM c'est un nœud au milieu d'une seule piste (way 210619069) ; le « degré 4 » de `junc_attrs.json` venait de ways en double dans le cache OSM (11 318 ways dont 65 doublons). Dans la BD TOPO, à 54 m (45.432349, 6.044407), la piste empierrée devient « chemin » : simple changement de nature, pas un croisement.
+- **Le vrai croisement le plus proche : K (45.433594, 6.044901)**, 190 m au NE de J2 : 3 branches (chemin + sentier + chemin, BD TOPO ; track + path dans OSM). Il est à 1 204 m de la tour, cap 62°, à 33 m du ruisseau, à 145 m du premier bâtiment. Le chemin longe le ruisseau par la rive droite : en descendant vers le NE, l'eau est à gauche (senestre ✓). Il est en lisière, entre le grand pré de Muraillat (NO) et le bois : canopée LiDAR 21 m au point lui-même, donc « sous les arbres » au sens strict.
+- Distance à la prise d'eau du Tapon : environ 250 m.
+- Image : `images_travail/t29_jonction_Muraillat_verif.jpg`.
