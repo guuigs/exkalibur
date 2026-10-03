@@ -335,3 +335,20 @@ Point faible : le guichet du ch. III est « de charme » (du bois). Si « la tro
 | Direction soleil | 50 % |
 | **Zone Bretonnières** | **~30 %** (au lieu de 40 %) |
 | Tire-Loup | ~10 % |
+
+## 03/10 (nuit, reprise) — Indices nouveaux autour du pré des Bretonnières
+- **Lieu-dit cadastral « LES GORGES »** (Saint-Maximin, liste des lieux-dits du cadastre) : son point central est à **1 850 m du sommet de la tour** (exactement 10 stades) et à 54 m du point de Guilhem. Le pré est donc dans un lieu-dit dont le centre tombe pile sur l'anneau. Ce n'est qu'une coïncidence de position, mais elle va dans le même sens.
+- **Randonnée publique « Cascade du ruisseau des Bretonnières »** (Decathlon Outdoor, 5,1 km, 18 photos ; tracé GPS récupéré dans `Carte/rando_cascade_bretonnieres_trace.geojson.json`) :
+  - Le départ est au **parking du centre de loisirs de Saint-Maximin (45.43082, 6.03927), au pied de la tour**.
+  - Elle monte par les Ripellets, le Couvat et le hameau des Bretonnières.
+  - Elle descend la Burge jusqu'au pont des Bretonnières (à 74 m de la cascade cartographiée), puis revient par le sentier du bord SE du pré (à 120 m du point de Guilhem).
+  - Photos (`images_travail/t22_*`) :
+    - une **cascade de tuf** d'environ 10 à 15 m qui tombe d'une paroi rocheuse ;
+    - des gradins de **tuf calcaire** dans un ruisseau, c'est-à-dire des « eaux pétrifiantes », traditionnellement dites merveilleuses ou enchantées ;
+    - un **pont en arc de pierre** sur le Bréda.
+- **Lecture de « à senestre »** :
+  - FAQ03-082 : les eaux coulent jusqu'à la grande roche et continuent après. On marche donc **vers l'aval**, le cours d'eau à gauche.
+  - Depuis le pré (rive gauche du Bréda), descendre le Bréda le met à droite : cela ne colle pas.
+  - Descendre la Burge (vers le NO) avec l'eau à gauche, ou remonter le Bréda, reste possible.
+  - Il faut le terrain pour trancher : on ne peut pas résoudre ce point depuis un bureau.
+- **Plans d'eau BD TOPO à moins de 1,5 km du pré** : il n'y en a que trois, deux réservoirs-bassins et un écoulement naturel. Aucun ne ressemble à l'étang de l'enluminure 9.
