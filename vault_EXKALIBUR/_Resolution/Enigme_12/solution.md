@@ -203,3 +203,10 @@ Scripts dans `outils_scratch/` : `fetch_lidar.py` (MNT + MNH LiDAR HD en BIL flo
 - **Croix PATERNOSTER posée sur la carte** (N au départ, T = 3e, R = 11e, 8 pierres = 1 850 m ⇒ 231 m/pierre) : R11 à 1 156 m plein est tombe sur la fontaine de village des Bruns (BD TOPO 45.42922, 6.04547) — hameau bâti, donc NON retenu ; numérologie jugée arbitraire.
 - **Bilan honnête** : aucune zone ≥ 95 %. Ce qui manque n'est plus le calcul mais une information : (1) photos macro (enl. 11 : « ? » et √ ; enl. 5 : livre III et personnage ; enl. 7, 8) ; (2) un repérage sur place.
 - Test « l'astre glorieux magnifiait le ruisseau » (reflet du soleil levant, az 55-85°, vu du sommet de la tour) : les seules eaux visibles dans ce secteur sont dans les hameaux (Avalon, Le Vivier, Les Bruns, Les Ripellets ; bâtiments à < 65 m). Pas de ruisseau visible en clairière isolée. Images envoyées à Guilhem : `images_travail/A_REGARDER_enluminure11*.jpg`, `A_REGARDER_enluminure5.jpg`.
+
+## 03/10 — CORRECTIONS DE GUILHEM (lecture de l'original, font foi)
+- **Pas de « ? » peint** sur les pierres de l'enluminure 11 : le « ? » de son schéma notait une hésitation entre les deux lettres (D / C). (Guilhem l'avait déjà dit ; je l'avais perdu de vue.) NB : l'auteur parle pourtant d'un « point d'interrogation » (FAQ05-091, 05-163 « un nombre », 06-100, 03-016 « point d'interrogation noir ») : à garder en tête comme élément à localiser ailleurs ou comme présupposé de joueur repris par l'auteur — à ne plus placer arbitrairement sur une pierre.
+- **Le « V » devant le 5 est un brin d'herbe** : il n'y a pas de √5 → piste nombre d'or abandonnée définitivement.
+- **La croix compte bien 11 pierres dans chaque sens.**
+- **Livres** : enl. 5 = **III** (confirmé) ; l'ermite de l'enl. 11 tient un livre marqué **II**.
+- Conséquence : la piste « ? = 11 / gabarit Machrie Moor » (T15B §3c) perd son appui principal ; les chiffres réellement peints sont **1, 3, 5**.
