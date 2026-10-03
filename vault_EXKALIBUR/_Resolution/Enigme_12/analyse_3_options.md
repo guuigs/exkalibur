@@ -225,3 +225,35 @@ Images : `images_travail/t27_*`.
 - L'hypothèse des places égales n'est pas écrite dans le texte.
 - Je n'ai pas expliqué pourquoi Simon serait au 11e plutôt que Jude (Lc 6).
 - Le sens de numérotation de la table est inconnu.
+
+## Déroulé final reconstitué depuis la clairière de Muraillat (03/10, nuit) — INDICATIF
+Scripts : `outils_scratch/roche.py`, `outils_scratch/pas.py`. Images : `images_travail/t28_*`.
+
+**Trajet** : de la clairière / jonction J2 (45.43204, 6.04388), on suit le chemin qui longe le ruisseau intermittent, eau à gauche, vers le NE sur environ 440 m. On arrive à la chute (pente 52 %) où il se jette dans la gorge du Tapon, à la prise d'eau du Tapon.
+
+**Grande roche** : la LiDAR montre des parois raides (> 45°) des deux côtés de la sortie de gorge. Deux candidates :
+- **G1** : rebord de la chute (45.43550, 6.04650) ;
+- **G2** : éperon d'environ 20 m sur la rive est (45.43505, 6.04704).
+
+La LiDAR à 1 m ne permet pas de voir un bloc isolé sous les arbres.
+
+**10 pas N + 10 pas E (nord vrai), puis 8 pas au cap du lever du 30 avril.** Résultats selon la longueur du pas et le cap retenu :
+
+| Roche | Pas | Souche théorique | Creuser, cap 67,8° (30/04 moderne) | Creuser, cap 63,6° (30/04/1524 julien) |
+|---|---|---|---|---|
+| G1 | 0,75 m | 45.435567, 6.046596 | 45.435588, 6.046667 | 45.435591, 6.046665 |
+| G1 | 1,48 m | 45.435633, 6.046689 | 45.435673, 6.046829 | 45.435681, 6.046825 |
+| G2 | 0,75 m | 45.435117, 6.047136 | 45.435138, 6.047207 | 45.435141, 6.047205 |
+| G2 | 1,48 m | 45.435183, 6.047229 | 45.435223, 6.047369 | 45.435231, 6.047365 |
+
+Le cap change peu le point d'arrivée (moins de 1 m) ; la roche et la longueur du pas changent tout.
+
+**Souche** : invisible à cette résolution (FAQ07-078 : elle n'est pas visible sur Google Maps). Tous les points sont sous une forêt dense, à 150-210 m des bâtiments.
+
+**Limites** :
+- La roche n'est pas identifiée avec certitude.
+- La longueur du pas est libre.
+- Il manque le départ précis des 8 pas (FAQ06-178 : « à partir de l'étape d'après », c'est-à-dire la souche).
+- La précision du LiDAR et des tracés est de ±5 à 10 m.
+
+**Confiance pour un point précis : < 5 %.** C'est la limite du travail depuis un bureau.
