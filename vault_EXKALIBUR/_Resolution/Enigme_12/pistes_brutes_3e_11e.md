@@ -109,3 +109,7 @@ Scripts : `outils_scratch/t31_*`. Visibilité calculée arbres compris (LiDAR 1 
 ### Correction des caps (03/10, nuit)
 - Les balayages t29 (anneau 1 068 m) et t31 (couloir) mesuraient les caps dans la grille Lambert 93, tournée de 2,2° par rapport au nord vrai ici (cap vrai = cap grille − 2,2°). Caps vrais des clairières visibles : A Le Crêt 79,5°, B 77,7°, E 77,0°, D Le Couvet 69,0°. Le couloir « 86-106° » couvrait en vrai 83,8-103,8°. Les conclusions ne changent pas.
 - Cibles à 1 850 m depuis le sommet, cap vrai : 64,99° (droite de l'É11) → 45.43591, 6.05244 ; 67,6° (lever 30/04/1524) → croisement de routes à 12 m (45.43524, 6.05272), en plein champ (forêt autour 9 %), pas une clairière ; 72,1° et 72,4° → Le Couvat, maisons à 30-40 m ; 95,78° (loup) → J5 à 33 m.
+
+### Les deux sens, angle Canmore (03/10, nuit) — `outils_scratch/t32_*`
+- **3 → 11 (95,78°)**, cibles à 1 850 m : sommet 45.427194, 6.054532 (J5 à 33 m) ; pied 45.427191, 6.054669 (J5 à 28 m) ; Rue du Rempart 45.428091, 6.054700 (croisement de 4 branches à 121 m : 45.428710, 6.053426 ; J5 à 127 m). Partout forêt (95-98 % autour), maisons à 102-180 m, Tapon à 79-137 m ; relief dégagé depuis le sommet, sol caché par les arbres.
+- **11 → 3 (275,78°)**, cibles à 1 850 m : Pontcharra, près du gymnase Maurice-Cucot (maisons à 32-51 m). Couloir 271-281°, 1 700-3 200 m : 45 croisements, tous en ville ou en zone d'activités (ZI du Pré Brun, gare, ZA de la Gâche), maisons à 6-78 m, aucune forêt autour. **Écarté** (FAQ05-107, 03-274).
