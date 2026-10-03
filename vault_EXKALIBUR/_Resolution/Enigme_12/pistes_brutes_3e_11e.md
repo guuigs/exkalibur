@@ -168,3 +168,17 @@ Image : `images_travail/t35_table_Christ_Orient_Mouret.jpg`.
 - Relief : la rive gauche du Rebouchet est une gorge à flancs rocheux ; 15 affleurements raides détectés (pente > 42°, saillie > 0,8 m), dont 9 rive gauche : 45.423998, 6.042453 (3 m du ruisseau) ; 45.423874, 6.042977 (4 m) ; 45.423544, 6.04383 ; 45.423402, 6.044154 ; 45.422775, 6.044514 ; 45.42252, 6.044485 ; 45.421319, 6.045054. Le LiDAR ne permet pas de dire lequel « barre le chemin » : il faut des photos.
 - Accès en fauteuil (FAQ03-112) : le chemin vers l'est est raide (moyenne ~26 %) ; seul le sentier NE est plat.
 Image : `images_travail/t36_mouret_rebouchet_lidar.jpg`.
+
+### Le Mouret : vérification des critères critiques (`outils_scratch/t37_mouret_criteres.py`)
+| Critère | Résultat | Verdict |
+|---|---|---|
+| Croisement visible (relief) | sommet −3,1 m ✓ ; pied −2,9 m ✓ ; Rue du Rempart +1,7 m ✗ | ✓ depuis la tour |
+| Croisement visible (avec arbres) | caché de ~15 m (il est sous les arbres de lisière) | ✗ au sens strict |
+| Pré autour visible | ≤ 60 m : 17 (sommet) / 15 (pied) cellules vues ; ≤ 100 m : 153 / 118 ; ≤ 150 m : 432 / 311 ; zone ouverte vue du pied la plus proche : 39 m ; rien depuis la Rue du Rempart | ✓ « dans le champ de vision » |
+| Croisement réel | 4 branches, OSM + BD TOPO | ✓ |
+| Clairière | le croisement est sous les arbres (6 % ouvert à 15 m) ; grand pré à 40 m ; forêt 59 % entre 60 et 150 m | ~ lisière |
+| Maisons | croisement 190 m ; affleurements 81 m (aval), 127 m, 183 m (amont) | ~ (prendre l'amont) |
+| Forêt publique | aucune à < 300 m (forêt privée probable) | ? (FAQ8 : domaine public) |
+| Soleil du matin | croisement : 8 h 40 le 30/04, 7 h 37 le 21/06 ; ruisseau : 9 h 07 / 7 h 53 | ✓ |
+| Ruisseau visible du rempart | relief OK en partie depuis la tour, caché par les arbres de la gorge | ✗ |
+| Accès fauteuil | chemin vers l'est ~26 % en moyenne | ~ |
