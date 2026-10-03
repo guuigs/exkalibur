@@ -93,3 +93,15 @@ Bilan : la ZONE (±150 m) tient par deux méthodes indépendantes (vecteur, hasa
 - « C'est l'étape finale, elle doit être ancrée en 2026, pas forcément en 1500. » Appui FAQ : 07-242 (on joue avec les cartes d'aujourd'hui, « si on devait utiliser les cartes de l'époque… on ne pourrait plus faire aucune chasse ») ; 06-056 et 06-197 (le narrateur n'est pas réellement allé à la croisée ; « aurait pu » marcher dessus, sans dire quand le chemin existait).
 - **ACTÉ : J5 = la jonction des chemins** (règle « on acte »). Confiance zone : ~35 %.
 - Suite du texte à vérifier : J5 → piste empierrée vers l'est (298 m) → gué du Tapon (45.42547, 6.05785) → tourner à gauche et suivre le courant (NO) → grande roche. Marches de relief dans les 200 premiers mètres après le gué (profil LiDAR) : ~5 m juste après le gué (45.42550, 6.05784), puis vers 45.42571 / 45.42593, 6.0577, puis 45.42663, 6.05712 (3,4 m) et 45.42693, 6.05688 (5,5 m).
+
+## Clairière visible depuis le rempart, croisement possiblement au-delà de 1 856 m (03/10, nuit)
+Scripts : `outils_scratch/t31_*`. Visibilité calculée arbres compris (LiDAR 1 m), depuis le sommet de la tour (+33 m) et depuis le pied (1,7 m). Image : `images_travail/t31_clairieres_visibles_secteur_est.jpg`.
+- **Axe du loup (90-102°, 1 500-3 000 m)** : 11 croisements réels, aucun dans une clairière, aucun avec une zone ouverte visible. Couloir 86-106°, au-delà de 1 700 m : 1 549 cellules ouvertes, 3 visibles du sommet. → **Sur l'axe du loup, aucune clairière visible, ni à 1 856 m ni plus loin.** J5 est caché par le petit rebord à 43 m devant lui (+4,7 m) ; la cible du loup (32 m plus à l'ouest) est visible (relief).
+- **Secteur 70-120°, 1 300-2 800 m** : les zones ouvertes visibles sont groupées entre 75° et 87°, autour des hameaux du Crêt, du Couvat et des Ripellets.
+  - A Le Crêt (45.430543, 6.05309) : 1 736 m, cap 81,7°, croisement de 3, pré ouvert à 80 %, visible du sommet (45 cellules) et du pied (11), Tapon à 7 m, maisons à 46 m.
+  - B (45.43105, 6.053433) : 1 770 m, 79,9°, ouvert 84 %, Tapon à 45 m, maisons à 18 m.
+  - C Le Couvat (45.43307, 6.05392) : 1 852 m, déjà vue (ruisseau près des hameaux).
+  - D Le Couvet (45.434748, 6.059095) : 2 291 m, 71,2°, visible du sommet (78), Burge à 11 m, maisons à 45 m.
+  - E clairière (45.431636, 6.057138) : 2 066 m, 79,2°, entourée de forêt à 80 %, visible du sommet ET du pied, maisons à 117 m ; mais c'est la tranchée d'une ligne haute tension et le croisement le plus proche est à 259 m.
+- FAQ05-107 (« le lieu final du coffre est éloigné de tout bâtiment ») vise le coffre, pas forcément la jonction : une jonction près d'un hameau reste possible si le coffre est à 150 m ou plus.
+- Conclusion : on ne peut pas avoir à la fois l'axe du loup et une clairière visible. Il faut choisir : (1) loup + J5 en lisant « champ de vision » largement ; (2) clairière visible : secteur Le Crêt / Couvat (cap 80°, 1 740-1 850 m), sans le vecteur de Machrie Moor.
