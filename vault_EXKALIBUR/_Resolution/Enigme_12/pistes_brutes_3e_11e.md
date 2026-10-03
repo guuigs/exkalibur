@@ -182,3 +182,13 @@ Image : `images_travail/t36_mouret_rebouchet_lidar.jpg`.
 | Soleil du matin | croisement : 8 h 40 le 30/04, 7 h 37 le 21/06 ; ruisseau : 9 h 07 / 7 h 53 | ✓ |
 | Ruisseau visible du rempart | relief OK en partie depuis la tour, caché par les arbres de la gorge | ✗ |
 | Accès fauteuil | chemin vers l'est ~26 % en moyenne | ~ |
+
+## Cadastre : où est le domaine public ? (03/10, nuit) — `outils_scratch/cadastre/`
+**FAQ (brut)** : « La cache est sur le domaine public » (01-235) ; « le coffre n'est pas enterré sur un terrain privé » (02-097) ; « accessible à tout public et non dans un lieu privé » (03-098) ; il existe des moyens en ligne de savoir si une parcelle est publique ou privée (03-344) ; FAQ8 : chercher dans le domaine public, hors zones protégées et terrains privés. **C'est le POINT DE FOUILLE qui doit être public**, pas forcément la jonction.
+**Sources** : parcelles Etalab (cadastre.data.gouv.fr, Saint-Maximin 38426, 3 515 parcelles) + fichier DGFiP des parcelles des personnes morales 2025 (Isère) : 388 lignes à Saint-Maximin (commune de Saint-Maximin 96, Pontcharra 10, Le Moutaret 9, Allevard 6, CC du Grésivaudan 4, EDF, indivisions « BND »…). Les particuliers ne sont pas publiés : une parcelle absente du fichier appartient à un particulier.
+**Résultats** :
+- Terrains publics : surtout de grandes forêts communales en haut du versant de Bramefarine (2,3-2,9 km à l'E/SE de la tour : A0500 18 ha, B2311, A1303…), quelques prés et pâtures communaux près du village et de la tour, et ~29 ha de bandes non cadastrées (chemins, ruisseaux).
+- Le Mouret : le croisement est sur une bande non cadastrée (chemin public, 1 m) ; tout le reste (pré, sources B0267, rives et roches du Rebouchet B0595/B0596/B0602/B0603/B0608, place de Simon B0256) est privé (particuliers ou indivisions). Parcelle communale la plus proche : 228-456 m. Le Rebouchet n'est en bande non cadastrée que sur 35 % de son tracé.
+- Loup : J5 sur une parcelle privée (B0039) ; mais le gué du Tapon est sur une bande non cadastrée, à 26 m de la forêt communale A0500.
+- Balayage des croisements à ≤ 100 m d'un terrain public et ≥ 80 m des maisons : 57. Les seuls avec une zone ouverte visible de la tour sont près du village (pré communal à 767 m, cap 100° : 45.427623, 6.040649 ; pâture communale à 239 m). **Aucune clairière en forêt publique n'est visible depuis la tour** : les forêts communales sont soit cachées par le relief, soit fermées.
+Image : `images_travail/t38_cadastre_public_saint_maximin.jpg`.
