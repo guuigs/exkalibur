@@ -276,3 +276,11 @@ K2 = croisement sentier/sentier suivant vers l'aval (45.434896, 6.046208), près
 - Disque de 30 m autour de K : relief seul 282/317 points visibles ; avec arbres 0/317. K2 : 158/317 et 0/317.
 - Pré ouvert dans 100 m de K : 0 point visible du sommet ; autour de J2 : 10/508.
 - Lecture : depuis le sommet, K et K2 sont « dans le champ de vision » au sens du relief (FAQ05-155), mais seule la lisière boisée se voit. Depuis le sol au pied de la tour, le relief masque déjà K et K2.
+
+### Balayage de l'anneau 1 068 m ±1 % (table des saints), vrais croisements seulement (`outils_scratch/t29_anneau_1068.py`)
+- Croisements = nœuds OSM à ≥ 3 voisins (ways dédoublonnés) + extrémités BD TOPO communes à ≥ 3 tronçons, fusionnés à 15 m.
+- Autour du sommet de la tour : 10 croisements sur l'anneau ; autour de la Rue du Rempart : 9. Tous sont à l'ouest et au nord-ouest, dans Pontcharra (bâtiments à 5-47 m), sauf un.
+- Seul croisement à > 100 m des maisons : **45.43818, 6.034247** (cap 13,7°, 1 064 m, route + chemin + piste, bâtiments à 222 m, eau à 290 m, visible du sommet). Le soleil ne se lève jamais au cap 14° : la direction ne colle pas.
+- Secteur du lever (58,9° à 72,4°, et ~146° pour un « jour dernier » = 31/12, horizon réel LiDAR ~14°) : **aucun croisement cartographié sur l'anneau**. J2 tombe pile sur l'anneau au bon cap mais n'est pas un croisement ; K est un croisement mais à 1 204 m (+13 %).
+- Lever du 31/12 depuis la tour, horizon réel (Bramefarine) : 146,8° (grég.), 144,9° (31/12/1523 julien) ; Toussaint 127,7°.
+- Image : `images_travail/t29_anneau_1068_croisements.jpg`.
