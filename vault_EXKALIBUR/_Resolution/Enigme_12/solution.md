@@ -352,3 +352,49 @@ Point faible : le guichet du ch. III est « de charme » (du bois). Si « la tro
   - Descendre la Burge (vers le NO) avec l'eau à gauche, ou remonter le Bréda, reste possible.
   - Il faut le terrain pour trancher : on ne peut pas résoudre ce point depuis un bureau.
 - **Plans d'eau BD TOPO à moins de 1,5 km du pré** : il n'y en a que trois, deux réservoirs-bassins et un écoulement naturel. Aucun ne ressemble à l'étang de l'enluminure 9.
+
+## 03/10 (nuit) — Questions de Guilhem : départ du « loup », visibilité, nature du rempart → nouvelle candidate LE COUVAT
+**Rempart**
+- Les faits :
+  - FAQ8 : le chemin de rempart peut être celui d'un mur ou d'une tour.
+  - FAQ05-155 : l'auteur y est « monté ».
+  - FAQ06-020 : il est accessible tous les mois de l'année.
+  - FAQ07-268 : c'est un point précis.
+- Or le haut de la tour d'Avalon n'ouvre que du 3/07 au 30/08 (Alpes-Isère, 2026). **Le rempart n'est donc probablement pas le sommet de la tour**, mais l'enceinte autour de la tour, accessible toute l'année. Ce qu'on y trouve :
+  - un mur de soutènement en anneau autour de la butte (OSM 711947270) ;
+  - deux volées de 12 marches en pierre ;
+  - un sentier en herbe ;
+  - un point de vue à 45.42880, 6.03090, à 12 m de la tour ;
+  - une table d'orientation sur l'esplanade.
+- La fiche touristique parle de murs du début du XIVe s., de la forteresse delphinale entourée de remparts et du marais, ancien fossé en eau.
+- Pour la distance, la différence avec le sommet de la tour est négligeable. Pour la visibilité, en revanche, il faut regarder depuis le sol, avec les yeux à 1,7 m.
+
+**Visibilité** (LiDAR 1 m, courbure comprise)
+
+| Vers | Depuis le pied de la tour | Depuis le sommet de la tour |
+|---|---|---|
+| Pré des Bretonnières | **caché par 39 m de relief** (bord de la gorge, vers 1,3 km) | caché par 29 m de relief |
+| Jonction du Couvat | **relief dégagé** (−1,8 m), seuls les arbres près de la cible masquent | relief dégagé |
+
+FAQ05-155 dit « dans le champ de vision » : c'est **un vrai point contre le pré**.
+
+**« Lieu du loup »**
+- Tire-Loup → pré = 1 341 m (7,2 stades), pas 10.
+- FAQ06-166 et FAQ06-193 : le départ est le chemin de rempart, qui est aussi l'arrivée de l'É11.
+- FAQ06-138 : les symboles de l'enl. 9 sont un « code universel », identique dans toutes les langues, ce qui rend peu probable une lecture par le lieu-dit français « Tire-Loup ».
+- **Non retenu.**
+
+**NOUVELLE CANDIDATE : jonction du Couvat**
+- Position : croisée de 4 chemins à 45.433066, 6.053916, à côté du poteau de randonnée « Le Couvat » (45.43291, 6.05408).
+- Distance depuis le sommet de la tour : **1 852 m (+0,1 %)**, cap 75,4°.
+- Sur place : pas d'arbres, pré ouvert de 1 720 m² au sud dans l'anneau.
+- Eau : Ruisseau de Tapon à 130 m à l'ouest, qui coule vers le nord, vers la prise d'eau du Tapon et le Bréda.
+- **Visible depuis le rempart, au relief près.**
+- Le lever du soleil réel se fait à 75,4° vers le 26-27 avril ou vers le 15 août. Le 30/04, il se fait à 72,4°, soit 3° d'écart (≈ 100 m).
+- Contre :
+  - maisons du hameau à 64 m (le coffre, lui, doit être loin de tout bâtiment) ;
+  - ce n'est pas une clairière en pleine forêt, plutôt une lisière de prés.
+- La boucle de randonnée des Bretonnières passe par ce point.
+- Images : `images_travail/t23_jonction_Le_Couvat_*`.
+
+**Bilan provisoire** : Bretonnières (cascade de tuf, mais invisible depuis le rempart) ~20 % ; Le Couvat (visible, croisée pile à 10 stades, mais près des maisons) ~20 %. Seul le terrain peut départager.
