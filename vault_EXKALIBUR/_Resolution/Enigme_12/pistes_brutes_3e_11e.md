@@ -61,3 +61,22 @@ Contre : pas d'écharde ; l'auteur n'a pas répondu à « liste universelle ? »
 
 ### Machrie Moor (piste du loup) : consolidée par une source
 - Les cercles 1 et 11 de Machrie Moor ont été précédés par des monuments en bois (Haggarty, PSAS 1991). Le cercle 3 est en pierre. Ça colle avec FAQ07-068 (écharde au 11e, pas à la 3e) et avec FAQ8 : l'île au sud d'Omnia (Arran) aide à décoder l'enl. 11.
+
+## Approfondissement n°2 (03/10, nuit) — loup, apôtres, suite des enluminures
+
+### Loup (Machrie Moor 3 → 11), coordonnées officielles Canmore
+- MM3 : NR 91006 32457 (Canmore 39700) ; MM11 : NR 91213 32426 (Canmore 39704). Cap vrai 95,78°, 209 m (OSM donnait 95,56°, 205 m). Précision ±0,4°.
+- Report ×10 depuis le sommet de la tour : 45.427192, 6.054532, à **32 m de J5** (au lieu de 38 m). Depuis la Rue du Rempart : 126 m de J5.
+- Faits nouveaux (Canmore) : MM11, découvert en 1978, est un petit cercle de 5,8 m **entièrement enfoui sous la tourbe**, repéré par sondage, précédé d'un monument en bois (Haggarty). Donc : écharde possible (bois), et on marche dessus sans le voir (FAQ06-247 « marcher surtout sur l'une des deux »), invisible sur Maps (06-227, 07-187). MM3 : une seule dalle debout de 4,3 m.
+- Indépendant du soleil : colle avec FAQ8 « l'astre glorieux vous guide en tout dernier lieu ».
+- Point à vérifier : à J5, le Tapon coule vers le nord, à l'est de la plate-forme. En descendant (nord) par la rive ouest, l'eau est à DROITE ; « à senestre » demande de remonter vers le sud, ou de prendre la rive est.
+
+### Apôtres : l'objection « royaume entre le 3e et le 11e »
+- Je ne trouve pas cette réponse dans nos FAQ 1 à 8 ni dans nos notes Discord : source à demander à Guilhem.
+- Si elle existe, la Cène l'explique : à table, le Roi (« mon royaume n'est pas de ce monde ») est assis au milieu, entre les apôtres. Dans la Cène de Léonard (Milan, 1495-1498), en comptant les 13 places de gauche à droite, Jésus est 7e, entre la 3e (André) et la 11e (Matthieu), et la 13e place (Simon) existe. Bayard était à Milan avec Louis XII en 1499-1500, qui voulait emporter la fresque en France.
+- Matthieu 10 : la liste des Douze (10, 1-4) est suivie de « Le royaume des cieux est proche » (10, 7).
+
+### Suite des enluminures : l'enluminure 11 contient un calvaire et un chemin de pierres
+- Enl. 11 : trois croix sur une colline en haut à droite (le Calvaire, Consummatum est) ; chemin de pierres en croix, 11 pierres par branche (Guilhem) ; une souche avec des branches près du bout de la branche droite ; chiffres 3 (près du château) et 1 (en bas à droite).
+- Lecture à tester : les 3e et 11e = la 3e et la 11e PIERRE d'une branche du chemin en croix (pierres de gué, on marche dessus ; même nature ; un seul de chaque par branche ; un 13e existe sur la croix de 21 pierres). La 11e est le bout de la branche. Si le bout de la branche droite touche la souche (bois), l'écharde colle.
+- À faire par Guilhem sur l'original : compter les pierres de chaque branche depuis le centre et depuis les bouts, et noter ce qu'il y a sur ou près de la 3e et de la 11e.

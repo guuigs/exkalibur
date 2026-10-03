@@ -25,3 +25,5 @@
 | Jonction du Couvat | ruisseau à 19-80 m des maisons | FAQ05-107 |
 | Ponts comptés le long d'un ruisseau (3e et 11e franchissements) | aucun ruisseau n'a 11 franchissements cartographiés dans la zone LiDAR | t29 (à refaire plus large avant d'enterrer) |
 | Chemin de croix réel près de la tour | aucun trouvé (OSM, BD TOPO, web) ; la piste reste seulement symbolique | t29 |
+| Coordonnées OSM de Machrie Moor pour le cap 3→11 | remplacées par Canmore : 95,78° (pas 95,56°) | Canmore 39700, 39704 |
+| « royaume entre le 3e et le 11e » | introuvable dans FAQ 1-8 et nos notes Discord : source à retrouver avant de l'utiliser | recherche 03/10 |
