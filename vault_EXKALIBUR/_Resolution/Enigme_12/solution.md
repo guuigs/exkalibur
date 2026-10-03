@@ -234,3 +234,8 @@ Couches IGN : Cassini (XVIIIe, éditions BNF et AN), État-Major (1820-1866), or
 - **État-Major** : la ligne orange le long du Bréda = ancienne frontière France/Savoie (avant 1860). Forêt continue sur Tire-Loup et sur l'escarpement de Chante-Merle ; versants agricoles ailleurs.
 - **Forêts anciennes** : Tire-Loup, l'escarpement de Chante-Merle et les bords du Bréda sont des forêts anciennes ; une clairière « restée clairière » (FAQ03-274) serait un trou ouvert dans ces forêts.
 - **1950-65** : versants entièrement cultivés en lanières ; la forêt ne couvrait que les gorges du Bréda/Tapon et le haut des pentes. Rien de nouveau de décisif.
+
+## 03/10 (fin) — réponses de Guilhem + recherche du bassin de l'enl. 9
+- **Le « 2 inversé » est SUR la roche au trèfle** ⇒ c'est la **lettre C** (FAQ03-137 : « ce n'est pas un 2 à l'envers, c'est la lettre C »). Le « ? » de l'auteur (point d'interrogation noir, FAQ03-016) est donc sur la 4e pierre à chiffre et reste illisible sur nos photos. ⇒ **Piste Machrie Moor 3→11 ÉCARTÉE** pour les 3e/11e (plus d'appui visuel ; distance 191 m ; FAQ8 « une fois la zone trouvée… depuis chez vous » ⇒ 3e/11e sont des objets de la zone finale).
+- **Étang de l'enl. 9 : pas de forme particulière** (Guilhem) ⇒ le critère « contour » n'est pas discriminant.
+- **Recherche LiDAR des cuvettes plates (mares non cartographiées) près d'une chute** (`outils_scratch/t19_bassins_lidar.py`) : 1 338 replats ; avec bâtiment > 100 m et pente forte < 15 m : 105 — ce sont presque tous le lit du Bréda (cap ~53°), des plates-formes de pistes forestières (ex. 45.41856, 6.04874) ou la plaine alluviale (La Planta). **Aucune mare isolée crédible** : sous forêt dense le LiDAR ne distingue pas une petite mare d'un replat. Négatif.
