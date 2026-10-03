@@ -83,3 +83,27 @@ Pour les points gardés, on calcule ensuite la visibilité du relief depuis le p
 | Couvat | ~5 % | — | ruisseau collé aux hameaux |
 
 Images : `images_travail/t24_TireLoup_J5_chemin_Tapon_*`.
+
+## Test historique (cartes et photos anciennes IGN) — `images_travail/t25_hist_*`
+On a vérifié chaque zone sur six sources : Cassini (XVIIIe), État-Major (1820-66), carte des forêts anciennes (≈1850), et photos aériennes de 1950-65, 1965-80 et 2000-05.
+
+**Les trois zones**
+- **Tire-Loup J5** : forêt dense continue en 1950-65, sans chemin ni clairière. Le chemin forestier n'apparaît qu'entre 1965 et 1980. C'est une forêt ancienne, et l'État-Major n'y montre aucun chemin.
+  - Cela contredit la FAQ06-197 : le narrateur « aurait pu physiquement marcher » sur ces chemins, ce qui suppose des chemins anciens.
+  - Cela s'accorde mal aussi avec la FAQ03-274 (clairière « restée » clairière).
+  - **Confiance ramenée à ~8 %.**
+- **Bretonnières** : le pré est ouvert en 1950-65. Mais vers 1850 (État-Major, forêts anciennes), c'est le **lit de graviers du Bréda**, sans chemin. En plus, il est invisible depuis le rempart. **~10 %.**
+- **Couvat** : sur l'État-Major, un **chemin ancien arrive sur l'anneau et se divise en lisière d'un pré** (vert), à 10 stades exactement. Il était donc déjà là vers 1850, ce qui s'accorde avec la FAQ06-197. Mais les seuls ruisseaux proches sont de petits ravins (bassins de 2 à 6 ha), à environ 100 m au mieux des maisons, et le Tapon passe dans les hameaux. **~12 %.**
+
+**Recherche des clairières anciennes sur l'anneau** (zone ouverte aujourd'hui, non boisée vers 1850, entourée de forêt, caps 40-140°) :
+- Seuls quatre secteurs ressortent : cap 46°, Bretonnières (55-57°), plateau de Chante-Merle (62,5°) et prés du Couvat / Le Crêt (77-85°).
+- **Aucun n'est un trou ouvert dans une forêt ancienne.**
+
+**Si le rempart est au château Bayard** (arrivée exacte de l'É11) : le balayage complet trouve davantage de secteurs.
+- Deux ont été examinés : cap 88° (Rebouchet / Varanger) et cap 132°.
+- **Aucun n'est une clairière** : le premier est à côté d'une maison, le second est en forêt dense avec une piste récente.
+
+**Conclusion** : aucune zone ne satisfait en même temps toutes les contraintes fortes. Une des hypothèses de base est probablement fausse :
+- le point de départ ;
+- « 10 stades = du rempart à la clairière » ;
+- ou la direction donnée par le soleil.
