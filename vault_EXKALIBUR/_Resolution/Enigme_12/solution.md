@@ -311,3 +311,27 @@ Contrôle avec la grille des réponses de l'auteur :
 Point faible : le guichet du ch. III est « de charme » (du bois). Si « la troisième » désigne la porte et non le lieu où l'on marche, l'écharde contredit cette lecture.
 
 **Conséquence** : la zone finale (fontaine = eaux enchantées / grande roche / souche) est à 10 stades du rempart, vers le soleil levant d'été. Le pré des Bretonnières, avec la cascade de la Burge, est le seul secteur ouvert avec un ruisseau et une cascade sur cet anneau entre 50° et 60°. **Piste actée n°1 (remplace Tire-Loup, qui passe n°2)**, confiance de zone (±200 m) estimée à environ 40 % (jugement). Lecture du terrain proposée, NON vérifiée : jonction au bout NE du pré (sentier du bord SE × passerelle de la Burge), puis la Burge remontée jusqu'à la roche de la cascade (« elle vous bloquera le passage », « difficile à toucher sans se mouiller »), puis 10 pas N, 10 pas E (souche-majesté), puis 8 pas au cap du « jour dernier ». Il faut des photos de terrain ou Street View/Panoramax de la cascade pour la grande roche (FAQ06-060 : « il faudra vous rendre sur place »).
+
+## 03/10 (nuit, suite) — Revérification demandée par Guilhem (dossier `Livrables/Exkalibur_dossier_detaille_enigmes_8-12.pdf`)
+- **É11 : l'écart dépend du modèle de Terre.** Sur une sphère (calcul archivé), Saint-Palais → château Bayard est à −0,016 % (100 m). Sur l'ellipsoïde WGS84, D = 193,39 km, D·π = 607,57 km et SP → Bayard = 607,99 km, soit **+0,07 % (420 m)**. Le cap passe à 65,06° ; la tour d'Avalon reste alignée à 0,02° près.
+- **É8, É9, É10 recalculés indépendamment** :
+  - É8 : arrivée à 1,4 km de Payns ✓.
+  - É9 : Camors → Chartres 341,2 km (+0,1 %) ✓.
+  - É10 : 193,1 km sur la sphère, 193,4 km sur l'ellipsoïde ✓.
+  - Les 18 pétales de la rose de la Sainte-Chapelle n'ont pas été retrouvés dans une source (ils viennent du Discord).
+  - Le rang 10 de Châlons est le même dans les deux listes consultées.
+- **Vers 1524 revérifié** dans Marteau : la page commence au v. 1517 et la citation est la 8e ligne.
+- **FAQ04-132** n'affirme pas qu'il y a une cascade : c'est une question de joueur, et l'auteur ne dément pas.
+- **FAQ06-100** (« les trois chiffres vous aiguillent sur le chiffre ») : la suite 1, 3, 5 appelle plutôt 7. Le « ? = 11 » acté est fragile.
+- **Test des zones ouvertes sur l'anneau** (±1 %, caps 40-110°, sans arbres > 2 m au LiDAR, > 100 m d'un bâtiment) : 50 zones. **Le pré des Bretonnières est la plus grande (2 000 m²) et la plus proche de l'eau (24 m).** Suivantes : Le Couvat (1 720 m², cap 77°, eau à 108 m) et 45.4407, 6.0478 (1 100 m², cap 43°, eau à 300 m). Tire-Loup J5 : 172 m².
+- **Confiances révisées** :
+
+| Point | Confiance |
+|---|---|
+| Départ tour d'Avalon | 65 % |
+| Citation du Roman | 90 % |
+| Narrateur Bayard | 75 % |
+| 3e/11e = chapitres III/XI | 35 % |
+| Direction soleil | 50 % |
+| **Zone Bretonnières** | **~30 %** (au lieu de 40 %) |
+| Tire-Loup | ~10 % |
