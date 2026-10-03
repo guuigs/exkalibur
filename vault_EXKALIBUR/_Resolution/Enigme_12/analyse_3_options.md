@@ -56,3 +56,30 @@ Les faits : lecture de gauche à droite (FAQ05-019) ; on les comprend une fois l
 
    Dans cette lecture, seul l'**arc-en-ciel** dépend du lieu. Il faut de l'eau en embruns sous le soleil du matin. **A est la seule des trois zones avec une cascade** (de tuf). C'est un léger plus pour A, à vérifier sur place.
 3. **Piste à creuser (non testée)** : « code universel » pourrait désigner **Unicode** (Universal Coded Character Set). Les six dessins existent tous comme caractères Unicode : 🐺 ⭐ 🌈 🫏 💎 ⚓ 🌙. Leurs numéros (codes) pourraient donner des nombres, une fois la zone connue.
+
+## MISE À JOUR (même soir) — balayage systématique de l'anneau et CORRECTION sur Tire-Loup
+**Méthode** (`outils_scratch/t24_scan_anneau_contraintes.py`) : 603 points de l'anneau (1 840, 1 850 et 1 860 m ; caps 40 à 140°, tous les 0,5°). Un point est gardé seulement s'il réunit les conditions suivantes, tirées des réponses de l'auteur :
+- jonction de chemins cartographiée à moins de 60 m ;
+- plus de 60 m d'un bâtiment ;
+- ruisseau à moins de 250 m, à moins de 20 m de dénivelé, et à plus de 100 m des maisons (accessibilité FAQ03-112, éloignement FAQ05-107).
+
+Pour les points gardés, on calcule ensuite la visibilité du relief depuis le pied et depuis le sommet de la tour.
+
+**Résultat** : 13 points passent.
+- **4 sont à Tire-Loup (cap 95°)** : visibles depuis le pied ET le sommet de la tour (le relief ne masque pas, −5 m).
+- Les 9 autres sont au Rebouchet (cap 129-131°), **masqués par 27 à 53 m de relief**.
+- Bretonnières (pas de jonction) et Couvat (maisons) ne passent pas.
+
+**Correction de mon élimination de C** : je l'avais éliminée sur deux arguments, et les deux étaient faux.
+1. Accessibilité : je n'avais regardé que le point du Tapon le plus proche, 88 m plus bas. Or un **chemin empierré part de J5 vers le SE, longe la gorge du Tapon qui reste à GAUCHE (« à senestre »)**, et rejoint le Tapon à 300 m, quasiment au même niveau (45.4254, 6.0579). C'est une **confluence de trois ruisseaux**, à plus de 380 m de toute maison.
+2. Distance : 1 871 m depuis le sommet de la tour, mais **1 859 m (+0,5 %) depuis la partie est du mur d'enceinte** (OSM 711947270, qui va de 1 859 à 1 889 m). Elle est donc dans la tolérance si le rempart est ce mur.
+
+**Nouveau classement** :
+
+| Zone | Confiance | Points forts | Points faibles |
+|---|---|---|---|
+| **Tire-Loup J5** (45.42696, 6.05477) | **~30 %** | seul point qui passe toutes les contraintes ; jonction de 5 chemins ; 202 m des maisons ; visible depuis la tour ; soleil au sol dès 7 h 25 (juin) ; Tapon à senestre par un chemin accessible ; confirmé indépendamment par le vecteur Machrie Moor 3 → 11 × 10 (cap 95,56°, arrivée à 38 m de J5) ; « loup » = 1er symbole du ciel (lien en français, donc fragile) | forêt ancienne : est-ce une « clairière restée clairière » ? ; grande roche inconnue ; lever du soleil à 95° ≈ autour de l'équinoxe |
+| Bretonnières | ~12 % | — | invisible depuis le rempart ; pas de jonction |
+| Couvat | ~5 % | — | ruisseau collé aux hameaux |
+
+Images : `images_travail/t24_TireLoup_J5_chemin_Tapon_*`.
