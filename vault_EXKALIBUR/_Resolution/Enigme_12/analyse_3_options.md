@@ -263,3 +263,16 @@ Le cap change peu le point d'arrivée (moins de 1 m) ; la roche et la longueur d
 - **Le vrai croisement le plus proche : K (45.433594, 6.044901)**, 190 m au NE de J2 : 3 branches (chemin + sentier + chemin, BD TOPO ; track + path dans OSM). Il est à 1 204 m de la tour, cap 62°, à 33 m du ruisseau, à 145 m du premier bâtiment. Le chemin longe le ruisseau par la rive droite : en descendant vers le NE, l'eau est à gauche (senestre ✓). Il est en lisière, entre le grand pré de Muraillat (NO) et le bois : canopée LiDAR 21 m au point lui-même, donc « sous les arbres » au sens strict.
 - Distance à la prise d'eau du Tapon : environ 250 m.
 - Image : `images_travail/t29_jonction_Muraillat_verif.jpg`.
+
+### Test de visibilité K / K2 (LiDAR 1 m, `outils_scratch/t29_visibilite_K.py`)
+K2 = croisement sentier/sentier suivant vers l'aval (45.434896, 6.046208), près de la prise d'eau.
+
+| Depuis | K (1 206 m, cap 64°) | K2 (1 364 m, cap 61°) | J2 (1 066 m, cap 71°) |
+|---|---|---|---|
+| Sommet de la tour, relief seul | visible | visible | visible |
+| Sommet, relief + arbres (sol) | caché par les arbres à 90 m du point | caché par les arbres à 10 m du point | caché par les arbres à 12 m du point |
+| Pied de la tour / Rue du Rempart, relief seul | caché (+0,5 / +4,9 m) | caché (+7 / +12 m) | visible |
+
+- Disque de 30 m autour de K : relief seul 282/317 points visibles ; avec arbres 0/317. K2 : 158/317 et 0/317.
+- Pré ouvert dans 100 m de K : 0 point visible du sommet ; autour de J2 : 10/508.
+- Lecture : depuis le sommet, K et K2 sont « dans le champ de vision » au sens du relief (FAQ05-155), mais seule la lisière boisée se voit. Depuis le sol au pied de la tour, le relief masque déjà K et K2.
