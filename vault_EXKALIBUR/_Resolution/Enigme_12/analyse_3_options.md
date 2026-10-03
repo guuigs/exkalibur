@@ -151,3 +151,39 @@ Un seul secteur sérieux ressort.
 
 **Confiance** : ~15 %, au même niveau que la piste du loup gardée (Tire-Loup J5, ~10-15 %).
 Images : `images_travail/t27_*`.
+
+## 3e et 11e — reconstruction à partir de la clairière de Muraillat (03/10, nuit)
+**Aveu** : jusqu'ici, les 3e et 11e n'avaient jamais été identifiés. La lecture « chapitres III/XI » n'était qu'une interprétation, sans points réels.
+
+**Tests négatifs**
+- Paires d'objets cartographiés de même nature, à 1 850 m l'une de l'autre, dont le segment passe par la clairière : 108, contre 71 en moyenne (max 263) pour 30 points témoins. **C'est le niveau du hasard.**
+- Disposition en cadran des pierres 1, 3, 5 de l'enl. 11 : les cordes 1-3, 3-5 et 1-5 mesurent 1 100, 474 et 953 px. Ce n'est **pas un cadran régulier**.
+
+**Constat géométrique**
+- La clairière (J2) est à **1 067 m** du sommet de la tour, et **1 850 / √3 = 1 068 m**.
+- Sur un cercle divisé en **12 places égales**, les places 3 et 11 sont à 8 crans, soit 240° ≡ 120°, et leur écart en ligne droite vaut r√3.
+- **Si 3 et 11 sont à 10 stades, le rayon est r = 1 068 m.**
+- Lecture : la ronde (la table) est centrée sur le rempart, les 3e et 11e en donnent le rayon, et l'astre glorieux donne la direction.
+
+**Réponses de l'auteur que cette lecture explique**
+- FAQ06-166 : rempart = départ, le soleil indique où aller, et « c'est là que les 3e et 11e seront utiles ». Ils donnent la distance.
+- FAQ07-152 : le ciel sert à trouver la direction et « l'endroit où vous allez arriver ».
+- FAQ07-120 : « comment les positionner par rapport à un point de départ » : c'est le centre de la ronde.
+- FAQ8 : les 8e et 16e donneraient le même écart de 8 crans, « mais ça aurait été incorrect », puisqu'il n'y a pas de 16e.
+- FAQ06-133 : avec un 13e, le partage change (13 places), donc on arrive ailleurs.
+- FAQ04-115 : on va « directement » de 3 à 11 (la corde), mais le tour passe par 4 à 10.
+- FAQ8 : « liste universelle (mois, apôtres, zodiaque) ? » → ne répond pas.
+
+**Quelle liste de 12 ? Les APÔTRES, avec la Cène comme Table ronde**
+- Mt 10 / Mc 3 : **3e = Jacques le Majeur**, **11e = Simon le Zélote**.
+- Simon est **scié** : sa scie est représentée dans l'enluminure 12, la Cène (vieillard à la scie). La scie et le bois donnent l'**écharde possible sur le 11e** (FAQ07-068). La « coupe du **charpentier** » va dans le même sens.
+- Jacques est le saint des **pèlerins**, sur le **chemin** de Saint-Jacques : c'est « il faudra **marcher** surtout sur l'une des deux » (FAQ06-247). Rappel : « en mesure de **pèlerin** » dans l'É8.
+- **13e = Matthias**, ou le **Siège périlleux** de la Table ronde : la 13e place, celle de Judas ou du Christ, interdite. D'où « le 13e ne vous mènerait pas au bon endroit ».
+- La Table du Graal (Robert de Boron) est le modèle de la Table ronde. FAQ07-019 : « Ultima cena + enluminure 12 » (la Cène) → « quelque chose de très précieux ».
+- FAQ05-093 : les 3e et 11e sont visibles sur les enluminures → les saints placés sur les côtés des panneaux.
+- **Reste à faire** : identifier Jacques et Simon parmi les personnages des enluminures. Celui de l'enl. 12 (scie) est déjà noté.
+
+**Statut** : proposition structurée et cohérente avec 8 réponses de l'auteur, mais **non vérifiée**. Points faibles :
+- l'hypothèse « places égales sur un cercle » n'est pas dans le texte ;
+- l'ordre des apôtres varie selon les évangiles (Lc 6 : 11e = Jude) ;
+- le genre « la troisième » n'est pas expliqué.
