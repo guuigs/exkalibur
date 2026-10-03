@@ -192,3 +192,13 @@ Image : `images_travail/t36_mouret_rebouchet_lidar.jpg`.
 - Loup : J5 sur une parcelle privée (B0039) ; mais le gué du Tapon est sur une bande non cadastrée, à 26 m de la forêt communale A0500.
 - Balayage des croisements à ≤ 100 m d'un terrain public et ≥ 80 m des maisons : 57. Les seuls avec une zone ouverte visible de la tour sont près du village (pré communal à 767 m, cap 100° : 45.427623, 6.040649 ; pâture communale à 239 m). **Aucune clairière en forêt publique n'est visible depuis la tour** : les forêts communales sont soit cachées par le relief, soit fermées.
 Image : `images_travail/t38_cadastre_public_saint_maximin.jpg`.
+
+## Loup, nouvelle approche (Guilhem, 03/10 nuit) : clairière visible du PIED de la tour + coffre en terrain public — `outils_scratch/t39_*`
+**Ce qui doit être trouvable en ligne** (FAQ07-078, 07-126, 06-060, 07-240, FAQ8) : le départ, les 3e et 11e, la clairière avec sa jonction (capture vue du ciel). La grande roche, la souche et les eaux se décrivent seulement. **Ce qui doit être public** : le point de fouille (01-235, 02-097, 03-098).
+1. **Vu du pied de la tour, le long de l'axe du loup (89-103°)** : 1 309 cellules ouvertes visibles, toutes à moins de 1 450 m (au-delà, la forêt de Tire-Loup cache tout ; J5 n'est pas visible). La seule clairière : **pré en lisière à 1 287 m, cap 95,6°, pile sur l'axe** (45.42773, 6.04751), 158 cellules vues du pied, forêt autour 33 %, maisons à 134 m.
+2. **Croisements autour du pré** : aucun dans le pré ; les plus proches (167-237 m) sont au bord du hameau des Ripellets, maisons à 9-26 m. Le meilleur : 45.428942, 6.048785 (chemin + sentier, ravin à 42 m, très peu visible : 2-3 cellules).
+3. **Terrain public sur l'axe** : la parcelle **B0071, forêt de la commune de Pontcharra** (taillis sous futaie, 5 570 m²), en forêt entre le pré et J5 (centre 45.42597, 6.05014). Les autres parcelles publiques de l'axe sont près du village (prés et terrains communaux) ou très loin (2,75-3 km : A0175, Le Moutaret A1326). B0068 (2 m de l'axe) appartient au groupement forestier de Bramefarine (privé).
+4. **Eau** : un **ravin non cartographié** (LiDAR, bassin 4-8 ha, 1,4 km, de 742 à 394 m) descend de Tire-Loup vers le NO, longe le bord de B0071 (côté rive droite) et finit aux Ripellets en passant à ~150 m du pré visible.
+**Parcours possible** : pied de la tour → pré visible sur l'axe → jonction au bord des Ripellets → remonter le ravin rive gauche → grande roche → fouille dans la forêt communale B0071 (public).
+**Faiblesses** : la jonction n'est pas dans le pré visible et touche le hameau ; le ravin est sans nom et peut-être à sec ; B0071 est sur l'autre rive.
+Image : `images_travail/t39_loup_pre_visible_et_public.jpg`.
