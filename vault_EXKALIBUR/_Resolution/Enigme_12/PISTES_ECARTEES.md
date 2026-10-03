@@ -28,3 +28,4 @@
 | Coordonnées OSM de Machrie Moor pour le cap 3→11 | remplacées par Canmore : 95,78° (pas 95,56°) | Canmore 39700, 39704 |
 | « royaume entre le 3e et le 11e » | introuvable dans FAQ 1-8 et nos notes Discord : source à retrouver avant de l'utiliser | recherche 03/10 |
 | Sens 11 → 3 de Machrie Moor (275,78°) depuis la tour | tombe dans Pontcharra et ses zones d'activités jusqu'à 3,2 km : maisons à < 80 m, aucune clairière | t32 |
+| **Règle (décision de Guilhem, 03/10)** : toute zone dans Pontcharra (ville, zones d'activités, gare) | abandonnée d'office, ne plus la proposer | décision de Guilhem |
