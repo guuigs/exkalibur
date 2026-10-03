@@ -33,3 +33,4 @@
 | Bornes sardes de la frontière Dauphiné-Savoie | numérotées 37 à 67 dans le secteur | A.H.C.S. 2022 |
 | 12 batailles d'Arthur comme vecteur (3e → 11e) | 350 km ; cap 331,6° vers Pontcharra | Nennius |
 | Plan de Machrie Moor posé sur le terrain (285 variantes : départ, orientation, cercle) | aucune ne donne clairière + croisement proche + visibilité ; meilleur compromis MM2 (prés visibles, croisement à 200 m) | t33 |
+| Sites 4 à 10 de Machrie Moor projetés (MM3 au rempart, MM11 à 10 stades) | tous à l'ouest ou au sud ; champs, hameaux, zone industrielle ; aucune clairière visible avec croisement | t34 |

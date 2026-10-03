@@ -129,3 +129,16 @@ Variantes : 19 départs (sommet, pied, Rue du Rempart, 16 points du mur d'encein
 - Critère relâché (zone ouverte visible à ≤ 100 m) : 17. Les meilleurs : MM4 au sud (947 m, champs près des maisons, croisement à 96-198 m) ; **MM2 (1 161 m, cap 102°)** qui tombe sur les prés visibles (sommet ET pied) en lisière sous Tire-Loup, mais le croisement le plus proche est à 194-203 m et les autres sont collés aux maisons.
 - Échelle réelle (×1, 209 m) : tout tombe dans le village autour de la tour.
 **Verdict** : aucune façon logique de poser les pierres ne donne à la fois clairière, croisement proche et visibilité. Le meilleur compromis structurel : MM2 = l'endroit visible au matin (prés en lisière), MM11 = J5 (jonction en forêt) ; mais la FAQ05-165 dit que clairière, jonction et « endroit apparu » sont le même lieu. Image : `images_travail/t33_plan_machrie_sur_terrain.jpg`.
+
+## Loup : sites 4 à 10 de Machrie Moor (« le royaume du 3 au 11 », Guilhem) — `outils_scratch/t34_machrie_4_a_10.py`
+Références de grille (Wikipédia, d'après HES/Canmore) : 1 NR91203239, 2 NR91143241, 3 NR91006 32457, 4 NR91003235, 5 NR90873234, 6 NR90733237 (cairn), 7 NR90633253 (pierre levée), 8 NR90573237 (cairn), 9 NR905324 (pierre disparue, précision 100 m), 10 NR90053265 (cercle de Moss Farm Road), 11 NR91213 32426, 12 NR91003240 (cercle enfoui découvert en 2024).
+**Fait** : les sites 4 à 10 sont tous à l'OUEST ou au SUD du cercle 3, du côté opposé au 11 ; ils ne sont pas « entre » le 3 et le 11 sur le terrain.
+Projection (MM3 au rempart, MM11 à 10 stades, ×8,84) :
+- MM4 (947 m, cap 180°) : champs de Saint-Maximin, pré visible du sommet (62-66 points), croisement à 96-163 m, maisons à 71-93 m, pas de forêt autour.
+- MM5 (1 586 m, 227°) : Villard-Didier, maisons à 22-82 m.
+- MM6 (2 558 m, 250°) : zone industrielle du Pré-Brun / échangeur de Pontcharra : écarté (règle Pontcharra).
+- MM7 (3 385 m, 278°) : **à 194-280 m du fort Barraux** (vrais remparts), pré visible du sommet (37-85 points), croisement à 41-62 m, maisons à 101-156 m, pas de forêt autour (13-31 %).
+- MM8 (3 930 m, 256°) : La Papette, maisons à 15-43 m.
+- MM9, MM10 : hors de la zone LiDAR (La Frette ; vers Barraux, 8,6 km).
+- (MM12, hors série : 507 m au sud, Le Plantier, semi-ouvert, croisement à 110 m.)
+**Verdict** : aucun des sites 4 à 10 ne tombe sur une clairière en forêt visible avec un croisement proche. Seule coïncidence notable : MM7 près du fort Barraux.
