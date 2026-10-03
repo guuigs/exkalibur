@@ -88,3 +88,8 @@ Contre : pas d'écharde ; l'auteur n'a pas répondu à « liste universelle ? »
 4. **Histoire** ✗ : la piste de J5 n'existe pas en 1950-65 (forêt continue) et apparaît en 1965-80 ; forêt ancienne, pas de chemin à J5 sur l'État-Major. Contre FAQ06-197 (le narrateur aurait pu marcher sur ces chemins) et 03-274 (clairière restée clairière). Sur l'État-Major, un chemin ancien passe environ 100 m à l'est de J5 (NO-SE) : c'est lui qu'il faudrait suivre pour trouver un croisement ancien.
 5. **Visibilité** : relief dégagé depuis le sommet ; masqué de 4,5 m depuis le pied.
 Bilan : la ZONE (±150 m) tient par deux méthodes indépendantes (vecteur, hasard faible) et le gué colle avec « à senestre » ; le POINT J5 comme croisement est fragile (piste moderne).
+
+### Décision de Guilhem (03/10, nuit) : l'objection historique est levée
+- « C'est l'étape finale, elle doit être ancrée en 2026, pas forcément en 1500. » Appui FAQ : 07-242 (on joue avec les cartes d'aujourd'hui, « si on devait utiliser les cartes de l'époque… on ne pourrait plus faire aucune chasse ») ; 06-056 et 06-197 (le narrateur n'est pas réellement allé à la croisée ; « aurait pu » marcher dessus, sans dire quand le chemin existait).
+- **ACTÉ : J5 = la jonction des chemins** (règle « on acte »). Confiance zone : ~35 %.
+- Suite du texte à vérifier : J5 → piste empierrée vers l'est (298 m) → gué du Tapon (45.42547, 6.05785) → tourner à gauche et suivre le courant (NO) → grande roche. Marches de relief dans les 200 premiers mètres après le gué (profil LiDAR) : ~5 m juste après le gué (45.42550, 6.05784), puis vers 45.42571 / 45.42593, 6.0577, puis 45.42663, 6.05712 (3,4 m) et 45.42693, 6.05688 (5,5 m).
