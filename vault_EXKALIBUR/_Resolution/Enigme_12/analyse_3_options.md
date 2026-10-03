@@ -187,3 +187,41 @@ Images : `images_travail/t27_*`.
 - l'hypothèse « places égales sur un cercle » n'est pas dans le texte ;
 - l'ordre des apôtres varie selon les évangiles (Lc 6 : 11e = Jude) ;
 - le genre « la troisième » n'est pas expliqué.
+
+## Table des saints (03/10, nuit) — confirmations de Guilhem et lecture complète
+**Faits (Guilhem, sur l'original)** :
+- **gourde** confirmée sur le barbu de l'enl. 8 → **Jacques le Majeur**, 3e apôtre en Mt 10 ;
+- **scie** confirmée sur le vieillard de l'enl. 12 → **Simon le Zélote**, 11e apôtre.
+
+**Lecture complète proposée (HYPOTHÈSE)**
+1. **Table** : 12 places autour du rempart (Cène = Table ronde).
+   - Les places 3 et 11 sont séparées de 10 stades, d'où un rayon de **1 068 m**.
+   - L'enl. 12 montre la Cène, Jésus seul à table (« enluminure incomplète », FAQ03-065) : les apôtres sont répartis sur les autres panneaux.
+   - FAQ07-019 : Ultima cena + enl. 12 = « quelque chose de très précieux ».
+2. **La clairière finale est la place du 11e, Simon** :
+   - la **souche-majesté** est un arbre **scié** : l'attribut de Simon ;
+   - « écharde possible sur le 11e » (FAQ07-068) ;
+   - « il faudra marcher surtout sur l'une des deux » (FAQ06-247) : on marche sur la place du 11e (les pas finaux) ;
+   - la 1re phrase, « Dieu sut se montrer favorable », vient du **chapitre XI** du Roman (la fontaine) : c'est le « confirmateur crucial de la zone » (FAQ07-088), qui désigne la place du 11e et ses eaux.
+3. **La 3e place, Jacques**, ne sert qu'à mesurer.
+   - Pas d'écharde : coquille, gourde.
+   - Genre : « **la** troisième [place] », « **le** onzième [apôtre] ».
+4. **Le 13e** est Matthias, ou la place vide de Judas, ou le Siège périlleux : « ne mènerait pas au bon endroit ».
+   - **8e et 16e** : même écart, mais il n'y a pas de 16e.
+5. **Le soleil** donne la direction de la place du 11e : 70,7°, lever réel autour du 30 avril, mort de Bayard.
+
+**Vérifications locales**
+- Aucun lieu « Jacques » ou « Simon » à moins de 10 km. Seul trouvé : l'ancien hôpital Saint-Jacques, à 4,6 km.
+- Places 3 possibles, à 1 068 m de la tour et 120° de la clairière :
+  - cap 190,7° (Le Carron) si les places sont numérotées dans le sens horaire ;
+  - cap 310,7° (Au Plan, Pontcharra) sinon.
+  - Rien de particulier à ces deux endroits.
+- **« Rue de la Scie »** (Pontcharra, ancienne scierie) : un de ses points est à 1 850 m de la clairière.
+  - **Non significatif** : la rue fait environ 500 m et couvre des distances de 1 677 à 2 191 m de la clairière, donc elle contient forcément un point à 1 850 m.
+  - Il y a aussi un « Chemin de la Scieirie » à 240-580 m de la tour.
+  - Simple curiosité.
+
+**Ce qui reste fragile**
+- L'hypothèse des places égales n'est pas écrite dans le texte.
+- Je n'ai pas expliqué pourquoi Simon serait au 11e plutôt que Jude (Lc 6).
+- Le sens de numérotation de la table est inconnu.
