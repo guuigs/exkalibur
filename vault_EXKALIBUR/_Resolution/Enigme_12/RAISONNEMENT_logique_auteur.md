@@ -190,3 +190,14 @@ Observation de l'image (`images_travail/A_REGARDER_enluminure9.jpg`) :
 **Autres places** (contrôle) :
 - place 1 (Pierre, « 13e » si l'on continue à compter) : lieu-dit BELONCIN, semi-ouvert, rien de visible, eau à 170-200 m → pas le bon endroit ✓ ;
 - place 12 (Judas, siège périlleux) : lieu-dit VERANGER, pré ouvert.
+
+## 11. Domaine public dans l'hypothèse P — état précis
+- FAQ8, mot pour mot : « Vous pouvez chercher partout dans le domaine public, tant que ce ne sont pas des zones protégées, ou des terrains privés. Et après, il y a une tolérance en France pour les chasses au trésor. » La forêt n'est pas exclue en soi, mais elle doit être publique.
+- FAQ8 : se rendre à la clairière demande « toujours un peu d'efforts, à barouder » → un accès en pente est cohérent.
+- Sources 1 et 2 : parcelles privées. Les fouilles (roche + 10 N + 10 E + 8) tombent à 19-40 m de la bande publique.
+- **Tension structurelle** : les sources sont à l'est du sentier (à gauche en montant), et les pas nord + est éloignent encore plus du sentier. Une fouille sur le chemin public demande une roche à l'ouest ou au sud-ouest d'un chemin public, à 10-20 m.
+- Micro-relief à la jonction (±20 m) : seulement les talus du chemin creux (≤ 1,2 m). Pas de roche visible.
+- → **Point bloquant n° 1 de P.** Pistes :
+  1. la grande roche est ailleurs le long des eaux, à l'ouest d'un chemin public ;
+  2. on accepte que le coffre soit en lisière privée « tolérée » (contraire à la lettre de la FAQ) ;
+  3. une autre lecture de la fouille.
