@@ -520,3 +520,19 @@ Les lieux-dits remplacent la « rangée » abstraite, choisie après coup, par u
 - Le glyphe : un « V » à gauche, puis une boucle fermée prolongée d'une tige qui descend vers la gauche, barrée d'un trait. La figure des six C **en miroir** a la même structure : Clairvaux–Cîteaux–Cluny à gauche (le « V »), boucle Chartres–Clermont–Cluny, tige vers la Grande Chartreuse, croisée à Cluny par le segment Cîteaux–Cluny (la « barre »). Nord en haut, la figure est l'image miroir du glyphe. Ressemblance qualitative, à juger par Guilhem ; FAQ8 : « la face de l'épée » compte (deux faces = image et miroir ?).
 - Si le glyphe = les six C, il fait **paire avec le loup** (FAQ07-143 : les signes par deux se décodent ensemble). Le loup évoque **Tire-Loup** (bois de 15,5 ha à 1,6-1,9 km, cap ~96°), où se trouve J5, déjà désigné par l'axe de la cathédrale de Lincoln (§27.2).
 - **Mais Tire-Loup est invisible à 100 % depuis la muraille** (0 m² vu) : ses 4 croisements (dont J5) échouent au critère strict de FAQ05-155.
+
+## 28. Déchiffrage du ciel de l'enluminure 9 — hypothèse « tableau périodique » (04/10)
+**Consignes de la FAQ** : code universel, mêmes dessins dans toutes les langues (06-138) ; pas un rébus phonétique, lecture « étymologique, héraldique et historique » à creuser (06-059) ; de gauche à droite (05-019) ; six dessins (05-097, 06-258) ; les signes par deux se décodent ensemble (07-143) ; l'ancre est l'avant-dernière étape (06-181) ; entre l'ancre et le dernier signe on « traverse l'arbre » (06-226) ; à interpréter une fois la zone finale trouvée (06-067) ; ils permettent « d'identifier un **élément** crucial » (07-134) ; ils ne racontent pas une histoire et sont distincts du reste de l'enluminure (06-222).
+**Lecture proposée** : les symboles chimiques sont le code universel par excellence (identiques dans toutes les langues) et leurs noms viennent de l'étymologie.
+| Dessin (gauche → droite) | Élément | Étymologie | Z |
+|---|---|---|---|
+| loup (+ glyphe) | **W** tungstène | allemand *Wolfram*, « écume de loup » | 74 |
+| étoile | **He** hélium | grec *hêlios*, le Soleil (une étoile) | 2 |
+| arc-en-ciel | **Ir** iridium | Iris, déesse de l'arc-en-ciel | 77 |
+| âne + émeraude | **Be** béryllium | béryl = l'émeraude | 4 |
+| diamant + ancre (avant-dernière) | **C** carbone | le diamant est du carbone pur | 6 |
+| croissant de lune (après l'arbre) | **Se** sélénium | *Sélénê*, la Lune | 34 |
+- Les paires (âne + émeraude, diamant + ancre) donnent chacune un élément : on retrouve bien **six dessins**, l'ancre en **avant-dernier**.
+- **Somme des numéros atomiques = 197** = masse de l'**or 197**, le seul isotope stable de l'or (« élément crucial » = l'or ?). L'arbre à traverser entre l'ancre et la lune porte des **fruits d'or**.
+- Points faibles : l'étoile (hélium) est la correspondance la moins sûre ; le rôle propre de l'âne et de l'ancre n'est pas expliqué ; le glyphe sous le loup (V♀ ou les six C) n'entre pas dans le calcul.
+- **Coïncidence à vérifier** : depuis la muraille, le cap **198,0°** mène, à **1 950 m**, au croisement du **Papet** (45.412208, 6.023298, Pontcharra rural), l'un des 4 croisements qui passent le crible strict (§23.3). Pré en lisière, vu depuis la muraille, sentier vers le ruisseau du Papet (permanent, bande publique) à ~70 m ; lotissement à 50-100 m (6 bâtiments < 100 m). Carte : `images_travail/t77_carte_papet.jpg`. Lecture « 197 = un cap » non justifiée par la FAQ : simple signal à examiner.
