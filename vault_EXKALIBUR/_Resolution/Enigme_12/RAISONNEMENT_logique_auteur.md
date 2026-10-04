@@ -403,3 +403,35 @@ Dans un rayon de 3,5 km, **aucun croisement ne réunit à la fois** : clairière
 2. **« Clairière »** : un pré en lisière (Le Mouret, Le Crêt) plutôt qu'une trouée fermée.
 3. **Données** : le cadastre (bandes de chemins non cadastrées) et le LiDAR (canopée = obstacle) peuvent se tromper de quelques mètres, ce qui suffit à faire basculer un lieu.
 4. **Le départ** : tour d'Avalon (consensus Discord) — rien de mieux trouvé depuis la rue du Rempart ni depuis le sommet.
+
+## 23. Reconfirmation sans rien relâcher — le point de vue = les MURAILLES de la tour (04/10, rappel de Guilhem : murailles publiques toute l'année)
+Règle de Guilhem (04/10) : **on ne relâche aucune contrainte**. Scripts : `t61_vs_muraille.py`, `t62_strict_muraille.py`, `t64_pub_general.py`, `t65_joint_muraille_pub.py`, `t66_carte_couvet.py`. Images : `images_travail/t61_lidar_murailles_tour.png`, `images_travail/t66_carte_couvet.jpg`.
+
+### 23.1 Les murailles au LiDAR
+- Le relief LiDAR (sol + objets) montre une **enceinte circulaire** autour de la tour : 1,4 à 3,5 m de haut, à **10-18 m du centre** de la tour (centre recalculé : x 936955, y 6485600, Lambert 93). Ni la BD TOPO ni OSM ne la cartographient.
+- **Défaut de notre ancien point « pied »** (45.42887, 6.03115) : il est à 11 m **à l'est** de la tour, qui lui cache tout l'ouest, et les rayons ignoraient les 15 premiers mètres. Ce n'est donc pas « le chemin de rempart ».
+
+### 23.2 Nouvelle visibilité (17 points sur la muraille, œil 1,7 m au-dessus du haut du mur)
+- Sol visible : **3,15 km²** contre 0,16 km² depuis l'ancien point (×19). Le gain est surtout à l'ouest et au nord-ouest (plaine, Pontcharra) ; à l'est il est faible.
+- Lieux connus : Le Crêt mieux vu (42 m² contre 18 m² à ±10 m) ; jonction du Mouret, source de Simon, J5, E2 et Couvat : **toujours invisibles**.
+
+### 23.3 Crible strict complet (rien de relâché)
+Conditions : point du croisement vu depuis la muraille, eau ≤ 120 m, forêt ≥ 40 % autour, terrain public à ≥ 100 m des maisons dans 150 m. Domaine public : cette fois pour **5 communes** (Saint-Maximin, Pontcharra, Le Moutaret, Barraux, Laissaud ; personnes morales publiques + non cadastré).
+| Croisement | Commune | Distance, cap | Remarque |
+|---|---|---|---|
+| 45.430683, 6.023047 | **Pontcharra** | 665 m, 288° | près de la Corbassière (zone C déjà écartée), maisons à 29 m |
+| 45.412208, 6.023298 | **Pontcharra** (sud rural, le Papet) | 1 950 m, 198° | ruisseau du Papet permanent à 74 m ; maisons à 51 m ; 1 200 m² publics utiles |
+| 45.442040, 5.991375 | Barraux | 3 437 m, 295° | plaine de l'Isère, gravières (Granulats Vicat) |
+| **45.434748, 6.059095 (le Couvet)** | **Saint-Maximin** | 2 280 m, **73°** | voir 23.4 |
+
+### 23.4 Le Couvet, examen
+- Croisement de 3 voies (route, chemin, route empierrée) au bord d'un pré ; Burge (intermittente) à 11 m ; maisons à 45 m (cabane) et hameau du Couvet au nord.
+- **En aval, la Burge traverse le hameau** (maisons à 0-50 m) : coffre impossible.
+- **En amont (sud)**, la Burge monte dans une bande publique (lit non cadastré, bois communal ~2 ha) : maisons à ≥ 100 m dès ~135 m ; ressauts de +5,6 m (135 m) et +7,4 m (405 m).
+- Cap 73° ≈ lever visible du 30/04 grégorien (74,0°), jour de la mort de Bayard : coïncidence à noter.
+- **Visibilité fragile** : vu depuis **un seul** point de la muraille (côté NO, az 308°), et seulement si l'œil est **sur** le mur ; œil au sol : 0/33 points. Les « 2-3 m » de la muraille peuvent être en partie de la végétation.
+- **Verdict : non retenu pour l'instant** (visibilité limite, eau intermittente, aucune logique 3e/11e, 2 280 m). À garder en mémoire.
+
+### 23.5 Ce que cette séance établit
+1. La **visibilité doit désormais se calculer depuis les murailles**, pas depuis l'ancien point « pied » : tous les cribles antérieurs fondés sur `vs_pied` sont à reprendre avec `vs_muraille`.
+2. Même ainsi, **aucun croisement en forêt, à l'est, ne passe toutes les conditions strictes** ; les rares qui passent sont à Pontcharra, dans la plaine, ou limites (Couvet).
