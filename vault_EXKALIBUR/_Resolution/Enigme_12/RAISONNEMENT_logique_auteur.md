@@ -235,3 +235,12 @@ Le lever visible a été calculé sur le relief nu. Avec une canopée de 15-25 m
 → Sur **toute la plage réaliste de l'aube de Pâques (91,3-93,6°)**, la corde 3→11 passe à ≤ 26 m de la jonction et à ≤ 19 m du seul ruisseau visible depuis le rempart, et la place de Simon est à ≤ 35 m d'une source. **La construction est robuste**.
 - **Robustesse au centre** (pied ±20 m N/E/S/O, Orient 91,6° et 93,4°) : corde → jonction 1-43 m ; corde → ruisseau vu 0-36 m ; Simon → source 9-48 m. Le résultat ne dépend pas du mètre près au rempart (le sommet donnait 5-27 m de la source, §9).
 - **Enl. 12 revue** (`images_travail/planche_q3.jpg`) : le Christ est seul au bout d'une longue table nappée ; derrière lui, une porte gothique ouverte sur un escalier, un chemin, un pont, des montagnes et un **soleil rayonnant en haut à droite** ; Simon (scie) se tient à droite de la table. Le Christ à table, le soleil levant derrière lui et Simon sont réunis : appui qualitatif à « Christ à l'Orient ». FAQ03-065 : l'enluminure est « incomplète, parcellaire » (la question proposait de « retrouver ses apôtres »).
+
+## 15. Variante demandée par Guilhem : axe Machrie Moor (3→11, 95,78°) + places de la Cène, le rempart = 7e place (Jésus)
+- **Rangée de 13** le long de l'axe 95,78°, Jésus (7e) au rempart, places espacées de 231 m (1 850 / 8) (`t48_moor_cene.py`) :
+  - 3e à 925 m à l'ouest : en ville (maisons à 4-8 m), pas d'écharde ✓ ;
+  - **11e à 925 m à l'est : 45.428031, 6.042910**, en plein champ (ouvert à 99 %, forêt autour 21 %), très visible du pied (5 483 m²), maisons à 114 m, eau à 211 m ;
+  - croisements à 116 et 183 m = **les croisements agricoles des Ripellets, déjà écartés** (champs, maisons à 83-84 m) ;
+  - 13e à 1 388 m : lisière de forêt.
+  → **pas de clairière en forêt, pas d'eau** : non retenue.
+- **Table ronde** avec le Christ sur l'axe Machrie (95,78°) : place 11 = 45.421425, 6.039778, à 47 m d'une source, à 118 m de la jonction du Mouret, 959 m² vus du pied. Elle retombe au **Mouret**, un peu moins bien que l'Orient de Pâques (91,3-93,6°). L'axe Machrie (95,8°) et l'aube de Pâques (91-94°) ne diffèrent que de 2 à 4°, et les deux constructions convergent vers la même zone.
