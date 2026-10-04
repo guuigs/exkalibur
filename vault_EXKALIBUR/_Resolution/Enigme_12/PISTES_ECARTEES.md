@@ -38,3 +38,6 @@
 | Jonction 2 du Mouret comme clairière | sous les arbres (0 % ouvert à 40 m) | t41 |
 | Champ-Laurier (sentier Bayard, vecteur gourde → scie) | invisible depuis la tour | t41 |
 | Culs-de-sac du Rebouchet amont (forêt de Pontcharra) comme roche | à 1-1,8 km de la jonction (« tout près », 05-051) | t41 |
+| Croisements agricoles sur l'axe du loup (756-815 m, source captée) | des champs, pas une clairière ; église à 240 m | t40 crible |
+| Roche C du Mouret (ressaut 45.424003, 6.041837) comme roche principale | maisons à 95-110 m, fouille en terrain privé dans 5 cas sur 6 (rétrogradée, pas éliminée) | t42 |
+| (Alerte, pas écartée) Roches A, B et C du Mouret vs fauteuil (FAQ03-112) | points de fouille sur des pentes de 40-100 % | t42 |
