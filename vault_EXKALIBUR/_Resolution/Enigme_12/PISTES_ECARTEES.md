@@ -43,3 +43,4 @@
 | (Alerte, pas écartée) Roches A, B et C du Mouret vs fauteuil (FAQ03-112) | points de fouille sur des pentes de 40-100 % | t42 |
 | Croisements piétons du centre de Saint-Maximin (mairie, école, parc, 440-525 m de la tour) | seuls points de croisement vus du pied, mais en plein village (maisons à 8-40 m), pas une clairière | t42_strict |
 | Croisement plat 45.426664, 6.033741 (318 m du pied, cap 140°) | aucun lien logique (place de table à 1 068 m) ; Rebouchet intermittent à 118 m ; parcelles privées autour (route publique seule) ; maisons à 96 m. Il est sur la direction tour → Le Mouret (134,6°), sans plus. | t42 |
+| Croisements au bord des cours d'eau permanents (Perrière, Rebouchet aval, Papet, Coisetan) | aucun visible du pied ; groupe nord à 2,1-2,3 km vu seulement du sommet (gardé en réserve) | t42 |
