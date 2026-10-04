@@ -76,3 +76,16 @@ Image : `images_travail/t46_paques_source_simon.jpg`. Scripts : `t45_horizon.py`
 - **Domaine public** : seule une roche à la jonction même (4-11 m) donne une fouille dans la bande publique (chemins à l'est de la jonction). Pour une roche à la source, la fouille (45.42182-45.42194, 6.04034-6.04054, stable quelle que soit la lecture du « jour dernier ») est en bois privé, à 19-31 m du sentier sud. Le sentier sud n'est public que sur 194 m de ses 479 m. → **Point ouvert.**
 - **Éclairage le matin de Pâques 1524** (`t46_eclairage.py`) : le soleil apparaît au rempart à 92,7° et 11,8° de hauteur. Le pré visible du Mouret est éclairé ~47 min plus tard ; la jonction et la source restent à l'ombre (versant NO boisé). « Au matin » tient, mais ce test ne départage pas les pistes.
 - **Enluminure 9 lue avec l'hypothèse P** : un rocher avec une petite chute dans une vasque (la roche de la source), la coupe à son pied (= le trésor, 07-005), un soldat romain (les gardes du tombeau, Mt 27,65-66 ; FAQ04-175 : il faut identifier son prénom), deux poissons (*ichthys*). FAQ07-196 : l'enl. 9 sert à « localiser l'objectif de votre quête », et « les éléments aux alentours pourront vous être utiles ». Lecture cohérente, mais symbolique.
+- **Contrôle des dates de veillée** (lever visible au-dessus du relief, table ronde, place de Simon) :
+
+| Veillée | Orient | Jonction | Source | Maisons | Pré vu du pied (≤ 80 m) |
+|---|---|---|---|---|---|
+| **Pâques 1524** | 92,7° | 73 m | **12 m** | 182 m | 142 m² |
+| **Pâques 2026** (05/04) | 93,9° | 89 m | **16 m** | 166 m | 294 m² |
+| Est conventionnel | 90,0° | 55 m | 59 m | — | — |
+| Veille de la mort de Bayard (30/04/1524 julien) | 70,1° | 52 m | 425 m | **54 m** | 0 |
+| 30/04 grégorien | 76,7° | 77 m | 304 m | 73 m | 0 |
+| Équinoxe | 104,1° | 192 m | 141 m | 99 m | 5 510 m² |
+
+  → **Seule l'aube de Pâques** donne à la fois une source, une jonction proche et des maisons loin. Le résultat ne dépend pas de l'année (1524 ou 2026), ce qui respecte la règle « étape ancrée en 2026 ».
+- **Lieu-dit « LES TILLES »** (où se trouve la source) = tilleuls (latin *tilia*), d'après l'étymologie. Écho possible à la « souche-majesté » (souche d'un vieux tilleul ?). **Faible**, non démontré.
