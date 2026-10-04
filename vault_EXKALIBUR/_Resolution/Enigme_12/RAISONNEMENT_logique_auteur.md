@@ -558,3 +558,11 @@ Coffre exigé : public **sûr** (parcelle publique, forêt publique ou voirie no
 - Place de Simon : 41-62 m de la source, **38-57 m de la jonction** (elle tombe entre les deux) ; corde 3→11 : **6-25 m de la jonction**, 7-28 m du pont du Rebouchet.
 - Moins précis sur la source que 2026 (3-17 m) et 1524 (20-36 m), mais la zone est la même : P est stable de 1524 à 2026, y compris en 2023.
 - Si le « jour dernier » des 8 derniers pas vaut aussi 90°, la roche à ~294 m (§29.2) donne bien un coffre sur public sûr (45.42033, 6.04264).
+
+### 29.4 Sentier sud et domaine public autour de la source (`t86_sentier_sud.py`, `t87_roche_source.py`)
+- Le **sentier sud** (479 m, BD TOPO) traverse près de la source la parcelle **privée B0267** (sur ~120 m) : pas de bande publique sous le sentier à cet endroit. Toutes les parcelles à moins de 75 m de la source sont à des particuliers.
+- La **bande non cadastrée** du réseau de chemins de la jonction (ancien chemin rural) descend vers le sud jusqu'à **35 m de la source** (extrémité vers 45.42209, 6.04021) ; le sentier actuel passe un peu à l'est.
+- Roche à la source : coffre en privé (toutes lectures). Roche à la jonction (2-7 m) : coffre public, mais pas d'eau à suivre.
+- **Variante « roche à mi-chemin »** : roche sur l'eau qui descend de la source, à ~40 m de la jonction et ~40 m de la source (≈ 45.42212-45.42214, 6.04000-6.04003 ; talweg 3 ha, terrain ouvert, 15-18 m du sentier). Coffre **dans la bande publique** pour les 5 lectures du jour dernier (67,7 / 74 / 90 / 91,4 / 93°), avec le pas de 0,65 m pour le premier point et de 0,75-0,8 m pour le second ; coffre ≈ **45.42217-45.42223, 6.04017-6.04020**, à 7-9 m du chemin, maisons à ~175 m. **Fragile au mètre** (bande de quelques mètres).
+- Remarque : l'eau qui sort de la source part vers le nord-ouest (pylône 400 kV) et passe à ~40-50 m de la jonction, pas sur la jonction même.
+- Schémas : `images_travail/t88_schema1_table.jpg` (Table de la Cène sur le rempart), `t88_schema2_fin.jpg` (jonction → roche → coffre, avec le cadastre), `t88_schema3_pas.jpg` (lecture de la strophe et des pas).
