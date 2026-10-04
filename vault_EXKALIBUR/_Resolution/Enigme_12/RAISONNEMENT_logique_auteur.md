@@ -232,3 +232,4 @@ Le lever visible a été calculé sur le relief nu. Avec une canopée de 15-25 m
 | **93,4-93,6° (2026, canopée)** | 9-12 m | 83-85 m | **2-4 m** | 23-26 m |
 
 → Sur **toute la plage réaliste de l'aube de Pâques (91,3-93,6°)**, la corde 3→11 passe à ≤ 26 m de la jonction et à ≤ 19 m du seul ruisseau visible depuis le rempart, et la place de Simon est à ≤ 35 m d'une source. **La construction est robuste**.
+- **Robustesse au centre** (pied ±20 m N/E/S/O, Orient 91,6° et 93,4°) : corde → jonction 1-43 m ; corde → ruisseau vu 0-36 m ; Simon → source 9-48 m. Le résultat ne dépend pas du mètre près au rempart (le sommet donnait 5-27 m de la source, §9).
