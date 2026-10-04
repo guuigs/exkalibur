@@ -10,6 +10,7 @@
 5. Pas de visite sur place (l'auteur dit que tout se fait de chez soi).
 6. Communauté (Discord) = hypothèses seulement, jamais des faits.
 7. **Jamais de demande de photos à Guilhem** : Claude fait les recherches en ligne lui-même, ou accepte la part d'inconnu et le note (04/10).
+10. **Méthode (04/10)** : plus de force brute sur la roche ou le terrain. On raisonne comme l'auteur : départ + ciel + 3e/11e + distance → un lieu justifié ; le terrain ne sert qu'à vérifier. Voir `Enigme_12/RAISONNEMENT_logique_auteur.md`.
 9. **« À senestre » : les deux lectures sont acceptées** (narrateur sur la rive gauche, OU l'eau à sa gauche) (04/10). Le Mouret et l'option « ruisseau vu du rempart » restent toutes deux valides.
 8. **Fauteuil (FAQ03-112) au sens large** : un sentier praticable avec un accompagnateur suffit ; ce n'est plus un critère d'élimination (04/10).
 
