@@ -256,3 +256,14 @@ Le texte impose l'ordre jonction → (suivre les eaux) → grande roche → 10 p
 - **Lecture retenue** : la roche est à la source (45.42177, 6.04019), à 73 m de la jonction en montant le sentier sud. Souche ≈ 45.42183-45.42190, 6.04027-6.04038. **Coffre ≈ 45.42183-45.42194, 6.04034-6.04053**, à 13-32 m après la roche et ~56-67 m à vol d'oiseau de la jonction (les 10 pas vers le nord ramènent un peu vers elle).
 - Le domaine public reste **non tenu** à cet endroit (bois privé).
 - Carte du raisonnement complet : `images_travail/t49_carte_raisonnement_P.jpg` (A : rempart → Orient de Pâques → Table ronde → 3e/11e → corde → ruisseau → jonction ; B : jonction → sentier, eau à gauche → roche/source → souche → coffre).
+
+## 18. Variante P-public (version qui respecte l'ordre du texte ET le domaine public)
+- **Terrains publics autour de la jonction (300 m)** : aucune parcelle communale. Les 4 parcelles « personnes morales » voisines sont des **biens non délimités** (« propriétaires du BND », groupe 0) = indivision privée → pas du domaine public. Seul public : le **réseau de bandes non cadastrées des chemins** (~2,5 km, qui part de la jonction).
+- **Recherche ciblée** (`t50_public_variante.py`) : roches sur les eaux reliées à la jonction (238 cellules LiDAR, amont et aval jusqu'à 400 m) ; coffre = roche + 10 pas N + 10 pas E + 8 pas (pas de 0,65/0,75/1,48 m ; jour dernier 67,7/90/91,4/93°) ; test « coffre dans une bande publique ». **51 combinaisons, toutes avec une roche à ≤ 24 m de la jonction.** Les sources (73 et 162 m) n'en donnent aucune.
+- **Variante retenue** : de la jonction, on suit l'eau du petit talweg qui descend du sud (juste à l'est du sentier sud, **à gauche** en montant) sur **11-24 m** (cap 144-156°) jusqu'à la grande roche (≈ 45.42223-45.42234, 6.04038-6.04043). Puis 10 pas N, 10 pas E et 8 pas → **coffre ≈ 45.42239-45.42242, 6.04053-6.04077**, dans la bande publique du **chemin de l'est**, à 1-5 m du chemin, maisons à 206-215 m. L'ordre du texte est respecté et le coffre est « tout près » (20-45 m de la jonction).
+- **Réserves** :
+  - la roche n'est pas visible au LiDAR ni sur l'orthophoto (inconnue acceptée) ;
+  - le chemin de l'est est un chemin creux où coule un talweg : le coffre pourrait être en zone humide, en tension avec FAQ06-090 (pas de pieds mouillés après la roche) ;
+  - l'enl. 9 (source jaillissant d'un rocher) collait mieux à la source qu'à un rocher du talweg ;
+  - le résultat est sensible au mètre près (bande cadastrale de quelques mètres).
+- Carte : `images_travail/t50_variante_public.jpg`.
