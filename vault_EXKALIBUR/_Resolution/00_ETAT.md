@@ -31,6 +31,23 @@
 | 2 | Loup (cercles 3 et 11 de Machrie Moor, cap 95,78°) | Identité des 3e/11e solide (FAQ8, enl. 11, bois du cercle 11) | J5 invisible du pied, pas une clairière, privé ; pré visible à 1 287 m sans croisement ; ne passe pas le crible terrain | ~5 % |
 | 3 | Apôtres, autres orientations ; Muraillat | — | J2 n'est pas un croisement | écartée |
 
+
+### Grille de contrôle (04/10, 07:10) — ✅ tenu, ⚠️ discutable, ❌ violé
+| Contrainte (FAQ) | Le Mouret (rocher A) | Loup (J5) | Centre du village |
+|---|---|---|---|
+| Lien logique avec 3e/11e (05-074…) | ✅ table des apôtres (Simon à 37-77 m) | ✅ cercles 3/11 de Machrie | ❌ aucun |
+| Clairière dans le champ de vision du rempart (05-165, 06-230) | ⚠️ pré vu du pied, mais pas le point de jonction (41 m) | ❌ J5 invisible | ✅ point vu |
+| Vrai croisement de chemins (06-005) | ✅ 4 branches | ✅ | ✅ |
+| Clairière restée clairière (03-274) | ✅ pré en lisière de forêt | ❌ pas une clairière | ❌ parc urbain |
+| Eau, roche mouillée qui barre le passage (FAQ8, 06-195) | ✅ cascade du Rebouchet à 13 m du rocher A | ⚠️ ravin | ❌ |
+| Coffre loin des bâtiments (05-107) | ✅ maisons à 150-180 m | ⚠️ | ❌ maisons à 8-40 m |
+| Domaine public (01-235, 02-097) | ⚠️ bord de la bande publique du Rebouchet | ❌ privé | ✅ |
+| Fauteuil avec accompagnateur (03-112) | ❌/⚠️ pente de 40 % au point de fouille, 131 m hors chemin | ❌ | ✅ |
+| Coffre « tout près » de la jonction (05-051) | ⚠️ ~410 m | ⚠️ | — |
+| Peut être bloqué par la météo, sans danger (04-198) | ✅ crue du ruisseau | ✅ | ❌ |
+
+Lecture : aucune piste ne tient tout. Le Mouret coche le plus de cases. Ses deux points faibles sont l'accessibilité en fauteuil et la visibilité du point exact. Le crible strict (`t42_strict.py`) montre que cette visibilité n'est tenue par **aucune** clairière en forêt de la zone.
+
 Fichiers de référence : `Enigme_12/RECAP_04-10_session_autonome.md` (le plus récent), `Enigme_12/pistes_brutes_3e_11e.md` (journal détaillé), `Enigme_12/PISTES_ECARTEES.md`.
 
 ## Prochaines actions

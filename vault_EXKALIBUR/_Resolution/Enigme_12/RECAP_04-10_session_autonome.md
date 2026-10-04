@@ -70,3 +70,11 @@ Lecture possible : la clairière (le pré) est vue du rempart et la jonction est
 - FAQ03-112 : fauteuil « oui », mais « se faire accompagner néanmoins ». Le « néanmoins » admet une difficulté réelle (sentier, pente), pas une marche lisse.
 
 Lecture retenue (à valider par Guilhem) : « accessible » au sens d'un chemin praticable avec aide, pas d'un terrain plat au point de fouille. Le rocher A, au bord d'une cascade dans un ravin à 40 % de pente, reste à la limite de cette lecture ; c'est le doute n° 1.
+**Axe narrateur (château Bayard → tour d'Avalon)** : cap 58,4° sur 1 140 m ; prolongé de 1 068 m, il tombe en 45.433904, 6.04264, et de 1 850 m en 45.437588, 6.051155, côté plaine de Pontcharra (abandonnée d'office). Il ne passe pas par Le Mouret (cap 134,6° depuis la tour). Le Mouret est en revanche **plein est du château Bayard** (94,0° ; rocher A : 96,2°). Coïncidence probable, sans valeur de preuve : on le note, on ne l'utilise pas.
+**Accès à la cascade / rocher A** : un chemin (BD TOPO) et un sentier (OSM) passent à **35-45 m à l'est**, avec deux croisements de 3 branches (45.421309, 6.045840 et 45.421552, 6.045886), sous couvert total, invisibles de la tour. Mais ils sont **21-25 m plus haut** que la cascade (pente moyenne de descente 47-57 %). On atteint le rocher depuis un chemin, mais par une descente raide dans le ravin. C'est confirmé : pas praticable en fauteuil, même accompagné, sauf lecture très large de FAQ03-112.
+**Crible « clairière visible + plat » sur toute la zone** (`t42_plat_clairiere.py`, ≥ 30 m² de terrain ouvert vu du pied à 60 m, pente ≤ 12° au croisement, maisons ≥ 100 m, forêt autour ≥ 0,30, eau ≤ 200 m) : **0 résultat**. En assouplissant (maisons ≥ 60 m, forêt ≥ 0,20, pente ≤ 15°), il en reste 3 :
+- 45.426664, 6.033741, à 318 m de la tour, maisons à 96 m, forêt 0,21 ;
+- deux croisements agricoles des Ripellets (déjà écartés).
+
+Hors critère de forêt, on trouve un croisement plat à 3,2 km au nord (45.457067, 6.024503, en plein champ). **Conclusion** : sur la zone, « clairière en forêt » et « terrain plat praticable en fauteuil » ne se rencontrent jamais. Une des deux lectures doit être assouplie. On garde « clairière » (texte brut de l'énigme) et une lecture large de FAQ03-112 (« se faire accompagner néanmoins »).
+**Fin de la session de 30 min (07:12)**.
