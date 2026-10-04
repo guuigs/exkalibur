@@ -1,24 +1,18 @@
-# Brouillon de soumission — Énigme 12 « Ad vitam aeternam » (Le Mouret)
+# Brouillon de soumission — Énigme 12 « Ad vitam aeternam »
 
-Format demandé par l'auteur (FAQ07-078) : captures vues du ciel de la clairière, plus un paragraphe sur le parcours final. Image jointe : `E12_soumission_brouillon_Mouret.jpg`.
+Format demandé par l'auteur (FAQ07-078) : captures vues du ciel de la clairière et un paragraphe sur le parcours. Images : `images_travail/t46_paques_source_simon.jpg` (principale), `E12_soumission_brouillon_Mouret.jpg` (ancienne version).
 
-**À ne pas envoyer en l'état** : les candidates pour la grande roche (A, B, C) ne sont pas tranchées. L'auteur limite les validations à distance à environ une par mois (FAQ01-151).
+**À ne pas envoyer en l'état.** Les validations à distance sont limitées à environ une par mois (FAQ01-151). Deux points restent ouverts : (1) le domaine public au point de fouille ; (2) la position exacte de la grande roche, qu'on ne peut pas voir en ligne.
 
-## Paragraphe proposé
-L'ultime traversée de l'énigme 11 (Saint-Palais → château Bayard, prolongée « très finement ») arrive au chemin de rempart de la tour d'Avalon, à Saint-Maximin. Les troisième et onzième sont Jacques le Majeur (la gourde, enluminure 8) et Simon le Zélote (la scie, enluminure 12), deux convives de la Cène (*Ultima cena*). Ils sont assis à une table ronde de douze places centrée sur le rempart, présidée par le Christ à l'Orient. Les apôtres sont numérotés depuis sa droite. Dix stades séparent la troisième et la onzième place, ce qui donne un rayon de 1 068 m.
+## Paragraphe proposé (hypothèse P, 04/10)
+L'ultime traversée de l'énigme 11 (*Consummatum est*) s'achève au chemin de rempart de la tour d'Avalon, à Saint-Maximin. On retrouve ce lieu en concaténant Hugues (*Ultima cena*) et la tour aux deux yeux de l'enluminure 12 : Hugues de Lincoln, c'est-à-dire Hugues d'Avalon. Après la mort (*Consummatum est*) vient la vie éternelle : la seconde phrase décrit la veillée pascale (« Tout commence et tout s'achève », l'Alpha et l'Oméga ; le chant de l'*Exsultet*, que le narrateur est seul à entendre ; « au matin, illuminé par l'astre glorieux », l'astre du matin). Depuis le rempart, le soleil de l'aube de Pâques franchit la crête au cap 92,7° : c'est l'Orient, où siège le Christ. Les troisième et onzième sont les convives de la Cène, Jacques le Majeur et Simon le Zélote (liste de Matthieu ; Simon et sa scie sont peints dans l'enluminure 12). Ils sont assis à la Table ronde, que Merlin fonda en souvenir de la table de la Cène. Cette table est centrée sur le rempart, le Christ à l'Orient, les apôtres comptés depuis sa droite. Dix stades séparent leurs places, ce qui donne un rayon de 1 068 m. La place de Jacques tombe dans les prés au nord du Bréda, où il n'y a pas d'écharde et où l'on ne marche pas. La place de Simon tombe en forêt, sur une source, à 73 m de la jonction de quatre chemins du Mouret, en lisière d'une clairière visible depuis le pied du rempart. Le treizième, la place du Christ, ne mène pas au bon endroit : ce sont des champs. De la jonction, j'ai suivi les eaux enchantées en les gardant à senestre par le sentier qui monte au sud. Je suis arrivé à la grande roche d'où sort la source, qui barre le passage. De là, dix pas au nord, dix pas à l'est, puis huit pas vers le jour dernier.
 
-La place de Simon tombe au Mouret. Là, au bord d'un pré visible depuis le pied de la tour, se trouve la jonction de quatre chemins (45.422426, 6.040299). De cette jonction, je suis à senestre les eaux qui coulent dans le chemin creux montant vers l'est, sur la rive gauche, en direction du ruisseau de Rebouchet, jusqu'à la grande roche qui barre le passage au bord de l'eau. De la roche, je fais dix pas au nord et dix pas à l'est jusqu'à la souche-majesté, puis huit pas vers l'est, vers le jour dernier. Je m'attends à creuser en bordure de la bande publique du Rebouchet.
+## Points de fouille
+| Roche | Position | Point de fouille | Statut |
+|---|---|---|---|
+| **Roche de la source (hypothèse P)** | 45.42177, 6.04019 (source BD TOPO) | 45.42182-45.42194, 6.04034-6.04054 (pas de 0,65-1,48 m ; stable quelle que soit la lecture du « jour dernier ») | bois privé, à 19-31 m du sentier : **domaine public non démontré** |
+| Roche au bord de l'eau, à 4-11 m de la jonction (variante de P) | autour de 45.42244, 6.04025 | 45.42239-45.42266, 6.04040-6.04060 | dans la bande publique des chemins |
+| Rocher A, cascade du Rebouchet (ancienne lecture) | 45.421452, 6.045319 | 45.42151-45.42162, 6.04549-6.04567 | bord de la bande publique ; à 410 m de la jonction |
+| Ressaut de 4,7 m (variante « ruisseau vu du rempart ») | 45.423957, 6.041700 | 45.42402-45.42412, 6.04187-6.04205 | bord de la bande publique ; à 376 m du pont |
 
-## Points de fouille selon la roche (pas de 0,75 ou 1,48 m ; 8 pas vers 90°, 67,6° ou 72,4°)
-| Roche | Position | Point de fouille |
-|---|---|---|
-| A, rocher d'environ 4 m au bord du Rebouchet | 45.421452, 6.045319 | 45.42151-45.42162, 6.04549-6.04567 |
-| B, affleurement de 48 m² (rive gauche) | 45.423697, 6.041412 | 45.42376-45.42386, 6.04159-6.04177 |
-| C, ressaut de 5,6 m du lit | 45.424003, 6.041837 | 45.42406-45.42416, 6.04201-6.04218 (1 seul cas public ; maisons à 95-110 m) |
-
-## Alertes (04/10, 07:05)
-- Le rocher A est à 13 m du ressaut le plus raide du Rebouchet (10 m de chute sur ~10 m) : c'est une cascade probable, ce qui colle avec l'enl. 9.
-- **Critère fauteuil (FAQ03-112)** : les points de fouille A, B et C sont sur des pentes de 40-100 %. À trancher avant tout envoi (voir `00_ETAT.md`, action 4).
-
-## Variante R : « ruisseau vu du rempart » (04/10)
-Depuis le pied de la tour, le seul ruisseau visible est le Rebouchet (cap 115-120°, ~600 m). On part de la jonction route + sentier au pont (45.426344, 6.038290). On suit les eaux en les gardant à senestre sur 380 m jusqu'au ressaut de 4,7 m qui barre le passage (45.423957, 6.041700). Puis 10 pas au nord, 10 à l'est, et 8 vers le jour dernier. Fouille vers 45.42402-45.42412, 6.04187-6.04205, au bord de la bande publique du Rebouchet ; maisons à 106-121 m.
+Argumentaire complet : `vault_EXKALIBUR/_Resolution/Enigme_12/RAISONNEMENT_logique_auteur.md` (§5).
