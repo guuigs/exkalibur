@@ -53,3 +53,10 @@
 | Autres veillées (mort de Bayard, 30/04, équinoxe) pour l'Orient | maisons à 54-99 m ou pas de source | t46 |
 | Vivier d'Avalon comme zone du coffre | bâti à moins de 100 m ; ENS ; rien de visible ; reste un candidat pour le **bassin** de l'enl. 9 | t43 |
 | **Toute lecture « Machrie Moor » des 3e/11e** (hypothèse Q J5/Tapon, loup, gabarits t32-t34, t48, §15) | FAQ06-133 : le 13e existe ; or Machrie Moor est numéroté de 1 à 11 seulement (Bryce 1861 + cercle 11 en 1978). Décision de Guilhem le 04/10 | Wikipedia « Machrie Moor Stone Circles », Canmore |
+| Ponts / passerelles comptés le long des cours d'eau, zone 18 × 18 km (3e et 11e à 10 stades) | 2 séries à ± 1 % sur 42, à 5,5-8 km, de l'autre côté de l'Isère : niveau du hasard | t55 |
+| Seuils numérotés (ROE, Sandre) | aucune série numérotée près de la tour | ROE 04/10 |
+| Croisement N du Coisetan (45.447665, 6.026558, Laissaud), vu du sommet, terrain public communal | plaine agricole (champs, peupleraie, fossé) : pas de clairière, pas de roche | t56, t58 |
+| Départ « Rue du Rempart » (vue plus au nord) | aucun candidat visible depuis la rue | t57 |
+| Hameaux Merlin / Chantabord, « les Trois Têtes », « Croix des Rameaux » | rien de visible à < 900 m ; trop loin / plaine | t56, 04/10 |
+| Reflet du soleil levant sur un ruisseau (Pâques, équinoxe) | soleil à 10-13° au-dessus de Belledonne : aucun reflet sur une eau visible | t59 |
+| Croisement du Couvet (45.434748, 6.059095, cap 73° = lever du 30/04) | maisons à 45 m ; Burge intermittente ; 2 280 m | t60 |
