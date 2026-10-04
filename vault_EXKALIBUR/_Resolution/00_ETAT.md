@@ -1,6 +1,6 @@
 # 00 — ÉTAT (à relire EN PREMIER à chaque reprise)
 
-**Dernière mise à jour : 04/10/2026, 07:12 (fin de la session active de 30 min).** Énigmes 1 à 11 validées par Guilhem (aucune validation officielle). Énigme 12 en cours.
+**Dernière mise à jour : 04/10/2026, fin du créneau autonome d'1 h (hypothèse P « aube de Pâques »).** Énigmes 1 à 11 validées par Guilhem (aucune validation officielle). Énigme 12 en cours.
 
 ## Règles de travail (Guilhem)
 1. **On acte** une lecture logique vis-à-vis du texte, sans attendre une preuve chiffrée ; on ne la remet en cause que si une réponse de l'auteur la contredit (03/10).
@@ -57,6 +57,12 @@ Lecture : aucune piste ne tient tout. Le Mouret coche le plus de cases. Ses poin
 Fichiers de référence : `Enigme_12/RECAP_04-10_creneau_1h_Paques.md` (le plus récent), `Enigme_12/RAISONNEMENT_logique_auteur.md`, `Enigme_12/RECAP_04-10_session_autonome.md`, `Enigme_12/pistes_brutes_3e_11e.md` (journal détaillé), `Enigme_12/PISTES_ECARTEES.md`.
 
 ⚠️ **Erreur de signe corrigée le 04/10** : cap grille Lambert 93 = cap vrai **−** 2,2° (voir `Enigme_12/RAISONNEMENT_logique_auteur.md` §9).
+
+### Ce que le créneau du 04/10 (08:00-09:00) a établi pour l'hypothèse P
+- **Robustesse** : sur toute la plage de l'aube de Pâques (91,3-93,6°, relief nu ou boisé, 1524 ou 2026), et avec un centre décalé de ±20 m, la corde 3→11 passe à ≤ 26 m de la jonction et à ≤ 19 m du seul ruisseau visible du rempart ; Simon est à ≤ 35 m d'une source (§14 du dossier).
+- **Contrôles** : numérotation en miroir, autres dates de veillée et lever astronomique sont nettement moins bons. P dépend du lever **visible**, ce que justifie « m'est apparu au matin ».
+- **Variantes testées** : table de Winchester (3 = Gauvain, 11 = Lucan) → bel écho de Malory pour la première phrase, mais pas de géométrie ; axe Machrie Moor + Cène (Jésus au rempart) → en rangée, les champs des Ripellets (écarté) ; en table ronde, retour au Mouret (cohérent avec P).
+- **Point bloquant restant : le domaine public** (FAQ8 : « pas de terrains privés »). Une fouille publique n'est possible que si la roche est à ≤ 11 m de la jonction, et ce résultat change à quelques mètres près.
 
 ## Prochaines actions (après le créneau autonome du 04/10, 08:00-09:00)
 1. **Hypothèse P (aube de Pâques)**, dossier principal : `Enigme_12/RAISONNEMENT_logique_auteur.md` §5 à §9. Grille de 38 contraintes : 24 tenues, 13 discutables, 1 non tenue (domaine public).
