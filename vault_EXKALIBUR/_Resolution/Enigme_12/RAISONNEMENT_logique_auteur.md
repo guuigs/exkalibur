@@ -40,3 +40,31 @@ Lecture **apôtres / Cène** (gardée) :
 - **Règle** : on ne retient une construction que si chacun de ses choix se justifie par le texte ou la FAQ, et non parce qu'elle tombe sur un bon terrain.
 
 Scripts : `outils_scratch/t45_cene_rangee.py`, `t45_horizon.py` (lever visible sur le MNT de 50 km), `t45_zoom.py`. Image : `images_travail/t45_place11_lever1524.jpg`.
+
+## 5. Hypothèse P — « l'aube de Pâques » : la table s'oriente sur le ciel, Simon tombe sur une source (04/10, créneau autonome)
+### La chaîne, étape par étape, et ce qui justifie chaque choix
+| Étape | Choix | Justification (texte, FAQ, faits) | Choisi par nous ? |
+|---|---|---|---|
+| 1. Départ | pied du rempart, tour d'Avalon | É11 (alignement Saint-Palais → Bayard → tour) + concaténation É8 / enl. 12 (Hugues de Lincoln = Hugues d'Avalon) ; FAQ06-193 | non |
+| 2. Quel matin ? | **Pâques**, la dernière veillée pascale du narrateur (Bayard, mort le 30/04/1524) : Pâques 1524 = 27/03 julien = 06/04 grégorien | Ligne 2 = la **veillée pascale** : « Tout commence et tout s'achève » = Alpha et Oméga du cierge pascal ; « J'entends le chant retentir » = l'*Exsultet*, entendu du seul narrateur (FAQ03-184 : « très bonne question, oui ») ; « dernière veille » = vigile ; « au matin, illuminé par l'astre glorieux » = l'« astre du matin » de l'*Exsultet* ; Mc 16,2 « comme le soleil venait de se lever » ; É11 = *Consummatum est* (mort) → É12 = *Ad vitam aeternam* (résurrection). FAQ04-159 (« trois fois Pierre… intéressant ») fait écho au reniement et au chant du coq | le choix de l'**année 1524** suppose narrateur = Bayard (déjà acté, É9) |
+| 3. Direction du ciel | **lever réellement vu du rempart le matin de Pâques 1524 = 92,7°** (calcul sur le MNT IGN de 50 km, réfraction et courbure ; le soleil passe la crête de la Burge à 3,05 km). Vérification : 92,1° la veille, 93,2° le lendemain | FAQ07-152 (« relation avec le ciel pour trouver la direction et l'endroit ») ; 06-166 ; le Christ = *Oriens*, l'astre du matin | non (calculé, pas ajusté) |
+| 4. Nature des 3e/11e | **apôtres de la Cène**, liste de Matthieu 10 : 3 = Jacques le Majeur, 11 = Simon le Zélote ; 12 à table + le Christ = 13 | FAQ04-051 (ordre ≠ « numéro 1 » d'*Ultima Cena*, « très bonne question ») ; 13e existe (06-133 : la 13e place = celle du Christ, à l'Orient, « pas le bon endroit ») ; pas de 16e (FAQ8) ; même nature, un seul de chaque ; Simon (scie, bois) → écharde possible au 11e, Jacques non (07-068) ; Simon peint dans l'enl. 12, Jacques (gourde) dans l'enl. 8 ; « visibles sur les enluminures ? » → « l'une des clés » (05-093) | liste de Matthieu (Mc 3 donne aussi Simon 11e) |
+| 5. Géométrie | table **ronde** centrée au rempart, le Christ assis à l'Orient (92,7°), apôtres numérotés depuis sa droite ; 3e et 11e séparés de 10 stades → rayon 1 068 m | FAQ07-120/07-180 (positionner par rapport au départ avec la distance) | **oui** : table ronde plutôt que rangée (l'enl. 12 montre une table longue : point faible) |
+| 6. Où l'on arrive | **place de Simon = 45.421761, 6.040335**, à **11 m d'une source** BD TOPO (45.42177, 6.04019) et à **74 m** de la jonction de 4 chemins du Mouret, en lisière d'un pré vu du pied de la tour | FAQ07-133 (les 3e/11e identifient directement la clairière) ; 05-155/05-165 (vu du rempart) ; 06-005 (vrai croisement) ; 03-274 | — |
+| 7. « à senestre les eaux enchantées » | de la jonction, le **sentier sud** (479 m, montée) longe le talweg ; l'eau est **à gauche** de 50 à 90 m, là où se trouve la source (à 12 m à gauche du sentier) ; avant, le talweg coule dans le chemin | « enchantées = merveilleuses » (05-025) : la source des fées (« le roi avait rejoint les fées ») ; pieds mouillés possibles avant la roche (06-090) | les deux lectures de « à senestre » sont acceptées |
+| 8. « la grande roche » | la roche d'où sort la source (non vérifiable en ligne : sous 22 m d'arbres) ; elle « bloque le passage » au bout du ruisseau ; mouillée ; difficile à toucher sans se mouiller | FAQ8, 06-195, 06-180, 07-126 ; « tout près » de la jonction (05-051) : **73 m** | inconnue acceptée |
+| 9. Fouille | roche + 10 pas N + 10 pas E + 8 pas vers le jour dernier : vers 45.42183-45.42193, 6.04036-6.04054, à 22-31 m du sentier, maisons à 184-197 m | 05-107 ✓ | — |
+
+### Robustesse et hasard
+- Source la plus proche de la place de Simon : 1-27 m depuis le pied ou le sommet, quel que soit le rayon (1 057-1 079 m) ou l'Orient (92,1-93,2°). Depuis la Rue du Rempart : ~100 m. Avec l'Orient conventionnel (90°) : 59 m.
+- Hasard : la zone ne compte que 5 sources. Un point tiré au hasard sur le cercle de 1 068 m est à 11 m ou moins d'une source dans **0,21 %** des cas (0,67 % à 25 m, 2,2 % à 50 m).
+- Prudence : plusieurs constructions ont été essayées au fil des sessions (effet « chercher ailleurs »). L'orientation de Pâques, elle, a été calculée avant de connaître le résultat.
+
+### Points faibles (honnêtes)
+- **Domaine public** : la source est dans une parcelle privée (B0267, propriétaire particulier) ; la bande publique est à 35 m ; le sentier, à 12 m, traverse des parcelles privées. FAQ01-235 (« domaine public ») n'est donc pas démontré au point de fouille.
+- **Table ronde contre table longue** : l'enl. 12 montre une table longue ; la rangée de Léonard ne donne rien de net (voir §3).
+- **Pylône 400 kV** à 50 m de la jonction : une partie du « pré » est le couloir de la ligne.
+- Lieux-dits : la source est dans « LES TILLES » (tilleuls ? écho possible de la « souche-majesté », non démontré) ; « LE RAMPEAU » à 48 m = un jeu de quilles, **pas** les Rameaux (vérifié) → aucun appui.
+- La roche, la cascade et la vasque de l'enl. 9 ne sont pas vérifiables en ligne (inconnue acceptée).
+
+Image : `images_travail/t46_paques_source_simon.jpg`. Scripts : `t45_horizon.py`, `t46_carte_paques.py`, `t44_dig.py`.
