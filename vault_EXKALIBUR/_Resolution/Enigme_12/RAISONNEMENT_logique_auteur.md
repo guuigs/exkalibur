@@ -492,3 +492,7 @@ Sur 720 caps, 138 traversent au moins 13 lieux-dits ; **12 (≈ 9 %)** donnent u
 
 ### 25.4 Effet sur l'hypothèse R
 Les lieux-dits remplacent la « rangée » abstraite, choisie après coup, par une **série réelle** qui coche toutes les contraintes des 3e/11e, y compris pieds nus / écharde. **Confiance relevée à ~20 % (jugement)**. Points faibles restants : visibilité depuis un seul point de la muraille ; « tout près » (~400 m jusqu'à la roche) ; 2,3 km du rempart (06-025, 06-244) ; Burge intermittente ; « chant » et première phrase à relire pour le 30 avril.
+
+## 26. Crible strict à ≤ 1,5 km du rempart (FAQ06-244 « pas loin », 06-025 « très proches »), sans exiger de forêt (FAQ07-240)
+`t73_proche.py` : 6 croisements passent (vu de la muraille, eau ≤ 120 m, terrain public à ≥ 100 m des maisons dans 150 m). 5 sont dans le bourg de Saint-Maximin ou à Pontcharra avec des maisons à 5-33 m ; le 6e (45.425486, 6.012916) est à côté de l'usine Sonoco, en zone bâtie de Pontcharra : écarté.
+**Conséquence** : à ≤ 1,5 km, aucun croisement hors zone bâtie ne passe toutes les conditions avec nos données. Soit « pas loin / très proches » s'entend à l'échelle de ~2-3 km (Couvet), soit une donnée nous trompe (visibilité LiDAR, cadastre). À trancher.
