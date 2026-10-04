@@ -1,6 +1,6 @@
 # 00 — ÉTAT (à relire EN PREMIER à chaque reprise)
 
-**Dernière mise à jour : 04/10/2026, matin.** Énigmes 1 à 11 validées par Guilhem (aucune validation officielle). Énigme 12 en cours.
+**Dernière mise à jour : 04/10/2026, 07:12 (fin de la session active de 30 min).** Énigmes 1 à 11 validées par Guilhem (aucune validation officielle). Énigme 12 en cours.
 
 ## Règles de travail (Guilhem)
 1. **On acte** une lecture logique vis-à-vis du texte, sans attendre une preuve chiffrée ; on ne la remet en cause que si une réponse de l'auteur la contredit (03/10).
@@ -27,7 +27,7 @@
 ## Énigme 12 — état des pistes (04/10)
 | Rang | Piste | Ce qui la porte | Points faibles | Confiance (jugement) |
 |---|---|---|---|---|
-| 1 | **LE MOURET** (jonction de 4 chemins 45.422426, 6.040299 ; jonction 2 45.42337, 6.041663) | Deux méthodes indépendantes : (a) table des apôtres « Christ à l'Orient » (Simon à 37-77 m quel que soit le centre et le rayon) ; (b) crible « terrain d'abord » sur 7 × 7 km : seules jonctions en clairière, loin des maisons, près de l'eau ET visibles du pied de la tour. Talweg qui coule dans le chemin de l'est (eau à gauche en montant, rive gauche, chemin public). Deux sources. Affleurements rive gauche du Rebouchet ; gros rocher de 4 m (45.421452, 6.045319) | Jonction en lisière ; terrains privés autour (seuls chemins et bandes de ruisseau publics) ; pente 22-35 % ; grande roche non tranchée ; **points de fouille A, B et C sur des pentes de 40-100 % : incompatibles avec un fauteuil accompagné (FAQ03-112)** ; **le point de jonction lui-même n'est pas vu du pied (pré visible à partir de 41 m à l'ouest)** | ~15-20 % |
+| 1 | **LE MOURET** (jonction de 4 chemins 45.422426, 6.040299 ; jonction 2 45.42337, 6.041663) | Deux méthodes indépendantes : (a) table des apôtres « Christ à l'Orient » (Simon à 37-77 m quel que soit le centre et le rayon) ; (b) crible « terrain d'abord » sur 7 × 7 km : seules jonctions en clairière, loin des maisons, près de l'eau, dont le **pré** est visible du pied de la tour (le point de jonction lui-même ne l'est pas : aucun croisement en clairière forestière de la zone ne l'est). Talweg qui coule dans le chemin de l'est (eau à gauche en montant, rive gauche, chemin public). Deux sources. Affleurements rive gauche du Rebouchet ; gros rocher de 4 m (45.421452, 6.045319) | Jonction en lisière ; terrains privés autour (seuls chemins et bandes de ruisseau publics) ; pente 22-35 % ; grande roche non tranchée ; **points de fouille A, B et C sur des pentes de 40-100 % : incompatibles avec un fauteuil accompagné (FAQ03-112)** ; **le point de jonction lui-même n'est pas vu du pied (pré visible à partir de 41 m à l'ouest)** ; Rebouchet classé intermittent au Mouret | ~15 % |
 | 2 | Loup (cercles 3 et 11 de Machrie Moor, cap 95,78°) | Identité des 3e/11e solide (FAQ8, enl. 11, bois du cercle 11) | J5 invisible du pied, pas une clairière, privé ; pré visible à 1 287 m sans croisement ; ne passe pas le crible terrain | ~5 % |
 | 3 | Apôtres, autres orientations ; Muraillat | — | J2 n'est pas un croisement | écartée |
 
@@ -42,7 +42,7 @@
 | Eau, roche mouillée qui barre le passage (FAQ8, 06-195, 06-180) | ⚠️ cascade du Rebouchet à 13 m du rocher A, mais ruisseau classé intermittent par la BD TOPO à cet endroit | ⚠️ ravin | ❌ |
 | Coffre loin des bâtiments (05-107) | ✅ maisons à 150-180 m | ⚠️ | ❌ maisons à 8-40 m |
 | Domaine public (01-235, 02-097) | ⚠️ bord de la bande publique du Rebouchet | ❌ privé | ✅ |
-| Fauteuil avec accompagnateur (03-112) | ❌/⚠️ pente de 40 % au point de fouille, 131 m hors chemin | ❌ | ✅ |
+| Fauteuil avec accompagnateur (03-112) | ❌/⚠️ pente de 40 % au point de fouille ; chemin à 35-45 m mais 21-25 m plus haut (descente de 47-57 %) | ❌ | ✅ |
 | Coffre « tout près » de la jonction (05-051) | ⚠️ ~410 m | ⚠️ | — |
 | Peut être bloqué par la météo, sans danger (04-198) | ✅ crue du ruisseau | ✅ | ❌ |
 
@@ -53,9 +53,10 @@ Fichiers de référence : `Enigme_12/RECAP_04-10_session_autonome.md` (le plus r
 ## Prochaines actions
 1. Photos en ligne (Google Maps, randonneurs) du chemin creux de l'est au Mouret, de la jonction 2 et du gros rocher du Rebouchet.
 2. Trancher « à senestre » : chemin creux de l'est, ou sentier vers la jonction 2 et le Rebouchet.
-3. Calculer les points de fouille sur bande publique pour chaque roche retenue (`outils_scratch/t41_dig_public.py`).
+3. ~~Points de fouille A, B, C~~ fait (`t41_dig_public.py`, `t42_dig_rocheC.py`) ; classement A > B > C.
 4. **Trancher le critère fauteuil (FAQ03-112)**, doute n° 1 : ni l'amont (roches A, B, C) ni l'aval (pré plat sans roche, puis ravin) n'offrent au Mouret une roche au bord de l'eau praticable en fauteuil (`t42_*`). Relire la FAQ : « accessible » au sens général, avec accompagnateur ?
-5. Préparer la soumission (brouillon : `Livrables/E12_soumission_brouillon_Mouret.md`) : capture vue du ciel de la clairière et de la jonction, avec un paragraphe sur le parcours (FAQ07-078).
+5. Vérifier la permanence du Rebouchet au droit du rocher A (photos de la cascade en été ; BD TOPO dit « intermittent »).
+6. Préparer la soumission (brouillon : `Livrables/E12_soumission_brouillon_Mouret.md`) : capture vue du ciel de la clairière et de la jonction, avec un paragraphe sur le parcours (FAQ07-078).
 
 ## Tableau de bord des énigmes
 | # | Titre | Statut | Solution |
