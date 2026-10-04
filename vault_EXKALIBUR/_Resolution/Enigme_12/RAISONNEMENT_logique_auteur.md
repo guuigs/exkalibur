@@ -148,3 +148,24 @@ Observation de l'image (`images_travail/A_REGARDER_enluminure9.jpg`) :
 ## 8. Première phrase (contrainte n° 37) — pistes de lore
 - Lecture déjà notée : vers 1524 du *Roman de la Rose* (« Et por ce la fist Diex estable ») → **1524**, l'année de la mort de Bayard. C'est cohérent avec Pâques 1524 de l'hypothèse P.
 - Nouvel écho (faible) : la prière du publicain (Lc 18,13) dit « Mon Dieu, montre-toi favorable au pécheur que je suis », et le publicain « n'osait même pas **lever les yeux vers le ciel** ». Cela renvoie à FAQ8 (« faut-il lever la tête vers le ciel pour trouver le jour dernier ? Non »). Le publicain évoque aussi Matthieu, apôtre et ancien publicain. Rien de démontré.
+
+## 9. ⚠️ CORRECTION D'UNE ERREUR DE SIGNE (04/10, ~08:25) et nouveaux résultats
+**Erreur** : la règle notée depuis le 03/10 (« cap grille = cap vrai + 2,2° », et « cap vrai = cap grille − 2,2° » dans `pistes_brutes_3e_11e.md`, section « Correction des caps ») est **fausse de signe**. Vérification : un point à 1 km plein nord vrai de la tour a un cap grille Lambert 93 de **357,8°**. Donc **cap grille = cap vrai − 2,2°** et **cap vrai = cap grille + 2,2°**.
+- Calculs touchés :
+  - le lever visible (`t45_horizon.py`, corrigé) ;
+  - la direction des 8 derniers pas dans `t41_dig_public.py`, `t42_dig_rocheC.py`, `t44_dig.py` (écart < 1 m, négligeable) ;
+  - les caps « vrais » annoncés pour les balayages t29/t31 du 03/10, à **décaler de +4,4°** par rapport à ce qui est écrit.
+- Calculs **non touchés** : tous ceux qui passent par `G.fwd`/`G.inv` (géodésiques), notamment les places de la table et les distances aux sources.
+
+**Leviers visibles corrigés** : Pâques 1524 = **91,4°** (au lieu de 92,7°) ; Pâques 2026 = **93,0°** ; 30/04/1524 julien = 67,7° ; 30/04 grégorien = 74,0° ; équinoxe = 104,0°.
+
+**Hypothèse P, chiffres corrigés** :
+| Orient | Simon | Source | Jonction | Corde 3→11 : ruisseau vu du pied | Corde : jonction |
+|---|---|---|---|---|---|
+| 90,0° (est) | 45.422075, 6.040799 | 59 m | 55 m | 29 m | 28 m |
+| **91,4° (Pâques 1524)** | 45.421911, 6.040560 | **33 m** (24-27 m depuis le sommet) | 61 m | 18 m | **6 m** |
+| **93,0° (Pâques 2026)** | 45.421728, 6.040281 | **8 m** (5-13 m depuis le sommet) | 77 m | **7 m** | 17 m |
+
+**Nouveau fait structurel (FAQ04-115)** : la ligne droite de la 3e place à la 11e passe **par le seul tronçon de ruisseau visible depuis le pied du rempart** (le Rebouchet au pont, option R) puis **par la jonction de 4 chemins du Mouret**, avant d'arriver à la place de Simon. Ce seraient les « étapes intermédiaires » : on va « directement de la 3e à la 11e » en passant par le ruisseau magnifié, puis par la jonction dans la clairière. Les options R et Mouret se réunissent dans une seule géométrie.
+**Hasard** (toutes les orientations de 0 à 360°, pas de 0,2°) : la corde passe à ≤ 15 m d'un ruisseau vu du pied ET à ≤ 15 m d'une jonction de 4 branches proche de la 11e place pour seulement **0,44 %** des orientations, soit **92,0-92,8°** (et 164,6-165,0°). Cette fenêtre est **encadrée exactement par l'aube de Pâques 1524 (91,4°) et 2026 (93,0°)**.
+→ La correction affaiblit un peu la coïncidence « source à 11 m » pour 1524 (33 m), mais le lien corde → ruisseau visible → jonction la renforce nettement.

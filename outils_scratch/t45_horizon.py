@@ -10,7 +10,7 @@ ox,oy=T.transform(6.03115,45.42887);oz=float(mnt[int(YN-oy),int(ox-X0)])+1.7
 print('oeil pied',round(oz,1),'m')
 R=6371000;k=0.13
 def horizon(az_true):
-  azg=math.radians(az_true+2.2)  # cap grille
+  azg=math.radians(az_true-2.2)  # cap grille (CORRIGÉ : grille = vrai - 2,2°)
   best=-90;bd=0
   for d in np.arange(200,24000,25):
     x=ox+d*math.sin(azg);y=oy+d*math.cos(azg);h=z(x,y)
