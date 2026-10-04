@@ -462,3 +462,33 @@ Scripts : `t67_couvet_ciel.py`, `t68_couvet_rangee.py`, `t69_couvet_fouille.py`,
 
 ### 24.4 Confiance (jugement) : **~15 %**
 Elle devient la **piste n° 1**, devant P (bloquée par le domaine public, contrainte non relâchable). Elle reste basse en absolu, pour trois raisons : l'identité réelle des 3e/11e (pieds nus, écharde) manque ; la visibilité tient à un seul point de la muraille ; le modèle « rangée » a été choisi après coup. Ce qui la ferait monter nettement : trouver une **série réelle** dont la 1re est au rempart, la 3e vers 462 m (lieu-dit **Le Chapela**, sur la ligne) et la 11e au Couvet.
+
+## 25. Hypothèse R — les 3e et 11e = **lieux-dits cadastraux** traversés par la ligne du 30 avril (04/10)
+Guilhem confirme : on travaille sur le **croisement du Couvet**. Scripts : `t71_lieuxdits_ligne.py`, `t72_ld_hasard.py`.
+
+### 25.1 Le fait
+Sur la ligne du lever visible du 30/04 (73,9°) depuis la muraille, les lieux-dits du cadastre de Saint-Maximin traversés sont, dans l'ordre (stable depuis 4 points de muraille) :
+**1. AVALON** · 2. Le Chêne la Roche et le Vivier · **3. LA PRURAS** · 4. Le Chapela · 5. La Serve · 6. La Dobo · 7. Muraillat · 8. Combatassalin · 9. Les Ripellets · 10. La Grande Pièce et le Mont · **11. LE COUVAT ET CHARRET** · 12. Les Bretonnières · **13. BUGNON** · 14. La Planche et Champ Maxime · 15. Belle-Perche.
+- **Centres de la 3e et de la 11e : 1 834 m = 10 stades à −0,9 %** (dans le « 1 % près » de FAQ05-172). Milieux des traversées : 1 820-1 837 m.
+- Le croisement du Couvet est **à la sortie de la 11e** (Couvat et Charret se termine à 2 285-2 302 m, croisement à 2 298 m).
+
+### 25.2 Contraintes des 3e/11e
+| Contrainte | Lieux-dits |
+|---|---|
+| deux points précis, non visibles sur Maps, à pointer (05-074, 07-063) | ✅ les lieux-dits sont sur le cadastre, pas sur Google Maps ; leur étiquette est un point ⚠️ (centre) |
+| trouvables de chez soi (FAQ8), outils cadastre (03-344) | ✅ |
+| même nature, un seul de chaque (06-009, 06-216) | ✅ |
+| série ≥ 13, le 13e ne mène pas au bon endroit (06-133) | ✅ 15 à 18 traversés ; 13e = Bugnon |
+| 8e et 16e incorrects (FAQ8) | ✅ l'ordre part du rempart |
+| étapes intermédiaires (04-115) | ✅✅ on traverse les lieux-dits 4 à 10 en allant de la 3e à la 11e |
+| pas d'écharde sur la 3e, écharde possible sur la 11e (07-068) | ✅ La Pruras : 90 % ras (prés), 6 % d'arbres ; Couvat et Charret : 60 % d'arbres |
+| on marche surtout sur l'une des deux (06-247) | ✅ on traverse la 11e jusqu'au croisement |
+| « comment les positionner par rapport à un point de départ » (07-120) | ✅ on compte depuis le rempart |
+| « Tout commence » | ✅ la **1re est AVALON** (« les portes d'Avalon ») |
+| l'astre glorieux d'abord, puis les 3e/11e (06-166, 07-133) | ✅ la ligne vient du soleil, les lieux-dits donnent le point |
+
+### 25.3 Hasard
+Sur 720 caps, 138 traversent au moins 13 lieux-dits ; **12 (≈ 9 %)** donnent une 3e et une 11e à 10 stades ±1 %. Elles forment 3 fenêtres : **72-76,5°** (Pruras → Couvat et Charret, celle du 30/04), 90,5° (Godas → la Chaux et les Cordeyles) et 102-104,5° (Repidon → la Cuissarde). Avec le lever du 30/04 imposé avant, la probabilité d'une coïncidence est donc de l'ordre de 9 %. À noter : les deux autres fenêtres sont proches de Pâques et de l'équinoxe ; c'est une limite (plusieurs dates « signifiantes » existent).
+
+### 25.4 Effet sur l'hypothèse R
+Les lieux-dits remplacent la « rangée » abstraite, choisie après coup, par une **série réelle** qui coche toutes les contraintes des 3e/11e, y compris pieds nus / écharde. **Confiance relevée à ~20 % (jugement)**. Points faibles restants : visibilité depuis un seul point de la muraille ; « tout près » (~400 m jusqu'à la roche) ; 2,3 km du rempart (06-025, 06-244) ; Burge intermittente ; « chant » et première phrase à relire pour le 30 avril.
