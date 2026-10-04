@@ -56,3 +56,17 @@ Images : `images_travail/t40_mouret_synthese.jpg`.
 Lecture possible : la clairière (le pré) est vue du rempart et la jonction est à sa lisière est, sous les arbres (FAQ : la jonction peut être « un peu plus loin »). Mais si FAQ05-165/06-230 exigent que le point lui-même soit dans le champ de vision, Le Mouret s'affaiblit. Le viewshed LiDAR est pessimiste en lisière (houppiers) : à vérifier avec des photos prises depuis le rempart.
 **Crible strict « le point du croisement est vu du pied »** (`t42_strict.py`, ≥ 20 m² vus à ±10 m, toute la zone 7 × 7 km, à plus de 300 m de la tour) : seulement **11 croisements** dans toute la zone. Dix sont dans le centre du village (mairie, école, église, parc, terrain de sport ; maisons à 8-40 m) ou au hameau des Ripellets (45.427623, 6.040649, maisons à 84 m, forêt 0,24). Le onzième est à 3,8 km. **Aucun n'est à la fois une clairière en forêt et loin des maisons.** Même depuis le sommet de la tour (+33 m), le point de jonction du Mouret est caché ; la cellule vue la plus proche est à 41 m, et la ligne de visée passe environ 15 m sous la canopée.
 **Conclusion structurelle** : si l'on exige que le point exact du croisement soit vu (sans arbres), le problème n'a **pas de solution** autour de la tour. La lecture « la clairière est dans le champ de vision, le croisement est à sa lisière » est donc forcée par le terrain. Elle n'est pas un défaut propre au Mouret, ce qui remonte un peu Le Mouret après la correction de 07:05. L'auteur a pu aussi raisonner sans les arbres, au relief seul (« champ de vision » au sens large).
+**Eau vers l'aval depuis la jonction** (`t42_aval_flow.py`, talweg D8, point tous les 20 m) :
+- 0-45 m : pente 18-23° ;
+- 65-153 m : **le pré visible du pied** (pente 5-8°, 115-121 m² vus à ±5 m), mais à 59-90 m de tout chemin, maisons à 76-117 m, aucune saillie > 1 m ;
+- 175-344 m : pente 7-13°, plus rien de visible, chemin à 14-40 m ;
+- 365-447 m : ravin (pente 25-34°), saillie de 3 m en 45.424192, 6.036588 (maisons à 132 m, chemin à 27 m), pas praticable en fauteuil ;
+- au-delà de 470 m : maisons.
+
+**Bilan fauteuil** : ni l'amont (A, B, C) ni l'aval n'offrent au Mouret une grande roche au bord de l'eau sur terrain praticable en fauteuil. Soit FAQ03-112 désigne une accessibilité générale (un accompagnateur aide sur un sentier), soit Le Mouret n'est pas le bon lieu. **C'est désormais le point de doute n° 1 de la piste.**
+**Calibrage par la FAQ brute de la difficulté physique** :
+- FAQ04-198 : les phénomènes climatiques **peuvent empêcher** d'accéder au coffre, mais le lieu n'est « pas dangereux », il est « accessible ». C'est compatible avec un bord de ruisseau qui déborde (Rebouchet, roche mouillée), moins avec un parc plat de village.
+- FAQ07-210 : escalader des rochers est inutile.
+- FAQ03-112 : fauteuil « oui », mais « se faire accompagner néanmoins ». Le « néanmoins » admet une difficulté réelle (sentier, pente), pas une marche lisse.
+
+Lecture retenue (à valider par Guilhem) : « accessible » au sens d'un chemin praticable avec aide, pas d'un terrain plat au point de fouille. Le rocher A, au bord d'une cascade dans un ravin à 40 % de pente, reste à la limite de cette lecture ; c'est le doute n° 1.

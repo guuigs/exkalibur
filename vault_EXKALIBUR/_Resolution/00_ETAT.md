@@ -37,7 +37,7 @@ Fichiers de référence : `Enigme_12/RECAP_04-10_session_autonome.md` (le plus r
 1. Photos en ligne (Google Maps, randonneurs) du chemin creux de l'est au Mouret, de la jonction 2 et du gros rocher du Rebouchet.
 2. Trancher « à senestre » : chemin creux de l'est, ou sentier vers la jonction 2 et le Rebouchet.
 3. Calculer les points de fouille sur bande publique pour chaque roche retenue (`outils_scratch/t41_dig_public.py`).
-4. **Trancher le critère fauteuil (FAQ03-112)** : chercher une roche sur le tronçon plat EN AVAL de la jonction (45.422482, 6.039049 ; 45.423909, 6.037753), ou admettre que « accessible » vaut pour l'accès général.
+4. **Trancher le critère fauteuil (FAQ03-112)**, doute n° 1 : ni l'amont (roches A, B, C) ni l'aval (pré plat sans roche, puis ravin) n'offrent au Mouret une roche au bord de l'eau praticable en fauteuil (`t42_*`). Relire la FAQ : « accessible » au sens général, avec accompagnateur ?
 5. Préparer la soumission (brouillon : `Livrables/E12_soumission_brouillon_Mouret.md`) : capture vue du ciel de la clairière et de la jonction, avec un paragraphe sur le parcours (FAQ07-078).
 
 ## Tableau de bord des énigmes
