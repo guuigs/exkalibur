@@ -19,3 +19,6 @@ La place de Simon tombe au Mouret. Là, au bord d'un pré visible depuis le pied
 ## Alertes (04/10, 07:05)
 - Le rocher A est à 13 m du ressaut le plus raide du Rebouchet (10 m de chute sur ~10 m) : c'est une cascade probable, ce qui colle avec l'enl. 9.
 - **Critère fauteuil (FAQ03-112)** : les points de fouille A, B et C sont sur des pentes de 40-100 %. À trancher avant tout envoi (voir `00_ETAT.md`, action 4).
+
+## Variante R : « ruisseau vu du rempart » (04/10)
+Depuis le pied de la tour, le seul ruisseau visible est le Rebouchet (cap 115-120°, ~600 m). On part de la jonction route + sentier au pont (45.426344, 6.038290). On suit les eaux en les gardant à senestre sur 380 m jusqu'au ressaut de 4,7 m qui barre le passage (45.423957, 6.041700). Puis 10 pas au nord, 10 à l'est, et 8 vers le jour dernier. Fouille vers 45.42402-45.42412, 6.04187-6.04205, au bord de la bande publique du Rebouchet ; maisons à 106-121 m.

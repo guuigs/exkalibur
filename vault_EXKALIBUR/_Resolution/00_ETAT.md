@@ -10,6 +10,7 @@
 5. Pas de visite sur place (l'auteur dit que tout se fait de chez soi).
 6. Communauté (Discord) = hypothèses seulement, jamais des faits.
 7. **Jamais de demande de photos à Guilhem** : Claude fait les recherches en ligne lui-même, ou accepte la part d'inconnu et le note (04/10).
+9. **« À senestre » : les deux lectures sont acceptées** (narrateur sur la rive gauche, OU l'eau à sa gauche) (04/10). Le Mouret et l'option « ruisseau vu du rempart » restent toutes deux valides.
 8. **Fauteuil (FAQ03-112) au sens large** : un sentier praticable avec un accompagnateur suffit ; ce n'est plus un critère d'élimination (04/10).
 
 ## Contraintes dures de l'É12 (FAQ, texte brut)
@@ -30,7 +31,7 @@
 | Rang | Piste | Ce qui la porte | Points faibles | Confiance (jugement) |
 |---|---|---|---|---|
 | 1 | **LE MOURET** (jonction de 4 chemins 45.422426, 6.040299 ; jonction 2 45.42337, 6.041663) | Deux méthodes indépendantes : (a) table des apôtres « Christ à l'Orient » (Simon à 37-77 m quel que soit le centre et le rayon) ; (b) crible « terrain d'abord » sur 7 × 7 km : seules jonctions en clairière, loin des maisons, près de l'eau, dont le **pré** est visible du pied de la tour (le point de jonction lui-même ne l'est pas : aucun croisement en clairière forestière de la zone ne l'est). Talweg qui coule dans le chemin de l'est (eau à gauche en montant, rive gauche, chemin public). Deux sources. Affleurements rive gauche du Rebouchet ; gros rocher de 4 m (45.421452, 6.045319) | Jonction en lisière ; terrains privés autour (seuls chemins et bandes de ruisseau publics) ; pente 22-35 % ; grande roche non tranchée ; **points de fouille A, B et C sur des pentes de 40-100 % : incompatibles avec un fauteuil accompagné (FAQ03-112)** ; **le point de jonction lui-même n'est pas vu du pied (pré visible à partir de 41 m à l'ouest)** ; Rebouchet classé intermittent par la BD TOPO (classification prudente ; crues fréquentes selon l'IRMA) — inconnu accepté | ~20 % |
-| 1 bis | **RUISSEAU VU DU REMPART** (pont du Rebouchet 45.426344, 6.038290 → sentier, eau à gauche en montant → ressaut 4,7 m 45.423957, 6.041700) | Seul cours d'eau visible du pied (cap 115-120°, ~600 m) ; jonction route + sentier au pont ; sentier qui suit l'eau 380 m ; ressaut qui bloque, ouvre une gorge ; 625 m de la tour | Jonction en bordure de hameau (maisons à 13 m) ; roche à 376 m ; « à senestre » lu comme « eau à gauche » (inverse de la lecture du 03/10, à trancher) ; lien 3e/11e indirect | ~10-15 % |
+| 1 bis | **RUISSEAU VU DU REMPART** (pont du Rebouchet 45.426344, 6.038290 → sentier, eau à gauche en montant → ressaut 4,7 m 45.423957, 6.041700) | Seul cours d'eau visible du pied (cap 115-120°, ~600 m) ; jonction route + sentier au pont ; sentier qui suit l'eau 380 m ; ressaut qui bloque, ouvre une gorge ; 625 m de la tour | Jonction en bordure de hameau (maisons à 13 m) ; roche à 376 m ; lien 3e/11e indirect | ~10-15 % |
 | 2 | Loup (cercles 3 et 11 de Machrie Moor, cap 95,78°) | Identité des 3e/11e solide (FAQ8, enl. 11, bois du cercle 11) | J5 invisible du pied, pas une clairière, privé ; pré visible à 1 287 m sans croisement ; ne passe pas le crible terrain | ~5 % |
 | 3 | Apôtres, autres orientations ; Muraillat | — | J2 n'est pas un croisement | écartée |
 
@@ -55,7 +56,7 @@ Fichiers de référence : `Enigme_12/RECAP_04-10_session_autonome.md` (le plus r
 
 ## Prochaines actions (Claude, en autonomie ; inconnues acceptées et notées)
 1. Recherches en ligne par Claude : imagerie de rue ouverte (Panoramax, Mapillary), sites de randonnée, toponymie, pour le chemin de l'est, la cascade du Rebouchet et la permanence de l'eau.
-2. Trancher « à senestre » au Mouret à partir du texte et du terrain.
+2. ~~Trancher « à senestre »~~ : les deux lectures sont acceptées (04/10).
 3. ~~Points de fouille A, B, C~~ fait ; classement A > B > C.
 4. ~~Critère fauteuil~~ accepté au sens large (04/10).
 5. Finaliser la soumission (brouillon : `Livrables/E12_soumission_brouillon_Mouret.md`).

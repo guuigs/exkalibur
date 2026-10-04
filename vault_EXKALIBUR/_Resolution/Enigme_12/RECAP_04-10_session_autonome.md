@@ -122,3 +122,5 @@ Contraintes de distance de la FAQ, relues mot pour mot :
   - le lien avec les 3e/11e (table des apôtres) n'est pas direct : Simon est au Mouret, à 400 m au SE.
 
 **Crible global « roche à ≤ 150 m de la jonction »** (`t43_crible_proche.py`) : 23 croisements. Mais le critère « chute ≥ 4 m sur 10 m » capte toutes les ravines raides. Le meilleur cas (45.421557, 6.040743, à 103 m de la jonction du Mouret) est une ravine à 50 % de pente, avec une saillie de seulement 1,8 m, pas une roche isolée. → **non concluant** ; il faudrait un vrai détecteur de blocs (rugosité locale), à faire.
+**Décision de Guilhem (04/10)** : les **deux lectures** de « à senestre » sont acceptées (je suis sur la rive gauche / l'eau est à ma gauche). L'option R reste donc valide, au même titre que Le Mouret.
+**Points de fouille, option R** (`t44_dig.py 45.423957 6.041700`) : le ressaut est sur la bande publique. Fouille en 45.42402-45.42412, 6.04187-6.04205 ; un cas est public (pas de 1,48 m, cap 90° → 45.424077, 6.042047), les autres sont à 1-3 m de la bande publique ; maisons à 106-121 m.
