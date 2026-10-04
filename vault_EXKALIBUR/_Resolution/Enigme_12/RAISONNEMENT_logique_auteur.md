@@ -435,3 +435,30 @@ Conditions : point du croisement vu depuis la muraille, eau ≤ 120 m, forêt �
 ### 23.5 Ce que cette séance établit
 1. La **visibilité doit désormais se calculer depuis les murailles**, pas depuis l'ancien point « pied » : tous les cribles antérieurs fondés sur `vs_pied` sont à reprendre avec `vs_muraille`.
 2. Même ainsi, **aucun croisement en forêt, à l'est, ne passe toutes les conditions strictes** ; les rares qui passent sont à Pontcharra, dans la plaine, ou limites (Couvet).
+
+## 24. Hypothèse R — « le jour dernier se lève derrière le Couvet » (04/10, demande de Guilhem : creuser le Couvet)
+Scripts : `t67_couvet_ciel.py`, `t68_couvet_rangee.py`, `t69_couvet_fouille.py`, `t70_carte_R.py`. Cartes : `images_travail/t70_carte_R_ligne.jpg`, `images_travail/t70_carte_R_fin.jpg`.
+
+### 24.1 La chaîne
+| Étape | Lecture | Fait vérifié | FAQ |
+|---|---|---|---|
+| Départ | chemin de la muraille de la tour d'Avalon (public toute l'année), l'auteur y est « monté » | point NO de la muraille (az 308°) | 06-193, 05-155, FAQ8 « mur ou tour » |
+| Veille | « dernière veille » = nuit du 29 au 30 avril, veille de la mort de Bayard (30/04/1524) ; « jour dernier » = 30 avril | — | 07-186 (un jour) |
+| Ciel | « l'endroit m'est apparu au matin, illuminé par l'astre glorieux » : **le 30 avril, le soleil visible se lève exactement derrière le Couvet** | lever visible 73,9° ; Couvet à 73,7° depuis la muraille (**écart 0,2°**, moins que le disque solaire) ; jours voisins : 29/04 +0,8°, 01/05 −0,4° | 06-166, 07-152 (« pour trouver la direction et l'endroit où vous allez arriver ») |
+| 3e/11e | **rangée** partant du rempart (1re place : « Tout commence »), 3e → 11e = 10 stades, donc pas de 231,25 m : 3e à 462 m, **11e à 2 312 m** | 11e à **18-45 m du croisement** depuis les 8 points de muraille testés | 07-120 (« comment les positionner par rapport à un point de départ »), 04-115 (étapes intermédiaires = places 4 à 10), FAQ8 (8e et 16e incorrects : le rang compte car la 1re est ancrée), 06-133 (13e à 2 775 m, bois du Rafour, pas de croisement) |
+| Clairière | croisement de 3 voies du Couvet (45.434748, 6.059095), pré semi-ouvert | ouvert 35-40 % ; forêt 84 % au sud, 26-42 % ailleurs | 05-165, 06-230, 06-005, 03-274 |
+| Eaux | la Burge part du croisement ; on la **remonte** (l'aval traverse le hameau) | sur le chemin empierré / sentier, **l'eau est à gauche** à 30, 200, 350, 390, 410 m | 06-195, « à senestre » |
+| Grande roche | **ressaut de 4 à 7,4 m** dans le lit, ~390-410 m en amont (≈ 45.43151, 6.06145) | chute 7,4 m / 10 m ; saillie 2,7 m ; bâtiments : aucun à < 150 m | 06-195 (bloque), 06-180 (mouillée), 06-090 |
+| Coffre | 10 pas N + 10 pas E → souche → **8 pas vers le lever du 30/04 (74°)** | **public** pour pas 0,65 et 0,75 (bande de la Burge) : 45.43169-45.43170, 6.06149-6.06152 (roche 390 m) ou 45.43155-45.43156, 6.06164-6.06166 (roche 410 m) ; maisons à 180-205 m ; chemin à 9-21 m | 01-235, 02-097, 03-098, 05-107 |
+
+### 24.2 Hasard
+- Un cap quelconque dans le secteur des levers (55-125°) met la 11e à ≤ 45 m d'**un** croisement dans 11 % des cas : banal. Mais il ne la met à ≤ 45 m d'un des **4 croisements du crible strict** que dans 2,9 % des cas (0,56 % sur 360°).
+- Le Couvet est sorti du crible **sans** critère solaire ; qu'il soit ensuite à 0,2° du lever du 30/04 a ~1 % de chances (3 dates « signifiantes » × ±0,5° / 180° utiles).
+- Le modèle « rangée, 1re au rempart » a été choisi **après** avoir vu la distance (2 292-2 298 m ≈ 12,5 stades) : c'est le point le plus faible du raisonnement.
+
+### 24.3 Grille des 38 contraintes
+✅ 1 départ ; ✅ 2 ciel (0,2°) ; ⚠️ 3 « pas une direction en tant que telle » ; ✅ 4 les 3e/11e mènent à la clairière ; ✅ 5 deux points non visibles sur Maps ; ✅ 6 même nature, un seul de chaque ; **⚠️ 7 pieds nus / écharde : la nature physique des 3e et 11e n'est pas identifiée** ; ✅ 8 on marche surtout sur la 11e ; ✅ 9 13e ; ✅ 10 8e/16e ; ✅ 11 ordre ≠ Ultima Cena ; ⚠️ 12 enluminures ; ✅ 13 ; ✅ 14 ; ✅ 15 10 stades (11e à 0,8-2 % de la place théorique, 3e→Couvet = 1 838 m, −0,6 %) ; ✅ 16 étapes intermédiaires ; ⚠️ 17 enl. 11 « une partie » ; **⚠️ 18 visibilité : depuis un seul point de la muraille, œil au-dessus du mur** ; ⚠️ 19 clairière semi-ouverte ; ✅ 20 vrai croisement ; ✅ 21 ; ✅ 22 ; **⚠️ 23 « très proches » (06-025) : 2,3 km** ; ⚠️ 24 « pas loin » (06-244) ; ✅ 25 eau à gauche ; ✅ 26 roche qui bloque ; ✅ 27 ; ✅ 28 ; ✅ 29 ressaut de 7 m ; ⚠️ 30 souche ; **⚠️ 31 « tout près » (05-051) : ~400 m** ; ✅ 32 maisons 180-205 m ; ✅ 33 **domaine public** ; ✅ 34 chemin empierré ; ✅ 35 ; ⚠️ 36 chant (la lecture pascale de l'*Exsultet* ne s'applique plus ; « chant » à relire pour une veille de mort) ; ⚠️ 37 première phrase ; ⚠️ 38 enl. 9 ; ⚠️ Burge intermittente.
+**Bilan : 24 ✅, 14 ⚠️, 0 ❌.** C'est la première hypothèse sans contrainte violée.
+
+### 24.4 Confiance (jugement) : **~15 %**
+Elle devient la **piste n° 1**, devant P (bloquée par le domaine public, contrainte non relâchable). Elle reste basse en absolu, pour trois raisons : l'identité réelle des 3e/11e (pieds nus, écharde) manque ; la visibilité tient à un seul point de la muraille ; le modèle « rangée » a été choisi après coup. Ce qui la ferait monter nettement : trouver une **série réelle** dont la 1re est au rempart, la 3e vers 462 m (lieu-dit **Le Chapela**, sur la ligne) et la 11e au Couvet.
