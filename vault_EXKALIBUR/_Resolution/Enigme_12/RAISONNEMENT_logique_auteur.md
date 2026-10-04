@@ -267,3 +267,14 @@ Le texte impose l'ordre jonction → (suivre les eaux) → grande roche → 10 p
   - l'enl. 9 (source jaillissant d'un rocher) collait mieux à la source qu'à un rocher du talweg ;
   - le résultat est sensible au mètre près (bande cadastrale de quelques mètres).
 - Carte : `images_travail/t50_variante_public.jpg`.
+
+## 19. Consolidation de P et nouvelles options en partant du domaine public (demande de Guilhem)
+### Bilan de P
+- **Solide** : la chaîne logique (veillée pascale → Orient du lever visible → Table ronde de la Cène → 3e/11e → corde qui passe par le seul ruisseau vu du rempart puis par la jonction, 0,44 % des orientations) ; la robustesse (dates, canopée, centre ±20 m) ; les témoins.
+- **Faible** : la fin du parcours. Autour du Mouret, le seul terrain public est fait de bandes de chemin larges de quelques mètres (les 4 parcelles « BND » voisines sont une indivision privée). La roche-source donne un coffre en bois privé. La variante P-public n'existe qu'avec une roche à ≤ 24 m de la jonction, donc avec très peu d'eau à suivre, et un coffre dans un chemin creux humide. **Structurellement, l'auteur a plus probablement mis le coffre dans une vraie zone publique, où les 10 + 10 + 8 pas restent sur le public sans calcul acrobatique.**
+### Zones publiques étendues (≤ 3 km)
+Toutes à l'**est/sud-est, à partir de 1,7-1,8 km** (≈ 10 stades) : forêt communale de Saint-Maximin (bord à 1 716 m), de Pontcharra (1 818 m), du Moutaret (2 500 m), forêt sectionale de Glapigneux, parcelles communales boisées (2,3-2,9 km, caps 90-153°). Le **Tapon** a une **large bande publique (30-60 m)** sur tout son cours, de Le Crêt jusqu'au gué et à la forêt communale. Carte : `images_travail/t51_zone_est.jpg`.
+### Options
+- **E1 — Le Crêt, entrée du ravin du Tapon** (croisement 45.430543, 6.05309 ; 1 726 m, cap 84°) : **visible du pied** (506 m² de pré dans 80 m, 1 136 m² du sommet), Tapon à 7 m, début de la bande publique du Tapon, forêt communale en amont ; maisons à 46 m du croisement (le coffre serait plus loin, dans la bande publique). **Manque une raison logique** : le lever visible à 84° correspond au ~17 avril grégorien, une date sans signification connue.
+- **E2 — le Tapon dans l'axe de l'aube de Pâques, à ~10 stades** (croisements 45.429069, 6.055758 et 45.428916, 6.055896 ; 1 924-1 935 m, cap 89-90°) : la lecture la plus simple (3e au rempart, 11e à 10 stades vers l'aube de Pâques) + bande publique du Tapon + forêt communale ; Tapon à ~40 m, maisons à 170 m, forêt à 93-95 %. **Pas visible du rempart** (ravin boisé), ce qui va contre la règle de Guilhem. C'est le secteur de l'ancienne piste du loup (J5 à ~130 m).
+→ Aucune option ne coche tout. P garde la meilleure logique ; E1 le meilleur terrain (visible + public + eau) ; E2 croise logique et domaine public, mais pas la visibilité.
