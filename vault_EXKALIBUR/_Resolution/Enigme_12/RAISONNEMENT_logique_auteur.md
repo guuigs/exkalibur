@@ -278,3 +278,87 @@ Toutes à l'**est/sud-est, à partir de 1,7-1,8 km** (≈ 10 stades) : forêt co
 - **E1 — Le Crêt, entrée du ravin du Tapon** (croisement 45.430543, 6.05309 ; 1 726 m, cap 84°) : **visible du pied** (506 m² de pré dans 80 m, 1 136 m² du sommet), Tapon à 7 m, début de la bande publique du Tapon, forêt communale en amont ; maisons à 46 m du croisement (le coffre serait plus loin, dans la bande publique). **Manque une raison logique** : le lever visible à 84° correspond au ~17 avril grégorien, une date sans signification connue.
 - **E2 — le Tapon dans l'axe de l'aube de Pâques, à ~10 stades** (croisements 45.429069, 6.055758 et 45.428916, 6.055896 ; 1 924-1 935 m, cap 89-90°) : la lecture la plus simple (3e au rempart, 11e à 10 stades vers l'aube de Pâques) + bande publique du Tapon + forêt communale ; Tapon à ~40 m, maisons à 170 m, forêt à 93-95 %. **Pas visible du rempart** (ravin boisé), ce qui va contre la règle de Guilhem. C'est le secteur de l'ancienne piste du loup (J5 à ~130 m).
 → Aucune option ne coche tout. P garde la meilleure logique ; E1 le meilleur terrain (visible + public + eau) ; E2 croise logique et domaine public, mais pas la visibilité.
+
+## 20. Hypothèse Q — « Machrie + aube de Pâques », J5 et le ravin du Tapon (visibilité assouplie, 04/10)
+Demande de Guilhem : on peut assouplir la visibilité depuis le pied de la tour, mais l'argumentaire doit être très solide. Scripts : `t52_Q_base.py`, `t52_Q_public.py`, `t52_Q_talweg_J5.py`, `t53_Q_hasard.py`, `t54_carte_Q.py`. Carte : `images_travail/t54_carte_Q.jpg`.
+
+### 20.1 La chaîne, étape par étape (chaque choix et sa justification)
+| Étape | Choix | Pourquoi l'auteur l'aurait voulu | Source |
+|---|---|---|---|
+| 1. Départ | pied de la tour d'Avalon, sur le chemin de rempart | arrivée de l'É11, point précis | 06-193, 05-195, 07-268 |
+| 2. Le ciel | l'Orient : l'aube de Pâques vue du rempart (91,4° en 1524, **93,0° en 2026**) | même lecture que P (veillée pascale, *Exsultet*, « m'est apparu au matin ») ; « orientez-vous » | 06-166, 07-152, 05-091, 03-184 |
+| 3. Les 3e/11e | **cercles 3 et 11 de Machrie Moor** (île d'Arran, réponse de l'É10) | « même nature, un seul de chaque » (deux cercles) ; **bois au 11** (MM11 est posé sur un ancien cercle de poteaux → écharde), pierre au 3 ; MM11 enfoui → « on marche dessus », invisible sur Maps ; l'île aide à décoder l'enl. 11 (FAQ8) | 06-009, 06-216, 07-068, 06-247, 05-074, FAQ8 |
+| 4. Direction + distance | MM3 posé au rempart, MM11 à **10 stades (1 850 m)** sur le cap réel MM3→MM11 (**95,78°**, Canmore) | « une fois la direction trouvée, les 3e/11e identifient directement la clairière » : le ciel donne l'Orient, la figure de Machrie donne le cap exact (à 2,8° de l'aube de Pâques 2026) ; « 10 stades en ligne droite » | 07-133, 05-172, 07-120 |
+| 5. La clairière | **J5** (45.426948, 6.054780), à **26-33 m** du point 1 850 m | **seul croisement à 5 voies** (chemin, route empierrée, sentier) entre 1 700 et 2 000 m du rempart, **dans toutes les directions** ; petite trouée (43 % ouvert à ±15 m) dans une forêt fermée (96 %) | 06-005, 05-165 |
+| 6. Les eaux | le talweg qui naît **à 6 m de J5** (1,9 ha drainés) et descend au NE vers le Tapon | « suivre les eaux enchantées » : l'eau part de la clairière même ; le sentier (291 m) l'accompagne à ~22 m, **eau d'un côté, chemin de l'autre** (les deux lectures de « à senestre » restent possibles selon le sens où l'on se tient) | 06-195, 05-025 |
+| 7. La grande roche | ressaut au bord du Tapon, **45.427909, 6.055680** (saillie LiDAR +2,4 m), 136 m en aval de J5 | là où le talweg tombe dans le Tapon ; roche mouillée, au bord d'un torrent | FAQ8, 06-180, 06-195 |
+| 8. Souche + derniers pas | 10 pas N + 10 pas E, puis 8 pas vers le « jour dernier » | lecture du dossier inchangée | 06-178, 05-039 |
+| 9. Le coffre | **≈ 45.42797, 6.05585** (pas 0,75 ; ±3 m selon la lecture du jour dernier) | **non cadastré = bande publique du Tapon**, pour les 4 lectures du jour dernier (67,7° / 90° / 91,4° / 93°) et pour des pas de 0,65 et 0,75 m ; maisons à 178 m | 01-235, 02-097, 03-098, 05-107 |
+
+### 20.2 Le recoupement qui donne sa force à Q : les deux lectures du ciel se rejoignent au coffre
+- L'axe **Machrie (95,78°)** mène à la **clairière J5** (26 m).
+- L'eau qui part de J5 rejoint le Tapon à **45.427995, 6.055813**, qui est à **4 m de l'axe de l'aube de Pâques 2026** (93,0°, 1 933 m du rempart). Le coffre est à **2 m** de ce même axe (cap 92,94°, 1 936 m).
+- Lecture : « le ciel indique la direction **et l'endroit d'arrivée** » (06-166, 07-152). La figure 3→11 donne la clairière ; on suit l'eau ; on arrive sur la ligne de l'aube. Le parcours se referme sur le ciel, comme le veut « en tout dernier lieu » (FAQ8).
+- **Pâques 1524** (91,4°) passe à 50 m : avec Q, l'étape est bien **ancrée en 2026** (décision de Guilhem), ce qui est cohérent.
+
+### 20.3 Hasard (tests faits, avec leurs limites)
+| Test | Résultat | Limite honnête |
+|---|---|---|
+| Un point à 1 850 m du rempart, cap au hasard sur 360°, tombe à ≤ 33 m d'un croisement à ≥ 5 voies | **0,5 %** des caps | le seuil « 5 voies » est choisi après coup ; à ≥ 3 voies : 15 % ; à ≥ 4 voies : 3,6 % |
+| Croisements à 5 voies entre 1 700 et 2 000 m | **1 sur 14** dans la zone LiDAR (J5) | couverture LiDAR complète dans toutes les directions à cette distance |
+| La confluence talweg de J5 / Tapon tombe à ≤ 5 m de l'axe de l'aube, cap au hasard entre 85 et 100° | **2 %** | l'axe 2026 a été préféré à 1524 en voyant le résultat (mais 2026 est la décision prise avant) |
+| Ancien test R3 du « gabarit Machrie » : au niveau du hasard | — | il utilisait le cap OSM (93,3°) et **n'importe quel** croisement : il ne contredit pas le résultat sur le croisement à 5 voies |
+Combiné (indépendance approximative) : de l'ordre de 10⁻⁴, mais avec deux choix faits après coup ; je retiens « signal net, pas une preuve ».
+
+### 20.4 Grille des 38 contraintes appliquée à Q
+| # | Contrainte | Q | Commentaire |
+|---|---|---|---|
+| 1 | Départ = rempart | ✅ | pied de la tour |
+| 2 | Le ciel indique la direction et l'endroit | ✅ | Orient de Pâques ; le coffre est sur l'axe 2026 (§20.2) |
+| 3 | « pas une direction en tant que telle » | ✅ | le ciel n'est pas suivi seul : la figure 3→11 fixe la clairière |
+| 4 | Les 3e/11e identifient directement la clairière | ✅ | J5 à 26-33 m |
+| 5 | Deux points précis, invisibles sur Maps | ✅ | MM11 enfoui ; les positions locales sont des points de carte |
+| 6 | Même nature, un seul de chaque | ✅ | deux cercles |
+| 7 | Écharde au 11e, pas à la 3e | ✅ | cercle de poteaux au 11 ; pierre au 3 (et pierre du rempart) |
+| 8 | On marche surtout sur l'une des deux | ✅ | rempart (on marche dessus) / MM11 enfoui |
+| 9 | Le 13e existe mais mène ailleurs | ⚠️ | numérotation de Machrie Moor sans site 13 connu (R3) |
+| 10 | 8e et 16e « incorrect » | ✅ | pas de 16 |
+| 11 | Pas le « numéro 1 » d'*Ultima Cena* | ✅ | — |
+| 12 | Visibles sur les enluminures (« l'une des clés ») | ⚠️ | Arran ↔ enl. 11 (FAQ8) ; pas d'objet 3/11 identifié |
+| 13 | Ne mènent pas à un chevalier | ✅ | cercles de pierres |
+| 14 | Pas un ensemble de 52 | ✅ | — |
+| 15 | 10 stades en ligne droite | ✅ | par construction |
+| 16 | Étapes intermédiaires entre 3e et 11e | ⚠️ | sites MM4-MM10 projetés : rien de net (t34) |
+| 17 | L'enl. 11 aide à placer « une partie » | ✅ | Arran (FAQ8) → la figure de Machrie |
+| 18 | Dans le champ de vision du rempart | ❌ assoupli | J5 non visible (ravin boisé) — assouplissement accepté par Guilhem |
+| 19 | Clairière = croisement = point précis | ⚠️ | trouée de croisement, petite (43 % ouvert à ±15 m) |
+| 20 | Vrai croisement | ✅ | 5 voies |
+| 21 | Clairière restée clairière | ⚠️ | piste absente des cartes 1950-65 (sans objet si étape ancrée en 2026) |
+| 22 | Le narrateur aurait pu marcher là | ✅ | 2026 |
+| 23 | Chemins « très proches » du rempart | ⚠️ | 1,9 km (≈ 10 stades) |
+| 24 | Coffre pas loin du rempart | ⚠️ | 1,9 km |
+| 25 | Suivre les eaux enchantées | ✅ | l'eau part de J5 et va au Tapon |
+| 26 | La roche bloque le passage | ⚠️ | ressaut au bord du Tapon : non vérifiable à distance |
+| 27 | Roche mouillée | ✅ | bord de torrent |
+| 28 | Pieds mouillés possibles avant, pas après | ⚠️ | coffre au bord du Tapon : à vérifier sur place |
+| 29 | Roche difficile à manquer | ⚠️ | +2,4 m au LiDAR ; ressauts de 3-5 m plus en amont, près du gué |
+| 30 | De la souche on ne voit plus la roche | ⚠️ | forêt dense, mais 8-10 m seulement |
+| 31 | Coffre « tout près » de la clairière | ✅ | ~150 m |
+| 32 | Loin des bâtiments | ✅ | 178 m |
+| 33 | **Domaine public** | ✅ | bande non cadastrée du Tapon, toutes lectures, pas 0,65/0,75 (809 positions de roche dans 450 m donnent aussi un coffre public) |
+| 34 | Fauteuil (sens large) | ⚠️ | J5 sur piste empierrée ; berge du Tapon en pente |
+| 35 | Météo peut bloquer, pas dangereux | ⚠️ | crues du Tapon : le blocage météo colle ; la berge est à surveiller |
+| 36 | Chant entendu du seul narrateur | ✅ | *Exsultet* intérieur (lecture pascale) |
+| 37 | Première phrase | ⚠️ | inchangé par rapport à P |
+| 38 | Enl. 9 (roche fendue, source, vasque) | ⚠️ | non vérifiable ; pas de tour visible depuis le ravin |
+**Bilan Q** : 22 ✅, 15 ⚠️, 1 ❌ assouplie (visibilité). **Comparaison avec P** : P a 24 ✅ et un ❌ **non assouplissable** (domaine public) ; Q a un ❌ que Guilhem accepte d'assouplir (visibilité).
+
+### 20.5 Ce qui ferait tomber Q
+- Si le « ? » de l'enl. 11 ne vaut pas 11 (R3 §4) : la figure de Machrie perd son ancrage (le cercle 11).
+- Si l'auteur exige que la clairière soit vue du rempart (05-155) au sens strict.
+- Si l'on considère « 5 voies » comme un critère choisi pour l'occasion : il reste alors un croisement quelconque à 26 m de l'axe, ce qui n'a rien d'exceptionnel (15 %).
+- Point d'appui le plus fragile : le passage « talweg de J5 → roche » n'a pas de roche avérée ; le coffre dépend d'une roche au bord du Tapon. Mais le domaine public est tenu largement (bande de 30-60 m).
+
+### 20.6 Fouille proposée (Q)
+- **Q1 (principal)** : roche au débouché du talweg de J5 dans le Tapon (45.427909, 6.055680) → coffre ≈ **45.42797, 6.05585** (pas 0,75) ou 45.42798, 6.05583 (pas 0,65). Bande publique du Tapon.
+- **Q2** : ressauts de 3-5 m du Tapon près du gué (45.42550, 6.05784 ; 45.42663, 6.05712 ; 45.42693, 6.05688), si l'on part de J5 par la piste est (298 m) vers le gué et que l'on suit le Tapon (le courant va au NO : « à senestre »).

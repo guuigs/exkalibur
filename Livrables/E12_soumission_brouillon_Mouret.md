@@ -17,3 +17,12 @@ L'ultime traversée de l'énigme 11 (*Consummatum est*) s'achève au chemin de r
 | Ressaut de 4,7 m (variante « ruisseau vu du rempart ») | 45.423957, 6.041700 | 45.42402-45.42412, 6.04187-6.04205 | bord de la bande publique ; à 376 m du pont |
 
 Argumentaire complet : `vault_EXKALIBUR/_Resolution/Enigme_12/RAISONNEMENT_logique_auteur.md` (§5).
+
+## Variante Q (04/10) — Machrie + aube de Pâques, ravin du Tapon (visibilité assouplie)
+Du pied de la tour d'Avalon, je me tourne vers l'Orient, là où le soleil de Pâques m'est apparu au matin. Les cercles 3 et 11 de Machrie Moor, que l'énigme précédente m'avait fait trouver, me donnent le cap exact : le 3 posé sur le rempart, le 11 à dix stades, au cap 95,78°. Là se trouve la clairière : le seul croisement à cinq voies à cette distance (45.426948, 6.054780). L'eau qui en part me conduit au Tapon. Elle le rejoint sur la ligne même de l'aube de Pâques. La roche est au bord du torrent (45.427909, 6.055680). De là : 10 pas au nord, 10 pas à l'est, la souche, puis 8 pas vers le jour dernier.
+
+| Point | Coordonnées | Statut |
+|---|---|---|
+| Q1 coffre (pas 0,75) | 45.42797, 6.05585 | bande publique non cadastrée du Tapon |
+| Q1 coffre (pas 0,65) | 45.42798, 6.05583 | idem |
+| Q2 ressauts près du gué | 45.42550, 6.05784 / 45.42663, 6.05712 / 45.42693, 6.05688 | bande publique du Tapon |
