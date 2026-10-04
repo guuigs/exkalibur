@@ -201,3 +201,4 @@ Observation de l'image (`images_travail/A_REGARDER_enluminure9.jpg`) :
   1. la grande roche est ailleurs le long des eaux, à l'ouest d'un chemin public ;
   2. on accepte que le coffre soit en lisière privée « tolérée » (contraire à la lettre de la FAQ) ;
   3. une autre lecture de la fouille.
+- **Variante P-public** (test ciblé, vers l'amont ET vers l'aval sur 260 m) : la fouille ne tombe sur le domaine public que si la roche est **au bord de l'eau à 3-11 m de la jonction**. Fouille alors vers **45.42249-45.42266, 6.04040-6.04060**, sur la bande publique des chemins, maisons à 184-191 m. Lecture : la grande roche serait dans la jonction même, dans le chemin creux où coule l'eau, et le coffre à 20-30 m (« tout près », 05-051). Elle concilie P et le domaine public, au prix d'un « suivi des eaux » très court. Aucune roche n'est visible au LiDAR à cet endroit (talus ≤ 1,2 m) → inconnue.

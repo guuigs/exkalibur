@@ -11,7 +11,7 @@ L'ultime traversée de l'énigme 11 (*Consummatum est*) s'achève au chemin de r
 | Roche | Position | Point de fouille | Statut |
 |---|---|---|---|
 | **Roche de la source (hypothèse P)** | 45.42177, 6.04019 (source BD TOPO) | 45.42182-45.42194, 6.04034-6.04054 (pas de 0,65-1,48 m ; stable quelle que soit la lecture du « jour dernier ») | bois privé, à 19-31 m du sentier : **domaine public non démontré** |
-| Roche au bord de l'eau, à 4-11 m de la jonction (variante de P) | autour de 45.42244, 6.04025 | 45.42239-45.42266, 6.04040-6.04060 | dans la bande publique des chemins |
+| **Roche au bord de l'eau, à 3-11 m de la jonction (variante P-public)** | autour de 45.42247-45.42253, 6.04023-6.04031 | 45.42249-45.42266, 6.04040-6.04060 | **dans la bande publique des chemins** ; seule variante de P compatible avec le domaine public |
 | Rocher A, cascade du Rebouchet (ancienne lecture) | 45.421452, 6.045319 | 45.42151-45.42162, 6.04549-6.04567 | bord de la bande publique ; à 410 m de la jonction |
 | Ressaut de 4,7 m (variante « ruisseau vu du rempart ») | 45.423957, 6.041700 | 45.42402-45.42412, 6.04187-6.04205 | bord de la bande publique ; à 376 m du pont |
 
