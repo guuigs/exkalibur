@@ -41,3 +41,4 @@
 | Croisements agricoles sur l'axe du loup (756-815 m, source captée) | des champs, pas une clairière ; église à 240 m | t40 crible |
 | Roche C du Mouret (ressaut 45.424003, 6.041837) comme roche principale | maisons à 95-110 m, fouille en terrain privé dans 5 cas sur 6 (rétrogradée, pas éliminée) | t42 |
 | (Alerte, pas écartée) Roches A, B et C du Mouret vs fauteuil (FAQ03-112) | points de fouille sur des pentes de 40-100 % | t42 |
+| Croisements piétons du centre de Saint-Maximin (mairie, école, parc, 440-525 m de la tour) | seuls points de croisement vus du pied, mais en plein village (maisons à 8-40 m), pas une clairière | t42_strict |
