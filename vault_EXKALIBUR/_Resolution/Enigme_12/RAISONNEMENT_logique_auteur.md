@@ -249,3 +249,10 @@ Le lever visible a été calculé sur le relief nu. Avec une canopée de 15-25 m
 - Rappel (T15B) : la croix de pierres est une **croix PATERNOSTER** (2 lignes de 11 lettres, N central commun, 4 R aux rangs 5 et 11), avec **A, O, A, O = Alpha et Oméga** autour. Lien direct avec « **Tout commence et tout s'achève** » (Alpha et Oméga, gravés sur le cierge pascal) → **appui à la lecture pascale de P**.
 - Test « la ligne de 11 posée au rempart » (N central = rempart ; 3e lettre T à 3 × 231 m d'un côté, 11e lettre R à 5 × 231 m de l'autre ; croix au nord de la carte, ou tournée vers l'Orient de Pâques) : la 11e tombe dans des champs, un hameau ou une forêt invisible du pied (maisons à 28-86 m). **Non concluant** : la croix ne sert pas de gabarit métrique.
 - Lecture retenue : l'enl. 11 aide « en partie » par son **sens** (la croix du Christ avec l'Alpha et l'Oméga, l'« Orient »), pas comme règle à poser sur la carte.
+
+## 17. Correction de Guilhem : le coffre est APRÈS la roche
+Le texte impose l'ordre jonction → (suivre les eaux) → grande roche → 10 pas N + 10 pas E → souche → 8 pas → coffre. Le coffre est donc au-delà de la roche, « tout près » mais pas à la jonction.
+- **Variante P-public (roche à ≤ 11 m de la jonction) RÉTROGRADÉE** : il n'y aurait presque pas d'eaux à suivre ; elle ne tient pas avec le texte.
+- **Lecture retenue** : la roche est à la source (45.42177, 6.04019), à 73 m de la jonction en montant le sentier sud. Souche ≈ 45.42183-45.42190, 6.04027-6.04038. **Coffre ≈ 45.42183-45.42194, 6.04034-6.04053**, à 13-32 m après la roche et ~56-67 m à vol d'oiseau de la jonction (les 10 pas vers le nord ramènent un peu vers elle).
+- Le domaine public reste **non tenu** à cet endroit (bois privé).
+- Carte du raisonnement complet : `images_travail/t49_carte_raisonnement_P.jpg` (A : rempart → Orient de Pâques → Table ronde → 3e/11e → corde → ruisseau → jonction ; B : jonction → sentier, eau à gauche → roche/source → souche → coffre).
