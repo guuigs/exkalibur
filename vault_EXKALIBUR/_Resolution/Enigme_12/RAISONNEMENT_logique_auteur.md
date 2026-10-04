@@ -367,3 +367,18 @@ Combiné (indépendance approximative) : de l'ordre de 10⁻⁴, mais avec deux 
 - La contrainte n° 9 (FAQ06-133 : « le 13e existe mais ne mène pas au bon endroit ») est **éliminatoire** : la numérotation de Machrie Moor s'arrête à **11** (cercles 1-5 de Bryce en 1861, monuments 6-10, cercle 11 découvert sous la tourbe en 1978 ; Wikipedia, Canmore). Il n'existe **pas de 13e**.
 - Conséquence : **les cercles de Machrie Moor ne peuvent pas être les 3e/11e de l'énigme**. Cela fait tomber Q, la piste du loup et tous les gabarits Machrie (t32-t34, t48, §15).
 - À garder de ce travail : la bande publique du Tapon (domaine public large) et le fait que la confluence talweg J5 / Tapon soit sur l'axe de l'aube de Pâques 2026 (seul, ce n'est qu'une coïncidence, 2 %).
+
+## 21. Garder Machrie Moor, mais pas comme identité des 3e/11e (remarque de Guilhem, 04/10)
+### Ce que dit la FAQ8 (transcription brute `outils_scratch/faq8.txt`)
+- « L'île au sud est utile en effet, **avant tout pour ce que vous allez y découvrir, pour leur nature, pour leur nombre, pour la distance également**. »
+- « L'endroit sur l'île au sud […] peut nous aider à décoder l'enluminure onze ? — Oui, tout à fait. » ; « l'enluminure onze comme carte rudimentaire ? — Oui. »
+- « Compte-les : elle ou elle + les fiers aïeux ? — Elle. » ; « le compte-les vous sert, on va dire, **autrement** ».
+- « Si je suis certain d'être sur la zone au point de départ de l'énigme douze, puis-je ne plus du tout m'intéresser à l'enluminure onze ? — **Vous pouvez l'oublier.** »
+- « Une fois la zone trouvée, peut-on identifier les 3e et 11e de chez soi ? — Vous pouvez tout identifier depuis chez vous. » ; la boussole et « l'essai » n'aident pas à les placer.
+### Conséquence
+- Machrie Moor reste **utile** (nature, nombre, distance, décodage de l'enl. 11), mais **pas comme les 3e/11e eux-mêmes** : la série des 3e/11e doit avoir un 13e (FAQ06-133).
+- La phrase « vous pouvez oublier l'enluminure onze » une fois au départ de l'É12 laisse penser que Machrie / l'enl. 11 servent surtout **à arriver au départ** (et à l'É11 : distance de 193 km). C'est cohérent avec FAQ07-239 : l'enl. 11 aide à placer « une partie », peut-être **le départ / la 3e** et non la 11e.
+### Variante Q' (Machrie = orientation seulement, apôtres = série)
+- Rangée des 13 convives (la série a bien un 13e), **3e au rempart**, **11e à 10 stades** sur l'axe Machrie 95,78° → 11e = **J5** (géométrie de Q inchangée). 13e à 2 312 m (45.426771, 6.060549) : forêt fermée, pas de croisement à < 111 m → « ne mène pas au bon endroit » ✓. Pas de 16e ✓. Pierre du rempart (3e), forêt (11e) ✓.
+- **Point faible net** : rien ne dit que Machrie donne une **direction** à l'É12. La FAQ dit au contraire que l'on peut oublier l'enl. 11 une fois au départ, et que « le ciel » donne la direction (06-166). Avec le ciel seul (aube de Pâques 93,0°), J5 est à 116 m de l'axe : Q' dépend donc d'un rôle de Machrie que la FAQ ne soutient pas.
+- Statut : **possible, faible** (~5 %, jugement). Q' garde l'atout du domaine public (bande du Tapon).
