@@ -219,3 +219,16 @@ Observation de l'image (`images_travail/A_REGARDER_enluminure9.jpg`) :
 - **Jacques (3e)** : gourde confirmée sur le personnage de l'enl. 8 (`analyse_3_options.md`). La **coquille Saint-Jacques** figure sur la carte officielle, et « la Saint-Jacques fait partie du cahier des charges » (FAQ01-166).
 - **Rose des vents I-VIII** de la carte : III et XI désigneraient la même direction, mais FAQ8 dit que la boussole de la carte n'aide pas à localiser les 3e/11e → non retenu.
 - **Carte de détail** : `images_travail/t47_detail_final.jpg`. On y voit la jonction, les sources, les places de Simon (91,4° et 93,0°), les deux cordes, les deux zones de fouille, la bande publique (vert) et le visible du pied (jaune). La bande publique cadastrale du chemin sud s'écarte vers l'ouest du sentier BD TOPO et s'arrête ~45 m après la jonction.
+
+## 14. Robustesse de P à la canopée de la crête (lever visible avec arbres)
+Le lever visible a été calculé sur le relief nu. Avec une canopée de 15-25 m sur la crête : **Pâques 1524 → 91,6-91,8°**, **Pâques 2026 → 93,4-93,6°**.
+
+| Orient | Simon → source | Simon → jonction | Corde → ruisseau vu du rempart | Corde → jonction |
+|---|---|---|---|---|
+| 91,3° (1524, relief nu) | 35 m | 60 m | 19 m | 8 m |
+| **91,8° (1524, canopée 25 m)** | 26 m | 64 m | 15 m | **0 m** |
+| 92,4° | 16 m | 70 m | 11 m | 9 m |
+| 93,0° (2026, relief nu) | 8 m | 77 m | 7 m | 17 m |
+| **93,4-93,6° (2026, canopée)** | 9-12 m | 83-85 m | **2-4 m** | 23-26 m |
+
+→ Sur **toute la plage réaliste de l'aube de Pâques (91,3-93,6°)**, la corde 3→11 passe à ≤ 26 m de la jonction et à ≤ 19 m du seul ruisseau visible depuis le rempart, et la place de Simon est à ≤ 35 m d'une source. **La construction est robuste**.

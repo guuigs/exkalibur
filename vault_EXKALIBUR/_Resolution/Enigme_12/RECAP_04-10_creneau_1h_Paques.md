@@ -27,7 +27,7 @@ Rangée de Léonard (non concluante) ; 1 850 m au lever du 30/04 (hameau) ; « L
 
 ## À trancher (Guilhem)
 1. Domaine public : accepter la variante P-public (roche dans la jonction), ou chercher une autre lecture.
-2. Année : Pâques 1524 (narrateur Bayard) ou Pâques 2026 (étape ancrée en 2026). La géométrie tient dans les deux cas.
+2. Année : Pâques 1524 (narrateur Bayard ; 91,3-91,8° avec la canopée) ou Pâques 2026 (étape ancrée en 2026 ; 93,0-93,6°). La géométrie tient sur toute la plage (voir RAISONNEMENT §14).
 
 Fichiers : `RAISONNEMENT_logique_auteur.md` (§5 à §11) ; images `t46_paques_source_simon.jpg`, `t47_corde_3_11.jpg`, `t46_planign_mouret.png`, `t46_ortho_jonction_source.jpg` ; brouillon `Livrables/E12_soumission_brouillon_Mouret.md`.
 
