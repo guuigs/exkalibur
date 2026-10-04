@@ -89,3 +89,50 @@ Image : `images_travail/t46_paques_source_simon.jpg`. Scripts : `t45_horizon.py`
 
   → **Seule l'aube de Pâques** donne à la fois une source, une jonction proche et des maisons loin. Le résultat ne dépend pas de l'année (1524 ou 2026), ce qui respecte la règle « étape ancrée en 2026 ».
 - **Lieu-dit « LES TILLES »** (où se trouve la source) = tilleuls (latin *tilia*), d'après l'étymologie. Écho possible à la « souche-majesté » (souche d'un vieux tilleul ?). **Faible**, non démontré.
+
+## 6. Hypothèse P — grille complète des contraintes (texte + FAQ)
+✅ tenu ; ⚠️ discutable ou non vérifiable ; ❌ non tenu.
+
+| # | Contrainte | Source | P | Commentaire |
+|---|---|---|---|---|
+| 1 | Départ = chemin de rempart = arrivée de l'É11, point précis | 06-193, 05-195, 07-268 | ✅ | pied de la tour d'Avalon |
+| 2 | Le ciel indique la direction et l'endroit d'arrivée | 06-166, 07-152 | ✅ | lever visible de Pâques = Orient de la table |
+| 3 | « pas une direction en tant que telle », « ne soyez pas obnubilé » | 07-132, 07-180 | ✅ | le ciel oriente la table ; la position vient des 3e/11e |
+| 4 | Une fois la direction trouvée, les 3e/11e identifient directement la clairière | 07-133 | ✅ | place 11 → source à 11 m, jonction à 73 m |
+| 5 | 3e/11e : deux points précis sur la carte, non visibles sur Maps | 05-074, 07-063, 06-227 | ✅ | places à table |
+| 6 | Même nature, un seul de chaque | 06-009, 06-216 | ✅ | deux apôtres |
+| 7 | Pieds nus : pas d'écharde à la 3e, écharde possible au 11e | 07-068 | ✅ | Jacques : prés ; Simon : forêt (et scie = bois) |
+| 8 | On marche surtout sur l'une des deux | 06-247 | ✅ | on va à la place de Simon |
+| 9 | Le 13e existe mais ne mène pas au bon endroit | 06-133 | ✅ | 13e convive = le Christ, à l'Orient, dans des champs (et Siège périlleux) |
+| 10 | 8e et 16e : « incorrect » | FAQ8 | ✅ | pas de 16e place |
+| 11 | Ordre ≠ « numéro 1 » d'*Ultima Cena* (« très bonne question ») | 04-051 | ✅ | liste des apôtres, pas des empereurs |
+| 12 | 3e/11e « visibles sur les enluminures ? » → « l'une des clés » | 05-093 | ✅ | Simon (scie) enl. 12 ; Jacques (gourde) enl. 8 |
+| 13 | Ne mènent pas à un chevalier | 07-065 | ✅ | apôtres |
+| 14 | Pas un ensemble de 52 ; couleurs inutiles | 07-156, 07-244 | ✅ | — |
+| 15 | 10 stades en ligne droite entre 3e et 11e | 05-172, 07-120 | ✅ | corde de 1 850 m → rayon 1 068 m |
+| 16 | Aller directement de la 3e à la 11e en passant par des étapes intermédiaires | 04-115 | ⚠️ | les places 4 à 10 se trouvent entre les deux le long de la table ; lecture possible |
+| 17 | L'enl. 11 aide à placer « une partie » | 07-239 | ⚠️ | « orientez-vous » (05-091) → l'Orient ? non démontré |
+| 18 | L'endroit est dans le champ de vision du rempart | 05-155 | ✅ | le pré de la jonction est vu du pied (le point exact est en lisière) |
+| 19 | Clairière = jonction = endroit apparu ; point précis | 05-165, 06-230 | ✅ | jonction de 4 chemins en lisière |
+| 20 | Vrai croisement de chemins | 06-005 | ✅ | 4 branches |
+| 21 | Clairière restée clairière | 03-274 | ⚠️ | pré, mais en partie couloir de la ligne 400 kV |
+| 22 | Le narrateur aurait pu marcher sur ces chemins | 06-197 | ✅ | étape ancrée en 2026 (décision de Guilhem) |
+| 23 | Les chemins de la jonction sont « très proches » du rempart | 06-025 | ⚠️ | 1 km : proche à l'échelle de la chasse |
+| 24 | Le coffre n'est pas loin du rempart | 06-244 | ✅ | ~1 km |
+| 25 | Suivre les eaux enchantées pour trouver la roche ; « enchantées = merveilleuses » | 06-195, 05-025 | ✅ | les sources (les fées) le long du sentier sud, à gauche |
+| 26 | La roche bloque le passage | 06-195, FAQ8 | ⚠️ | la source = fin du ruisseau ; non vérifiable |
+| 27 | Roche mouillée ; difficile à toucher sans se mouiller | FAQ8, 06-180 | ✅ | source |
+| 28 | Pieds mouillés possibles avant la roche, pas après | 06-090 | ⚠️ | le talweg coule dans le chemin avant ; mais la fouille à pas de 0,75 m tombe près du talweg amont |
+| 29 | Roche très difficile à manquer, pas forcément visible en ligne | 03-211, 07-126 | ⚠️ | aucune roche nette au LiDAR à ±30 m des sources |
+| 30 | De la souche, on ne voit plus la roche ; une seule étape entre roche et souche | 06-167, 07-182 | ⚠️ | forêt dense (plausible) |
+| 31 | Coffre « tout près » de la jonction | 05-051 | ✅ | 73 m + ~25 m |
+| 32 | Loin de tout bâtiment | 05-107 | ✅ | maisons à 182-197 m |
+| 33 | Domaine public, pas de terrain privé | 01-235, 02-097, 03-098 | ❌ | bois privé (B0267) ; forêt publique à 700 m ; seule une roche à ≤ 11 m de la jonction donne une fouille publique |
+| 34 | Accessible à tous, toute l'année, fauteuil (au sens large) | 06-020, 03-112 | ⚠️ | sentier en pente (27 %) |
+| 35 | Météo peut bloquer, lieu non dangereux | 04-198 | ✅ | ruisseaux à crues (IRMA) |
+| 36 | Le chant n'est entendu que du narrateur | 03-184 | ✅ | *Exsultet* intérieur |
+| 37 | Première phrase = confirmateur crucial | 07-088 | ⚠️ | « Dieu sut se montrer favorable » : pas encore relu dans la lecture pascale |
+| 38 | Enl. 9 : localiser l'objectif ; éléments autour utiles ; bassin identifiable | 07-196, 03-308 | ⚠️ | source + vasque plausibles ; bassin non identifié |
+
+**Bilan** : 24 ✅, 13 ⚠️, **1 ❌ (domaine public)**. C'est le dossier le plus complet à ce jour. Le ❌ est le point à travailler en priorité. Pistes : une roche tout près de la jonction (fouille sur les chemins publics) ; un décalage entre le cadastre et le sentier ; ou une erreur sur la position BD TOPO de la source.
+**Effet « chercher ailleurs »** : environ 8 à 10 constructions ont été essayées (12/13 places × Orient × sens de numérotation). Avec 0,2 % par essai, la probabilité qu'au moins une tombe à ≤ 11 m d'une source est d'environ 2 %. Le signal reste faible en probabilité, mais réel.
