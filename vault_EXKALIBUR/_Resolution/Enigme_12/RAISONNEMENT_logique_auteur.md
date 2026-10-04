@@ -536,3 +536,19 @@ Les lieux-dits remplacent la « rangée » abstraite, choisie après coup, par u
 - **Somme des numéros atomiques = 197** = masse de l'**or 197**, le seul isotope stable de l'or (« élément crucial » = l'or ?). L'arbre à traverser entre l'ancre et la lune porte des **fruits d'or**.
 - Points faibles : l'étoile (hélium) est la correspondance la moins sûre ; le rôle propre de l'âne et de l'ancre n'est pas expliqué ; le glyphe sous le loup (V♀ ou les six C) n'entre pas dans le calcul.
 - **Coïncidence à vérifier** : depuis la muraille, le cap **198,0°** mène, à **1 950 m**, au croisement du **Papet** (45.412208, 6.023298, Pontcharra rural), l'un des 4 croisements qui passent le crible strict (§23.3). Pré en lisière, vu depuis la muraille, sentier vers le ruisseau du Papet (permanent, bande publique) à ~70 m ; lotissement à 50-100 m (6 bâtiments < 100 m). Carte : `images_travail/t77_carte_papet.jpg`. Lecture « 197 = un cap » non justifiée par la FAQ : simple signal à examiner.
+
+## 29. Retour au MOURET comme piste principale (décision de Guilhem, 04/10)
+### 29.1 Hypothèse P recalculée depuis la muraille (`t83_P_muraille.py`)
+Géométrie : table de 12 places espacées de 30°, centrée sur la tour ; le Christ (13e convive) à l'Orient = lever visible de Pâques, entre la 12e et la 1re place ; l'apôtre n° k au cap Orient − (k − 0,5) × 30° ; rayon 1 068 m (3e et 11e à 120° l'une de l'autre = 1 850 m = 10 stades).
+| Point de vue | Pâques | Orient | Simon (11e) → source | Simon → jonction | Corde 3→11 : jonction | Corde : pont du Rebouchet |
+|---|---|---|---|---|---|---|
+| centre de la tour | 1524 | 91,3° | 27 m | 55 m | **2 m** | 9 m |
+| centre de la tour | 2026 | 92,9° | **3 m** | 75 m | 27 m | **3 m** |
+| 4 points de muraille | 1524 | 91,2-91,3° | 20-36 m | 44-67 m | 1-12 m | 2-20 m |
+| 4 points de muraille | 2026 | 92,9-93,1° | 9-17 m | 63-90 m | 16-38 m | 0-15 m |
+→ P **tient et se renforce** depuis la muraille. Le pré de la jonction est vu de la muraille (441 m², œil au sol).
+### 29.2 Domaine public au coffre, recherche stricte (`t84_P_fouille_publique.py`)
+Coffre exigé : public **sûr** (parcelle publique, forêt publique ou voirie non cadastrée), ≥ 100 m des bâtiments, ≤ 30 m d'un chemin, pas 0,65 **et** 0,75 m ; roches testées sur tous les talwegs ≥ 0,5 ha dans 300 m (1 335 cellules), 5 lectures du « jour dernier ».
+- Roche à **4-5 m** de la jonction → coffre public (bande du chemin de l'est), toutes lectures ; mais presque pas d'eau à suivre (déjà jugé contraire au texte, §17).
+- **Roche à ~294 m** (45.420266, 6.042464 ; talweg 2,7 ha ; saillie LiDAR +1,4 m) : son ruisseau rejoint la jonction (à 39 m) → on le **remonte** depuis la jonction. Coffre ≈ **45.42033-45.42034, 6.04260-6.04264** (jour dernier 91,4°, 90° ou 67,7°), sur la bande d'un chemin (3-5 m), **maisons à 102-103 m** (juste au-dessus du seuil).
+- La source (roche d'où jaillit l'eau) donne un coffre en bois privé : non retenue tant que le domaine public est exigé.
