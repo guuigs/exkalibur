@@ -244,3 +244,8 @@ Le lever visible a été calculé sur le relief nu. Avec une canopée de 15-25 m
   - 13e à 1 388 m : lisière de forêt.
   → **pas de clairière en forêt, pas d'eau** : non retenue.
 - **Table ronde** avec le Christ sur l'axe Machrie (95,78°) : place 11 = 45.421425, 6.039778, à 47 m d'une source, à 118 m de la jonction du Mouret, 959 m² vus du pied. Elle retombe au **Mouret**, un peu moins bien que l'Orient de Pâques (91,3-93,6°). L'axe Machrie (95,8°) et l'aube de Pâques (91-94°) ne diffèrent que de 2 à 4°, et les deux constructions convergent vers la même zone.
+
+## 16. Enluminure 11 (contrainte n° 17, « aide à placer une partie ») — reprise
+- Rappel (T15B) : la croix de pierres est une **croix PATERNOSTER** (2 lignes de 11 lettres, N central commun, 4 R aux rangs 5 et 11), avec **A, O, A, O = Alpha et Oméga** autour. Lien direct avec « **Tout commence et tout s'achève** » (Alpha et Oméga, gravés sur le cierge pascal) → **appui à la lecture pascale de P**.
+- Test « la ligne de 11 posée au rempart » (N central = rempart ; 3e lettre T à 3 × 231 m d'un côté, 11e lettre R à 5 × 231 m de l'autre ; croix au nord de la carte, ou tournée vers l'Orient de Pâques) : la 11e tombe dans des champs, un hameau ou une forêt invisible du pied (maisons à 28-86 m). **Non concluant** : la croix ne sert pas de gabarit métrique.
+- Lecture retenue : l'enl. 11 aide « en partie » par son **sens** (la croix du Christ avec l'Alpha et l'Oméga, l'« Orient »), pas comme règle à poser sur la carte.
