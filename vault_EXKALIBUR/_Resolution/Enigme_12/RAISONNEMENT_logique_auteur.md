@@ -566,3 +566,24 @@ Coffre exigé : public **sûr** (parcelle publique, forêt publique ou voirie no
 - **Variante « roche à mi-chemin »** : roche sur l'eau qui descend de la source, à ~40 m de la jonction et ~40 m de la source (≈ 45.42212-45.42214, 6.04000-6.04003 ; talweg 3 ha, terrain ouvert, 15-18 m du sentier). Coffre **dans la bande publique** pour les 5 lectures du jour dernier (67,7 / 74 / 90 / 91,4 / 93°), avec le pas de 0,65 m pour le premier point et de 0,75-0,8 m pour le second ; coffre ≈ **45.42217-45.42223, 6.04017-6.04020**, à 7-9 m du chemin, maisons à ~175 m. **Fragile au mètre** (bande de quelques mètres).
 - Remarque : l'eau qui sort de la source part vers le nord-ouest (pylône 400 kV) et passe à ~40-50 m de la jonction, pas sur la jonction même.
 - Schémas : `images_travail/t88_schema1_table.jpg` (Table de la Cène sur le rempart), `t88_schema2_fin.jpg` (jonction → roche → coffre, avec le cadastre), `t88_schema3_pas.jpg` (lecture de la strophe et des pas).
+
+## 30. Les FAQ05-018 / 05-150, hasard mesuré, lieux clés (04/10)
+### 30.1 Ce que disent vraiment les FAQ « zone trouvée »
+- **05-018** : « la zone a été trouvée par 4 joueurs », mais il leur manque des solutions pour l'exploiter. **05-150** : la zone a été trouvée, « n'en ont pas fait grand-chose ».
+- **06-083 (précision capitale)** : « une zone large, d'une **poignée de kilomètres** ». La « zone » n'est donc PAS le lieu du coffre.
+- **06-163** : ce qui compte, c'est le raisonnement pour « faire le **dernier kilomètre**, si je puis dire » : de la zone au coffre, ~1 km.
+- **06-134** : un joueur est « à quelques encablures » (~200 m), d'autres « passent proche, avant de quitter la zone pour une autre zone. Ils n'ont pas compris que c'était la zone ».
+- **FAQ8** : une personne a trouvé la zone « par hasard dès la première FAQ » avec « pas beaucoup de raisonnement correct » : la zone se trouve facilement (probablement par le mot « Avalon » / la tour). Trio de tête à 90-95 % avec au moins une résolution à < 150 m du coffre (ce ne peut être ni la tour ni le château Bayard, trop bâtis : FAQ05-107).
+- **Conséquences** : (1) notre zone (secteur de la tour d'Avalon, quelques km) est cohérente ; (2) le coffre est à environ **un kilomètre** du centre de la zone : le Mouret (1,02 km) colle, Le Couvet (2,3 km) beaucoup moins ; (3) ce qui bloque les autres, ce sont les 3e/11e, la clairière et la fin : ils n'ont pas « compris que c'était la zone » = ils ont quitté le secteur parce que leurs 3e/11e les ont envoyés ailleurs.
+### 30.2 Hasard mesuré par simulation placebo (`t90_hasard_P.py`)
+Modèle nul : 120 centres de table tirés au hasard à ≤ 1,3 km de la tour, orientation 55-125°, 2 sens de numérotation, les mêmes tests. « Croisement qualifié » = ≥ 3 voies, maisons ≥ 100 m, eau/talweg, forêt ≥ 20 %, coffre public sûr possible (197 croisements sur 1 494, sans visibilité ni ouverture, donc généreux).
+| Événement | Tour (observé) | Centres au hasard (moyenne) | Verdict |
+|---|---|---|---|
+| place 11 à ≤ 60 m d'un croisement qualifié | 6,8 % | 6,2 % | **non significatif seul** |
+| + la corde 3→11 passe à ≤ 25 m de ce croisement | 3,9 % | 2,2 % | faible |
+| + une source BD TOPO à ≤ 40 m de la place 11 | **0,78 %** | **0,05 %** | **significatif** (rang 2,5 % parmi les centres) |
+- p-value de P : **≈ 0,1 %** (nul à orientation fixée × 2 sens) à **≈ 2,5 %** (rang parmi les centres). **Réserves** : 8 constructions environ ont été essayées (rangée, table ronde, Winchester, Machrie, lieux-dits…) : avec cette multiplicité, on ne peut pas affirmer p < 5 % de façon robuste ; la source n'est atteinte à ≤ 40 m qu'en 1524 (20-36 m) et 2026 (3-17 m), pas en 2023 (41-62 m).
+- **Portée géométrique de P** : sur le cercle de 1 068 m, la table n'atteint que **5 croisements** ; seul **Le Mouret** passe tous les critères durs sauf l'ouverture exacte (S2). Aucun des 4 prétendants du crible strict autres que le Mouret (A, C, Couvet, Papet) n'est atteignable (leur cap est hors des places 11 possibles).
+- **R (Couvet, lieux-dits)** : alignement avec le lever du 30/04 = 9 % (4 prétendants × 4 dates × 1° / 180°) × série de lieux-dits à 10 stades = 9 % → 0,8 % brut, **≈ 6 % avec la multiplicité** : au-dessus du seuil de 5 %.
+### 30.3 Lieux clés autour d'Avalon (`t89_lieux_cles.py`)
+55 lieux clés (châteaux, croix, clochers, sources, lavoirs, fontaines, ruines, sommets) dans 3,5 km. Seul fait notable : la **croix et le clocher à 530 m (cap 96-98°)** sont proches de l'axe de l'aube (déjà vu : pas de logique). Paires à 10 stades ±1 % : 16 observées, **11 attendues au hasard (95e centile 17)** : non significatif, dont Château le Clément ↔ source n° 2 du Mouret (1 851,5 m). La source du Mouret est à 1 066-1 068 m de la tour (= rayon de la table par construction).
