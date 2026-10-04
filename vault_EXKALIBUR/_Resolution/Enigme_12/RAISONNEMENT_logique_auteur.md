@@ -41,7 +41,7 @@ Lecture **apôtres / Cène** (gardée) :
 
 Scripts : `outils_scratch/t45_cene_rangee.py`, `t45_horizon.py` (lever visible sur le MNT de 50 km), `t45_zoom.py`. Image : `images_travail/t45_place11_lever1524.jpg`.
 
-## 5. Hypothèse P — « l'aube de Pâques » : la table s'oriente sur le ciel, Simon tombe sur une source (04/10, créneau autonome)
+## 5. Hypothèse P — « l'aube de Pâques » : la table s'oriente sur le ciel, Simon tombe sur une source (04/10, créneau autonome) — ⚠️ chiffres de lever et de distance à la source CORRIGÉS au §9 (erreur de signe)
 ### La chaîne, étape par étape, et ce qui justifie chaque choix
 | Étape | Choix | Justification (texte, FAQ, faits) | Choisi par nous ? |
 |---|---|---|---|

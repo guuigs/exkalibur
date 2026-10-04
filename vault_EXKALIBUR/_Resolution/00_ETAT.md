@@ -58,12 +58,12 @@ Fichiers de référence : `Enigme_12/RECAP_04-10_session_autonome.md` (le plus r
 
 ⚠️ **Erreur de signe corrigée le 04/10** : cap grille Lambert 93 = cap vrai **−** 2,2° (voir `Enigme_12/RAISONNEMENT_logique_auteur.md` §9).
 
-## Prochaines actions (Claude, en autonomie ; inconnues acceptées et notées)
-1. Recherches en ligne par Claude : imagerie de rue ouverte (Panoramax, Mapillary), sites de randonnée, toponymie, pour le chemin de l'est, la cascade du Rebouchet et la permanence de l'eau.
-2. ~~Trancher « à senestre »~~ : les deux lectures sont acceptées (04/10).
-3. ~~Points de fouille A, B, C~~ fait ; classement A > B > C.
-4. ~~Critère fauteuil~~ accepté au sens large (04/10).
-5. Finaliser la soumission (brouillon : `Livrables/E12_soumission_brouillon_Mouret.md`).
+## Prochaines actions (après le créneau autonome du 04/10, 08:00-09:00)
+1. **Hypothèse P (aube de Pâques)**, dossier principal : `Enigme_12/RAISONNEMENT_logique_auteur.md` §5 à §9. Grille de 38 contraintes : 24 tenues, 13 discutables, 1 non tenue (domaine public).
+2. **Trancher le domaine public** (seule case non tenue). Pistes : (a) une roche tout près de la jonction (fouille sur les chemins publics) ; (b) un décalage entre le cadastre et le sentier ; (c) relire FAQ01-235 (« il y a une tolérance »).
+3. **Trancher l'année** : Pâques 1524 (91,4° ; Simon à 24-33 m de la source) ou Pâques 2026 (93,0° ; 5-13 m). La corde 3→11 passe par le ruisseau visible et la jonction dans les deux cas.
+4. Première phrase (contrainte n° 37) et enl. 11 (« une partie », n° 17) : à relire dans la lecture pascale.
+5. Brouillon de soumission à jour : `Livrables/E12_soumission_brouillon_Mouret.md` (ne pas envoyer avant les points 2 et 3).
 
 ## Tableau de bord des énigmes
 | # | Titre | Statut | Solution |

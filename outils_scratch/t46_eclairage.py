@@ -10,7 +10,7 @@ def lit(lon,lat,h,az,eye=0.5):
   x,y=T.transform(lon,lat)
   try: z0=float(mnt[int(YN-y),int(x-X0)])+eye
   except Exception: z0=z(x,y)+eye
-  azg=math.radians(az+2.2)
+  azg=math.radians(az-2.2)
   for d in np.arange(30,24000,25):
     xx=x+d*math.sin(azg);yy=y+d*math.cos(azg)
     hh=z(xx,yy)
@@ -25,7 +25,7 @@ t_r=None
 for i,(h,az) in enumerate(traj):
   if lit(6.03115,45.42887,h,az,eye=1.7): t_r=i;break
 print('soleil visible du rempart : h',traj[t_r][0],'az',round(traj[t_r][1],1))
-for nm,lo,la in (('pré visible du Mouret',6.039049,45.422482),('jonction du Mouret',6.040299,45.422426),('source / Simon',6.04019,45.42177),('pont du Rebouchet',6.03829,45.426344),('J5 (loup)',6.054780,45.426948)):
+for nm,lo,la in (('pré visible du Mouret',6.039049,45.422482),('jonction du Mouret',6.040299,45.422426),('source / Simon',6.04019,45.42177),('pont du Rebouchet',6.03829,45.426344),('ruisseau vu du pied',6.038836,45.426236),('J5 (loup)',6.054780,45.426948)):
   t=None
   for i,(h,az) in enumerate(traj):
     if lit(lo,la,h,az): t=i;break

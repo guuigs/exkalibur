@@ -46,3 +46,9 @@
 | Croisements au bord des cours d'eau permanents (Perrière, Rebouchet aval, Papet, Coisetan) | aucun visible du pied ; groupe nord à 2,1-2,3 km vu seulement du sommet (gardé en réserve) | t42 |
 | Option Vivier / pied de la tour (≤ 700 m) | rien de visible du pied hors bourg ; exutoire du Vivier en zone bâtie puis ravin invisible ; tache au sud = prairie entre haies sans ruisseau | t43 |
 | « Ressaut à 103 m » de la jonction du Mouret (45.421557, 6.040743) | ravine raide continue (≈ 50 %), pas une roche isolée | t43 |
+| Rangée de Léonard (Christ au rempart, table perpendiculaire au lever) | 11e place en forêt sans rien de visible au lever réel ; rien de net (non concluant) | t45 |
+| 1 850 m au lever visible du 30/04/1524 | hameau du Couvat, maisons à 32 m | t45 |
+| « LE RAMPEAU » (lieu-dit à 48 m de la source) = les Rameaux | faux : rampeau = jeu de quilles ou lancer de départage | web |
+| Numérotation des apôtres depuis la gauche du Christ (miroir) | 11e au NE, maisons à 37-75 m, aucune source à moins de 1,5 km | t46 |
+| Autres veillées (mort de Bayard, 30/04, équinoxe) pour l'Orient | maisons à 54-99 m ou pas de source | t46 |
+| Vivier d'Avalon comme zone du coffre | bâti à moins de 100 m ; ENS ; rien de visible ; reste un candidat pour le **bassin** de l'enl. 9 | t43 |
