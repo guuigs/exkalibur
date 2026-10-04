@@ -39,7 +39,7 @@
 | Clairière dans le champ de vision du rempart (05-165, 06-230) | ⚠️ pré vu du pied, mais pas le point de jonction (41 m) | ❌ J5 invisible | ✅ point vu |
 | Vrai croisement de chemins (06-005) | ✅ 4 branches | ✅ | ✅ |
 | Clairière restée clairière (03-274) | ✅ pré en lisière de forêt | ❌ pas une clairière | ❌ parc urbain |
-| Eau, roche mouillée qui barre le passage (FAQ8, 06-195) | ✅ cascade du Rebouchet à 13 m du rocher A | ⚠️ ravin | ❌ |
+| Eau, roche mouillée qui barre le passage (FAQ8, 06-195, 06-180) | ⚠️ cascade du Rebouchet à 13 m du rocher A, mais ruisseau classé intermittent par la BD TOPO à cet endroit | ⚠️ ravin | ❌ |
 | Coffre loin des bâtiments (05-107) | ✅ maisons à 150-180 m | ⚠️ | ❌ maisons à 8-40 m |
 | Domaine public (01-235, 02-097) | ⚠️ bord de la bande publique du Rebouchet | ❌ privé | ✅ |
 | Fauteuil avec accompagnateur (03-112) | ❌/⚠️ pente de 40 % au point de fouille, 131 m hors chemin | ❌ | ✅ |
