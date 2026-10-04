@@ -34,3 +34,7 @@
 | 12 batailles d'Arthur comme vecteur (3e → 11e) | 350 km ; cap 331,6° vers Pontcharra | Nennius |
 | Plan de Machrie Moor posé sur le terrain (285 variantes : départ, orientation, cercle) | aucune ne donne clairière + croisement proche + visibilité ; meilleur compromis MM2 (prés visibles, croisement à 200 m) | t33 |
 | Sites 4 à 10 de Machrie Moor projetés (MM3 au rempart, MM11 à 10 stades) | tous à l'ouest ou au sud ; champs, hameaux, zone industrielle ; aucune clairière visible avec croisement | t34 |
+| Rayure (SVG) = itinéraire de la tour au croisement final | 4 237 itinéraires testés : le miroir colle aussi bien ou mieux ; pas de signal | t40 |
+| Jonction 2 du Mouret comme clairière | sous les arbres (0 % ouvert à 40 m) | t41 |
+| Champ-Laurier (sentier Bayard, vecteur gourde → scie) | invisible depuis la tour | t41 |
+| Culs-de-sac du Rebouchet amont (forêt de Pontcharra) comme roche | à 1-1,8 km de la jonction (« tout près », 05-051) | t41 |

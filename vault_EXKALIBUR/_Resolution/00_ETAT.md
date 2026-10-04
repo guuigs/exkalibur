@@ -1,72 +1,64 @@
 # 00 — ÉTAT (à relire EN PREMIER à chaque reprise)
 
-## RÈGLE DE TRAVAIL (Guilhem, 03/10/2026) — à appliquer en priorité
-**Quand une lecture est logique vis-à-vis du texte de l'énigme (ex. : Bédivère et les trois tentatives pour rendre l'épée = « Tombée par trois fois »), ON L'ACTE et on avance dessus**, sans attendre une preuve chiffrée. On ne la remet en cause que si une réponse de l'auteur la contredit.
-Actés au 03/10 : narrateur = Bayard (vers 1524 du Roman de la Rose) ; 1re phrase = citation du Roman de la Rose (fontaine de Narcisse) ; « ? » de l'enluminure 11 = 11 ; dernier chevalier = Bédivère ; « Tombée par trois fois… revenue là où elle n'avait jamais cessé d'être » = Excalibur rendue au lac par Bédivère à la 3e tentative.
-Actés le 03/10 (nuit) : **3e et 11e = lieux des chapitres III (le mur et l'entrée = chemin de rempart, le départ) et XI (fontaine de Narcisse sous le pin = zone finale) du Roman de la Rose** ; direction = soleil levant d'été ; **zone n°1 = clairière de Guilhem, pré des Bretonnières / cascade de la Burge (45.43821, 6.05049 ; 1 844 m de la tour, −0,3 %)**. Tire-Loup J5 passe n°2. Détails : `Enigme_12/solution.md`, dernière section.
+**Dernière mise à jour : 04/10/2026, matin.** Énigmes 1 à 11 validées par Guilhem (aucune validation officielle). Énigme 12 en cours.
 
+## Règles de travail (Guilhem)
+1. **On acte** une lecture logique vis-à-vis du texte, sans attendre une preuve chiffrée ; on ne la remet en cause que si une réponse de l'auteur la contredit (03/10).
+2. **Réponses brutes d'abord** : les pistes nouvelles partent du texte des énigmes et de la FAQ, pas de nos déductions (03/10).
+3. **Registre des pistes écartées** : `Enigme_12/PISTES_ECARTEES.md`, à relire avant toute nouvelle piste.
+4. **Pontcharra abandonnée d'office** (ville, zones d'activités, gare) (03/10).
+5. Pas de visite sur place (l'auteur dit que tout se fait de chez soi).
+6. Communauté (Discord) = hypothèses seulement, jamais des faits.
 
-**État au 03/10/2026, fin de séance (à relire en premier)** : voir `Enigme_12/analyse_3_options.md`, sections finales.
+## Contraintes dures de l'É12 (FAQ, texte brut)
+| Contrainte | Source |
+|---|---|
+| Départ = chemin de rempart, point précis, accessible toute l'année ; = arrivée de l'É11 | 06-166, 07-268, 06-020, 05-195 |
+| La clairière, la jonction et « l'endroit apparu » sont le même lieu, un point précis, dans le champ de vision du rempart ; la jonction = croisement de chemins au sens propre | 05-165, 06-230, 05-155, 06-005 |
+| Clairière restée clairière ; le narrateur aurait pu marcher sur ces chemins (pas forcément en 1524 : étape ancrée en 2026, décision de Guilhem) | 03-274, 06-197 |
+| Coffre éloigné de tout bâtiment ; sur le **domaine public**, pas sur un terrain privé ; accessible à tout public | 05-107, 01-235, 02-097, 03-098 |
+| Coffre accessible en fauteuil avec accompagnateur | 03-112 |
+| 3e et 11e : deux points, même nature, un seul de chaque, écharde possible sur le 11e pas sur la 3e, on marche surtout sur l'un, 13e existe mais mauvais, 8e et 16e incorrects | 05-074, 06-009, 06-216, 07-068, 06-247, 06-133, FAQ8 |
+| 10 stades (1 850 m ±1 %) séparent les 3e et 11e en ligne droite (pas forcément rempart → clairière) | 05-172, 07-120 |
+| Le ciel guide « en tout dernier lieu » ; pas besoin de lever la tête pour trouver le « jour dernier » | FAQ8 |
+| En ligne : on doit pouvoir montrer le départ, les 3e/11e et la clairière (capture vue du ciel). La grande roche, la souche et les eaux ne se voient pas forcément en ligne | 07-078, 07-126, 06-060, 07-240, FAQ8 |
+| Les derniers pas partent de l'étape après la roche (la souche) ; pas de 9e pas | 06-178, 05-039 |
 
-| Piste | Contenu | Confiance |
-|---|---|---|
-| Piste n°1 | **Table des saints**. 3e = Jacques (gourde, enl. 8, confirmée par Guilhem) ; 11e = Simon (scie, enl. 12, confirmée). 12 places autour du rempart, rayon 1 850/√3 = 1 068 m. Clairière de Muraillat (J2 : 45.43204, 6.04388, 1 067 m, cap 70,7°). Ruisseau suivi, eau à gauche, jusqu'à la prise d'eau du Tapon ; 4 points à creuser candidats. | lecture ~40 %, point précis < 5 % |
-| Piste gardée | Le loup (Tire-Loup J5). | ~10 % |
+## Énigme 12 — état des pistes (04/10)
+| Rang | Piste | Ce qui la porte | Points faibles | Confiance (jugement) |
+|---|---|---|---|---|
+| 1 | **LE MOURET** (jonction de 4 chemins 45.422426, 6.040299 ; jonction 2 45.42337, 6.041663) | Deux méthodes indépendantes : (a) table des apôtres « Christ à l'Orient » (Simon à 37-77 m quel que soit le centre et le rayon) ; (b) crible « terrain d'abord » sur 7 × 7 km : seules jonctions en clairière, loin des maisons, près de l'eau ET visibles du pied de la tour. Talweg qui coule dans le chemin de l'est (eau à gauche en montant, rive gauche, chemin public). Deux sources. Affleurements rive gauche du Rebouchet ; gros rocher de 4 m (45.421452, 6.045319) | Jonction en lisière ; terrains privés autour (seuls chemins et bandes de ruisseau publics) ; pente 22-35 % ; grande roche non tranchée | ~25 % |
+| 2 | Loup (cercles 3 et 11 de Machrie Moor, cap 95,78°) | Identité des 3e/11e solide (FAQ8, enl. 11, bois du cercle 11) | J5 invisible du pied, pas une clairière, privé ; pré visible à 1 287 m sans croisement ; ne passe pas le crible terrain | ~5 % |
+| 3 | Apôtres, autres orientations ; Muraillat | — | J2 n'est pas un croisement | écartée |
 
-Prochaines étapes :
-- faire trancher la grande roche (G1/G2) par des photos ;
-- tester les symboles du ciel de l'enl. 9 sur cette zone.
+Fichiers de référence : `Enigme_12/RECAP_04-10_session_autonome.md` (le plus récent), `Enigme_12/pistes_brutes_3e_11e.md` (journal détaillé), `Enigme_12/PISTES_ECARTEES.md`.
 
-> **Méthode depuis le 30/09** : `GRAPHE_INDICES.md` (fils rouges, entrées → sorties de chaque énigme, filtre d'élimination en 3 questions, pistes écartées). À lire juste après ce fichier.
+## Prochaines actions
+1. Photos en ligne (Google Maps, randonneurs) du chemin creux de l'est au Mouret, de la jonction 2 et du gros rocher du Rebouchet.
+2. Trancher « à senestre » : chemin creux de l'est, ou sentier vers la jonction 2 et le Rebouchet.
+3. Calculer les points de fouille sur bande publique pour chaque roche retenue (`outils_scratch/t41_dig_public.py`).
+4. Préparer la soumission : capture vue du ciel de la clairière et de la jonction, avec un paragraphe sur le parcours (FAQ07-078).
 
-**Dernière mise à jour :** 29/09/2026 21:05
-**Phase :** 1 en cours. **Énigmes 1 à 5 : ACQUISES** (décision de Guilhem, 29/09, sans revalidation).
-**Décisions de Guilhem** :
-- (29/09) Communauté consultable, en hypothèses uniquement. Pas de carte au trésor pour l'instant : on avance sans. Attendre sa confirmation après chaque énigme validée.
-- (29/09, soir) **Mode « shark agressif »** : si une résolution est **validée officiellement** (auteur, FAQ, organisateur), on la prend et on passe à la suite. Les **rumeurs de validation** sont gardées en mémoire comme **pistes d'approche**, jamais comme des faits.
-- (29/09) Subagents sur **Sonnet 5.5** en priorité ; bascule automatique sur DeepSeek à 90 % d'usage Claude (skill `subagent-model-guard`, cron toutes les 15 min).
+## Tableau de bord des énigmes
+| # | Titre | Statut | Solution |
+|---|---|---|---|
+| 1 | In principio | ✅ Guilhem | Épée León–Foix–Valence–Urquhart |
+| 2 | Terra incognita | ✅ | Tour de Londres |
+| 3 | Ecce Homo | ✅ | Tintagel |
+| 4 | Rex dei gratia | ✅ | Tintagel → Silchester → Westminster |
+| 5 | Lux in tenebris | ✅ | Stonehenge + Carnac |
+| 6 | Libera nos a malo | ✅ | 4 C (340,9 km) ; Tour → Battle → Sainte-Chapelle |
+| 7 | Sub rosa | ✅ | Sainte-Chapelle → Rennes → Brocéliande → Lorient |
+| 8 | Ultima cena | ✅ | Payns / Hugues de Payns ; Lincoln (Hugues d'Avalon) |
+| 9 | Noli me tangere | ✅ | Chartres (1er paragraphe ouvert) |
+| 10 | Omnia vincit amor | ✅ | Eilean Donan → Machrie Moor, 193,1 km |
+| 11 | Consummatum est | ✅ | Saint-Palais → château Bayard (D·π), tour d'Avalon 1 km plus loin |
+| 12 | Ad vitam aeternam | 🟡 en cours | voir ci-dessus |
 
-**En cours** : É6 validée le 30/09 (Discord + calcul). **Accès Discord complet** (84 salons, dont un par énigme) : mode shark sur les énigmes 7 à 12. Ancien : Énigme 6. **Orchestration par sous-équipe** (Guilhem, 29/09 : plusieurs sous-agents par énigme, en surveillant l'usage Claude). Brief commun : `Enigme_06/BRIEF_sous_agents.md`. Lot deleg_c5ddcd99 : T1 Pater/lecture du plateau, T2 iconographie HD, T3 histoire (Urbain II, Templiers), T4 lieu très Sainte et géométrie, T5 rumeurs et FAQ transverse des C.
-Solveur A : PAS TROUVÉ (photo basse définition). Solveur B interrompu : l'alignement Tour–Battle–Sainte-Chapelle n'est pas discriminant, et la contrainte de distance seule ne tranche pas.
-**Si la session a été coupée** : lire `Enigme_06/REPRISE.md` (procédure de relance agent par agent).
-**Prochaine action** : synthèse T1-T5 → solution candidate → vérificateur (contexte vierge).
+⚠️ Numérotation des enluminures : ordre de lecture (R1G=1 … R6D=12) ; énigme N ≠ enluminure N (FAQ02-096). Correspondance : `03_Correspondance_illustrations.md`.
 
-## Tableau de bord
-| # | Titre | Panneau | Statut | Solution | Prochaine action |
-|---|---|---|---|---|---|
-| 1 | In principio | R1G | ✅ ACQUISE (Guilhem) | Épée León–Foix–Valence–Urquhart (carte de Guilhem) | — |
-| 2 | Terra incognita | R1D | ✅ ACQUISE | Londres / Tour de Londres | — |
-| 3 | Ecce Homo | R2G | ✅ ACQUISE | Tintagel | — |
-| 4 | Rex dei gratia | R2D | ✅ ACQUISE | Tintagel → Silchester → Westminster | — |
-| 5 | Lux in tenebris | R3G ou R5D (?) | ✅ ACQUISE | Stonehenge + Carnac (Ménec) | — |
-| 6 | Libera nos a malo | R4G (= enluminure 7) | ✅ VALIDÉE (shark) | 4 C = Clairvaux → Cîteaux → Cluny → Clermont (340,9 km) ; Tour → Battle → **Sainte-Chapelle** | — |
-| 7 | Sub rosa | R3D (= enluminure 6) | 🟡 PROBABLE forte | Nouvelle garde **Sainte-Chapelle → Rennes → Brocéliande → Lorient** (Lorient à 0,04 km ; hasard 0,25 %) | Confirmation de Guilhem |
-| 8 à 12 | — | — | ⚪ non commencées | — | — |
-
-⚠️ **Numérotation des enluminures** : l'auteur les numérote dans l'ordre de lecture (R1G=1, R1D=2, R2G=3, R2D=4, R3G=5, R3D=6, R4G=7, R4D=8, R5G=9, R5D=10, R6G=11, R6D=12). Énigme N ≠ toujours enluminure N (FAQ02-096). La FAQ lie *Sub rosa* (É7) à la balance et aux 2 juments (enl. 6 = R3D, FAQ06-123), et *Libera nos a malo* (É6) au plateau de jeu (enl. 7 = R4G). Pour É5, l'appariement R5D de mon document 03 reste une hypothèse : la FAQ classe la nappe/table/barque (R3G) en « enluminure 5 ». Sans impact sur la solution acquise.
-
-## Bloquants
-1. ~~Carte au trésor~~ : **reçue** (photo IMG_4333), relevé dans `Carte/carte_officielle.md`. Photo à main levée : pas assez précise pour mesurer.
-2. Photos HD reçues (27, `Sources/photos_HD_2026-09-29/INDEX.md`). Il manque toujours un gros plan du plateau R4G : IMG_4334 reste la meilleure source.
-
-## Fichiers
-- 01_Contexte.md · 02_Audit.md · 03_Correspondance_illustrations.md (⚠️ É5 corrigée ci-dessus)
-- Communaute/ : veille + **FAQ officielle complète de l'auteur** (`faq_officielle_auteur.json`, 1 852 Q/R) + scripts d'extraction
-- Journal.md · Pistes_transverses.md · Sources/ · Carte/
-
-
-**30/09 : É8 Ultima cena 🟡 probable (Payns / Hugues de Payns), en attente de confirmation de Guilhem.**
-
-**30/09 : É8 ✅ validée par Guilhem. É9 Noli me tangere en cours. Consigne : sur les dernières énigmes, le Discord relève surtout de la supposition, ne rien prendre pour acquis.**
-
-**30/09 : É9 🟡 lieu probable (Chartres), 1er paragraphe ouvert, en attente de Guilhem.**
-
-**30/09 : É9 ✅ (Chartres). É10 Omnia vincit amor en cours.**
-
-**30/09 : É10 🟡 (Eilean Donan → Machrie Moor, 193,1 km), en attente de Guilhem.**
-
-**30/09 : É10 ✅ (Guilhem). É11 🟡 (Saint-Palais → château Bayard, D·π), angle ouvert.**
-
-**30/09 : É11 ✅ (Guilhem, angle ouvert). É12 🔴 : départ probable tour d'Avalon ; 3e/11e + terrain non résolus. Fin de la phase « de chez soi ».**
-
-**30/09 : revue globale terminée → Revue_globale/00_SYNTHESE.md. Suite possible : LiDAR HD / orthophoto autour de la tour, préparation terrain.**
+## Autres fichiers
+- Livrables : `Livrables/Exkalibur_dossier_complet_enigmes_1-12.pdf` (25 p., 03/10 ; la page 6.4 sur Muraillat est dépassée).
+- FAQ officielle complète : `Communaute/faq_officielle_auteur.json` ; FAQ8 : `outils_scratch/faq8.txt`.
+- Cadastre et domaine public : `outils_scratch/cadastre/` (Etalab + DGFiP personnes morales 2025).
+- Journal historique : `Journal.md`.
