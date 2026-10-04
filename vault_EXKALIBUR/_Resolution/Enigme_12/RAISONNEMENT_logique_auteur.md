@@ -169,3 +169,24 @@ Observation de l'image (`images_travail/A_REGARDER_enluminure9.jpg`) :
 **Nouveau fait structurel (FAQ04-115)** : la ligne droite de la 3e place à la 11e passe **par le seul tronçon de ruisseau visible depuis le pied du rempart** (le Rebouchet au pont, option R) puis **par la jonction de 4 chemins du Mouret**, avant d'arriver à la place de Simon. Ce seraient les « étapes intermédiaires » : on va « directement de la 3e à la 11e » en passant par le ruisseau magnifié, puis par la jonction dans la clairière. Les options R et Mouret se réunissent dans une seule géométrie.
 **Hasard** (toutes les orientations de 0 à 360°, pas de 0,2°) : la corde passe à ≤ 15 m d'un ruisseau vu du pied ET à ≤ 15 m d'une jonction de 4 branches proche de la 11e place pour seulement **0,44 %** des orientations, soit **92,0-92,8°** (et 164,6-165,0°). Cette fenêtre est **encadrée exactement par l'aube de Pâques 1524 (91,4°) et 2026 (93,0°)**.
 → La correction affaiblit un peu la coïncidence « source à 11 m » pour 1524 (33 m), mais le lien corde → ruisseau visible → jonction la renforce nettement.
+
+## 10. Hypothèse P — les choix faits, leur justification, et ce qui la ferait tomber
+| Choix | Justification | Alternative testée | Résultat de l'alternative |
+|---|---|---|---|
+| Centre = pied du rempart (tour) | règle de Guilhem ; FAQ06-193 | Rue du Rempart | Simon à ~100 m de la source (moins bon) |
+| Table **ronde** de 12 + le Christ | Boron : la Table ronde est fondée en souvenir de la Cène, avec un siège laissé vide pour Judas (siège périlleux) | rangée de Léonard | rien de net |
+| Christ à l'**Orient** | le Christ = *Oriens*, l'astre du matin ; « orientez-vous » (05-091) | — | — |
+| Orient = lever **visible** au-dessus du relief | le narrateur, sur le rempart, voit l'endroit « apparu au matin, illuminé » : c'est le soleil qu'il voit franchir la montagne | lever astronomique (horizon plat) 79,8-80,4° | Simon en forêt, rien de visible, source à 236-247 m → **P en dépend** |
+| Matin = **Pâques** | veillée pascale (Alpha-Oméga, *Exsultet*, astre du matin) ; É11 « Consummatum est » → É12 « Ad vitam aeternam » | mort de Bayard, 30/04, équinoxe | maisons trop proches ou pas de source |
+| Apôtres numérotés depuis la **droite** du Christ | usage (place d'honneur à droite) | miroir | 11e au NE, près des maisons, pas de source |
+| Liste de Matthieu (ou Marc) | Simon (scie) dans l'enl. 12 | Luc | même place 11, autre nom (Jude) |
+
+**Ce qui ferait tomber P** :
+- une réponse de l'auteur qui exclut la Cène ou les apôtres pour les 3e/11e ;
+- une preuve que la clairière n'est pas visible depuis le rempart réel ;
+- un coffre impossible sur le domaine public dans ce secteur (point ouvert n° 33) ;
+- ou l'absence, sur place, d'une source qui jaillit d'une roche.
+
+**Autres places** (contrôle) :
+- place 1 (Pierre, « 13e » si l'on continue à compter) : lieu-dit BELONCIN, semi-ouvert, rien de visible, eau à 170-200 m → pas le bon endroit ✓ ;
+- place 12 (Judas, siège périlleux) : lieu-dit VERANGER, pré ouvert.
