@@ -496,3 +496,17 @@ Les lieux-dits remplacent la « rangée » abstraite, choisie après coup, par u
 ## 26. Crible strict à ≤ 1,5 km du rempart (FAQ06-244 « pas loin », 06-025 « très proches »), sans exiger de forêt (FAQ07-240)
 `t73_proche.py` : 6 croisements passent (vu de la muraille, eau ≤ 120 m, terrain public à ≥ 100 m des maisons dans 150 m). 5 sont dans le bourg de Saint-Maximin ou à Pontcharra avec des maisons à 5-33 m ; le 6e (45.425486, 6.012916) est à côté de l'usine Sonoco, en zone bâtie de Pontcharra : écarté.
 **Conséquence** : à ≤ 1,5 km, aucun croisement hors zone bâtie ne passe toutes les conditions avec nos données. Soit « pas loin / très proches » s'entend à l'échelle de ~2-3 km (Couvet), soit une donnée nous trompe (visibilité LiDAR, cadastre). À trancher.
+
+## 27. Vérification des indices « d'avant l'É12 » (FAQ8 : la zone finale est identifiable avec certitude avant l'É12)
+### 27.1 Le dernier (6e) C = **la Grande Chartreuse** (nouveau, fort)
+- La ligne de l'ultime traversée Saint-Palais → tour d'Avalon (609 km) passe à **0,35 km du monastère de la Grande Chartreuse** (45.3647, 5.7936), 20 km avant la tour. Autres chartreuses : Currière 1,3 km, Saint-Hugon 3,3 km, Portes 66 km.
+- FAQ : le dernier C est un **point de passage**, « vous passez dessus » (06-071, 06-252) ; il « vous indique que vous êtes sur le bon chemin » et aide pour Consummatum est (07-178) ; il est « toujours un C aujourd'hui » (07-058 : monastère actif) ; ce n'est pas Montsalvage (07-271) ; FAQ8 : l'ultime traversée doit « survoler » un dernier C.
+- Cohérence : Hugues d'Avalon fut chartreux à la Grande Chartreuse ; la tour d'Avalon a été érigée par les chartreux (1895). La série des C : Clairvaux, Cîteaux, Cluny, Clermont, Chartres, **Chartreuse**.
+- Conséquence : le départ **tour d'Avalon** (et la ligne Saint-Palais → Avalon) sort renforcé. Lecture possible de la ligne 2 de l'É12 : la « dernière veille » et le « chant » = l'office de nuit chartreux (matines chantées à minuit), à creuser.
+### 27.2 « Le bâtiment accolé à la tour trouvée dans Ultima Cena vous est utile » (FAQ8)
+- Tour d'Ultima Cena = la plus haute tour = **cathédrale de Lincoln**. Axe mesuré (murs dominants, OSM) : **95,1-95,6°** vrai.
+- Depuis la muraille, cet axe mène à 10 stades (1 858-1 883 m) à **21-65 m de J5** (croisement à 5 voies). Même direction que l'ancien axe Machrie (95,78°).
+- **Mais J5 n'est pas visible depuis la muraille** (contrainte stricte, non relâchable) : piste notée, non retenue.
+### 27.3 Autres tracés
+- Prolongement de l'ultime traversée au-delà de la tour : cap 70,0° ; à 2,3 km, passe à 140 m du Couvet (pas un « pile »).
+- Alignement Lincoln → Payns → zone finale : 16 km de la tour (« à peu près alignés » : confirme la région).
