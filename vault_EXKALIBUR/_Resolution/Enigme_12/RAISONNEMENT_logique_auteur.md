@@ -362,3 +362,8 @@ Combiné (indépendance approximative) : de l'ordre de 10⁻⁴, mais avec deux 
 ### 20.6 Fouille proposée (Q)
 - **Q1 (principal)** : roche au débouché du talweg de J5 dans le Tapon (45.427909, 6.055680) → coffre ≈ **45.42797, 6.05585** (pas 0,75) ou 45.42798, 6.05583 (pas 0,65). Bande publique du Tapon.
 - **Q2** : ressauts de 3-5 m du Tapon près du gué (45.42550, 6.05784 ; 45.42663, 6.05712 ; 45.42693, 6.05688), si l'on part de J5 par la piste est (298 m) vers le gué et que l'on suit le Tapon (le courant va au NO : « à senestre »).
+
+### 20.7 ❌ VERDICT (04/10, décision de Guilhem) : Q ÉCARTÉE
+- La contrainte n° 9 (FAQ06-133 : « le 13e existe mais ne mène pas au bon endroit ») est **éliminatoire** : la numérotation de Machrie Moor s'arrête à **11** (cercles 1-5 de Bryce en 1861, monuments 6-10, cercle 11 découvert sous la tourbe en 1978 ; Wikipedia, Canmore). Il n'existe **pas de 13e**.
+- Conséquence : **les cercles de Machrie Moor ne peuvent pas être les 3e/11e de l'énigme**. Cela fait tomber Q, la piste du loup et tous les gabarits Machrie (t32-t34, t48, §15).
+- À garder de ce travail : la bande publique du Tapon (domaine public large) et le fait que la confluence talweg J5 / Tapon soit sur l'axe de l'aube de Pâques 2026 (seul, ce n'est qu'une coïncidence, 2 %).

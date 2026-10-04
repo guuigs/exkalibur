@@ -52,3 +52,4 @@
 | Numérotation des apôtres depuis la gauche du Christ (miroir) | 11e au NE, maisons à 37-75 m, aucune source à moins de 1,5 km | t46 |
 | Autres veillées (mort de Bayard, 30/04, équinoxe) pour l'Orient | maisons à 54-99 m ou pas de source | t46 |
 | Vivier d'Avalon comme zone du coffre | bâti à moins de 100 m ; ENS ; rien de visible ; reste un candidat pour le **bassin** de l'enl. 9 | t43 |
+| **Toute lecture « Machrie Moor » des 3e/11e** (hypothèse Q J5/Tapon, loup, gabarits t32-t34, t48, §15) | FAQ06-133 : le 13e existe ; or Machrie Moor est numéroté de 1 à 11 seulement (Bryce 1861 + cercle 11 en 1978). Décision de Guilhem le 04/10 | Wikipedia « Machrie Moor Stone Circles », Canmore |
