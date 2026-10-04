@@ -77,4 +77,5 @@ Lecture retenue (à valider par Guilhem) : « accessible » au sens d'un chemin 
 - deux croisements agricoles des Ripellets (déjà écartés).
 
 Hors critère de forêt, on trouve un croisement plat à 3,2 km au nord (45.457067, 6.024503, en plein champ). **Conclusion** : sur la zone, « clairière en forêt » et « terrain plat praticable en fauteuil » ne se rencontrent jamais. Une des deux lectures doit être assouplie. On garde « clairière » (texte brut de l'énigme) et une lecture large de FAQ03-112 (« se faire accompagner néanmoins »).
-**Fin de la session de 30 min (07:12)**.
+Croisement plat restant à 318 m (45.426664, 6.033741) : écarté (voir registre).
+**Fin de la session de 30 min (≈ 07:13)**.
