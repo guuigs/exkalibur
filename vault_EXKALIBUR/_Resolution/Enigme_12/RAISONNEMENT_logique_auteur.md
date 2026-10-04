@@ -136,3 +136,15 @@ Image : `images_travail/t46_paques_source_simon.jpg`. Scripts : `t45_horizon.py`
 
 **Bilan** : 24 ✅, 13 ⚠️, **1 ❌ (domaine public)**. C'est le dossier le plus complet à ce jour. Le ❌ est le point à travailler en priorité. Pistes : une roche tout près de la jonction (fouille sur les chemins publics) ; un décalage entre le cadastre et le sentier ; ou une erreur sur la position BD TOPO de la source.
 **Effet « chercher ailleurs »** : environ 8 à 10 constructions ont été essayées (12/13 places × Orient × sens de numérotation). Avec 0,2 % par essai, la probabilité qu'au moins une tombe à ≤ 11 m d'une source est d'environ 2 %. Le signal reste faible en probabilité, mais réel.
+
+## 7. Enluminure 9 relue directement (créneau autonome) — appui à l'hypothèse P
+Observation de l'image (`images_travail/A_REGARDER_enluminure9.jpg`) :
+- **Grande roche fendue au centre ; un filet d'eau sort de la fente** et tombe dans une vasque bleue avec deux poissons. La coupe rayonnante est posée au pied de la roche, au bord de la vasque. → c'est **une source qui jaillit du rocher**, pas une cascade sur un ruisseau. Cela colle avec la **source** de la place de Simon (hypothèse P) mieux qu'avec le rocher A du Rebouchet.
+- Au premier plan, le soldat romain (pieds nus) **montre du doigt un grand tronc coupé couché** : la souche.
+- **Arrière-plan** : une grande étendue d'eau (deux cygnes), une **tour sur une colline** à gauche, une **ville avec clochers et arcades** à droite, des montagnes, la lueur du matin à droite.
+- **Vu depuis la source** (cap vers le NO) : tour d'Avalon 317,7° (1 067 m) ; Vivier 321,7° (939 m, juste devant la tour) ; clocher de Saint-Maximin 344,9° (744 m, à droite) ; Isère 310,7° (3,6 km). L'ordre tour à gauche, clochers à droite, eau en avant est **compatible** avec l'arrière-plan. C'est qualitatif (07-052 : « pas un positionnement parfait »).
+- Bassin de l'enl. 9 (03-308) : candidat = le **Vivier d'Avalon**, l'étang créé en 1261 comme vivier à poissons et douve, au pied de la tour (retenue BD TOPO de 10 372 m²). L'identifier ramène à la zone finale. Hypothèse.
+
+## 8. Première phrase (contrainte n° 37) — pistes de lore
+- Lecture déjà notée : vers 1524 du *Roman de la Rose* (« Et por ce la fist Diex estable ») → **1524**, l'année de la mort de Bayard. C'est cohérent avec Pâques 1524 de l'hypothèse P.
+- Nouvel écho (faible) : la prière du publicain (Lc 18,13) dit « Mon Dieu, montre-toi favorable au pécheur que je suis », et le publicain « n'osait même pas **lever les yeux vers le ciel** ». Cela renvoie à FAQ8 (« faut-il lever la tête vers le ciel pour trouver le jour dernier ? Non »). Le publicain évoque aussi Matthieu, apôtre et ancien publicain. Rien de démontré.
