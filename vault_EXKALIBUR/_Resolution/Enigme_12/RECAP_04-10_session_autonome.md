@@ -94,3 +94,31 @@ Croisement plat restant à 318 m (45.426664, 6.033741) : écarté (voir registre
 **Permanence de l'eau, verdict** : la BD TOPO classe aussi « intermittent » des tronçons du Rebouchet en plein village, et « permanent » seulement le dernier kilomètre. C'est donc une classification prudente, pas une observation de lit sec. Le bassin versant est d'environ 10 ha au rocher A, donc des étiages d'été restent possibles. → **Inconnu accepté**, sans effet sur le classement.
 **Classement** : Le Mouret, rocher A ~20 % (le fauteuil n'élimine plus) ; loup ~5 %.
 Sources : https://www.irma-grenoble.com/04risques_isere/00commune_evenements_fiche.php?id_evenements=1051 ; https://www.alpes-isere.com/en/sit/parcours-thematique-saint-maximin-4704227/ ; https://api.panoramax.xyz/
+
+## 8. Autres options sous contrainte de distance (04/10, demande de Guilhem)
+Contraintes de distance de la FAQ, relues mot pour mot :
+- 06-244 : le coffre n'est pas loin du chemin de rempart.
+- 06-025 : les chemins de la jonction ne sont pas le chemin de rempart, « même s'ils sont très proches ».
+- 05-051 : une fois la jonction trouvée, on est « tout près » du coffre à vol d'oiseau.
+- 06-134 : des joueurs « passent proche, avant de quitter la zone pour une autre zone ».
+- 06-166 : le rempart est le point de départ ; « c'est l'astre glorieux qui vous indique où aller », et c'est là que les 3e/11e servent.
+
+**Option V — le Vivier et le pied de la tour (≤ 700 m)** (`t43_proche.py`, `t43_carte_sud.py`, `t43_vivier.py`, `t43_exutoire.py`) :
+- 106 croisements à 700 m ou moins. Ceux qui sont vus du pied sont dans le bourg (maisons à 15-28 m) ou dans le centre du village.
+- Le Vivier (étang de 1261, ancienne douve de l'enceinte, 10 372 m²) se vide par son angle NE (45.429055, 6.033901), juste à côté du carrefour « Le Vivier ». L'eau part ensuite vers le nord le long d'un chemin, puis plonge dans un ravin jusqu'au Bréda. **Rien n'est visible du pied** ; tout est bâti à moins de 60 m.
+- Il y a bien une tache visible au sud du Vivier (839 m², 45.427198, 6.033121, maisons à 172 m), mais c'est une bande de prairie entre des haies, sans ruisseau. Pas une clairière.
+- → écartée.
+
+**Option R — « le ruisseau magnifié » vu du rempart** (`t43_ruisseau_vu.py`, `t43_rebouchet_pont.py`, image `images_travail/t43_pont_rebouchet.jpg`) :
+- Depuis le pied de la tour, **un seul tronçon de cours d'eau est visible** : le Rebouchet, au cap 115-120°, à environ 600 m (45.426236, 6.038836). C'est la lecture littérale de « l'endroit m'est apparu au matin, illuminé par l'astre glorieux qui magnifiait le ruisseau ». Un lever de soleil d'hiver (azimut ~120°) serait aligné avec ce tronçon.
+- Au même endroit, un croisement route + sentier au pont (45.426344, 6.038290, à 625 m du pied ; 104-135 m² vus à ±10 m, 20-40 m en amont).
+- Le sentier longe le Rebouchet vers l'amont, **l'eau à GAUCHE en montant** sur 380 m (à 3-13 m de l'eau), puis entre en forêt après 60 m.
+- À 376 m du pont, le lit a un ressaut de 4,7 m (pente 64 %, en 45.423957, 6.041700, maisons à 137-155 m) qui ouvre une gorge raide. Le sentier quitte alors l'eau et monte à la jonction 2 du Mouret (45.423370, 6.041663). C'est la même zone que la roche C.
+- **Points forts** : cohérence avec le texte (ruisseau vu du rempart, jonction au ruisseau, suivre les eaux en les gardant à senestre, roche qui bloque) ; plus près de la tour que Le Mouret (625 m au lieu de 1 012 m).
+- **Points faibles** :
+  - la jonction est en bordure de hameau (maisons à 13 m) ; la « clairière » se réduit à un petit pré de hameau ;
+  - la roche est à 376 m de la jonction (« tout près » discutable) ;
+  - « à senestre » est lu ici comme « l'eau à ma gauche » ; c'est **l'inverse de la lecture retenue par Guilhem le 03/10** (« je suis sur la rive gauche »), à trancher par lui ;
+  - le lien avec les 3e/11e (table des apôtres) n'est pas direct : Simon est au Mouret, à 400 m au SE.
+
+**Crible global « roche à ≤ 150 m de la jonction »** (`t43_crible_proche.py`) : 23 croisements. Mais le critère « chute ≥ 4 m sur 10 m » capte toutes les ravines raides. Le meilleur cas (45.421557, 6.040743, à 103 m de la jonction du Mouret) est une ravine à 50 % de pente, avec une saillie de seulement 1,8 m, pas une roche isolée. → **non concluant** ; il faudrait un vrai détecteur de blocs (rugosité locale), à faire.
