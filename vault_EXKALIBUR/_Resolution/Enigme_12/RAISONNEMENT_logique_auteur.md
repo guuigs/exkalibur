@@ -552,3 +552,9 @@ Coffre exigé : public **sûr** (parcelle publique, forêt publique ou voirie no
 - Roche à **4-5 m** de la jonction → coffre public (bande du chemin de l'est), toutes lectures ; mais presque pas d'eau à suivre (déjà jugé contraire au texte, §17).
 - **Roche à ~294 m** (45.420266, 6.042464 ; talweg 2,7 ha ; saillie LiDAR +1,4 m) : son ruisseau rejoint la jonction (à 39 m) → on le **remonte** depuis la jonction. Coffre ≈ **45.42033-45.42034, 6.04260-6.04264** (jour dernier 91,4°, 90° ou 67,7°), sur la bande d'un chemin (3-5 m), **maisons à 102-103 m** (juste au-dessus du seuil).
 - La source (roche d'où jaillit l'eau) donne un coffre en bois privé : non retenue tant que le domaine public est exigé.
+
+### 29.3 Variante Pâques 2023 (09/04/2023, lancement de la chasse selon Guilhem) — `t85_P_paques2023.py`
+- Orient (lever visible depuis la tour / la muraille) : **89,9-90,3°**, soit pratiquement **plein est**.
+- Place de Simon : 41-62 m de la source, **38-57 m de la jonction** (elle tombe entre les deux) ; corde 3→11 : **6-25 m de la jonction**, 7-28 m du pont du Rebouchet.
+- Moins précis sur la source que 2026 (3-17 m) et 1524 (20-36 m), mais la zone est la même : P est stable de 1524 à 2026, y compris en 2023.
+- Si le « jour dernier » des 8 derniers pas vaut aussi 90°, la roche à ~294 m (§29.2) donne bien un coffre sur public sûr (45.42033, 6.04264).
