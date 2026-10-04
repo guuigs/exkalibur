@@ -510,3 +510,7 @@ Les lieux-dits remplacent la « rangée » abstraite, choisie après coup, par u
 ### 27.3 Autres tracés
 - Prolongement de l'ultime traversée au-delà de la tour : cap 70,0° ; à 2,3 km, passe à 140 m du Couvet (pas un « pile »).
 - Alignement Lincoln → Payns → zone finale : 16 km de la tour (« à peu près alignés » : confirme la région).
+
+### 27.4 Les six C reliés (`t75_six_C.py`, `images_travail/t75_six_C.png`)
+- Ordre : Clairvaux → Cîteaux → Cluny → Clermont → Chartres → Grande Chartreuse. Segments : 168,4° (115 km), 203,5° (84 km), 239,6° (142 km), 338,4° (320 km), 134,7° (474 km). La « tige » Chartres → Chartreuse recoupe le segment Cîteaux-Cluny près de Cluny : la figure évoque un **4** ou une **clé** (boucle Chartres-Clermont-Cluny, tige vers la Chartreuse, panneton Cîteaux-Clairvaux). « Là était la dernière clé » : à garder comme lecture, sans preuve.
+- Aucune droite entre deux C, prolongée, ne passe par la zone, sauf la droite **Saint-Palais → Grande Chartreuse** (= l'ultime traversée) : à 95 m du château Bayard, 183 m du Couvet, 320 m de la tour, 516 m de J5, 601 m du Mouret. Rien de décisif pour l'É12 : les C servent surtout l'É11 (confirmation de la traversée).
