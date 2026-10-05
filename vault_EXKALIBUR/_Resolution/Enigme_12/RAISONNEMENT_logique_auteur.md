@@ -613,3 +613,6 @@ Points retenus (vérifiés dans les FAQ citées) :
 - **Remontée du Rebouchet depuis le pont jusqu'à ce point** : 1 318 m de lit, 250 m de dénivelé (19 % en moyenne, plusieurs ressauts de 5-9 m dont 4,7 m vers 45.423957, 6.0418), tout le lit en non cadastré/privé douteux : pas de chemin le long de l'eau, pas « tout près », pas accessible en fauteuil.
 - **Lever visible depuis la muraille** : 1er novembre 128,7°, 11 novembre 133,8° : le cap 129,7° est à 1° du 1er novembre, **pas retenu** (date de plus dans une pêche post hoc).
 - **Verdict** : plausible comme « pierre » : faible (~3 %) ; la plateforme claire est très probablement une aire de graviers/retournement de pistes forestières au bord du ruisseau. Intérêt : c'est un vrai croisement + eau + loin des bâtiments, mais invisible du rempart et sans logique 3e/11e.
+
+## 34. Entonnoir systématique de candidats (05/10) — voir `ENTONNOIR_CANDIDATS_E12.md`
+1 281 croisements → 20 (clairière vue) → 3 (≤ 2 km, fin de parcours) → 2 (chemin le long de l'eau). Meilleur candidat : **Le Mouret, jonction 2** (45.423370, 6.041663) ; atteignable par la table avec Pâques 2025 (20/04/2025, dernier Pâques avant le lancement du 22/05/2025). Hasard de cette coïncidence : ~25-30 % (non significatif seul). **Correction : la chasse a été lancée le 22 mai 2025 (FAQ01-172), pas à Pâques 2023.**
