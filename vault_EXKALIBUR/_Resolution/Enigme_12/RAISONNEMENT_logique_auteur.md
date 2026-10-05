@@ -598,3 +598,9 @@ Points retenus (vérifiés dans les FAQ citées) :
 - **Hasard** : place 11 à ≤ 35 m d'une source : 1,03 % par essai ; la corde passe à ≤ 15 m d'un croisement à 4 branches quelconque pour 39,6 % des orientations ; avec ~20-24 essais réels (dates × sens × place), p ≈ 18-21 % pour « au moins une source à ≤ 35 m » ; **p honnête de P ≈ 10-20 %**. Mon estimation §30.2 (0,1-2,5 %) ne corrigeait pas assez les essais multiples.
 - Paris de l'agent : P = bonne zone ≈ 5 % ; P = point de fouille exact < 1 % ; zone toujours inconnue ≈ 85-90 %.
 - Meilleurs « satisfaiseurs de terrain » à 2,2 km au nord (45.449243, 6.028899 ; 45.448254, 6.026944) : sans logique 3e/11e.
+
+## 32. Carte du domaine public autour de Tire-Loup et des ruisseaux Tapon / Rebouchet (05/10) — `images_travail/t91_carte_tireloup_public.jpg`, `t91_carte_tireloup.py`
+- **Correction de données** : le fichier cadastral « 38270 » utilisé jusqu'ici est **La Murette**, pas **Le Moutaret (INSEE 38268)**. Le cadastre du Moutaret est maintenant chargé (`cad/38268-*`) ; la forêt communale du Moutaret était déjà prise en compte via la couche ONF. Les cribles précédents (§23, §26) restent valides (aucune zone testée n'est dans le Moutaret).
+- **Tire-Loup (15,5 ha) : 0,4 % de domaine public sûr** (689 m², bandes de chemins). Le reste est un puzzle de petites parcelles de particuliers. J5 est à **32 m** du public sûr le plus proche.
+- **Le public est de l'autre côté du Tapon** : à partir du **gué du Tapon**, la rive droite est la forêt communale de **Saint-Maximin / Le Moutaret** (grandes parcelles continues).
+- **Tapon** : 43 % de son cours dans la zone est à ≤ 8 m d'un terrain public sûr. **Rebouchet** (partie sud, vers le bois du Rechouchet et la forêt communale de Pontcharra) : 60 %, mais la partie haute traverse une grande indivision privée (« BND ») et des parcelles de personnes morales privées.
