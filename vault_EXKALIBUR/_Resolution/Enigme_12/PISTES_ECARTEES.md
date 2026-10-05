@@ -64,3 +64,4 @@
 | Croisements de la gravière de Barraux (45.442040, 5.991375) | plaine de l'Isère, gravières, 3,4 km | t65 |
 | Le Couvet (45.434748, 6.059095) — **en attente, pas écarté** | vu depuis un seul point de la muraille, œil sur le mur ; Burge intermittente ; aval dans le hameau | t65, t66 |
 | Croisement 45.425486, 6.012916 (Pontcharra, 1,5 km, cap 255°) — seul « intéressant » du crible strict à ≤ 1,5 km | collé à l'usine Sonoco (bâtiments industriels à ~100 m), canal industriel à 10 m, maraîchages, dans la zone bâtie de Pontcharra : règle de Guilhem + « loin de tout bâtiment » | t73, `images_travail/t74_croisement_pontcharra.jpg` |
+| Groupe NW 2,0-2,3 km (45.443-45.449, 6.008-6.029) | étau terrain pur : 14/15 sans ressaut sur l'eau + coffre public ; le 15e (45.44104, 6.00872) = digue de la Bréda au stade de Pontcharra (aménagé) | t100/t101 |

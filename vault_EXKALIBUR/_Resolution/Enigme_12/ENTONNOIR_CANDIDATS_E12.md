@@ -33,3 +33,10 @@ Tous les croisements (≥ 3 voies, OSM + BD TOPO) de 100 m à 2,5 km de la tour 
 Le groupe du Mouret est atteint par 4 dates de Pâques sur 2 jonctions voisines : 1524/2023/2026 → jonction 1 ; 2025 → jonction 2. Avec 4 dates × 2 sens et une seule jonction qualifiée dans le cercle de la table, la probabilité qu'une des dates tombe dans la fenêtre de J2 (θ ≈ 79-84° sur 55-125°) est d'environ **25-30 %** : **la coïncidence « Pâques 2025 → J2 » n'est pas significative par elle-même**. Le candidat est retenu pour son terrain et sa cohérence avec la FAQ (03-082, 03-152), pas pour son hasard.
 ## Limites
 LiDAR : arbres opaques, ±1 m ; « ressaut » = pente du talweg (40-70 %), pas un bloc ; public probable = hypothèse ; la clairière exacte n'est pas vue (J2 : 0 % d'ouverture dans 30 m).
+
+## Étau terrain pur (sans lore) sur le groupe NW — 05/10/2026
+Script `t100_etau.py` (133 croisements ayant maisons ≥100 m + eau, ≤2,5 km), 6 critères cumulés : maisons ≥100 m ; eau ; clairière vue depuis la muraille ≥100 m² ; ressaut/roche sur l'eau à 12-300 m avec coffre public (≤40 m, maisons ≥100 m, chemin ≤30 m) ; chemin le long de l'eau ≥50 % ; coffre en public SÛR.
+Niveaux : 133 → 125 → 109 → 107 → **3**. Survivants : prairie 45.42684,6.0320 (240 m, 1 seule roche), Mouret J1 (117 combinaisons, 89 sûres, mais 3 % ouvert), **NW 45.44104,6.00872 (2 204 m)**.
+Groupe NW (15 croisements à 2,0-2,3 km, vus ≥100 m²) : **14/15 n'ont AUCUN ressaut sur l'eau avec coffre public** (étau E4). Le seul survivant est la digue de la Bréda au stade de Pontcharra (terrain de foot, rivière à graviers, ressaut 2,7 m = seuil/digue) : zone aménagée → écarté (cf. règle Pontcharra urbain/sportif).
+Conclusion : le groupe NW n'était qu'un artefact de « terrain riche » ; aucun croisement ne passe les 6 critères en milieu naturel.
+Carte : images_travail/t101_carte_NW.jpg
