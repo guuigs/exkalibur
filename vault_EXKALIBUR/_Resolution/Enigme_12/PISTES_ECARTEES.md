@@ -67,3 +67,4 @@
 | Groupe NW 2,0-2,3 km (45.443-45.449, 6.008-6.029) | étau terrain pur : 14/15 sans ressaut sur l'eau + coffre public ; le 15e (45.44104, 6.00872) = digue de la Bréda au stade de Pontcharra (aménagé) | t100/t101 |
 | Rangée de 12 à axe sur le lever de Pâques (2023-2026, 1524) | 11e place à 358 m (axe le long) / 218 m (axe perpendiculaire) du croisement qualifié le plus proche | t108 |
 | Table de Winchester à 25 places (R=1 096 m) | meilleure place à 62 m d'un croisement qualifié, ≈ hasard (2-3 attendus) | t108 |
+| Croix PATERNOSTER centrée sur le rempart (N au départ ; 3e=T à −3 pas, 11e=R à +5 pas, pas de 231,25 m) | 144 positions testées, meilleure à 50 m d'un croisement qualifié, ≈ hasard | t108 (séance 05/10) |

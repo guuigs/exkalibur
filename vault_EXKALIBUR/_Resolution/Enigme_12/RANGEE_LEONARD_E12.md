@@ -46,3 +46,40 @@ Le **28 octobre** (Simon et Jude) : sa **vigile** (27/10, soir) correspond à «
 
 ### Autres versions du 3e/11e examinées
 - **Table de Winchester à 25 places** (24 chevaliers + Arthur ; « SCRIPSIT XXV » ; la phrase 1 a 25 lettres) : rayon 1 096 m ; places 3 et 11 testées sur 8 dates × 2 sens × 2 positions d'Arthur : plus proche croisement qualifié à **62 m** (équinoxe, sens inverse) ; Pâques 20/04 (2025), place 3 à 67 m de J2. Aucune à ≤30 m, attendu par hasard ≈ 2-3 : non retenu.
+
+## Suite 2 (05/10/2026, autonomie) — listes d'apôtres, spacing, PATERNOSTER, sensibilité
+Scripts : t107/t108/t109, calculs ad hoc (pas de nouveau fichier). Sources internes relues : `Revue_globale/T15D_inventaire_series.md`, `T15B_enluminure11.md`.
+
+### Les quatre listes d'apôtres donnent toutes la même date
+| Liste | 3e | 11e | Fête du 11e |
+|---|---|---|---|
+| Mt 10 | Jacques | **Simon** | 28/10 (avec Jude) |
+| Mc 3 | **Jean** | **Simon** | 28/10 |
+| Lc 6 | Jacques | **Jude** | 28/10 |
+| Ac 1 | Jacques | **Jude** | 28/10 |
+Dans Marc, 3e = **Jean** (« Dieu a fait grâce » = « Dieu sut se montrer favorable », la phrase 1, confirmateur de zone FAQ07-088) et 11e = **Simon** (scie, enl. 12). L'étymologie de Simon (« il a entendu ») fait écho à « J'entends le chant retentir » (non démontré). Le choix de la date (28/10) ne dépend donc pas de la liste retenue.
+
+### Enluminures et numérotation
+Numérotation de l'auteur = ordre de lecture (R1G=1 … R6D=12). Enl. 12 (R6D) : tour de Lincoln à gauche, Jésus seul à la table, Simon à droite. Enl. 6 (R3D) : Jude (médaillon). Enl. 5 (R3G) : long table bleue (« motifs du dessus de la table utiles », FAQ05-152) : **9 + 9 médaillons ronds, 5 quadrilobes médians et 1 à l'extrémité** (24 médaillons) ; motifs reconnus : sabliers (≥6), rosettes à 6 pétales, **deux poissons** (Poissons ?), oiseaux, une sirène/poisson, un animal vert. Non décodé : lead ouvert (24 = 12 × 2 ? zodiaque ? la date ?).
+
+### Espacement et PATERNOSTER (T15B §4, à faire n° 3)
+T15B demandait de tester « 8 unités = 1 850 m (231 m par pierre) » avec la croix PATERNOSTER posée sur la carte. **231,25 m = l'espacement s de la rangée.** Mais le centre N de PATERNOSTER est la 6e pierre ; avec N au rempart, T(3e) est à −694 m et R(11e) à +1 156 m : 144 positions testées (10 dates × lever visible/plat × axe ou perpendiculaire × 2 sens × 2 pierres) → meilleure à 50 m d'un croisement qualifié (hasard attendu ≈ 0,7) : **négatif**. J2 correspond à la demi-pierre (11e à 4,5 s), donc à la rangée de 12 avec le Christ à la place du rempart, pas à PATERNOSTER centré sur le rempart.
+
+### « De la 3e à la 11e, étapes intermédiaires » (FAQ04-115)
+Marcher en ligne droite de la 3e place (église Saint-Hugues, NW) à la 11e (J2, SE) **passe par le rempart** (corde passant à 19,5-19,8 m du centre de la tour, pied de perpendiculaire à 785-794 m côté église et 1 034 m côté J2 ; le modèle donne 809/1 034). Les places 4 à 10 sont les étapes. Corde réelle église → J2 : 1 819 m (centroïde), 1 828 m (clocher), soit 9,83-9,88 stades ; avec la 11e place du modèle (7 m au-delà de J2) : ≈ 1 835 m (−0,8 %), dans « 1 % près » (FAQ05-172) à condition de prendre le clocher.
+
+### Sensibilité du lever (28/10, depuis le pied de la tour)
+Crête à 2,7 km, 14,8° : lever visible à 126,6°. Horizon ±1° → 125,3° à 127,9° (J2 à 126,35° ±1,7° reste couvert). Le départ pris sur le mur plutôt qu'au centre décale J2 d'une quinzaine de mètres.
+
+### Noms de lieux près des places (rangée de Marc)
+Place 1 (Pierre) : lycée Pierre du Terrail à 98 m (Pierre du Terrail = Bayard) ; place 3 (Jean) : église Saint-Hugues à 42 m ; places 6-7 : rue du Rempart / tour d'Avalon / place Saint-Hugues d'Avallon à 89-124 m ; place 11 : Varanger (lieu-dit habité) à 171 m ; place 12 : Les Tilles à 184 m. Zone urbaine dense à l'ouest : coïncidences de noms peu probantes (non comptées).
+
+### Hasard (précisé)
+- Si la chaîne (rangée de 12 centrée sur le rempart, espacement 231,25 m, axe sur le lever visible du jour de fête du 11e) avait été fixée avant de regarder J2 : 4 configurations (sens × cap), P(11e ≤10 m d'un croisement qualifié) = 0,07 % par configuration → **≈ 0,3 %**.
+- Mais 12 places plutôt que 13, et la date, ont été retenues après avoir vu J2 : en comptant ces degrés de liberté, **2 % à 39 %** selon ce qu'on compte (famille de 240 configurations : 39 %). Honnêtement : **entre 2 et 20 %**, et la plupart des hypothèses concurrentes sont au-dessus.
+- Le signal est donc encourageant mais pas sous 2 % de façon robuste.
+
+### À faire
+1. Décoder les motifs de la table de l'enl. 5 (poissons, sabliers, rosettes) : peuvent donner la date ou le sens de lecture de la rangée.
+2. Trouver un objet réel pour la 3e (Jean/Jacques) : le clocher de Saint-Hugues, la croix de chemin à 52 m (45.43314, 6.02335) ?
+3. Vérifier la corde 3e → 11e avec le clocher et la place de Simon exacte.
