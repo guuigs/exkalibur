@@ -83,3 +83,6 @@ Place 1 (Pierre) : lycée Pierre du Terrail à 98 m (Pierre du Terrail = Bayard)
 1. Décoder les motifs de la table de l'enl. 5 (poissons, sabliers, rosettes) : peuvent donner la date ou le sens de lecture de la rangée.
 2. Trouver un objet réel pour la 3e (Jean/Jacques) : le clocher de Saint-Hugues, la croix de chemin à 52 m (45.43314, 6.02335) ?
 3. Vérifier la corde 3e → 11e avec le clocher et la place de Simon exacte.
+
+### Table de l'enluminure 5 — mise au point (FAQ)
+La nappe est un **vitrail-calendrier** (FAQ03-130, 06-267 : « reprend un calendrier bien réel » avec des « coquilles ») ; compléter ses cases vides donne une **réponse intermédiaire, pas cruciale pour la fin** (FAQ07-213) ; son décryptage « suffit en lui-même pour une solution intermédiaire » (FAQ07-079) et est indispensable à l'énigme associée (FAQ06-093, É10). Piste « table = date de la rangée » : **non retenue** (la nappe sert à l'É10, pas à la 3e/11e). Carte de la rangée : `images_travail/t111_carte_rangee_apotres.jpg` (script t111).

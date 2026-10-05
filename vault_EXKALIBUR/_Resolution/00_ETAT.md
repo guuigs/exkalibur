@@ -98,3 +98,11 @@ Fichiers de référence : `Enigme_12/RECAP_04-10_creneau_1h_Paques.md` (le plus 
 - FAQ officielle complète : `Communaute/faq_officielle_auteur.json` ; FAQ8 : `outils_scratch/faq8.txt`.
 - Cadastre et domaine public : `outils_scratch/cadastre/` (Etalab + DGFiP personnes morales 2025).
 - Journal historique : `Journal.md`.
+
+## Mise à jour 05/10/2026 (soir) — hypothèse S « rangée de 12 apôtres » (voir Enigme_12/RANGEE_LEONARD_E12.md)
+- Date de lancement de la chasse : **22/05/2025** (FAQ01-001, 01-172), pas Pâques 2023.
+- Entonnoir terrain pur (1 281 croisements) : seuls survivants Mouret J1/J2, prairie 240 m, stade de Pontcharra (rejeté). Groupe NW 2,0-2,3 km = artefact (rejeté). Voir ENTONNOIR_CANDIDATS_E12.md, MOURET_FAIBLESSES_E12.md.
+- J2 (45.42337, 6.04166 ; 1 034 m, cap 126,35°) : clairière visible depuis la muraille = pâturage de 2 ha à 40-55 m.
+- **Hypothèse S** : 12 apôtres en rangée (ordre de Marc), Christ = rempart, pas 231,25 m (= 10 stades / 8), axe = lever visible du 28/10 (fête de Simon et Jude, 11e dans les 4 listes), 11e place à 7 m de J2, 3e place à 27-42 m de l'église Saint-Hugues de Pontcharra. Corde 3e-11e passant à 20 m du rempart (FAQ04-115). Hasard : 0,3 % si la chaîne avait été fixée d'avance ; 2 à 20 % en comptant les choix après coup. Confiance zone Mouret : 8-12 %.
+- Pistes closes : Pâques avec la rangée, PATERNOSTER centré sur le rempart, Winchester à 25 places, table de l'enl. 5 (FAQ06-267/07-213 : nappe = vitrail calendrier, « réponse intermédiaire », pas cruciale pour la fin ; probablement liée à l'É10).
+- Carte : images_travail/t111_carte_rangee_apotres.jpg.
