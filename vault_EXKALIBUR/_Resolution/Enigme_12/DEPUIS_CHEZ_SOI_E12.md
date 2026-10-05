@@ -39,3 +39,10 @@ FAQ8 : plus de 20 joueurs ont trouvé le chemin de rempart ; **3 équipes sont �
 ## Autres fiches
 - Pâturage d'enl. 9 : FAQ07-052 invite à regarder le contour des eaux de l'enluminure 9 ; FAQ07-196 : la souche est entre l'étang et le personnage ; le personnage (soldat romain) « représente » quelque chose sur place. Test de forme étang/BD TOPO tenté (t118) : masque trop bruité, non concluant.
 - Séries autour de la zone proche : seules les paires de lieux-dits à 1 850 m existent (20 paires) : bruit.
+
+## Contour de l'étang de l'enluminure 9 vs plans d'eau réels (demande de Guilhem : « check l'étang de Vernay »)
+Scripts : t121-t125. Images : t121_lac_enl9.jpg (fond), t123_etang_grille.png (tracé), t122_vernay.jpg, t125_contour_etang_vs_vernay.png.
+- Enl. 9 : au fond un **grand lac** (2 cygnes, presqu'île à petits arbres à gauche, banc herbeux au milieu, rive lointaine avec bourg, clocher et aqueduc à arches, colline à tour blanche, montagnes roses) ; au premier plan une **roche rayonnante avec la coupe**, une cascade dans un **petit étang bleu à deux poissons**, un tronc coupé à gauche, le soldat romain à gauche.
+- Lac du Vernay (OSM, 39 075 m², 45.44927, 6.00203, **3,2 km NNW** de la tour, bordé par l'A41 et l'Isère, ancienne gravière) : forme en D (rectangle englobant 290 × 178 m, bord est rectiligne), sans presqu'île ni île. Ne ressemble pas au grand lac peint (presqu'île, bancs, rive lointaine).
+- Étang du premier plan tracé à la main (24 points) comparé aux 77 plans d'eau de la zone (BD TOPO + OSM) par recouvrement après rotation, échelle, miroir : **Vernay IoU 0,83, rang 8/77** ; médiane 0,66, 90e centile 0,83 ; meilleurs : bassins/réservoirs compacts (0,85-0,86). Pas discriminant (la forme peinte est un blob arrondi). Marais d'Avalon (Retenue 10 372 m²) : IoU 0,44, rang 53/77 ; autre retenue à 448 m : 0,66, rang 39.
+- Conclusion : Vernay n'est pas distingué par le contour ; à 3,2 km, loin du rempart, sans rapport avec la zone proche. Test non concluant (le tracé est approximatif, FAQ07-052 : « positionnement pas parfait »).

@@ -86,3 +86,9 @@ Place 1 (Pierre) : lycée Pierre du Terrail à 98 m (Pierre du Terrail = Bayard)
 
 ### Table de l'enluminure 5 — mise au point (FAQ)
 La nappe est un **vitrail-calendrier** (FAQ03-130, 06-267 : « reprend un calendrier bien réel » avec des « coquilles ») ; compléter ses cases vides donne une **réponse intermédiaire, pas cruciale pour la fin** (FAQ07-213) ; son décryptage « suffit en lui-même pour une solution intermédiaire » (FAQ07-079) et est indispensable à l'énigme associée (FAQ06-093, É10). Piste « table = date de la rangée » : **non retenue** (la nappe sert à l'É10, pas à la 3e/11e). Carte de la rangée : `images_travail/t111_carte_rangee_apotres.jpg` (script t111).
+
+## Test de la rangée à 13 places à part entière (le Christ occupe une place), 05/10/2026 — t120_13_places.py
+13 places équidistantes (231,25 m, 3→11 = 8 pas = 10 stades), le départ au rempart sur la place p (1 à 13), axes = 70 azimuts a priori (lever visible/plat de 19 dates : 30/04, 28/10, Pâques 2023-2026 et 1524, équinoxes, solstices, fêtes d'apôtres et de saint Hugues, Noël ; le long de l'axe ou à ±90°), les 3e et 11e places testées contre les croisements qualifiés (maisons ≥100 m + eau : 137 ; + clairière vue : 17).
+- 3 360 positions : **aucune à ≤10 m** (attendu par hasard 3,7), 30 à ≤20 m (attendu ≈ 22). **Aucun signal.**
+- Christ au centre (p=7, 3e et 11e à ±925 m) : meilleur 28 m. Christ à l'extrémité (p=1 ou 13) : 16 m (Pâques 2026 plat, 45.42478, 6.03195, croisement boisé). J2 n'est atteignable par aucune place entière (1 034 m = 4,47 pas).
+- Seuls cas à ≤ 14 m **et** clairière vue : le croisement J16 (45.42690, 6.03188), atteint quand le départ est la place 2, 4, 10 ou 12 (la 3e ou la 11e à un pas, 231 m, du rempart) avec l'axe perpendiculaire au lever de Pâques 2025 (plat, 163°) ou du 30/04 (visible, 164°). Voir DEPUIS_CHEZ_SOI_E12.md. Non significatif à lui seul (p ≈ 3 positions à ≤14 m sur 3 360 contre ≈ 3 attendues).
