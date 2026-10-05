@@ -24,3 +24,10 @@ Enluminure 11 : croix de 21 pierres = 2 lignes de 11 pierres (P A T E R N O S T 
 - La suite (eaux enchantées à senestre, roche, souche) n'est pas démontrée : l'exutoire du marais coule vers le NE (marais, puis village), la roche des abords de la motte est à 4-22 m de maisons ; au sud, la berge du Rebouchet (Châtelard) offre eau + roche + public + maisons ≥112 m à 190-230 m de J16.
 - Le départ R5 plutôt que R11, et l'orientation (lignes sur le lever, pas sur le coucher), sont des choix (justifiés par FAQ06-025 et « orientez-vous »). Seul le sens « R5 haut » (convention : droite = Orient) ou « R5 gauche » (convention : haut = Orient) donne J16 ; l'autre sens ne donne rien d'utile.
 - Pas de preuve que les pierres soient à 231,25 m ; c'est le calcul 1 850/8.
+
+## Suite concrète depuis J16 (t138–t140) — bilan honnête
+
+- Depuis la tour, arrivée en J16 (cap ESE) : « à senestre » = bras 1, route NE (cap 53°) qui longe le Marais d'Avalon (eau à gauche, 22 m, sur 120–270 m). Cohérent avec « suivi à senestre les eaux enchantées ».
+- Zoom ortho 8 px/m + LiDAR (images_travail/t140_zoom_marais*.jpg) : le long de cette route il n'y a **ni rocher ni bloc visible** (prairies rases, roselière, talus de route). Les seules aspérités LiDAR sont dans la roselière (touradons, inaccessibles, privé/eau).
+- Les rochers ≥0,9 m compatibles (eau + public + maisons ≥100 m) sont sur la berge nord du Rebouchet (Châtelard), à 187–260 m SSE de J16, **pas** sur le parcours du marais ; coffre avec jd 30/04 seulement si on tolère un chemin ≤40 m.
+- Conclusion : la croix PATERNOSTER explique J16, mais la suite (« grande roche », « souche-majesté ») **n'est pas confirmée** ; à ce stade aucun couple roche/souche/coffre ne passe tous les filtres sur la route du marais. Reste ouvert : branche est (sentier → J15/J14, Rebouchet).
