@@ -46,3 +46,7 @@ Dans ce calque, la fissure tombe à environ 1,47 km au sud de la tour, sur un pe
 - **FAQ03-032** : c'est un côté précis de l'épée qui est représenté, et c'est « très utile ». **FAQ04-180** : elle aurait pu être orientée autrement.
 - **FAQ02-229** : « Amis aventuriers » est le **point de départ de la chasse** et contient des indices « qui vont irriguer l'ensemble du jeu ». **FAQ04-131** : « dernier d'entre eux » désigne « les deux », le narrateur et le lecteur. **FAQ02-251** : « siège » est plus juste que « trône ». Cela peut évoquer le **siège épiscopal** (Hugues d'Avalon, évêque de Lincoln) ou le siège périlleux. **FAQ07-204** : le fruit devait être une pomme. **FAQ06-118** : « il fera forcément beau ».
 - **FAQ06-262** : des indices pour trouver le « numéro un » existent dans les enluminures, mais pas dans l'enl. 12. **FAQ03-065** : l'enl. 12 est « incomplète, parcellaire » (Jésus seul à table).
+
+## 8. Piste Jacob : la chapelle Saint-Joseph (06/10)
+Le parcours thématique de Saint-Maximin compte 9 étapes ; l'étape 6 est la **chapelle Saint-Joseph de Répidon** (45.42678, 6.03724, à 541 m de la tour, cap 116°). Si le 11e est Joseph, ce serait un candidat naturel. Pour le 3e, Lévi est aussi le nom de l'apôtre **Matthieu** (Mc 2,14). Or la BD TOPO contient un « **Pont Mathieu** » (45.45188, 6.05531).
+Distance chapelle Saint-Joseph → Pont Mathieu : **3 127 m**, pas 1 850 m. **Négatif.** Aucun autre lieu de culte n'est à 1 850 m ±1 % de la chapelle (le plus proche : une chapelle de Pontcharra à 1 790 m, soit −3 %).
