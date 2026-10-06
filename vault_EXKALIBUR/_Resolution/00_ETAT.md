@@ -29,7 +29,7 @@
 | Les derniers pas partent de l'étape après la roche (la souche) ; pas de 9e pas | 06-178, 05-039 |
 
 ## Énigme 12 — état consolidé (06/10/2026)
-**Lire d'abord `Enigme_12/00_SYNTHESE_E12.md`.** Aucune piste ne tient toutes les contraintes, et aucun coffre n'est proposé.
+**Lire d'abord `Enigme_12/00_SYNTHESE_E12.md`, puis `Enigme_12/PROCHAINES_ETAPES_E12.md` (liste des prochaines actions).** Aucune piste ne tient toutes les contraintes, et aucun coffre n'est proposé.
 
 | Piste | Verdict au 06/10 | Raison principale |
 |---|---|---|

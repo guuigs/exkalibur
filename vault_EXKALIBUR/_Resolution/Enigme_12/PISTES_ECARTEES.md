@@ -69,3 +69,7 @@
 | Table de Winchester à 25 places (R=1 096 m) | meilleure place à 62 m d'un croisement qualifié, ≈ hasard (2-3 attendus) | t108 |
 | Croix PATERNOSTER centrée sur le rempart (N au départ ; 3e=T à −3 pas, 11e=R à +5 pas, pas de 231,25 m) | 144 positions testées, meilleure à 50 m d'un croisement qualifié, ≈ hasard | t108 (séance 05/10) |
 | Croix PATERNOSTER posée sur la carte, départ au R du rang 5, jonction N = J16 (05/10) | FAQ8 : le chemin de marche de l'enl. 11 n'est pas un lieu réel ; FAQ06-216 : la croix a deux 3e (T) et deux 11e (R). J16 reste un candidat du crible terrain | FAQ8, FAQ06-216 (06/10) |
+| Rose des vents à 16/32/12 aires centrée sur le rempart (3e et 11e opposés) | aucune orientation ne tombe sur un croisement qualifié ; contredit FAQ04-115 (étapes intermédiaires sur la droite 3→11) | RECHERCHE_06-10 §4 |
+| Calque de l'épée de la planche sur la carte (pointe ou pommeau sur la tour) | test de la fissure au niveau du hasard (rang 288/720) ; FAQ04-169 « pas besoin de faire un calque de l'épée » | t142-t144 |
+| Constellations posées sur la carte (α, γ, λ ; 55 constellations) | meilleure étoile à 16 m de J16 pour ≈ 0,2 attendu : bruit | t141 |
+| Lévi = lieu de culte à 1 850 m de la tour ; chapelle Saint-Joseph (Répidon) ↔ Pont Mathieu | rien à 1 850 m ±1 % ; 3 127 m | RECHERCHE_06-10 §8 |
