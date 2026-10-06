@@ -22,7 +22,11 @@ Test du calque (FAQ8 : « vous pourriez utiliser un calque ») : planche posée 
 
 ## 4. Lecture « rose des vents à 16 aires » de la FAQ8 (8e et 16e)
 Un joueur a demandé si l'on aurait pu prendre les 8e et 16e : c'est le même écart de 8. Sur une rose à **16 aires**, les rangs 3 et 11 sont **diamétralement opposés** (NE-SO si le n°1 est au nord), comme le sont 8 et 16 (SSE-NNO), qui donnent une autre droite et sont donc « incorrects ». Le 13e existe. Ce ne sont pas des objets visibles sur Maps (FAQ06-227), et la boussole de la carte, à 8 aires seulement, « n'aide pas » à les placer.
-Test : origine au rempart, n°1 au nord / à l'est / au lever du 30/04 (63,7 / 68,6 / 73,9°). Variantes : 16 aires (points à 925 m), 32 aires (1 308 m), 12 heures (1 068 m). **Aucune variante ne tombe sur un croisement qualifié** ; les croisements les plus proches sont tous en lisière de maisons ou invisibles depuis la muraille. Bilan : idée structurelle élégante, mais sans résultat de terrain.
+Test : origine au rempart, n°1 au nord / à l'est / au lever du 30/04 (63,7 / 68,6 / 73,9°). Variantes : 16 aires (points à 925 m), 32 aires (1 308 m), 12 heures (1 068 m). **Aucune variante ne tombe sur un croisement qualifié** ; les croisements les plus proches sont tous en lisière de maisons ou invisibles depuis la muraille. Bilan : idée structurelle élégante, mais sans résultat de terrain. **Objection forte** : selon FAQ04-115, on va « directement » de la 3e à la 11e « en passant par des étapes intermédiaires ». Sur une rose, la droite 3→11 passe par le centre et pas par les aires 4 à 10. Une **série alignée à pas réguliers** (8 intervalles de 231 m) respecte mieux cette réponse.
 
-## 5. Bilan
+## 5. Autres pistes vérifiées en passant
+- Photos publiques du coffret et du parchemin (Parcs Actus, boutique Exkalibur) : rien de neuf pour les 3e et 11e. La couverture de la carte montre une figure tenant une rose des vents dorée.
+- « Dieu sut se montrer favorable » : la phrase exacte n'existe nulle part sur le web, ce n'est donc pas une citation connue. Elle ne contient pas d'anagramme de lieu nette (TOUR D'AVALON tient, mais il reste BEEEEFIMRRSSTU, sans mot).
+
+## 6. Bilan
 Rien ne « fonctionne » encore pour les 3e et 11e. Ce qu'il y a de nouveau et de solide : le texte d'introduction, les détails de l'épée réelle (pommeau-rose des vents) et la pointe de l'épée sur la tour.
