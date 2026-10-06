@@ -44,3 +44,22 @@ Premier sondage du test 1 (06/10) : aucune croix ni lieu de culte n'apparaît da
 
 ## 5. Verdict
 C'est la meilleure lecture de la **nature** des 3e et 11e trouvée à ce jour : l'écharde, le décor du 11e verset, la coupe, le jour dernier et le loup « obligatoire » de l'enl. 9 tiennent ensemble. Mais elle reste **non validée tant qu'elle ne donne pas deux points**. Prochaine étape : les tests de placement 1 à 3.
+
+## 6. Tests de placement (06/10, suite)
+Référence : les croisements « qualifiés » du crible terrain sont ceux à 3 voies ou plus, avec maisons à 100 m ou plus, eau de surface à 150 m ou moins, terrain ouvert à 25 % ou plus et visibles de la muraille. **Il y en a 6 sur 1 281, et J16 est le seul à moins de 2 km de la tour.**
+
+| Test | Résultat |
+|---|---|
+| 1. Joseph au rempart, Lévi = lieu de culte (église, chapelle, clocher, croix, BD TOPO) à 1 850 m ±1 % de la tour | **négatif** : rien entre 1 831 et 1 869 m (les plus proches : château à 1 762 m, croix à 1 976 m) |
+| 2. 12 portes d'Ézéchiel 48 / Apocalypse 21 | **ne s'applique pas** : dans l'ordre des portes, le 3e est Lévi mais le 11e est Aser, pas Joseph |
+| 3. 13 bandes d'Ézéchiel 48 | **ne s'applique pas** : le 3e est Nephthali et le 11e Issacar |
+| 4. Constellation posée sur la carte (FAQ8 : deux fois « bonne question, je ne peux pas répondre ») : 55 constellations qui ont α, γ et λ ; γ-λ = 1 850 m ; α, γ ou λ posé sur la tour ; nord en haut, sens normal et miroir (`outils_scratch/t141_constellations.py`) | **bruit** : 6 072 positions d'étoiles ; la meilleure tombe à 16 m de J16 (σ du Sculpteur), pour environ 0,2 attendu à 15 m ou moins au hasard |
+| 5. Ligne à pas égaux (8 pas = 1 850 m, donc 231 m le pas), Joseph au rempart, Benjamin (12e) = jonction | J16 est bien à 240 m de la tour (cap 161°), mais **c'est ajusté après coup** : la direction est choisie pour tomber sur J16. Le 3e (Lévi) tomberait alors vers 45.4447, 6.0235 (lieu-dit Ferragu, prés), sans rien qui évoque Lévi. Ce n'est pas une confirmation |
+
+## 7. Nouveaux échos dans le texte (notés, sans valeur de preuve)
+- « Dieu sut se montrer favorable » : Gn 39,21, « L'Éternel fut avec **Joseph** et étendit sur lui sa bonté ; il le mit **en faveur** » ; Gn 50,20, « Dieu l'a changé en bien ».
+- É9 (1er paragraphe, encore ouvert) : « le prix de la trahison et sa couleur… je transformerai ce jour de honte en jour de gloire ». Joseph a été **vendu** par ses frères pour 20 pièces d'argent, et sa **tunique de couleurs** a été trempée dans le sang. C'est une double lecture possible à côté de Judas.
+- Le passage du Jourdain (Jos 3-4) : les Lévites portent l'arche dans le fleuve et l'on pose **12 pierres, une par tribu**, au milieu du lit. Cela fait écho au gué de pierres de l'enl. 11 et à l'« ultime traversée ». Mais FAQ8 dit que le chemin de pierres n'est pas un lieu réel.
+
+## 8. Bilan au 06/10 (fin de séance)
+La lecture « fils de Jacob » reste la meilleure pour la **nature** des 3e et 11e. **Aucun des 5 tests de placement ne marche.** La règle qui transforme Lévi et Joseph en deux points reste à trouver.
