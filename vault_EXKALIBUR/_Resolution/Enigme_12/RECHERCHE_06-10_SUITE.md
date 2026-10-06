@@ -30,3 +30,19 @@ Test : origine au rempart, n°1 au nord / à l'est / au lever du 30/04 (63,7 / 6
 
 ## 6. Bilan
 Rien ne « fonctionne » encore pour les 3e et 11e. Ce qu'il y a de nouveau et de solide : le texte d'introduction, les détails de l'épée réelle (pommeau-rose des vents) et la pointe de l'épée sur la tour.
+
+## 7. Suite (06/10, après « continue »)
+### Pommeau de l'épée réelle
+Il porte, dans le sens des aiguilles d'une montre, **N, E, S, O** sur les 4 faces cardinales (FAQ05-092). Les 4 faces intermédiaires portent des entrelacs. Sur la photo de l'épée plantée, le **S est du côté de la lame** : l'épée est une boussole dont la lame pointe le sud. L'image se trouve dans `images_travail/` (recadrage du pommeau).
+
+### Calque n°2 : pommeau sur la tour, lame au sud, échelle enl. 3 → enl. 11 = 1 850 m
+Dans ce calque, la fissure tombe à environ 1,47 km au sud de la tour, sur un petit ravin qui rejoint un ruisseau. Visuellement, la coïncidence est frappante (`images_travail/t143_calque_pommeau_*.jpg`).
+**Test du hasard** (`outils_scratch/t144_test_fissure.py`). Je mesure la distance moyenne de la fissure aux talwegs LiDAR (≥ 0,3 ha) : **19,4 m**, contre une médiane de 22,3 m pour les autres orientations. Ce placement n'arrive qu'au **rang 288 sur 720** orientations, et le hasard (ancre et cap tirés au sort) fait aussi bien dans 36 % des cas. **Pas de signal.** L'impression visuelle était trompeuse.
+**De plus, FAQ04-169** : « Est-ce que l'épée sur les enluminures définit un tracé ? — Non. Vous n'avez pas besoin de faire un calque de l'épée. » **Les deux calques sont donc écartés par l'auteur lui-même.**
+
+### Réponses de la FAQ à retenir (thèmes #ÉPÉE, #AMISAVENTURIERS, #ENLUMINURE12)
+- **FAQ07-048** : au milieu de la garde de l'épée de la planche, **un calice enserré par les pattes des deux dragons** est « un élément crucial en fin de chasse ». Ce calice est-il la coupe du charpentier ?
+- **FAQ02-123** : il faut comprendre « pourquoi cette épée, sous cette forme-là, est présente sur l'ensemble des enluminures ». Le pommeau a 8 segments, divisés en « au moins une cinquantaine » de traits.
+- **FAQ03-032** : c'est un côté précis de l'épée qui est représenté, et c'est « très utile ». **FAQ04-180** : elle aurait pu être orientée autrement.
+- **FAQ02-229** : « Amis aventuriers » est le **point de départ de la chasse** et contient des indices « qui vont irriguer l'ensemble du jeu ». **FAQ04-131** : « dernier d'entre eux » désigne « les deux », le narrateur et le lecteur. **FAQ02-251** : « siège » est plus juste que « trône ». Cela peut évoquer le **siège épiscopal** (Hugues d'Avalon, évêque de Lincoln) ou le siège périlleux. **FAQ07-204** : le fruit devait être une pomme. **FAQ06-118** : « il fera forcément beau ».
+- **FAQ06-262** : des indices pour trouver le « numéro un » existent dans les enluminures, mais pas dans l'enl. 12. **FAQ03-065** : l'enl. 12 est « incomplète, parcellaire » (Jésus seul à table).
