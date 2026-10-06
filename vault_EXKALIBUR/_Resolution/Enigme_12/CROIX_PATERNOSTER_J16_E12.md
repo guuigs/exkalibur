@@ -1,4 +1,10 @@
 # La croix PATERNOSTER de l'enluminure 11 posée sur la carte → jonction J16 (05/10/2026)
+
+> **⚠️ RÉTROGRADÉE le 06/10/2026 : écartée comme mécanisme 3e/11e.** Deux réponses de l'auteur la contredisent, et je ne les avais pas vérifiées le 05/10 (le rapport R3 l'avait pourtant noté le 03/10) :
+> - FAQ8 : « Est-ce que le chemin de marche sur l'enluminure onze représente un lieu réel de la quête ? … non » ;
+> - FAQ06-216 : il n'y a qu'**un seul** 3e et **un seul** 11e, or la croix a deux lignes, donc deux T au rang 3 et deux R au rang 11.
+>
+> J16 reste un candidat du crible « terrain seul » (`DEPUIS_CHEZ_SOI_E12.md`), sans lien avec les 3e et 11e.
 Scripts : t131-t137 (outils_scratch). Images : t137_croix_paternoster_carte.jpg, t115_marais_avalon.jpg, t116_J16_lidar.jpg.
 
 ## Idée (T15B §4 « à faire 3 », jamais testée avec le bon départ)

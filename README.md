@@ -4,7 +4,7 @@ Chasse au trésor *Exkalibur* (Puy du Fou / Unsolved Hunts, auteur Étienne Pica
 
 | Dossier | Contenu |
 |---|---|
-| `vault_EXKALIBUR/` | Le vault Obsidian du projet : notes de Guilhem (lecture seule) et `_Resolution/` (relevés, calculs, solutions, revue globale, FAQ de l'auteur, carte KML/SVG, photos HD). Commencer par `00 - Solutions validées.md`, puis `_Resolution/Enigme_12/solution.md` et `PLAN_ACTION.md`. |
+| `vault_EXKALIBUR/` | Le vault Obsidian du projet : notes de Guilhem (lecture seule) et `_Resolution/` (relevés, calculs, solutions, revue globale, FAQ de l'auteur, carte KML/SVG, photos HD). Commencer par `00 - Solutions validées.md`, puis `_Resolution/Enigme_12/solution.md` et `Enigme_12/00_SYNTHESE_E12.md`. |
 | `skills/` | Skills Hermes liés au projet : `puzzle-hunt-solving` (méthode, pièges, recettes) et `grounded-citations`. |
 | `outils_scratch/` | Helpers Python (`exk.py`), transcription de la FAQ 8, script de recherche Discord en lecture seule. |
 | `images_travail/` | Recadrages et schémas de l'enluminure 11, de la rose des vents, du livre, de la rayure de l'épée. |

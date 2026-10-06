@@ -1,6 +1,6 @@
 # 00 — ÉTAT (à relire EN PREMIER à chaque reprise)
 
-**Dernière mise à jour : 04/10/2026, fin du créneau autonome d'1 h (hypothèse P « aube de Pâques »).** Énigmes 1 à 11 validées par Guilhem (aucune validation officielle). Énigme 12 en cours.
+**Dernière mise à jour : 06/10/2026 (rangement et consolidation de l'É12, nouvelle piste « fils de Jacob »).** Énigmes 1 à 11 validées par Guilhem (aucune validation officielle). Énigme 12 en cours.
 
 ## Règles de travail (Guilhem)
 1. **On acte** une lecture logique vis-à-vis du texte, sans attendre une preuve chiffrée ; on ne la remet en cause que si une réponse de l'auteur la contredit (03/10).
@@ -28,52 +28,19 @@
 | En ligne : on doit pouvoir montrer le départ, les 3e/11e et la clairière (capture vue du ciel). La grande roche, la souche et les eaux ne se voient pas forcément en ligne | 07-078, 07-126, 06-060, 07-240, FAQ8 |
 | Les derniers pas partent de l'étape après la roche (la souche) ; pas de 9e pas | 06-178, 05-039 |
 
-## Énigme 12 — état des pistes (04/10)
-| Rang | Piste | Ce qui la porte | Points faibles | Confiance (jugement) |
-|---|---|---|---|---|
-| 0 | **HYPOTHÈSE R — le jour dernier se lève derrière le Couvet** : depuis la muraille, lever visible du 30/04 (mort de Bayard) à 0,2° du croisement du Couvet (45.434748, 6.059095) ; 3e/11e = **lieux-dits cadastraux traversés** : 1 AVALON, 3 LA PRURAS, 11 LE COUVAT ET CHARRET (centres à 1 834 m = 10 stades −0,9 %), 13 Bugnon ; on remonte la Burge (eau à gauche) jusqu'à un ressaut de 7 m ; coffre ≈ 45.43156-45.43170, 6.06149-6.06166 sur la bande publique | Grille 24 ✅ / 14 ⚠️ / **0 ❌** (`RAISONNEMENT` §24) ; domaine public tenu ; seul croisement de Saint-Maximin qui passe le crible strict | identité physique des 3e/11e inconnue ; visible d'un seul point de muraille ; coïncidence lieux-dits ≈ 9 % ; « tout près » (~400 m) ; 2,3 km du rempart | ~20 % (jugement) |
-| 0 bis | **HYPOTHÈSE P — aube de Pâques** (Le Mouret) : table ronde de la Cène centrée au rempart, Christ à l'Orient = lever visible de Pâques (91,4° en 1524, 93,0° en 2026, après correction de signe) ; place de Simon (11e) à 5-33 m d'une **source** (45.42177, 6.04019) et à 61-77 m de la jonction de 4 chemins ; **la corde 3→11 passe par le seul ruisseau vu du rempart puis par la jonction** (0,44 % des orientations) ; on suit l'eau (à gauche) par le sentier sud jusqu'à la roche de la source | Chaîne justifiée étape par étape (`Enigme_12/RAISONNEMENT_logique_auteur.md` §5) ; Table ronde = souvenir de la Cène (Boron) ; « tout près » résolu (73 m) ; témoins (miroir, autres dates) nettement moins bons ; hasard 0,2-0,7 % | Roche à la source → fouille en bois privé ; **seule la variante P-public (roche à 3-11 m de la jonction, fouille sur les chemins publics 45.42249-45.42266, 6.04040-6.04060) respecte le domaine public** ; P dépend du lever visible (le lever astronomique ne marche pas) ; roche invérifiable en ligne ; plusieurs constructions essayées au fil des sessions | ~30 % (jugement) — bloquée par le domaine public |
-| 1 | **LE MOURET** (jonction de 4 chemins 45.422426, 6.040299 ; jonction 2 45.42337, 6.041663) | Deux méthodes indépendantes : (a) table des apôtres « Christ à l'Orient » (Simon à 37-77 m quel que soit le centre et le rayon) ; (b) crible « terrain d'abord » sur 7 × 7 km : seules jonctions en clairière, loin des maisons, près de l'eau, dont le **pré** est visible du pied de la tour (le point de jonction lui-même ne l'est pas : aucun croisement en clairière forestière de la zone ne l'est). Talweg qui coule dans le chemin de l'est (eau à gauche en montant, rive gauche, chemin public). Deux sources. Affleurements rive gauche du Rebouchet ; gros rocher de 4 m (45.421452, 6.045319) | Jonction en lisière ; terrains privés autour (seuls chemins et bandes de ruisseau publics) ; pente 22-35 % ; grande roche non tranchée ; **points de fouille A, B et C sur des pentes de 40-100 % : incompatibles avec un fauteuil accompagné (FAQ03-112)** ; **le point de jonction lui-même n'est pas vu du pied (pré visible à partir de 41 m à l'ouest)** ; Rebouchet classé intermittent par la BD TOPO (classification prudente ; crues fréquentes selon l'IRMA) — inconnu accepté | ~20 % |
-| 1 bis | (désormais **intégrée à P** : la corde 3→11 passe par ce ruisseau, c'est une étape intermédiaire) **RUISSEAU VU DU REMPART** (pont du Rebouchet 45.426344, 6.038290 → sentier, eau à gauche en montant → ressaut 4,7 m 45.423957, 6.041700) | Seul cours d'eau visible du pied (cap 115-120°, ~600 m) ; jonction route + sentier au pont ; sentier qui suit l'eau 380 m ; ressaut qui bloque, ouvre une gorge ; 625 m de la tour | Jonction en bordure de hameau (maisons à 13 m) ; roche à 376 m ; lien 3e/11e indirect | ~10-15 % |
-| — | ~~Hypothèse Q (Machrie + aube de Pâques, J5 / Tapon)~~ | — | **ÉCARTÉE le 04/10** : Machrie Moor n'a pas de 13e site (numérotation 1-11), alors que FAQ06-133 dit que le 13e existe | écartée |
-| 0 ter | Variante Q' : apôtres en rangée (13e existe), 3e au rempart, 11e = J5 sur l'axe Machrie (Machrie = orientation seulement) | domaine public du Tapon ; 13e en forêt sans croisement | **la FAQ8 ne donne à Machrie aucun rôle de direction à l'É12** (« vous pouvez oublier l'enl. 11 » une fois au départ) ; le ciel seul manque J5 de 116 m | ~5 % |
-| 2 | ~~Loup (cercles 3 et 11 de Machrie Moor)~~ | — | pas de 13e site à Machrie Moor (FAQ06-133) | écartée |
-| 3 | Apôtres, autres orientations ; Muraillat | — | J2 n'est pas un croisement | écartée |
+## Énigme 12 — état consolidé (06/10/2026)
+**Lire d'abord `Enigme_12/00_SYNTHESE_E12.md`.** Aucune piste ne tient toutes les contraintes, et aucun coffre n'est proposé.
 
+| Piste | Verdict au 06/10 | Raison principale |
+|---|---|---|
+| Croix PATERNOSTER → jonction J16 (05/10) | **écartée comme mécanisme** | FAQ8 : « le chemin de marche de l'enl. 11 n'est pas un lieu réel » ; FAQ06-216 : un seul 3e et un seul 11e, alors que la croix a deux T et deux R (déjà noté par R3 le 03/10) |
+| Rangée de 12 apôtres, 28/10 (hypothèse S) | faible | la date diffère du jour dernier (30/04) ; hasard de 2 à 20 % |
+| Aube de Pâques / Le Mouret (hypothèse P) | bloquée | domaine public (fouille en bois privé) |
+| Couvet (hypothèse R) | en réserve | maisons à 45 m ; coïncidence de lieux-dits (~9 %) |
+| **Terrain seul (« depuis chez soi »)** | **à garder** | J16 (Route du Vivier, marais d'Avalon) et Le Mouret sont les seuls croisements qui passent le crible, sans lien avec les 3e et 11e. Pour J16, aucune grande roche n'a été trouvée sur la branche du marais |
+| **Fils de Jacob (Gn 49) : 3e = Lévi, 11e = Joseph** (nouvelle, 06/10) | **piste ouverte** (nature seulement) | écharde (glaive / arbre), verset de Joseph (arbre, source, muraille, rocher), loup et âne de l'enl. 9, coupe de Joseph. **Pas encore de placement.** Voir `Enigme_12/PISTE_FILS_DE_JACOB_E12.md` |
 
-### Grille de contrôle (04/10, 07:10) — ✅ tenu, ⚠️ discutable, ❌ violé
-| Contrainte (FAQ) | Le Mouret (rocher A) | Loup (J5) | Centre du village |
-|---|---|---|---|
-| Lien logique avec 3e/11e (05-074…) | ✅ table des apôtres (Simon à 37-77 m) | ✅ cercles 3/11 de Machrie | ❌ aucun |
-| Clairière dans le champ de vision du rempart (05-165, 06-230) | ⚠️ pré vu du pied, mais pas le point de jonction (41 m) | ❌ J5 invisible | ✅ point vu |
-| Vrai croisement de chemins (06-005) | ✅ 4 branches | ✅ | ✅ |
-| Clairière restée clairière (03-274) | ✅ pré en lisière de forêt | ❌ pas une clairière | ❌ parc urbain |
-| Eau, roche mouillée qui barre le passage (FAQ8, 06-195, 06-180) | ✅⚠️ cascade du Rebouchet à 13 m du rocher A ; torrent à crues fréquentes (IRMA), classé intermittent par la BD TOPO (inconnu accepté) | ⚠️ ravin | ❌ |
-| Coffre loin des bâtiments (05-107) | ✅ maisons à 150-180 m | ⚠️ | ❌ maisons à 8-40 m |
-| Domaine public (01-235, 02-097) | ⚠️ bord de la bande publique du Rebouchet | ❌ privé | ✅ |
-| Fauteuil avec accompagnateur (03-112), **au sens large (décision du 04/10)** | ⚠️ pente de 40 % au point de fouille ; chemin à 35-45 m mais 21-25 m plus haut (descente de 47-57 %) | ❌ | ✅ |
-| Coffre « tout près » de la jonction (05-051) | ⚠️ ~410 m | ⚠️ | — |
-| Peut être bloqué par la météo, sans danger (04-198) | ✅ crue du ruisseau | ✅ | ❌ |
-
-Lecture : aucune piste ne tient tout. Le Mouret coche le plus de cases. Ses points faibles restants : la visibilité du point exact (imposée par le terrain) et la permanence de l'eau. Le critère fauteuil est accepté au sens large (04/10). Le crible strict (`t42_strict.py`) montre que cette visibilité n'est tenue par **aucune** clairière en forêt de la zone.
-
-Fichiers de référence : `Enigme_12/RECAP_04-10_creneau_1h_Paques.md` (le plus récent), `Enigme_12/RAISONNEMENT_logique_auteur.md`, `Enigme_12/RECAP_04-10_session_autonome.md`, `Enigme_12/pistes_brutes_3e_11e.md` (journal détaillé), `Enigme_12/PISTES_ECARTEES.md`.
-
-⚠️ **Erreur de signe corrigée le 04/10** : cap grille Lambert 93 = cap vrai **−** 2,2° (voir `Enigme_12/RAISONNEMENT_logique_auteur.md` §9).
-
-### Ce que le créneau du 04/10 (08:00-09:00) a établi pour l'hypothèse P
-- **Robustesse** : sur toute la plage de l'aube de Pâques (91,3-93,6°, relief nu ou boisé, 1524 ou 2026), et avec un centre décalé de ±20 m, la corde 3→11 passe à ≤ 26 m de la jonction et à ≤ 19 m du seul ruisseau visible du rempart ; Simon est à ≤ 35 m d'une source (§14 du dossier).
-- **Contrôles** : numérotation en miroir, autres dates de veillée et lever astronomique sont nettement moins bons. P dépend du lever **visible**, ce que justifie « m'est apparu au matin ».
-- **Variantes testées** : table de Winchester (3 = Gauvain, 11 = Lucan) → bel écho de Malory pour la première phrase, mais pas de géométrie ; axe Machrie Moor + Cène (Jésus au rempart) → en rangée, les champs des Ripellets (écarté) ; en table ronde, retour au Mouret (cohérent avec P).
-- **Point bloquant restant : le domaine public** (FAQ8 : « pas de terrains privés »). Une fouille publique n'est possible que si la roche est à ≤ 11 m de la jonction, et ce résultat change à quelques mètres près.
-
-## Prochaines actions (après le créneau autonome du 04/10, 08:00-09:00)
-0. ~~Hypothèse Q~~ **écartée** (pas de 13e cercle à Machrie Moor ; toute lecture « Machrie » des 3e/11e tombe). : dossier `Enigme_12/RAISONNEMENT_logique_auteur.md` §20, carte `images_travail/t54_carte_Q.jpg`
-1. **Hypothèse P (aube de Pâques)**, dossier principal : `Enigme_12/RAISONNEMENT_logique_auteur.md` §5 à §9. Grille de 38 contraintes : 24 tenues, 13 discutables, 1 non tenue (domaine public).
-2. **Trancher le domaine public** (seule case non tenue). Pistes : (a) une roche tout près de la jonction (fouille sur les chemins publics) ; (b) un décalage entre le cadastre et le sentier ; (c) relire FAQ01-235 (« il y a une tolérance »).
-3. **Trancher l'année** : Pâques 1524 (91,4° ; Simon à 24-33 m de la source) ou Pâques 2026 (93,0° ; 5-13 m). La corde 3→11 passe par le ruisseau visible et la jonction dans les deux cas.
-4. Première phrase (contrainte n° 37) et enl. 11 (« une partie », n° 17) : à relire dans la lecture pascale.
-5. Brouillon de soumission à jour : `Livrables/E12_soumission_brouillon_Mouret.md` (ne pas envoyer avant les points 2 et 3).
+Les tableaux détaillés du 04/10 et du 05/10 sont dans `Enigme_12/archives/00_ETAT_E12_historique_04-05-10.md`.
 
 ## Tableau de bord des énigmes
 | # | Titre | Statut | Solution |
@@ -98,14 +65,3 @@ Fichiers de référence : `Enigme_12/RECAP_04-10_creneau_1h_Paques.md` (le plus 
 - FAQ officielle complète : `Communaute/faq_officielle_auteur.json` ; FAQ8 : `outils_scratch/faq8.txt`.
 - Cadastre et domaine public : `outils_scratch/cadastre/` (Etalab + DGFiP personnes morales 2025).
 - Journal historique : `Journal.md`.
-
-## Mise à jour 05/10/2026 (soir) — hypothèse S « rangée de 12 apôtres » (voir Enigme_12/RANGEE_LEONARD_E12.md)
-- Date de lancement de la chasse : **22/05/2025** (FAQ01-001, 01-172), pas Pâques 2023.
-- Entonnoir terrain pur (1 281 croisements) : seuls survivants Mouret J1/J2, prairie 240 m, stade de Pontcharra (rejeté). Groupe NW 2,0-2,3 km = artefact (rejeté). Voir ENTONNOIR_CANDIDATS_E12.md, MOURET_FAIBLESSES_E12.md.
-- J2 (45.42337, 6.04166 ; 1 034 m, cap 126,35°) : clairière visible depuis la muraille = pâturage de 2 ha à 40-55 m.
-- **Hypothèse S** : 12 apôtres en rangée (ordre de Marc), Christ = rempart, pas 231,25 m (= 10 stades / 8), axe = lever visible du 28/10 (fête de Simon et Jude, 11e dans les 4 listes), 11e place à 7 m de J2, 3e place à 27-42 m de l'église Saint-Hugues de Pontcharra. Corde 3e-11e passant à 20 m du rempart (FAQ04-115). Hasard : 0,3 % si la chaîne avait été fixée d'avance ; 2 à 20 % en comptant les choix après coup. Confiance zone Mouret : 8-12 %.
-- Pistes closes : Pâques avec la rangée, PATERNOSTER centré sur le rempart, Winchester à 25 places, table de l'enl. 5 (FAQ06-267/07-213 : nappe = vitrail calendrier, « réponse intermédiaire », pas cruciale pour la fin ; probablement liée à l'É10).
-- Carte : images_travail/t111_carte_rangee_apotres.jpg.
-
-## Mise à jour 05/10/2026 (nuit) — hypothèse « croix PATERNOSTER » (Enigme_12/CROIX_PATERNOSTER_J16_E12.md)
-La croix de pierres de l'enluminure 11 (P A T E R N O S T E R, 3e = T, 11e = R, 8 pas = 10 stades → 231,25 m par pierre) posée sur la carte avec le départ au R du rang 5 (rempart) et les lignes sur le lever du 30/04 donne la jonction N = J16 (45.42684, 6.03200), à 11-15 m du point prédit ; J16 est le seul croisement ≤ 1,3 km qui passe les critères « depuis chez soi », sur la Route du Vivier (lieu-dit Le Chêne la Roche et le Vivier). Hasard ≈ 2-14 % selon la tolérance. Confiance zone J16 : à réévaluer (voir le fichier).

@@ -68,3 +68,4 @@
 | Rangée de 12 à axe sur le lever de Pâques (2023-2026, 1524) | 11e place à 358 m (axe le long) / 218 m (axe perpendiculaire) du croisement qualifié le plus proche | t108 |
 | Table de Winchester à 25 places (R=1 096 m) | meilleure place à 62 m d'un croisement qualifié, ≈ hasard (2-3 attendus) | t108 |
 | Croix PATERNOSTER centrée sur le rempart (N au départ ; 3e=T à −3 pas, 11e=R à +5 pas, pas de 231,25 m) | 144 positions testées, meilleure à 50 m d'un croisement qualifié, ≈ hasard | t108 (séance 05/10) |
+| Croix PATERNOSTER posée sur la carte, départ au R du rang 5, jonction N = J16 (05/10) | FAQ8 : le chemin de marche de l'enl. 11 n'est pas un lieu réel ; FAQ06-216 : la croix a deux 3e (T) et deux 11e (R). J16 reste un candidat du crible terrain | FAQ8, FAQ06-216 (06/10) |
