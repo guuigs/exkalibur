@@ -400,3 +400,41 @@ L'É8 s'appuyait déjà sur l'Apocalypse (« fleur de Patmos », 666, les deux b
 L'auteur a d'ailleurs mentionné de lui-même la Jérusalem céleste (FAQ05-185 : « Il y a la Jérusalem céleste, mais ça reste la même ville ! »).
 
 **Lecture qui en découle** : les 3e et 11e seraient les **3e et 11e fondements de la muraille**, c'est-à-dire des **apôtres**. Cela rejoint le § K : les livres numérotés des saints donnent l'ordre, soit 3e = Philippe et 11e = Thomas. Le genre masculin employé par l'auteur (« le onzième ») irait bien avec « fondement » ou « apôtre ». Le mécanisme qui transforme cela en deux points distants de 1 850 m reste à trouver. Une hypothèse à tester : la Jérusalem céleste comme gabarit carré (12 portes, 3 par côté, dans l'ordre orient-nord-midi-occident de 21,13) posé sur le terrain depuis le rempart.
+
+---
+
+# M. La Jérusalem céleste comme gabarit sur le terrain (13/10, nuit) — piste la plus solide à ce jour
+
+Guilhem juge la piste « Jérusalem céleste » logique (13/10). Test du gabarit le plus simple tiré du texte.
+
+## M1. Construction (règles fixées avant de regarder le terrain)
+- **Ville carrée orientée aux points cardinaux**, avec **3 portes par côté** (Ap 21,12-16).
+- Portes numérotées **dans l'ordre d'Ap 21,13 : orient (1-3), nord (4-6), midi (7-9), occident (10-12)**. La 3e porte est donc la dernière du côté est, celle qui touche le côté nord. La 11e est la porte du milieu du côté ouest.
+- **Départ = la 11e porte = le chemin de rempart (sommet du donjon)**. Le rempart d'Avalon est au bord ouest des collines : la « ville » s'étend vers l'est, vers le soleil levant (« au matin, illuminé par l'astre glorieux » ; en Ézéchiel 43, la gloire entre par la porte d'orient). La 3e et la 11e sont « séparées de dix stades » (1 850 m).
+- Portes **aux quarts de chaque côté** (disposition classique de 3 portes également espacées).
+
+Calcul (`scripts/jerusalem_gabarit.py`) : côté de la ville **1 795 m** ; 3e porte au **cap 75,96°, à 1 850 m** du donjon, en **45.43292, 6.05395**.
+
+## M2. Résultat
+- La 3e porte tombe **à 10 m de la jonction de chemins du Couvat** (45.432881, 6.054064 : chemin, sentier, piste) et à 16 m du bout de la route du Couvat (45.433063, 6.053902).
+- Variantes testées pour l'honnêteté (8 au total) :
+  - portes au milieu des tiers (cap 71,6° ou 108,4°) ;
+  - 3e porte au sud du côté est (104,0°) ;
+  - ordre d'Ézéchiel 48, qui commence par le nord (26,6° à 56,3°).
+
+  **Aucune autre ne tombe à moins de 30 m d'une jonction.**
+- Hasard : pour un point à 1 850 m dans le secteur est, la chance d'être à 10 m d'une jonction est de **0,6 %** (2 % tous caps confondus). Sur 8 variantes, on obtient environ **5 à 15 %** de chances d'un tel coup par hasard. Mais la variante qui touche est **la plus canonique** (ordre de l'Apocalypse, portes aux quarts). C'est un signal, pas une preuve.
+- Image : `images/jerusalem_celeste_gabarit.jpg`. Le mur nord du gabarit suit de près les gorges du Bréda ; le ruisseau de Tapon descend de la 3e porte vers le Bréda.
+
+## M3. Le lieu (relevé à distance)
+- **Bout de la route du Couvat**. Le chemin s'y divise en deux branches : l'une vers le SO, en couloir de pâture vers le pré A ; l'autre vers l'E, en lisière. La jonction est au bord de prés entre deux bois (« clairière » restée clairière, 03-274).
+- Ruisseau cartographié le plus proche : **le Tapon, à 130 m à l'ouest**, dans un ravin. Il coule du sud vers le nord, puis vers les gorges du Bréda. Un ruisseau non cartographié reste possible (06-060 : « il faudra vous rendre sur place »).
+- Bâti : maisons du hameau du Couvat à 60-80 m de la jonction. Le coffre est plus loin (ruisseau, puis roche, puis 10 pas N, 10 pas E et 8 pas).
+- Pas en forêt communale (bord à 550 m). Domaine public : chemins ; à vérifier au cadastre.
+- Visibilité depuis le sommet : **oui au sens large** (relief seul ; le bout de route est entièrement dégagé). **Non au sens strict** : des arbres de ≈ 24 m bordent la jonction côté tour (§ I3).
+
+## M4. À faire
+1. Vérifier sur le cadastre que les chemins de la jonction sont publics.
+2. Chercher au LiDAR fin et à l'orthophoto un ruisseau qu'on suit en le gardant à gauche depuis la jonction, et une grande roche mouillée qui barre le passage. Pistes : le Tapon vers l'aval (rive droite), ou un ru non cartographié côté est.
+3. Si une roche est repérée : 10 pas N, 10 pas E, chercher la « souche-majesté » (on peut s'y asseoir), puis 8 pas vers le « jour dernier ».
+4. Sur place, regarder depuis le sommet du donjon si le bout de route du Couvat est visible à l'œil nu (cap 76°).

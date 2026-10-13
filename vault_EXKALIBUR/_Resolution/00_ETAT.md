@@ -45,6 +45,8 @@ Tout est dans **`Enigme_12/solution.md`** (faits, règles de la FAQ, pistes viva
 
 **Piste de lore (§ L du README)** : le texte de l'É12 suit la fin de l'Apocalypse, la Jérusalem céleste (alpha et oméga, « la gloire de Dieu l'éclaire », fleuve et arbre de vie, muraille aux 12 fondements portant les noms des 12 apôtres, ville mesurée en stades, arc-en-ciel d'émeraude de l'enl. 9). Les 3e/11e seraient donc des fondements, c'est-à-dire des apôtres. Essais géométriques sur les dates (crêtes, levers, triangle à 60°) négatifs.
 
+**Gabarit Jérusalem céleste (§ M du README, piste la plus solide à ce jour)** : ville carrée orientée, portes dans l'ordre d'Ap 21,13 (orient, nord, midi, occident), aux quarts des côtés ; départ = 11e porte = le donjon ; 3e porte à 1 850 m, **cap 75,96° → à 10 m de la jonction du bout de la route du Couvat** (45.43288, 6.05406). Une seule des 8 variantes touche ; hasard ≈ 5-15 %. Ruisseau de Tapon à 130 m, maisons à 60-80 m. À vérifier : ruisseau à senestre, grande roche, cadastre.
+
 ## Numérotation des enluminures
 L'auteur les numérote dans l'ordre de lecture (R1G=1, R1D=2, R2G=3, R2D=4, R3G=5, R3D=6, R4G=7, R4D=8, R5G=9, R5D=10, R6G=11, R6D=12). Énigme N ≠ toujours enluminure N (FAQ02-096). Voir `03_Correspondance_illustrations.md`.
 
