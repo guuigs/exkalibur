@@ -430,11 +430,13 @@ Calcul (`scripts/jerusalem_gabarit.py`) : côté de la ville **1 795 m** ; 3e po
 - **Bout de la route du Couvat**. Le chemin s'y divise en deux branches : l'une vers le SO, en couloir de pâture vers le pré A ; l'autre vers l'E, en lisière. La jonction est au bord de prés entre deux bois (« clairière » restée clairière, 03-274).
 - Ruisseau cartographié le plus proche : **le Tapon, à 130 m à l'ouest**, dans un ravin. Il coule du sud vers le nord, puis vers les gorges du Bréda. Un ruisseau non cartographié reste possible (06-060 : « il faudra vous rendre sur place »).
 - Bâti : maisons du hameau du Couvat à 60-80 m de la jonction. Le coffre est plus loin (ruisseau, puis roche, puis 10 pas N, 10 pas E et 8 pas).
-- Pas en forêt communale (bord à 550 m). Domaine public : chemins ; à vérifier au cadastre.
+- Pas en forêt communale (bord à 550 m). **Cadastre** (Parcellaire Express, WFS IGN) : le point prédit de la 3e porte et le bout de la route du Couvat sont **hors parcelle, donc dans le domaine public non cadastré** (voie communale) ; les parcelles riveraines commencent à 2-5 m. La fourche du chemin (45.432881, 6.054064) tombe dans la parcelle 0A 312 (3 015 m²), peut-être par imprécision du tracé IGN.
 - Visibilité depuis le sommet : **oui au sens large** (relief seul ; le bout de route est entièrement dégagé). **Non au sens strict** : des arbres de ≈ 24 m bordent la jonction côté tour (§ I3).
 
 ## M4. À faire
-1. Vérifier sur le cadastre que les chemins de la jonction sont publics.
+1. ~~Cadastre~~ : bout de route public (fait). Reste à savoir si le chemin qui part vers le SO et l'E est un chemin rural public.
 2. Chercher au LiDAR fin et à l'orthophoto un ruisseau qu'on suit en le gardant à gauche depuis la jonction, et une grande roche mouillée qui barre le passage. Pistes : le Tapon vers l'aval (rive droite), ou un ru non cartographié côté est.
 3. Si une roche est repérée : 10 pas N, 10 pas E, chercher la « souche-majesté » (on peut s'y asseoir), puis 8 pas vers le « jour dernier ».
 4. Sur place, regarder depuis le sommet du donjon si le bout de route du Couvat est visible à l'œil nu (cap 76°).
+
+- Réseau d'écoulement calculé sur le MNT rééchantillonné (`scripts/talwegs.py`) : trop bruité (lignes droites artificielles), inexploitable. Seul le ravin du Tapon ressort. Il faudrait les dalles LiDAR HD brutes (0,5 m) pour repérer un ru non cartographié.
