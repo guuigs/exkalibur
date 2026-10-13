@@ -37,6 +37,8 @@ Tout est dans **`Enigme_12/solution.md`** (faits, règles de la FAQ, pistes viva
 
 **Suite du 13/10 (plan d'attaque)** : narrateur = Bayard (hypothèse forte) → jour dernier 10/05 grégorien ; épée = boussole (pommeau N-E-S-O) ; meilleur candidat clairière = **Muraillat / La Planta (45.43360, 6.04491)**, visible depuis la tour, cap 66° = premier rayon du 10 mai, ruisseau à gauche → ravin rocheux. À vérifier sur place. Détails : `Enigme_12/Reprise_2026-10-13/README.md` § « Suite ».
 
+**Suite du 13/10 (3e/11e par le lore, § H du même README)** : les chapitres III/XI du *Roman de la Rose* sont rétrogradés (la porte du chap. III est en bois, alors que le 3e ne donne pas d'écharde, FAQ07-068). Lecture qui passe tous les filtres de la FAQ : **3e = *Ecce Homo* (le Pavé de pierre, au départ), 11e = *Consummatum est* (la croix en bois)**, avec les stations du chemin de croix comme « étapes intermédiaires ». Les travaux d'Hercule (biche = enl. 3, dragon des Hespérides = enl. 11) restent la meilleure lecture des enluminures. Conséquence : l'endroit final serait à 1 850 m ± 1 % de la tour. Muraillat (1 212 m) n'est plus expliquée ; seul candidat visible sur l'anneau : **Le Couvat (1 864 m, cap 77°)**, sans preuve.
+
 ## Numérotation des enluminures
 L'auteur les numérote dans l'ordre de lecture (R1G=1, R1D=2, R2G=3, R2D=4, R3G=5, R3D=6, R4G=7, R4D=8, R5G=9, R5D=10, R6G=11, R6D=12). Énigme N ≠ toujours enluminure N (FAQ02-096). Voir `03_Correspondance_illustrations.md`.
 

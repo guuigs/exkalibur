@@ -5,7 +5,7 @@ tags:
 # É12 : reprise à zéro (13/10/2026)
 
 > **Statut : 🟡 avancée sur la clé, 🔴 pas de pile-poil.**
-> Le premier paragraphe est décodé avec une bonne confiance : « Dieu sut se montrer favorable » renvoie au *Roman de la Rose* (trad. Marteau). Les « troisième et onzième » seraient ses **chapitres III (la porte du verger) et XI (la fontaine de Narcisse sous le pin)**.
+> Le premier paragraphe est décodé avec une bonne confiance : « Dieu sut se montrer favorable » renvoie au *Roman de la Rose* (trad. Marteau). Les « troisième et onzième » ont d'abord été lus comme ses chapitres III et XI ; **cette lecture est rétrogradée (§ H : le critère de l'écharde la contredit)**. Lecture de travail : 3e = *Ecce Homo* (le Pavé, au départ), 11e = *Consummatum est* (la croix, au bout), soit l'endroit final à 1 850 m de la tour.
 > Il reste à fixer la direction donnée par « l'astre glorieux » et le rôle de l'épée. Aucune zone de 50 m n'est défendable à ce stade.
 > Méthode : je repars des textes, des enluminures et des 1 852 réponses de l'auteur (+ FAQ8), sans reprendre les pistes de `../solution.md`.
 
@@ -24,7 +24,9 @@ tags:
 - Rubriques utiles de l'édition : chap. **III** « Comment dame Oyseuse fit tant / Qu'elle ouvrit la porte à l'amant » (v. 533) ; chap. **XI** « L'Auteur ici Narcisse conte » (v. 1487) ; chap. **XIII** « … perce l'Amant, / Dans le verger près de la Rose » (v. 1741).
 - Texte de référence archivé : `sources/roman_de_la_rose_marteau_ch01-14.txt` (version moderne, chap. I à XIV).
 
-## 2. Hypothèse forte : « les troisième et onzième » = chapitres III et XI de ce Roman
+## 2. ~~Hypothèse forte~~ Hypothèse rétrogradée : « les troisième et onzième » = chapitres III et XI de ce Roman
+> ⚠️ **Rétrogradée le 13/10 (§ H)** : la porte du chap. III est en bois (« Le guichet, qui de charme était »). Marcher dessus pieds nus pourrait donc donner une écharde, ce que l'auteur exclut pour le 3e (FAQ07-068). Le *Roman de la Rose* reste la source du vers, mais pas forcément celle des rangs.
+
 « dix stades **romains** » : jeu probable sur le *Roman*. Le chapitre III est la **porte du verger** qu'Oyseuse ouvre. Le chapitre XI est la **fontaine de Narcisse sous le pin**, là où se trouve justement le vers « Dieu sut se montrer favorable ».
 
 Contrôle contre toutes les réponses de l'auteur sur les 3e/11e (aucune ne contredit) :
@@ -156,3 +158,52 @@ Témoin : un anneau de 1 850 m tiré au hasard attrape au moins une jonction « 
 2. Éclaircir le lien 1 850 m pour le candidat 1 : chapelle Sainte-Anne (porte ? 3e ?) ; portes du bourg médiéval d'Avalon (maquette dans la chapelle de la tour).
 3. Ciel de l'enluminure 9 (P2), à relire avec la zone : piste « code universel = éléments chimiques ». Le loup donnerait le wolfram (W), l'arc-en-ciel l'iridium (Ir), l'étoile du matin le phosphore (P). Rien d'établi.
 4. Option : envoyer à l'auteur une capture vue du ciel du candidat 1 et le cheminement (règle FAQ07-078). Décision de Guilhem.
+
+---
+
+# H. Les 3e et 11e par le lore et la suite des énigmes (13/10, suite)
+
+Consigne de Guilhem : les 3e et 11e s'expliquent par la suite des énigmes et le lore du jeu, pas par des lieux-dits.
+
+## H1. Banc d'essai : ce que l'auteur dit des 3e et 11e (mots exacts)
+Toute lecture doit passer chacun de ces filtres.
+
+| Filtre | Réponse de l'auteur |
+|---|---|
+| Écharde | Pieds nus « sur la troisième » : non. « Par contre, sur le onzième, oui, c'est possible » (07-068). ⇒ le 3e n'est pas en bois, le 11e peut l'être. |
+| Marcher | « Il faudra marcher surtout sur l'une des deux » (06-247). |
+| Entre les deux | « Vous allez directement de la troisième à la onzième, mais ça va vous amener à passer par des étapes intermédiaires » (04-115). |
+| Autres rangs | Un 13e existe (« on aurait pu aller jusqu'au treizième ? Oui, tout à fait »), mais il « ne vous mènerait pas au bon endroit » (06-133). 8e et 16e : « incorrect » (FAQ8). |
+| Nature | Même nature, un seul de chaque (06-009, 06-216). Pas un chevalier (07-065). Pas de couleurs (07-244). |
+| Visibilité | Pas visibles sur Maps (rappel en 05-074). À « se voient-ils sur Maps ? des remparts ? » : « vous n'avez pas encore identifié ce qu'ils peuvent être » (06-227). ⇒ ce ne sont pas des objets qu'on regarde. |
+| Placement | Deux points à placer, un pour chacun (05-074, 07-063). « Toute la question, c'est de savoir quels sont ces 3e et 11e et comment les positionner par rapport à un point de départ » (07-120). « Ce que vous en faites avec la distance, le point de départ » (07-180). |
+| Enluminures | Visibles dessus ? « C'est l'une des clés » (05-093). L'enl. 11 aide à en placer « une partie » (07-239). « Tout est codé » (04-027). |
+| Lieu | L'ultime traversée mène là où ils « prennent tout leur sens » (05-196). |
+| Genre | Quand l'auteur parle de lui-même, il met le masculin (« quels sont ces troisième et onzième », « sur le onzième »). Il ne reprend le féminin que si la question l'emploie. |
+
+## H2. Lectures confrontées au banc d'essai
+| Lecture | Pour | Contre | Verdict |
+|---|---|---|---|
+| **Chapitres III et XI du *Roman de la Rose*** | vers « Dieu sut… » au chap. XI ; l'É7 cite le chap. XIII | la porte du chap. III est « de charme », donc en bois : écharde possible sur le 3e, contraire à 07-068 | **rétrogradée** |
+| **Passion : 3e titre *Ecce Homo*, 11e titre *Consummatum est*** (la suite des énigmes) | La tradition place *Ecce Homo* sur le **Lithostrotos, « le Pavé »** (Jn 19,13), un dallage de pierre : pas d'écharde. *Consummatum est* est dit **sur la croix**, en bois : écharde. Même nature (deux scènes de la Passion, deux titres). Les « étapes intermédiaires » sont les **stations du chemin de croix**. « Tombée par trois fois » = les trois chutes du Christ (stations 3, 7, 9). L'enl. 11 montre le **Golgotha (3 croix) et un chemin de pierres qui y monte** (07-239). Selon la tradition du chemin de croix, le prétoire est dans la **forteresse Antonia, une tour du rempart**, comme notre départ. | Il n'y a pas de 13e énigme, sauf à compter en **stations** : 3e = 1re chute (sur le pavé), 11e = crucifiement (bois), 13e = descente de croix (pas « le bon endroit »), pas de 16e. | **passe tous les filtres** ; meilleure lecture pour l'écharde et la « suite des énigmes » |
+| **Travaux d'Hercule** : 3 = biche de Cérynie, 11 = pommes d'or des Hespérides gardées par le dragon Ladon | Biche dans l'enl. 3. L'enl. 3 « n'aurait pas pu être placée ailleurs » (03-212) ; sa biche « ne pourrait pas être un cerf » (05-026) : la biche de Cérynie est une femelle aux bois d'or. Dragon dans l'enl. 11. Avalon = île des pommes = jardin des Hespérides (05-196). Un « 13e travail » existe dans la culture (06-133). Mythologie utile (02-288), pomme importante (02-117). Un joueur parle des « éléments des enluminures évoquant les travaux d'Hercule », sans démenti (07-221). Autres travaux repérables : hydre + crabe (enl. 4), taureau blanc (enl. 2), sanglier (enl. 12), juments (balance, enl. 6), lions (bandeau du haut). | « Marcher sur » et l'écharde s'appliquent mal à des travaux ; aucune règle de placement trouvée | **meilleure lecture pour les enluminures** |
+| **Apôtres** (ordre des évangiles) | Les livres des personnages de bord portent des chiffres : **II** (R1D, bâton) et **VI** (R5D, couteau = Barthélemy, 6e dans les trois évangiles synoptiques). Dans l'ordre de Marc ou de Matthieu, le 11e est Simon, à la scie (R6D) : du bois. Un 13e existe (Matthias ou Paul). | Le 3e est Jacques ou Jean selon la liste. R4D (X) et R6G (croix à anneau) portent des croix, pas des chiffres. L'auteur refuse de dire que ce sont des apôtres (03-007). Aucune règle de placement. | piste ouverte : les livres sont un code à part (03-255) |
+| **Pierres en croix de l'enl. 11** (2 × 11 pierres ; R en 5e et 11e ; croisement à la 6e) | « une partie » (07-239) ; le croisement ressemble à une « jonction des chemins » | ce sont des pierres, donc pas d'écharde sur le 11e ; les nombres 1, 3, √5 vont avec le cercle des pierres à symboles (07-035) | outil de placement possible, pas les 3e/11e eux-mêmes |
+
+## H3. Ce que ces lectures font de la distance
+Les deux lectures qui passent le mieux (Passion, Hercule) mettent le **3e au départ** et le **11e au bout**. Pour la Passion : le Pavé d'*Ecce Homo* = le rempart, et la croix = l'endroit final. Pour Hercule : Avalon = le jardin des pommes. Combinées avec 07-120 et 06-166 (« le chemin de rempart est un point de départ ; après, c'est l'astre glorieux ; c'est là que les 3e et 11e seront utiles »), elles donnent la lecture la plus simple : **l'endroit final est à 1 850 m ± 1 % du sommet de la tour**, dans un secteur éclairé le matin.
+
+- Sur cet anneau (1 832-1 868 m), **une seule jonction de chemins de la BD TOPO est visible depuis le sommet de la tour : Le Couvat** (45.43286, 6.05405), à 1 864 m, cap 77° (`scripts/visib_jonctions.out.txt`). Les autres jonctions à ±1 % (caps 141°, 145°, 239°) sont masquées par le relief. Témoin : un anneau au hasard contient une jonction « bois + ruisseau + sans bâtiment » dans 32 % des cas. Ce n'est donc pas une preuve, seulement le seul candidat qui reste sous cette lecture.
+- **La clairière de Muraillat (1 212 m) n'est pas expliquée par ces lectures.** Trois rapprochements ont été testés et écartés :
+  - **1 155,7 m = 5,00 × 231,25 m.** Si les rangs 3 et 11 sont espacés de 8 intervalles égaux (231,25 m chacun), Muraillat serait à 5 intervalles d'un point de la Rue du Rempart. Mais cette rue couvre toutes les distances entre 1 114 et 1 213 m de Muraillat. Ce n'est donc pas un signal.
+  - **La droite de l'É11 prolongée passe à ≈ 12 m de Muraillat.** Mais Muraillat a été choisie pour son cap (≈ 66°), qui est déjà celui de cette droite à 1° près : le raisonnement tourne en rond.
+  - **Le point à 1 850 m dans l'axe tour → Muraillat** (45.43598, 6.05233) tombe dans un hameau (bâtiments à 33 m). Rien n'y ressemble à un 11e.
+
+## H4. Statut et suite
+- Lecture de travail : **3e = *Ecce Homo* au départ (pierre), 11e = *Consummatum est* au bout (bois)**, avec les stations du chemin de croix comme étapes intermédiaires. Confiance **moyenne** : elle passe tous les filtres de la FAQ, mais elle n'a encore désigné aucun lieu exact.
+- La lecture « travaux d'Hercule » reste la meilleure pour les enluminures. Les deux peuvent se compléter : les titres pour placer, les enluminures pour confirmer.
+- **Muraillat perd sa place de candidat n° 1** sous ces lectures, car elle n'est pas à 1 850 m. Elle ne redeviendrait prioritaire que si une lecture des 3e/11e la place entre deux points distants de 1 850 m.
+- Prochaines actions :
+  1. Reprendre l'anneau 1 832-1 868 m avec tous les chemins (OSM, BD TOPO, traces LiDAR), et pas seulement les jonctions BD TOPO ; tester la visibilité de chacun depuis le sommet de la tour.
+  2. Examiner Le Couvat en détail : ruisseau à garder à gauche, roche qui barre le passage, bâtiment à 81 m.
+  3. Compter les maillons d'or (biche ≈ 4 au cou, dragon : 1 anneau à la griffe) et voir si un nombre donne un cap ou un rang.
