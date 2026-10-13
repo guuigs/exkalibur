@@ -287,3 +287,61 @@ Relevé sur les photos HD (`IMG_4337`, `4340`, `4343`, `4344`, `4363`) et la pla
   - station du chemin de croix : III colle, II et VI non ;
   - chiffres de la rose des vents de la carte (I = N … VIII = NO) : l'auteur dit qu'il existe « une aide » pour s'en servir (07-110). II = NE, III = E, VI = SO.
 - À faire : relire chaque livre à la loupe sur l'original (demande à Guilhem si la photo ne suffit pas), en priorité R6G et R6D pour un éventuel « XI ».
+
+---
+
+# K. Relevé de Guilhem sur la planche originale (13/10) et lecture « calendrier des apôtres »
+
+## K1. Relevé (fait, Guilhem, ordre de lecture)
+| Enl. | Panneau | Personnage | Livre |
+|---|---|---|---|
+| 1 | R1G | Pierre, clé à 3 dents | numéro non visible |
+| 2 | R1D | saint au bâton | **2** |
+| 3 | R2G | pas d'homme | — |
+| 4 | R2D | saint en blanc, longue croix, scène sous la neige | **1** |
+| 5 | R3G | saint qui porte une grande croix | **3** |
+| 6 | R3D | saint à l'objet rond | croix chrétienne avec un « C » au centre |
+| 7 | R4G | pape avec deux clés, Vierge Marie | pas de livre |
+| 8 | R4D | saint en jaune, gourde, pains | X avec un « J » ou un « P » au centre |
+| 9 | R5G | — | — |
+| 10 | R5D | Barthélemy (couteau) | **6** |
+| 11 | R6G | ermite à la lance, pieds nus | quatre « II » (2, 8 ou 11 ?) |
+| 12 | R6D | vieillard à la scie | **[I]** |
+
+## K2. Quel ordre donne ces numéros ? (`scripts` : test en ligne de commande, résultat ci-dessous)
+Pour chaque liste classique, on regarde si l'apôtre de rang *n* a bien l'attribut du personnage qui tient le livre *n*.
+
+| Ordre | Livres compatibles | Remarque |
+|---|---|---|
+| Matthieu 10, Luc 6, Actes 1, Credo, Canon romain | 2 ou 3 sur 6 | donnent aussi un deuxième Pierre (livre 1), alors que Pierre est en R1G |
+| Marc 3 | 3 sur 6 | 3 = Jean, imberbe : ne colle pas au porteur de croix barbu |
+| **Calendrier liturgique traditionnel (fêtes de janvier à décembre)** | **5 sur 6, et 6 sur 6 en intervertissant Philippe et Jacques (même fête)** | voir ci-dessous |
+
+Calendrier tridentin (en usage à l'époque de Bayard) : 1 Matthias (24 février) · 2-3 Philippe et Jacques le Mineur (1er mai) · 4 Pierre (29 juin) · 5 Jacques le Majeur (25 juillet) · **6 Barthélemy (24 août)** · 7 Matthieu (21 septembre) · 8-9 Simon et Jude (28 octobre) · **10 André (30 novembre)** · **11 Thomas (21 décembre)** · 12 Jean (27 décembre).
+
+Correspondances :
+- livre 1 = Matthias, dans la **scène sous la neige** (février) ;
+- livres 2 et 3 = Jacques le Mineur (bâton) et Philippe (croix), fêtés tous deux le 1er mai ;
+- livre 6 = Barthélemy (couteau), dans la **scène au soleil** (août) ;
+- livre X = André : le X est aussi sa croix, et l'épisode des pains (Jn 6) est le sien ;
+- quatre « II » lus 11 = **Thomas, dont l'attribut est la lance**, dans la **scène de nuit au ciel rouge** (solstice d'hiver).
+- Pierre (4) a un livre illisible, ce qui est compatible.
+- Restent inexpliqués : le livre « [I] » de R6D (si c'est Simon, on attendrait 8 ou 9 ; un X caché par la main donnerait IX) et la croix au « C » de R3D.
+
+## K3. Conséquences pour l'É12 (hypothèse forte, non validée)
+- **3e = Philippe et Jacques le Mineur, fêtés le 1er mai. 11e = Thomas, fêté le 21 décembre.** Le 11e est peint dans l'enluminure 11, ce qui colle avec 07-239 (« l'enluminure 11 aide à placer une partie »). Les 3e et 11e sont « visibles sur les enluminures » (05-093). L'ordre qui les définit (le calendrier) n'est pas celui qui définit le « numéro un » d'*Ultima cena* (04-051 : « non, et c'est une très bonne question »). « Directement de la 3e à la 11e, en passant par des étapes intermédiaires » (04-115) : les fêtes 4 à 10.
+- **Lien avec le « jour dernier »** : Bayard meurt le **30 avril 1524, veille de la fête de Philippe et Jacques**. « J'ai fait une dernière veille… l'endroit m'est apparu au matin » décrirait ainsi la nuit du 30 avril et le matin du 1er mai, jour du 3e.
+- Avec des dates, « l'astre glorieux » prend tout son sens (06-166 : « c'est l'astre glorieux qui vous indique où aller ; c'est là que les 3e et 11e seront utiles »). Caps du premier rayon vus du sommet, horizon réel (`scripts/apotres_soleil.out.txt`) :
+
+| Fête | Grégorien | Julien 1524 (+10 j) |
+|---|---|---|
+| 1er mai (3e) | 71,6° | **66,0°** |
+| 21 décembre (11e) | 147,2° | 146,5° |
+| 30 avril (veille, mort de Bayard) | 72,0° | 66,3° |
+
+  Pour comparaison : Muraillat est à 64,3°, Le Couvat à 76,2°, le pré A à 84,2°.
+- Premiers essais géométriques, **négatifs** :
+  - les points de crête où le soleil apparaît le 1er mai (11 à 17 km au NE) et le 21 décembre (2,9 km au SSE, 1 200 m d'altitude) sont à 11-16 km l'un de l'autre, pas à 1 850 m ;
+  - deux points à égale distance de la tour sur les deux rayons, séparés de 1 850 m (rayon 1 432 m en julien, 1 508 m en grégorien), ne tombent sur aucune jonction remarquable.
+- À trouver : ce que « dix stades romains séparaient » mesure exactement entre le 3e et le 11e une fois ceux-ci vus comme des fêtes, des apôtres ou des directions.
+- À vérifier sur l'original : la marque du livre de R6D (un « X » caché sous la main ?), et si les quatre « II » de R6G sont des « 11 » arabes ou des « II » romains.
