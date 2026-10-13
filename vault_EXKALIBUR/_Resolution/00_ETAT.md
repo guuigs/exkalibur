@@ -43,6 +43,8 @@ Tout est dans **`Enigme_12/solution.md`** (faits, règles de la FAQ, pistes viva
 
 **Livres des saints (relevé de Guilhem, § K du README)** : les numéros (1, 2, 3, 6, VIII = 4×II, X) suivent le **calendrier liturgique traditionnel des fêtes d'apôtres** (Matthias 1, Jacques le Mineur 2, Philippe 3, Barthélemy 6, Jude 8 = l'ermite à la lance, André 10 ; 6 livres sur 6, ex-aequo par ordre alphabétique ; le « I » de la Cène (R6D) relèverait de l'autre ordre, celui du « numéro un » d'*Ultima cena*) ; les scènes collent à la saison (neige en février, soleil en août, nuit au solstice). Hypothèse forte : **3e = Philippe et Jacques (1er mai, lendemain de la mort de Bayard), 11e = Thomas (21 décembre, non peint)**. Le mécanisme des « dix stades » reste à trouver.
 
+**Piste de lore (§ L du README)** : le texte de l'É12 suit la fin de l'Apocalypse, la Jérusalem céleste (alpha et oméga, « la gloire de Dieu l'éclaire », fleuve et arbre de vie, muraille aux 12 fondements portant les noms des 12 apôtres, ville mesurée en stades, arc-en-ciel d'émeraude de l'enl. 9). Les 3e/11e seraient donc des fondements, c'est-à-dire des apôtres. Essais géométriques sur les dates (crêtes, levers, triangle à 60°) négatifs.
+
 ## Numérotation des enluminures
 L'auteur les numérote dans l'ordre de lecture (R1G=1, R1D=2, R2G=3, R2D=4, R3G=5, R3D=6, R4G=7, R4D=8, R5G=9, R5D=10, R6G=11, R6D=12). Énigme N ≠ toujours enluminure N (FAQ02-096). Voir `03_Correspondance_illustrations.md`.
 
