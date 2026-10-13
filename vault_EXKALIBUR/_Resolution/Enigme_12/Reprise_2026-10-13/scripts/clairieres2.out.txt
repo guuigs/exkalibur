@@ -1,0 +1,14 @@
+-- az  39.2 d 1821 m  45.44179 6.04553  bois    3  bât   11  ruisseau BDT  228  Route à 1 chaussée/Sentier
+-- az  42.9 d 1888 m  45.44154 6.04724  bois  102  bât  125  ruisseau BDT  349  Sentier
+-- az  47.8 d 1903 m  45.44058 6.04886  bois    6  bât   57  ruisseau BDT  249  Chemin
+OK az  77.0 d 1864 m  45.43286 6.05405  bois    8  bât   81  ruisseau BDT  128  Chemin
+OK az  97.2 d 1887 m  45.42694 6.05477  bois    8  bât  205  ruisseau BDT  139  Chemin/Route empierrée/Sentier
+OK az 129.3 d 1809 m  45.41877 6.04873  bois   44  bât  403  ruisseau BDT   18  Chemin/Route empierrée
+OK az 129.9 d 1825 m  45.41855 6.04873  bois   67  bât  399  ruisseau BDT    3  Route empierrée/Sentier
+-- az 140.8 d 1834 m  45.41629 6.04563  bois  372  bât  251  ruisseau BDT  315  Chemin
+-- az 144.6 d 1862 m  45.41542 6.04461  bois  274  bât  304  ruisseau BDT  384  Chemin
+OK az 167.6 d 1892 m  45.41245 6.03600  bois   23  bât  394  ruisseau BDT  104  Route empierrée/Sentier
+-- az 189.2 d 1886 m  45.41233 6.02694  bois  107  bât  289  ruisseau BDT  202  Chemin
+-- az 239.0 d 1854 m  45.42050 6.01046  bois   26  bât   64  ruisseau BDT    4  Chemin/Route empierrée
+-- az 261.3 d 1801 m  45.42664 6.00802  bois    4  bât   42  ruisseau BDT  243  Chemin/Route à 1 chaussée
+-- az 289.5 d 1884 m  45.43473 6.00807  bois  200  bât   52  ruisseau BDT  302  Sentier

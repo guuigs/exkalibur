@@ -1,0 +1,13 @@
+boucle fissure               sol tour 399.7 m  cible 295.4 m  marge 24.0 m (>0 = masqué) au point (1389, 355.1) -> masqué
+pont Bretonnieres            sol tour 399.7 m  cible 296.5 m  marge 19.7 m (>0 = masqué) au point (1373, 362.8) -> masqué
+anneau az48                  sol tour 399.7 m  cible 408.5 m  marge -2.5 m (>0 = masqué) au point (1841, 407.8) -> VISIBLE
+anneau az52                  sol tour 399.7 m  cible 368.4 m  marge -1.3 m (>0 = masqué) au point (1841, 369.2) -> VISIBLE
+anneau az56                  sol tour 399.7 m  cible 292.3 m  marge 33.9 m (>0 = masqué) au point (1376, 362.7) -> masqué
+anneau az60                  sol tour 399.7 m  cible 326.6 m  marge 28.6 m (>0 = masqué) au point (1553, 373.3) -> masqué
+anneau az64                  sol tour 399.7 m  cible 432.9 m  marge -1.5 m (>0 = masqué) au point (1655, 432.6) -> VISIBLE
+anneau az68                  sol tour 399.7 m  cible 443.6 m  marge 1.0 m (>0 = masqué) au point (1720, 445.2) -> masqué
+anneau az72                  sol tour 399.7 m  cible 456.3 m  marge -1.0 m (>0 = masqué) au point (1692, 454.6) -> VISIBLE
+anneau az76                  sol tour 399.7 m  cible 476.1 m  marge -2.5 m (>0 = masqué) au point (1841, 475.1) -> VISIBLE
+anneau az80                  sol tour 399.7 m  cible 497.2 m  marge 2.0 m (>0 = masqué) au point (1794, 498.8) -> masqué
+anneau az84                  sol tour 399.7 m  cible 515.7 m  marge -2.1 m (>0 = masqué) au point (1841, 514.8) -> VISIBLE
+anneau az88                  sol tour 399.7 m  cible 528.2 m  marge 4.5 m (>0 = masqué) au point (1831, 533.3) -> masqué
