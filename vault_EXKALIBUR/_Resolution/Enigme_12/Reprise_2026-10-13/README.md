@@ -77,7 +77,7 @@ Confiance : **moyenne à haute** sur « Roman de la Rose = la clé ». **Moyenne
 
 ## 6. Prochaines actions proposées
 1. **Rendre le dépôt privé** avant d'y pousser ce dossier : décision de Guilhem.
-2. Sur le terrain ou en images fines : la traversée du Bréda à 1 850 m de la tour (cap 55-64°). Chercher une jonction de sentiers dans une clairière, un ruisseau à suivre en le gardant à gauche, et une grande roche mouillée qui barre le passage.
+2. En images fines (à distance) : la traversée du Bréda à 1 850 m de la tour (cap 55-64°). Chercher une jonction de sentiers dans une clairière, un ruisseau à suivre en le gardant à gauche, et une grande roche mouillée qui barre le passage.
 3. Refaire l'anneau depuis la Rue du Rempart et le château Bayard. Ajouter un **témoin au hasard** : à quelle fréquence un anneau de 1 850 m coupe-t-il un ruisseau en forêt avec une jonction de sentiers à moins de 30 m ?
 4. Décoder l'épée réelle : photos HD des deux faces, rose des vents du pommeau, triquetra, dragon.
 5. Option stratégique : soumettre à l'auteur le décodage « chapitres III/XI » avec une capture de la clairière candidate (validation+exkalibur@unsolvedhunts.com, une demande par mois au maximum hors phase finale). Décision de Guilhem.
@@ -127,7 +127,7 @@ Conséquence : **jour dernier = 30/04/1524 julien = 10/05 grégorien**. Statut :
 ## C. Épée (P3) : c'est une boussole
 - Fait (FAQ05-092, photos de l'Atelier Thibaud) : le pommeau octogonal porte **N, E, S, O** dans le sens horaire, N vers le bout du pommeau, en alternance avec des entrelacs, autour d'une spinelle entourée d'environ 50 rayons. FAQ01-155 : « l'épée est-elle une boussole ? → l'épée est capitale, à vous d'en déterminer le sens exact ». FAQ8 : la **face** de l'épée sur la planche compte.
 - La planche ne montre pas la face photographiée (croix celtique + « ARTHURUS… » sur le ricasso, triquetra sur la garde). Elle montre l'autre face, avec un entrelacs doré. Sur cette face, E et O du pommeau sont inversés.
-- La boussole de la carte remplace les directions par **I à VIII** (I = N, III = E, VII = O, VIII = NO) ; « ce qui est vraiment important, c'est le remplacement des directions par des chiffres romains » (01-117). Lecture proposée : « Tout commence et tout s'achève » = I … VIII. « Dix pas au nord » = I (« premier jour »). **« Jour dernier » = VIII = nord-ouest (315°)**, à moins qu'il ne s'agisse de l'azimut du soleil le 10 mai. Statut : à tester sur place.
+- La boussole de la carte remplace les directions par **I à VIII** (I = N, III = E, VII = O, VIII = NO) ; « ce qui est vraiment important, c'est le remplacement des directions par des chiffres romains » (01-117). Lecture proposée : « Tout commence et tout s'achève » = I … VIII. « Dix pas au nord » = I (« premier jour »). **« Jour dernier » = VIII = nord-ouest (315°)**, à moins qu'il ne s'agisse de l'azimut du soleil le 10 mai. Statut : à trancher à distance (FAQ, planche).
 - « Tombée par trois fois, revenue là où elle n'avait jamais cessé d'être » : deux lectures possibles. Soit Bedivere et la Dame du Lac (trois fois, puis retour au lac), soit l'adoubement de Marignan, où Bayard remet son épée au fourreau en lui parlant. Non tranché.
 
 ## D. La fissure de la lame (SVG de Guilhem)
@@ -150,11 +150,10 @@ Horizon calculé depuis le sommet de la tour (`scripts/horizon.py`) ; premier ra
 Témoin : un anneau de 1 850 m tiré au hasard attrape au moins une jonction « bois + ruisseau cartographié + sans bâtiment » dans 32 % des cas (`clairieres.py`, ancien critère). La distance seule ne prouve donc rien. **Ce qui distingue le candidat 1, c'est la suite clairière → ruisseau à gauche → ravin rocheux, alignée sur le soleil du jour dernier.**
 
 ## G. Prochaines actions
-1. **Sur place, candidat 1** :
+1. ~~Sur place~~ (**caduc : aucune vérification sur place**, règle de Guilhem) — parcours à décrire à distance pour le candidat 1 :
    - partir de la jonction (45.43360, 6.04491) et suivre le ruisseau en le gardant à gauche vers le NE, jusqu'à une roche qui barre le passage ;
    - de là, 10 pas N, puis 10 pas E, jusqu'à une souche où l'on peut s'asseoir ;
    - 8 pas vers VIII / NO (315°), et en variante vers 66,6°.
-   - Prendre en photo la vue depuis le sommet de la tour au cap 66°.
 2. Éclaircir le lien 1 850 m pour le candidat 1 : chapelle Sainte-Anne (porte ? 3e ?) ; portes du bourg médiéval d'Avalon (maquette dans la chapelle de la tour).
 3. Ciel de l'enluminure 9 (P2), à relire avec la zone : piste « code universel = éléments chimiques ». Le loup donnerait le wolfram (W), l'arc-en-ciel l'iridium (Ir), l'étoile du matin le phosphore (P). Rien d'établi.
 4. Option : envoyer à l'auteur une capture vue du ciel du candidat 1 et le cheminement (règle FAQ07-078). Décision de Guilhem.
@@ -262,7 +261,7 @@ Calcul `OBST=mnt` (`viewshed_mns.py` → `vis_polar_mnt.npz`), puis `ring_all.py
 | Route du Crêt des Moines (45.43524, 6.05272) | 1 837 m / 67,4° | Carrefour de routes goudronnées, maisons à 84 m | écarté (pas un chemin) |
 | Jonction sud (45.41246, 6.03601) | 1 868 m / 167,9° (limite) | Piste forestière et sentier **en forêt dense**, sans clairière. Ruisseau en ravin à ≈ 100 m. Plein sud. | faible (contredit « restée clairière », 03-274) |
 
-**Bilan de l'anneau sous la lecture Passion** (endroit final à 1 850 m ± 1 % du donjon) : la zone **Le Couvat – pré A – ravin du Tapon** (caps 75-84°, 1 847-1 857 m) est la seule à l'est qui soit visible, strictement (pré A) ou largement (Le Couvat). Le ravin rocheux du Tapon (eau à 72-130 m) pourrait porter la « grande roche ». Mais aucune jonction de cette zone n'a à la fois un ruisseau tout proche et des maisons à distance. **Rien n'est démontré.** La vérification ne peut se faire que sur place (ruisseau non cartographié, roche, souche).
+**Bilan de l'anneau sous la lecture Passion** (endroit final à 1 850 m ± 1 % du donjon) : la zone **Le Couvat – pré A – ravin du Tapon** (caps 75-84°, 1 847-1 857 m) est la seule à l'est qui soit visible, strictement (pré A) ou largement (Le Couvat). Le ravin rocheux du Tapon (eau à 72-130 m) pourrait porter la « grande roche ». Mais aucune jonction de cette zone n'a à la fois un ruisseau tout proche et des maisons à distance. **Rien n'est démontré.** Reste à trouver à distance le ruisseau, la roche et la souche (LiDAR fin, orthophotos).
 
 ---
 
@@ -433,10 +432,10 @@ Calcul (`scripts/jerusalem_gabarit.py`) : côté de la ville **1 795 m** ; 3e po
 - Pas en forêt communale (bord à 550 m). **Cadastre** (Parcellaire Express, WFS IGN) : le point prédit de la 3e porte et le bout de la route du Couvat sont **hors parcelle, donc dans le domaine public non cadastré** (voie communale) ; les parcelles riveraines commencent à 2-5 m. La fourche du chemin (45.432881, 6.054064) tombe dans la parcelle 0A 312 (3 015 m²), peut-être par imprécision du tracé IGN.
 - Visibilité depuis le sommet : **oui au sens large** (relief seul ; le bout de route est entièrement dégagé). **Non au sens strict** : des arbres de ≈ 24 m bordent la jonction côté tour (§ I3).
 
-## M4. À faire
+## M4. À faire (tout à distance : aucune vérification sur place)
 1. ~~Cadastre~~ : bout de route public (fait). Reste à savoir si le chemin qui part vers le SO et l'E est un chemin rural public.
 2. Chercher au LiDAR fin et à l'orthophoto un ruisseau qu'on suit en le gardant à gauche depuis la jonction, et une grande roche mouillée qui barre le passage. Pistes : le Tapon vers l'aval (rive droite), ou un ru non cartographié côté est.
 3. Si une roche est repérée : 10 pas N, 10 pas E, chercher la « souche-majesté » (on peut s'y asseoir), puis 8 pas vers le « jour dernier ».
-4. Sur place, regarder depuis le sommet du donjon si le bout de route du Couvat est visible à l'œil nu (cap 76°).
+4. Visibilité : affiner le modèle d'arbres (MNS) au bout de la route du Couvat pour trancher « dans le champ de vision ».
 
 - Réseau d'écoulement calculé sur le MNT rééchantillonné (`scripts/talwegs.py`) : trop bruité (lignes droites artificielles), inexploitable. Seul le ravin du Tapon ressort. Il faudrait les dalles LiDAR HD brutes (0,5 m) pour repérer un ru non cartographié.

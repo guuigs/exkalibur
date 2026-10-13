@@ -7,6 +7,7 @@
 **Phase :** énigmes 1 à 11 validées ; **énigme 12 non résolue**.
 
 ## Règles de travail (Guilhem)
+- **AUCUNE vérification sur place, jamais** (rappelé deux fois par Guilhem). Tout doit se résoudre de chez soi : données IGN/OSM, LiDAR, orthophotos, textes, planche, FAQ (FAQ04-114 : « vous pouvez tout trouver de chez vous » ; FAQ07-078 : la solution s'envoie avec des captures vues du ciel et la description du parcours). Ne jamais proposer d'« aller voir ».
 - Les notes existantes de Guilhem sont en **lecture seule**. Tout le travail va dans `_Resolution/`, sauf `../00 - Solutions validées.md`.
 - N'invente jamais le contenu d'une énigme. Aucune action hors vault, web et le dépôt GitHub `guuigs/exkalibur` sans accord. Discord : **lecture seule**.
 - Fait / hypothèse / intuition, avec une confiance. « Pas encore trouvé » plutôt qu'une zone séduisante. Une zone ne s'annonce qu'avec un décompte et un contrôle indépendant.
@@ -35,7 +36,7 @@ Tout est dans **`Enigme_12/solution.md`** (faits, règles de la FAQ, pistes viva
 
 **Reprise à zéro du 13/10/2026 → `Enigme_12/Reprise_2026-10-13/README.md`.** « Dieu sut se montrer favorable » est un vers du *Roman de la Rose* (trad. Marteau, Gutenberg 16816, chap. XI). L'É7 cite le chap. XIII du même livre. Hypothèse forte : 3e/11e = chap. III (porte du verger) et XI (fontaine de Narcisse sous le pin). Pas encore de pile-poil. ⚠️ Le dépôt GitHub est public.
 
-**Suite du 13/10 (plan d'attaque)** : narrateur = Bayard (hypothèse forte) → jour dernier 10/05 grégorien ; épée = boussole (pommeau N-E-S-O) ; meilleur candidat clairière = **Muraillat / La Planta (45.43360, 6.04491)**, visible depuis la tour, cap 66° = premier rayon du 10 mai, ruisseau à gauche → ravin rocheux. À vérifier sur place. Détails : `Enigme_12/Reprise_2026-10-13/README.md` § « Suite ».
+**Suite du 13/10 (plan d'attaque)** : narrateur = Bayard (hypothèse forte) → jour dernier 10/05 grégorien ; épée = boussole (pommeau N-E-S-O) ; meilleur candidat clairière = **Muraillat / La Planta (45.43360, 6.04491)**, visible depuis la tour, cap 66° = premier rayon du 10 mai, ruisseau à gauche → ravin rocheux. (Remplacé depuis par le gabarit Jérusalem céleste, voir plus bas.) Détails : `Enigme_12/Reprise_2026-10-13/README.md` § « Suite ».
 
 **Suite du 13/10 (3e/11e par le lore, § H du même README)** : les chapitres III/XI du *Roman de la Rose* sont rétrogradés (la porte du chap. III est en bois, alors que le 3e ne donne pas d'écharde, FAQ07-068). Lecture qui passe tous les filtres de la FAQ : **3e = *Ecce Homo* (le Pavé de pierre, au départ), 11e = *Consummatum est* (la croix en bois)**, avec les stations du chemin de croix comme « étapes intermédiaires ». Les travaux d'Hercule (biche = enl. 3, dragon des Hespérides = enl. 11) restent la meilleure lecture des enluminures. Conséquence : l'endroit final serait à 1 850 m ± 1 % de la tour. Muraillat (1 212 m) n'est plus expliquée ; seul candidat visible sur l'anneau : **Le Couvat (1 864 m, cap 77°)**, sans preuve.
 
