@@ -207,3 +207,48 @@ Les deux lectures qui passent le mieux (Passion, Hercule) mettent le **3e au dé
   1. Reprendre l'anneau 1 832-1 868 m avec tous les chemins (OSM, BD TOPO, traces LiDAR), et pas seulement les jonctions BD TOPO ; tester la visibilité de chacun depuis le sommet de la tour.
   2. Examiner Le Couvat en détail : ruisseau à garder à gauche, roche qui barre le passage, bâtiment à 81 m.
   3. Compter les maillons d'or (biche ≈ 4 au cou, dragon : 1 anneau à la griffe) et voir si un nombre donne un cap ou un rang.
+
+---
+
+# I. Visibilité réelle depuis le sommet du donjon (13/10, soir)
+
+## I1. Correction de position (fait)
+- Le point utilisé jusqu'ici pour « la tour » (45.429083, 6.030808) est **à 27 m du donjon**. Le bâti IGN donne « Tour, donjon », 34,5 m de haut, centroïde **45.428888, 6.031015**. Le MNS LiDAR HD place le sommet à **437,6 m** (sol 408,8 m) en 45.428899, 6.031011.
+- Toutes les distances sont désormais prises depuis ce centroïde. Avec une tolérance de ±18,5 m sur 1 850 m, l'écart compte.
+- Nouvelles valeurs : Muraillat **1 207 m / 64,3°** ; jonction du Couvat **1 856 m / 76,2°** ; cascade de la Burge **2 031 m / 57,0°**.
+
+## I2. Méthode
+- Modèles IGN téléchargés par WMS-R sur une grille de 2 m : RGE ALTI (sol) et **MNS LiDAR HD (sol + arbres + bâtiments)**. Emprise 45.404-45.454 N, 5.998-6.064 E. Scripts : `scripts/viewshed_mns.py` (rayons tous les 0,05°, pas de 1 m), `ring_all.py` (toutes les jonctions BD TOPO + OSM), `visible_patches.py`, `eau_visible.py`, `viewshed_map.py`. Les données (≈ 60 Mo) restent hors dépôt.
+- Œil à 1 m sous le point le plus haut du MNS. Le résultat ne change pas entre −4 m et +2 m.
+- Deux niveaux de visibilité, parce que l'auteur dit seulement « l'endroit est **dans le champ de vision** » (05-155), et non « on en voit le sol » :
+  - **stricte** : on voit le sol de l'endroit par-dessus les arbres ;
+  - **large** : seul le relief est pris en compte.
+
+## I3. Résultats (visibilité stricte)
+- Dans l'anneau 1 832-1 868 m, seulement **6 %** du sol est visible. Vers l'est, la forêt et la crête du Bréda masquent presque tout.
+- **Muraillat, Le Couvat, la cascade de la Burge et le pont des Bretonnières ne sont pas visibles.**
+  - Muraillat : le relief seul laisse passer de justesse (−0,5 m), mais des arbres de 12 à 32 m entre 918 et 1 202 m coupent la vue.
+  - Le Couvat : le relief masque déjà de 0,3 m, et des arbres de 24 m se dressent juste devant la jonction.
+- **Seule zone visible à l'est sur l'anneau : le pré A**, centré en 45.43057, 6.05462. Il est à 1 857 m, cap 84,2°, sous la ligne à haute tension, en forêt communale de Saint-Maximin. Son sol est dégagé sur ≈ 2 300 m². Un chemin passe à 17-31 m, le ruisseau de Tapon (intermittent) à 72-81 m, dans un ravin. Mais la jonction la plus proche (45.43103, 6.05345) n'est pas visible et touche une grange. C'est un candidat faible.
+- Les autres jonctions visibles sur l'anneau sont à l'ouest et au nord : centre de Pontcharra (bâtiments à 3-60 m) et plaine de l'Isère (champs, fossé du Coisetan). Pas de clairière ni de roche.
+- Le relief + la forêt font que **très peu de clairières en forêt sont réellement visibles** depuis le sommet. Sous la visibilité stricte, aucun candidat ne réunit à la fois clairière en forêt, jonction, ruisseau, roche possible et absence de bâti.
+- Eaux visibles depuis le sommet : petits ruisseaux du village à l'est (450-750 m) et le Rebouchet (116°, 650 m) ; le Bréda en plaine au nord-ouest (600-1 200 m) ; le Coisetan au nord (2,2 km) ; le canal de Renevier à l'ouest.
+
+## I4. Conséquence
+- Si « dans le champ de vision » veut dire « on voit le sol », **les candidats de l'est (Muraillat, Couvat, Bréda) tombent**. Le seul point visible sur l'anneau est le pré A, sans jonction convaincante.
+- Si l'expression veut seulement dire « dans la direction regardée, sans crête devant », Muraillat (relief −0,5 m) et Le Couvat (+0,3 m) restent à la limite.
+- Dans les deux cas, **la visibilité ne suffit pas à désigner un lieu**. Il faut d'abord comprendre les 3e/11e.
+
+## I5. Maillons d'or (décompte provisoire, photos HD)
+| Élément | Enluminure | Décompte |
+|---|---|---|
+| Lion noir (bandeau du haut) | 1-2 | ≈ 4 maillons |
+| Biche | 3 | ≈ 4 maillons au cou (« il n'y en a pas qu'autour du cou », 06-176) |
+| Garde de l'épée | 2-3 | 2 maillons et une plaque gravée |
+| Soldat romain | 9 | 1 maillon tenu en main, plus une manchette dorée en 4 éléments |
+| Dragon | 11 | **2 anneaux entrelacés** à la patte |
+| Couronne (bordure du bas) | 11-12 | bandeau de ≈ 5-6 maillons |
+
+Aucun usage trouvé à ce stade. À tester : chiffres de la boussole I-VIII, nombres de pas, rangs.
+
+Images : `images/visibilite_sommet_est_mns.jpg` (rouge = sol visible depuis le sommet, bleu = anneau 1 850 m ± 1 %, vert = couvert > 4 m) ; `images/pre_A_cap84_visible.jpg` (magenta = sol visible ; orthophoto IGN).
