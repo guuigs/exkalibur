@@ -345,3 +345,21 @@ Correspondances :
   - deux points à égale distance de la tour sur les deux rayons, séparés de 1 850 m (rayon 1 432 m en julien, 1 508 m en grégorien), ne tombent sur aucune jonction remarquable.
 - À trouver : ce que « dix stades romains séparaient » mesure exactement entre le 3e et le 11e une fois ceux-ci vus comme des fêtes, des apôtres ou des directions.
 - À vérifier sur l'original : la marque du livre de R6D (un « X » caché sous la main ?), et si les quatre « II » de R6G sont des « 11 » arabes ou des « II » romains.
+
+## K4. Correction de Guilhem (13/10) et nouveau décompte
+- **R6G** porte quatre « II » romains : en lecture additive, **VIII**. **R6D** ne porte qu'un **« I »**, sans rien de caché sous la main.
+- Nouveau test des ordres sur les 6 livres chiffrés (p2 = II, p4 = I, p5 = III, p10 = VI, p11 = VIII, p8 = X si c'est un chiffre). Pierre étant déjà en p1, un ordre qui le remet ailleurs compte comme une erreur.
+
+| Ordre | Livres compatibles | 3e | 11e |
+|---|---|---|---|
+| Matthieu 10 | 2/6 | Jacques le Majeur | Simon |
+| Marc 3 | 3/6 | Jean | Simon |
+| Luc 6 | 2/6 | Jacques le Majeur | Jude |
+| Actes 1, Canon, Litanie, Credo, Légende dorée | 0 à 1/6 | — | — |
+| Calendrier tridentin, ex-aequo dans l'ordre Philippe puis Jacques | 3/6 | Jacques le Mineur | Thomas |
+| **Calendrier tridentin, ex-aequo par ordre alphabétique (Jacques avant Philippe, Jude avant Simon)** | **6/6** | **Philippe** | **Thomas** |
+
+- Lecture complète : I = Matthias (24 février, scène sous la neige) ; II = Jacques le Mineur (bâton) ; III = Philippe (porte la croix) ; VI = Barthélemy (couteau) ; **VIII = Jude (l'ermite à la lance ou hallebarde de l'enl. 11)** ; X = André (pains, croix en X).
+- **Le 11e (Thomas, 21 décembre) n'est pas peint.** L'enluminure 11 fixe le compte (VIII) au lieu de montrer le 11e : « elle aide à placer une partie » (07-239).
+- Le « I » de R6D (vieillard à la scie) sort de cet ordre. Or **R6D est le panneau de la Cène**, c'est-à-dire d'*Ultima cena*. L'auteur a confirmé que « l'ordre qui définit le numéro un d'*Ultima cena* » n'est pas celui des 3e et 11e (04-051, « très bonne question »). Ce « I » pourrait être ce « numéro un », dans l'autre ordre.
+- Ces corrections ne changent pas l'identification : **3e = Philippe (1er mai, lendemain de la mort de Bayard), 11e = Thomas (21 décembre)**. Elle est même mieux étayée (6/6 contre 3/6 au mieux pour les évangiles).
