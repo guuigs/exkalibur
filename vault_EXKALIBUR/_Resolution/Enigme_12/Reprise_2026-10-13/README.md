@@ -263,3 +263,27 @@ Calcul `OBST=mnt` (`viewshed_mns.py` → `vis_polar_mnt.npz`), puis `ring_all.py
 | Jonction sud (45.41246, 6.03601) | 1 868 m / 167,9° (limite) | Piste forestière et sentier **en forêt dense**, sans clairière. Ruisseau en ravin à ≈ 100 m. Plein sud. | faible (contredit « restée clairière », 03-274) |
 
 **Bilan de l'anneau sous la lecture Passion** (endroit final à 1 850 m ± 1 % du donjon) : la zone **Le Couvat – pré A – ravin du Tapon** (caps 75-84°, 1 847-1 857 m) est la seule à l'est qui soit visible, strictement (pré A) ou largement (Le Couvat). Le ravin rocheux du Tapon (eau à 72-130 m) pourrait porter la « grande roche ». Mais aucune jonction de cette zone n'a à la fois un ruisseau tout proche et des maisons à distance. **Rien n'est démontré.** La vérification ne peut se faire que sur place (ruisseau non cartographié, roche, souche).
+
+---
+
+# J. Les livres des personnages de bord portent des chiffres romains (13/10, soir)
+Relevé sur les photos HD (`IMG_4337`, `4340`, `4343`, `4344`, `4363`) et la planche entière (`IMG_4334`).
+
+| Panneau (enl.) | Personnage | Marque sur le livre |
+|---|---|---|
+| R1G (1) | saint à la clé (Pierre) | livre vu de tranche, illisible |
+| R1D (2) | saint au bâton et au chapeau | **II** |
+| R2D (4) | saint en blanc, longue croix | livre vu de tranche |
+| **R3G (5)** | **saint qui porte une grande croix latine sur l'épaule, penché** | **III** |
+| R4D (8) | saint en jaune, gourde, corbeille de pains | X avec un anneau central (croix de saint André ?) |
+| R5D (10) | saint au couteau (Barthélemy) | **VI** |
+| R6G (11) | ermite à la lance, pieds nus | motif de quatre « II » autour d'un anneau |
+| R6D (12) | vieillard à la scie (Simon) | marque en T, le bas est caché par la main |
+
+- FAQ04-011 parle des « 10 livres » : deux restent à trouver (R3D et R4G n'en montrent pas de lisible).
+- **Un « III » est visible sur la planche**, ce qui rejoint 05-093 (« les 3e et 11e visibles sur les enluminures ? C'est l'une des clés »). Il est tenu par un personnage qui porte la croix et se penche. C'est l'image même de la **3e station (première chute)**, ce qui va dans le sens de la lecture Passion du § H. Aucun « XI » n'est lisible pour l'instant.
+- Lectures possibles des chiffres, aucune validée :
+  - rang d'apôtre : Barthélemy = 6e dans les trois évangiles synoptiques, mais le porteur de croix ne colle à aucun 3e de liste ;
+  - station du chemin de croix : III colle, II et VI non ;
+  - chiffres de la rose des vents de la carte (I = N … VIII = NO) : l'auteur dit qu'il existe « une aide » pour s'en servir (07-110). II = NE, III = E, VI = SO.
+- À faire : relire chaque livre à la loupe sur l'original (demande à Guilhem si la photo ne suffit pas), en priorité R6G et R6D pour un éventuel « XI ».
