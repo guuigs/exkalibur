@@ -439,3 +439,13 @@ Calcul (`scripts/jerusalem_gabarit.py`) : côté de la ville **1 795 m** ; 3e po
 4. Visibilité : affiner le modèle d'arbres (MNS) au bout de la route du Couvat pour trancher « dans le champ de vision ».
 
 - Réseau d'écoulement calculé sur le MNT rééchantillonné (`scripts/talwegs.py`) : trop bruité (lignes droites artificielles), inexploitable. Seul le ravin du Tapon ressort. Il faudrait les dalles LiDAR HD brutes (0,5 m) pour repérer un ru non cartographié.
+
+## M5. Eaux autour de la 3e porte, au LiDAR HD 0,5 m (à distance)
+Scripts `scripts/get05.py` (MNT et MNS LiDAR HD à 0,5 m, WMS-R IGN) et `scripts/lidar05.py` (ombrage, talwegs D8 sur MNT lissé, blocs). Images `images/porte3_lidar05.jpg` et `images/porte3_ecoulements.jpg`.
+- **Une ligne d'écoulement non cartographiée passe à 14 m de la 3e porte** (bassin ≈ 5 ha).
+  - **Amont** (vert) : elle vient du sud par le **couloir de prés** entre deux bois qui relie la jonction au **pré A**, sous la ligne haute tension. Le pré A est la seule zone de l'anneau visible au sens strict depuis la tour (§ I3).
+  - **Aval** (cyan) : elle longe la route, traverse le hameau du Couvat, puis file à l'ouest jusqu'à un **ressaut rocheux (pente de 50 %)** vers 45.4345, 6.0484, à ≈ 600 m. C'est la descente du ravin du Tapon vers les gorges du Bréda (le « ravin rocheux » déjà noté près de Muraillat).
+  - Cet aval passe par des maisons et suit un fossé de route. **Il ne colle pas** à « eaux enchantées » ni à « coffre loin de tout bâtiment ».
+- Si la clairière est le couloir de prés, l'eau qui y descend du sud vers la jonction serait le ruisseau. On la suit en la gardant à gauche, donc en remontant vers le sud par la rive est.
+- La FAQ dit elle-même que les eaux enchantées se reconnaissent sur place (06-060). À distance, on ne peut que **décrire** le parcours, ce que l'auteur accepte (07-078 : captures vues du ciel de la clairière et description du chemin suivi).
+- Blocs repérés au LiDAR (bosses de 1,5 à 2,7 m, à moins de 10 m d'un talweg) : surtout dans le ravin du Tapon, à 250-460 m à l'ouest de la porte. Aucun gros bloc dans le couloir de prés au sud de la jonction (`lidar05.py`, sortie console).
