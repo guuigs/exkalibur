@@ -252,3 +252,14 @@ Les deux lectures qui passent le mieux (Passion, Hercule) mettent le **3e au dé
 Aucun usage trouvé à ce stade. À tester : chiffres de la boussole I-VIII, nombres de pas, rangs.
 
 Images : `images/visibilite_sommet_est_mns.jpg` (rouge = sol visible depuis le sommet, bleu = anneau 1 850 m ± 1 %, vert = couvert > 4 m) ; `images/pre_A_cap84_visible.jpg` (magenta = sol visible ; orthophoto IGN).
+
+## I6. Visibilité au sens large (relief seul) sur l'anneau ±1 %, moitié est
+Calcul `OBST=mnt` (`viewshed_mns.py` → `vis_polar_mnt.npz`), puis `ring_all.py`. Depuis le donjon, seules trois jonctions de l'anneau 1 832-1 868 m sont hors du masque du relief côté est et sud :
+
+| Jonction | Distance / cap | Ce qu'on voit sur l'orthophoto et le LiDAR | Verdict |
+|---|---|---|---|
+| **Le Couvat** (45.43306, 6.05390 et 45.43288, 6.05406) | 1 847-1 855 m / 75,5-76,2° | Fin de route, puis fourche de chemins sur une croupe NE-SO. Pâture en bordure du hameau (maisons à 64-77 m). **Pas de ruisseau à la jonction** : le Tapon coule dans son ravin à 130 m. | faible |
+| Route du Crêt des Moines (45.43524, 6.05272) | 1 837 m / 67,4° | Carrefour de routes goudronnées, maisons à 84 m | écarté (pas un chemin) |
+| Jonction sud (45.41246, 6.03601) | 1 868 m / 167,9° (limite) | Piste forestière et sentier **en forêt dense**, sans clairière. Ruisseau en ravin à ≈ 100 m. Plein sud. | faible (contredit « restée clairière », 03-274) |
+
+**Bilan de l'anneau sous la lecture Passion** (endroit final à 1 850 m ± 1 % du donjon) : la zone **Le Couvat – pré A – ravin du Tapon** (caps 75-84°, 1 847-1 857 m) est la seule à l'est qui soit visible, strictement (pré A) ou largement (Le Couvat). Le ravin rocheux du Tapon (eau à 72-130 m) pourrait porter la « grande roche ». Mais aucune jonction de cette zone n'a à la fois un ruisseau tout proche et des maisons à distance. **Rien n'est démontré.** La vérification ne peut se faire que sur place (ruisseau non cartographié, roche, souche).

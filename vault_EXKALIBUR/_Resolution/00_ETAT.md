@@ -39,6 +39,8 @@ Tout est dans **`Enigme_12/solution.md`** (faits, règles de la FAQ, pistes viva
 
 **Suite du 13/10 (3e/11e par le lore, § H du même README)** : les chapitres III/XI du *Roman de la Rose* sont rétrogradés (la porte du chap. III est en bois, alors que le 3e ne donne pas d'écharde, FAQ07-068). Lecture qui passe tous les filtres de la FAQ : **3e = *Ecce Homo* (le Pavé de pierre, au départ), 11e = *Consummatum est* (la croix en bois)**, avec les stations du chemin de croix comme « étapes intermédiaires ». Les travaux d'Hercule (biche = enl. 3, dragon des Hespérides = enl. 11) restent la meilleure lecture des enluminures. Conséquence : l'endroit final serait à 1 850 m ± 1 % de la tour. Muraillat (1 212 m) n'est plus expliquée ; seul candidat visible sur l'anneau : **Le Couvat (1 864 m, cap 77°)**, sans preuve.
 
+**Visibilité réelle (§ I du README, 13/10 soir)** : le point « tour » était décalé de 27 m. Le vrai donjon est en **45.428888, 6.031015** (BD TOPO, 34,5 m). Avec le MNS LiDAR HD (arbres compris), **Muraillat, Le Couvat, la Burge et le Bréda ne sont pas visibles** depuis le sommet. Sur l'anneau à ±1 % côté est, seul le pré A (cap 84°, 1 857 m, sous la ligne HT) l'est. Avec le relief seul, Le Couvat (1 847-1 855 m, cap 75-76°) redevient visible. Zone à vérifier sur place : Le Couvat – pré A – ravin du Tapon. Rien n'est démontré.
+
 ## Numérotation des enluminures
 L'auteur les numérote dans l'ordre de lecture (R1G=1, R1D=2, R2G=3, R2D=4, R3G=5, R3D=6, R4G=7, R4D=8, R5G=9, R5D=10, R6G=11, R6D=12). Énigme N ≠ toujours enluminure N (FAQ02-096). Voir `03_Correspondance_illustrations.md`.
 

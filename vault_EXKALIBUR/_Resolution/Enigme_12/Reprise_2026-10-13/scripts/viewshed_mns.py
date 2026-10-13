@@ -7,6 +7,7 @@ DATA = sys.argv[1] if len(sys.argv) > 1 else '.'
 M = json.load(open(os.path.join(DATA, 'dem2m.json')))
 DTM = np.load(os.path.join(DATA, 'dem2m.npy')).astype(np.float64)
 MNS = np.load(os.path.join(DATA, 'mns2m.npy')).astype(np.float64)
+OBS = MNS if os.environ.get('OBST', 'mns') == 'mns' else DTM   # obstacles : MNS (arbres) ou MNT (relief seul)
 LA1, LO0, DLAT, DLON = M['LA1'], M['LO0'], M['DLAT'], M['DLON']
 TA = (45.428888, 6.031015)   # centroïde BD TOPO « Tour, donjon » (h 34,5 m)
 KX = math.cos(math.radians(TA[0])) * 111320.0; KY = 111132.0
@@ -36,14 +37,14 @@ for a0 in range(0, AZ.size, 400):
     x = R[None, :] * np.sin(az); y = R[None, :] * np.cos(az)
     lat = top_lat + y / KY; lon = top_lon + x / KX
     fi, fj = idx(lat, lon)
-    s = bilin(MNS, fi, fj) - Rc; g = bilin(DTM, fi, fj) - Rc
+    s = bilin(OBS, fi, fj) - Rc; g = bilin(DTM, fi, fj) - Rc
     o = (s - z0) / R; o[:, R < 6] = -np.inf          # le parapet de la tour n'est pas un obstacle
     # obstacle max jusqu'à r-3 m (on exclut la cible elle-même)
     O = np.maximum.accumulate(o, axis=1); O = np.concatenate([np.full((o.shape[0], 3), -np.inf), O[:, :-3]], axis=1)
     VIS0[a0:a0 + 400] = ((g + 0.3 - z0) / R >= O)
     VIS17[a0:a0 + 400] = ((g + 1.7 - z0) / R >= O)
     CAN[a0:a0 + 400] = (s - g)
-np.savez_compressed(os.path.join(DATA, 'vis_polar.npz'), VIS0=VIS0, VIS17=VIS17, CAN=CAN, AZ=AZ, R=R, top=np.array([top_lat, top_lon, z0]))
+np.savez_compressed(os.path.join(DATA, os.environ.get('OUT', 'vis_polar.npz')), VIS0=VIS0, VIS17=VIS17, CAN=CAN, AZ=AZ, R=R, top=np.array([top_lat, top_lon, z0]))
 for d0, d1 in [(0, 500), (500, 1000), (1000, 1500), (1500, 1832), (1832, 1868), (1868, 2300)]:
     m = (R >= d0) & (R < d1)
     print('%4d-%4d m : sol visible %.2f %%  (personne 1,7 m : %.2f %%)' % (d0, d1, 100 * VIS0[:, m].mean(), 100 * VIS17[:, m].mean()))
