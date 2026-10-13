@@ -363,3 +363,40 @@ Correspondances :
 - **Le 11e (Thomas, 21 décembre) n'est pas peint.** L'enluminure 11 fixe le compte (VIII) au lieu de montrer le 11e : « elle aide à placer une partie » (07-239).
 - Le « I » de R6D (vieillard à la scie) sort de cet ordre. Or **R6D est le panneau de la Cène**, c'est-à-dire d'*Ultima cena*. L'auteur a confirmé que « l'ordre qui définit le numéro un d'*Ultima cena* » n'est pas celui des 3e et 11e (04-051, « très bonne question »). Ce « I » pourrait être ce « numéro un », dans l'autre ordre.
 - Ces corrections ne changent pas l'identification : **3e = Philippe (1er mai, lendemain de la mort de Bayard), 11e = Thomas (21 décembre)**. Elle est même mieux étayée (6/6 contre 3/6 au mieux pour les évangiles).
+
+---
+
+# L. Les « dix stades » : essais et nouvelle piste de lore (13/10, nuit)
+
+## L1. Essais géométriques sur les dates (négatifs)
+Scripts `scripts/horizon_lib.py` (horizon réel avec la position des crêtes, premier rayon, n'importe quel observateur) et `apotres_soleil.out.txt`.
+- **Points de crête où le soleil apparaît** le 1er mai et le 21 décembre : 11 à 16 km l'un de l'autre, que l'on observe du sommet du donjon, de son pied, de la Rue du Rempart ou du lieu-dit « avalon ». Jamais 1 850 m.
+- **Lever astronomique (horizon plat), julien 1524** :
+  - 30 avril = 63,51° ;
+  - 1er mai = 63,14° ;
+  - 21 décembre = 122,97°.
+
+  En grégorien : 67,35° et 123,53°. Muraillat est au cap 64,28° depuis le vrai donjon, soit **0,8 à 1,1° du lever astronomique du 30 avril / 1er mai 1524** (17 à 24 m de décalage latéral à 1 207 m). C'est à rapprocher du « lever à 63,7° » validé par Guilhem pour le jour dernier, mais Muraillat avait été choisie en partie sur ce cap.
+- **Curiosité** : l'écart entre les levers astronomiques du 1er mai et du 21 décembre 1524 vaut **59,8°**, presque 60°. Deux points à égale distance de la tour sur ces deux directions et séparés de 1 850 m forment donc un triangle équilatéral : ils sont aussi à 1 850 m de la tour. Ces sommets, P3 (45.43641, 6.05211) en pâture près des maisons des Bretonnières et P11 (45.41983, 6.05084) en pleine forêt, ne tombent sur aucune jonction (la plus proche à 130 m). **Rien à en tirer pour l'instant.**
+- Aucune voie, aucun toponyme ni lieu de culte au nom de Philippe, Jacques ou Thomas autour du donjon (données BD TOPO ; la base adresse est restée injoignable).
+- Pommeau de l'épée réelle : l'anneau cannelé autour de la spinelle ressemble à un soleil rayonnant. Le comptage automatique des rayons sur `pommel_b.jpg` n'est pas fiable (46 à 85 selon le rayon de mesure). Il faudrait une photo de face ou l'épée elle-même.
+
+## L2. Nouvelle piste de lore : la Jérusalem céleste (Apocalypse 21-22)
+L'É8 s'appuyait déjà sur l'Apocalypse (« fleur de Patmos », 666, les deux bêtes). La fin du livre colle phrase à phrase au texte de l'É12 :
+
+| É12 | Apocalypse (trad. courante) |
+|---|---|
+| « Tout commence et tout s'achève » ; « jour dernier » | « Je suis l'alpha et l'oméga, le premier et le dernier, le commencement et la fin » (22,13). FAQ07-107 : « qui dit dernier jour dit aussi premier jour », et cela « fait partie de l'architecture même de la chasse ». FAQ01-211 : un alpha et un oméga déterminants ? « C'est une bonne remarque » |
+| « l'endroit m'est apparu… illuminé par l'astre **glorieux** » | « La ville n'a besoin ni du soleil ni de la lune pour l'éclairer, car **la gloire de Dieu l'éclaire** » (21,23) ; « l'étoile brillante du matin » (22,16) |
+| « qui magnifiait le **ruisseau** » ; « les eaux enchantées » | « un **fleuve d'eau de la vie**, limpide comme du cristal » (22,1) |
+| « souche-majesté » | « l'**arbre de vie**, produisant douze fois des fruits, rendant son fruit chaque mois » (22,2) ; enl. 9 : arbre aux fruits d'or au bord de l'eau |
+| « J'entends le chant retentir » | le « cantique nouveau » (14,3 ; 15,3) |
+| « chemin de **rempart** » ; « les **portes** d'Avalon » | « une grande et haute **muraille**, avec douze portes » (21,12) |
+| « **les troisième et onzième** » | « La muraille de la ville avait **douze fondements**, et sur eux **les douze noms des douze apôtres** » (21,14). 3e fondement = calcédoine, 11e = hyacinthe (21,19-20) |
+| « **dix stades** » | la ville est mesurée **en stades** : « douze mille stades » (21,16) |
+| *Ad vitam aeternam* | la vie éternelle |
+| ciel de l'enl. 9 : **arc-en-ciel et émeraude** | « le trône était environné d'un **arc-en-ciel semblable à de l'émeraude** » (4,3) |
+
+L'auteur a d'ailleurs mentionné de lui-même la Jérusalem céleste (FAQ05-185 : « Il y a la Jérusalem céleste, mais ça reste la même ville ! »).
+
+**Lecture qui en découle** : les 3e et 11e seraient les **3e et 11e fondements de la muraille**, c'est-à-dire des **apôtres**. Cela rejoint le § K : les livres numérotés des saints donnent l'ordre, soit 3e = Philippe et 11e = Thomas. Le genre masculin employé par l'auteur (« le onzième ») irait bien avec « fondement » ou « apôtre ». Le mécanisme qui transforme cela en deux points distants de 1 850 m reste à trouver. Une hypothèse à tester : la Jérusalem céleste comme gabarit carré (12 portes, 3 par côté, dans l'ordre orient-nord-midi-occident de 21,13) posé sur le terrain depuis le rempart.
