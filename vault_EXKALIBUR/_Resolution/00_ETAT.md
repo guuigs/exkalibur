@@ -33,6 +33,8 @@
 ## Énigme 12 : où en est-on
 Tout est dans **`Enigme_12/solution.md`** (faits, règles de la FAQ, pistes vivantes, pistes abandonnées, prochaines actions). En une ligne : le départ est probable, le reste est ouvert, aucune zone n'est défendable.
 
+**Reprise à zéro du 13/10/2026 → `Enigme_12/Reprise_2026-10-13/README.md`.** « Dieu sut se montrer favorable » est un vers du *Roman de la Rose* (trad. Marteau, Gutenberg 16816, chap. XI). L'É7 cite le chap. XIII du même livre. Hypothèse forte : 3e/11e = chap. III (porte du verger) et XI (fontaine de Narcisse sous le pin). Pas encore de pile-poil. ⚠️ Le dépôt GitHub est public.
+
 ## Numérotation des enluminures
 L'auteur les numérote dans l'ordre de lecture (R1G=1, R1D=2, R2G=3, R2D=4, R3G=5, R3D=6, R4G=7, R4D=8, R5G=9, R5D=10, R6G=11, R6D=12). Énigme N ≠ toujours enluminure N (FAQ02-096). Voir `03_Correspondance_illustrations.md`.
 

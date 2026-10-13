@@ -1,0 +1,4 @@
+# azimut du soleil (horizon plat, puis soleil à 5° et 10°) à 45.429 N
+1 mai 67.7 73.9 79.0
+10 mai 63.8 70.2 75.3
+31 mai 57.0 63.7 69.0

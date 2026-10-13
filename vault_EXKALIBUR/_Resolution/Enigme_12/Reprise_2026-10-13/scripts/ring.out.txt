@@ -1,0 +1,19 @@
+# ring.py : ruisseaux BD TOPO coupant l'anneau 1850 m ± 1 % autour de la tour d'Avalon (45.429083, 6.030808)
+# données : python3 wfs.py BDTOPO_V3:troncon_hydrographique 45.39 5.97 45.47 6.09 troncon_hydrographique.json (13/10/2026)
+az   32                                      Intermittent Ecoulement naturel 45.44328 6.04353 d=1.866
+az   56  le Bréda                            Permanent    Ecoulement naturel 45.43848 6.05054 d=1.864
+az   89  Ruisseau de Tapon                   Intermittent Ecoulement naturel 45.42945 6.05465 d=1.866
+az  130                                      Intermittent Ecoulement naturel 45.41825 6.04898 d=1.863
+az  130  Ruisseau de Rebouchet               Intermittent Ecoulement naturel 45.41825 6.04898 d=1.863
+az  160  Ruisseau de la Perrière             Intermittent Ecoulement naturel 45.41332 6.03903 d=1.867
+az  164                                      Intermittent Ecoulement naturel 45.41290 6.03719 d=1.866
+az  165                                      Intermittent Ecoulement naturel 45.41304 6.03712 d=1.850
+az  197  Ruisseau du Papet                   Permanent    Ecoulement naturel 45.41305 6.02364 d=1.868
+az  198  Ruisseau du Papet                   Permanent    Ecoulement naturel 45.41309 6.02358 d=1.866
+az  206  Ruisseau du Papet                   Permanent    Ecoulement naturel 45.41433 6.02038 d=1.832
+az  207  Ruisseau du Papet                   Permanent    Ecoulement naturel 45.41429 6.02032 d=1.837
+az  233  Ruisseau de Rebouchet               Permanent    Ecoulement naturel 45.41915 6.01206 d=1.836
+az  234  Ruisseau de Rebouchet               Permanent    Ecoulement naturel 45.41918 6.01178 d=1.852
+az  239                                      Permanent    Canal              45.42066 6.01057 d=1.840
+az  240                                      Permanent    Canal              45.42070 6.01061 d=1.834
+az  306  le Bréda                            Permanent    Ecoulement naturel 45.43888 6.01198 d=1.832
