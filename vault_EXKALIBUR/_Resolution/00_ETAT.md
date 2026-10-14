@@ -57,6 +57,18 @@ Tout est dans **`Enigme_12/solution.md`** (faits, règles de la FAQ, pistes viva
   - le bassin aux deux poissons de l'enl. 9 = la fontaine et ses deux cristaux.
 - Modèle : la fontaine est à 10 stades de la porte (portes d'Avalon). La direction reste ouverte. Une lecture pascale (Pâques 1524) donne plein est, c'est-à-dire le ravin du Tapon et le pré A. Non démontré.
 
+**14/10 (suite) : direction tirée des textes (`Reprise_2026-10-13/TEXTES_direction.md`)**
+- Les règles ont été écrites et poussées **avant** chaque test sur la carte.
+- R1, le lever du soleil le jour de la mort de Bayard, échoue, que l'on parte de la tour, du château Bayard ou de la rue du Rempart.
+- FAQ06-020 (« accessible tous les mois ») écarte le sommet de la tour (ouvert de mars à août, le week-end) et le château Bayard (privé). Reste le **sommet de la butte, au sol** (esplanade, rue du Rempart).
+- La droite de l'É11 arrive à 14 m du château Bayard et passe à 226 m de la tour : la note du 30/09 se trompait.
+- **R2, la Veillée pascale** :
+  - « Tout commence et tout s'achève » = *Principium et Finis* ; « chant » = *Exsultet* ; « astre du matin qui ne connaît pas de couchant » ;
+  - direction : lever de Pâques 1524, de 80° à 91° ;
+  - depuis le sol du sommet, **le pré A (83-86°) est le seul lieu visible vers le levant à 10 stades** ;
+  - le Tapon le longe ; le *Roman* (« je suivis le courant ») dit qu'on descend le ruisseau.
+- Roche et souche introuvables à distance. **Meilleur candidat « clairière » à ce jour : le pré A. Non démontré.**
+
 ## Numérotation des enluminures
 L'auteur les numérote dans l'ordre de lecture (R1G=1, R1D=2, R2G=3, R2D=4, R3G=5, R3D=6, R4G=7, R4D=8, R5G=9, R5D=10, R6G=11, R6D=12). Énigme N ≠ toujours enluminure N (FAQ02-096). Voir `03_Correspondance_illustrations.md`.
 

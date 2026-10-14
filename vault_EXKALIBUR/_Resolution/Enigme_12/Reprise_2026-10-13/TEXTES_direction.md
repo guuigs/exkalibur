@@ -248,3 +248,40 @@ Les trois façons de lire « à senestre » :
 - le ruisseau au bord.
 
 **Ce n'est pas démontré.** Il manque la jonction exacte, le sens du ruisseau, la grande roche et la souche. Aucune donnée à distance ne montre ni la roche ni la souche. Aucune vérification sur place ne sera faite : la suite se fera par les textes (sens de « à senestre », « jour dernier ») et par la description à envoyer à l'auteur (07-078), si Guilhem le décide.
+
+---
+
+## 8. Sens du ruisseau et recherche de la roche autour du pré A (14/10)
+
+### 8.1 Le sens, par les textes
+- *Roman de la Rose*, chap. I : « Sans but, je **suivis le courant**, / Tout le rivage côtoyant ». Le narrateur descend le cours d'eau.
+- FAQ03-082 : les eaux « **coulent jusqu'à** la grande roche, et elles vont même continuer de couler ». Le ruisseau va vers la roche, donc on descend.
+- FAQ8 : on peut marcher le long du ruisseau au-delà de la roche, « mais ça supposerait de quitter votre route ».
+- Conséquence : on **descend** le ruisseau, l'eau à gauche, donc **sur la rive droite**. Pour le Tapon, c'est le côté du pré A. Cela favorise la lecture V2 du § 7.3 ; V1 (remonter depuis J) devient moins probable.
+- C'est cohérent avec FAQ06-090 : en descendant rive droite, les 10 pas nord puis est depuis la roche s'éloignent de l'eau.
+
+### 8.2 Ce que montrent le LiDAR 0,5 m et l'orthophoto au plus fort zoom
+Image : `images/synthese_preA_paques_visibilite.jpg`. Calculs dans le bloc-notes : détection de bosses (MNT moins ouverture morphologique, plus de 1,2 m), profils en travers.
+
+- **Rive droite entre l'angle sud-est du pré (A1) et J**, environ 170 m : la seule bosse détectée près de l'eau (45.43021, 6.05380 ; 2,1 m ; 13 m²) est une **petite cabane**. Elle est au bout de la piste empierrée qui part de J, avec une aire de retournement, au bord du ruisseau. Elle n'est pas dans la BD TOPO. **Pas de roche détectée.**
+- **Rive gauche, là où le sentier OSM quitte le ruisseau** (45.42968, 6.05418 ; 2 m ; 24 m²) : c'est le rebord du ravin, à environ 9 m au-dessus du lit, qui passe 15 m plus loin. Ce n'est pas une roche « qu'on touche difficilement sans se mouiller ». **Écartée.**
+- Le lit du Tapon devant le pré A est en pente douce (8-20 %). Le premier ressaut net est en amont, dans la forêt (63 % vers 45.4279, 6.0560, à environ 1 940 m).
+- Le tracé BD TOPO du Tapon s'écarte du vrai lit de 15 à 40 m dans le ravin boisé.
+
+### 8.3 Bilan de la journée
+La chaîne fondée sur les textes est cohérente jusqu'à la **clairière** :
+
+| Étape | Résultat |
+|---|---|
+| 3e / 11e | porte du verger / fontaine de Narcisse (chap. III / XI du *Roman*), 10 stades |
+| « matin, astre glorieux » | Veillée pascale → lever du soleil de Pâques 1524, de 80° à 91° |
+| départ | sommet de la butte d'Avalon, au sol (accessible toute l'année) |
+| « dans le champ de vision » | **le pré A est le seul lieu visible vers le levant à 10 stades** |
+| « magnifiait le ruisseau » | le Tapon le long du pré A |
+
+Elle **ne va pas plus loin** : la jonction exacte, la grande roche et la souche-majesté ne se lisent pas à distance. L'auteur l'a voulu (07-078 : « il est logique que je ne vous aie pas mis des éléments qui soient trouvables facilement sur Google Maps »). C'est aussi pour cela qu'il accepte qu'on lui envoie des captures vues du ciel de la clairière et la description du parcours.
+
+**Ce qui reste faisable à distance** :
+- trancher la jonction (J2 dans le pré, A1 à la lisière, ou J au passage du Tapon) par les textes et la FAQ ;
+- relire « jour dernier » pour la direction des 8 pas ;
+- chercher dans le ciel de l'enluminure 9 un nom de lieu ou de ruisseau (FAQ : il se lit une fois la zone trouvée).
