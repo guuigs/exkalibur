@@ -530,3 +530,34 @@ Le profil en long du Tapon (lit pris au minimum sur 6 m autour du tracé BD TOPO
 1. Trancher la direction sous le modèle N3, à partir des seuls textes, **sans regarder la carte d'abord**. Trois candidats : matin de Pâques 1524 (plein est), matin de mai du *Roman*, 30 avril / 1er mai 1524 (cap ≈ 66°).
 2. Pour chaque direction retenue, faire le relevé à distance du point à 1 850 m : jonction, clairière, ruisseau, bâtiments, cadastre. Ajouter un témoin au hasard.
 3. Dans le *Roman*, relire ce qui sépare la porte (chap. III) de la fontaine (chap. X-XI) : orientation, ordre des lieux traversés. Ce sont les « étapes intermédiaires » de 04-115.
+
+## N8. Les sentiers le long du Tapon (OSM) : deux parcours possibles, à distance
+Les données OSM en cache (`calc/osm.json`) montrent deux sentiers qui longent le Tapon. Distances et côtés calculés par rapport au tracé BD TOPO du ruisseau.
+
+**Parcours 1 (rive gauche, on remonte, le ruisseau à gauche)**
+- Départ : **J** (45.43054, 6.05309), jonction de la route du Crêt des Moines, de la piste vers J2 et du sentier OSM 1058224611 (« path, surface ground »).
+  - J est dans un terrain dégagé (canopée 0,5 m, ouvert à 90 % dans un rayon de 10 m).
+  - Le bâtiment le plus proche est une grange à 34 m.
+- Le sentier suit le Tapon **à 7-18 m, rive gauche**, sur environ 110 m. Il **quitte le ruisseau** en 45.42973, 6.05407 (1 804 m de la tour), là où le ravin se resserre, 50 m avant R1 (1 848 m, cap 88°).
+- Lecture : la roche qui « bloque le passage » serait là. Le sentier, lui, continue en s'écartant, ce qui colle avec FAQ8 : « marcher le long du ruisseau au-delà de la roche ? oui, mais ça supposerait de quitter votre route ».
+- **Problème** : depuis la rive gauche, 10 pas au nord risquent de traverser le ruisseau. Celui-ci coule vers le nord-ouest (cap ≈ 321° à cet endroit). Or FAQ06-090 dit qu'on ne se mouille pas les pieds depuis la roche. Il faudrait que la roche soit à plus de 9 m du lit.
+
+**Parcours 2 (rive droite, on descend, le ruisseau à gauche)**
+- Le sentier OSM 408893625 (« path, surface dirt ») longe le Tapon **rive droite, à 18-60 m**, depuis la jonction forestière J4 (45.42892, 6.05590 ; 1 944 m, plein est) jusqu'à J2.
+- Il passe par A1 (1 842 m, cap 85,9°), puis longe le **pré A**, la clairière visible depuis le sommet.
+- En le suivant vers l'aval, le ruisseau est à gauche. Les 10 pas N puis E depuis une roche de la rive droite s'éloignent de l'eau : pas de pieds mouillés, comme le veut 06-090.
+- **Problème** : la seule jonction de ce sentier dans une clairière est J2, et depuis J2, ce sentier part vers l'amont, donc avec le ruisseau à droite.
+
+**Plein est à 10 stades** (45.42883, 6.05469) tombe à 35 m à l'ouest du lit du Tapon, sur le sentier du parcours 1. C'est la lecture la plus simple de « au matin… l'astre glorieux » (l'Orient, FAQ03-042 : « il faut rester assez simple »). Elle rejoint aussi le premier rayon de Pâques 1524 (90,2°) et le lever de l'équinoxe (≈ 89-90°).
+
+**Bâtiments** (sommet le plus proche, BD TOPO) : R1 à 117 m, A1 à 112 m. Une construction isolée se trouve en forêt en 45.42865, 6.05367, à 65 m de N2.
+
+**Cadastre** (Parcellaire Express) : R1 est sur la parcelle B 0001 (9 430 m²), le point plein est sur B 0842 (9 895 m²), A1 sur A 0340 et le pré A sur A 0341. Le propriétaire (commune ou privé) n'est pas lisible ici : le jeu de données des parcelles des personnes morales (data.gouv.fr) est bloqué par le proxy. **C'est à vérifier de chez soi.**
+
+**Statut : piste concrète, non démontrée.** Ce qui la porte :
+- le Tapon est le seul ruisseau qui coupe l'anneau des 10 stades entre 56° et 130° ;
+- il le coupe plein est (88-89°) ;
+- le pré A, juste à côté, est la seule clairière de l'anneau visible depuis le sommet ;
+- un sentier longe le ruisseau jusqu'à un resserrement, puis le quitte.
+
+Ce qui manque : la roche et la souche, qu'aucune donnée à distance ne montre (07-126 : la roche n'est sans doute pas visible sur Maps). Il manque aussi un départ de parcours qui soit à la fois une jonction dans la clairière et un parcours avec le ruisseau à gauche, sans pieds mouillés après la roche.
