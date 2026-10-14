@@ -1,0 +1,13 @@
+# Brief vague « VERNAY » (06/10 nuit) — demande expresse de Guilhem
+
+Guilhem : « creuse sur l'étang de Vernay, qui ressemble vraiment au dessin de l'illustration, juste à côté de Pontcharra ».
+Lire aussi : BRIEF_AUTONOMIE_06-10.md (règles), BRIEF_EPEE_06-10.md (épée), DEPUIS_CHEZ_SOI_E12.md §« Contour de l'étang » et §« Vernay : second passage » (tests t121-t128 déjà faits).
+
+## Faits acquis
+- **Lac du Vernay** (OSM W236157600), centre 45.44927, 6.00203 ; 3,2 km de la tour d'Avalon, cap 313° ; ancienne gravière entre la route du Grésivaudan, la carrière Granulats Vicat (N/NW) et l'A41 (E), l'Isère juste à l'est.
+- **Commune : CHAPAREILLAN** (code INSEE 38075), pas Pontcharra (apicarto IGN, 06/10) : lac = parcelle **AL 0105** (186 634 m²), « coupe » reportée = AL 0003, « chute » = AL 0093. Mairie de Chapareillan : « le lac du Vernay sera accessible aux pêcheurs » (AAPPMA, baux de pêche) ; opération de nettoyage (Dauphiné Libéré 2017). Propriétaire à vérifier.
+- Contour : le petit étang peint de l'enl. 9 tourné de 110° colle au Vernay (IoU 0,84-0,87, rang 3-8/77, mais pas discriminant seul). Report : **chute d'eau** au bord ouest (45.448815, 6.000773), **coupe** 52 m au SW en forêt (45.448109, 6.000635), près d'un sentier de la rive ouest (`images_travail/t127_vernay_superposition.jpg`).
+- Ancien constat à revérifier : « non visible de la muraille (0 cellule) » (calcul depuis la muraille au sol, sans la hauteur de la tour ni d'autres remparts) ; cours d'eau BD TOPO le plus proche de la chute à 217 m ; bosse rocheuse max 0,37 m au point « coupe » ; 5 croisements ≥ 3 voies à ≤ 300 m, en forêt ; maisons à 266-291 m.
+- Enl. 9 (R5G) : au premier plan, **petit étang bleu à deux poissons** alimenté par une **cascade** sortant d'une **roche** ; **coupe dans une roche rayonnante** au-dessus ; **tronc coupé / souche** à gauche ; soldat romain à gauche ; au fond, **grand lac** (cygnes, presqu'île à petits arbres), **bourg avec clocher et aqueduc/viaduc à arches**, **colline à tour blanche** (à gauche du bourg), montagnes roses ; ciel : loup, étoile, arc-en-ciel, crâne de bovin, diamant, ancre, croissant ; **pommier** chargé de pommes à droite (Avalon = île des pommes). FAQ8 : « le petit village derrière le cours d'eau a-t-il un viaduc, aqueduc ou pont ? » → NRP. FAQ07-052 : regarder le contour des eaux de l'enl. 9 (« positionnement pas parfait »). FAQ07-196 : la souche est entre l'étang et le personnage.
+- Hypothèse combinée : l'épée « tombée par trois fois » est rendue **au lac** (Dame du Lac) → un **lac** réel ; Vernay = « Lac ».
+- Fort Barraux (remparts réels, chemin de ronde) à ~1,7-2,0 km au SW du lac ; château Bayard à ~2,3 km ; tour d'Avalon 3,2 km.

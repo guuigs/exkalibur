@@ -1,0 +1,16 @@
+pré A centre       45.43057,6.05462  parcelle=384260000A0341  propriétaire=pas dans le fichier personnes morales ⇒ personne physique (PRIVÉ)  bâti≈619762545098 m
+J2 angle NO        45.43105,6.05343  parcelle=384260000A1317  propriétaire=pas dans le fichier personnes morales ⇒ personne physique (PRIVÉ)  bâti≈619760371525 m
+A1 angle SE        45.43010,6.05463  parcelle=384260000A0340  propriétaire=DE BRAMEFARINE (grp 0, fj 6536)  bâti≈619764673386 m
+J passage Tapon    45.43054,6.05309  parcelle=None  propriétaire=NON CADASTRÉ (domaine public non cadastré possible : voirie/cours d'eau)  bâti≈619762680967 m
+cabane             45.43021,6.05380  parcelle=384260000A1221  propriétaire=COMMUNE DE SAINT MAXIMIN (grp 4, fj 7210)  bâti≈619764175289 m
+R1 ravin           45.42944,6.05466  parcelle=384260000B0001  propriétaire=pas dans le fichier personnes morales ⇒ personne physique (PRIVÉ)  bâti≈619767662016 m
+P3 Couvat          45.43288,6.05406  parcelle=384260000A0312  propriétaire=pas dans le fichier personnes morales ⇒ personne physique (PRIVÉ)  bâti≈619752084546 m
+rive A1→J 1        45.43014,6.05448  parcelle=None  propriétaire=NON CADASTRÉ (domaine public non cadastré possible : voirie/cours d'eau)  bâti≈619764474145 m
+rive A1→J 2        45.43019,6.05432  parcelle=384260000A0330  propriétaire=pas dans le fichier personnes morales ⇒ personne physique (PRIVÉ)  bâti≈619764274903 m
+rive A1→J 3        45.43023,6.05417  parcelle=384260000A0330  propriétaire=pas dans le fichier personnes morales ⇒ personne physique (PRIVÉ)  bâti≈619764075662 m
+rive A1→J 4        45.43028,6.05401  parcelle=384260000A0330  propriétaire=pas dans le fichier personnes morales ⇒ personne physique (PRIVÉ)  bâti≈619763876420 m
+rive A1→J 5        45.43032,6.05386  parcelle=384260000A1318  propriétaire=COMMUNE DE SAINT MAXIMIN (grp 4, fj 7210)  bâti≈619763677178 m
+rive A1→J 6        45.43036,6.05371  parcelle=384260000A1318  propriétaire=COMMUNE DE SAINT MAXIMIN (grp 4, fj 7210)  bâti≈619763477936 m
+rive A1→J 7        45.43041,6.05355  parcelle=384260000A1317  propriétaire=pas dans le fichier personnes morales ⇒ personne physique (PRIVÉ)  bâti≈619763278694 m
+rive A1→J 8        45.43045,6.05340  parcelle=384260000A1317  propriétaire=pas dans le fichier personnes morales ⇒ personne physique (PRIVÉ)  bâti≈619763079452 m
+rive A1→J 9        45.43050,6.05324  parcelle=384260000A1319  propriétaire=pas dans le fichier personnes morales ⇒ personne physique (PRIVÉ)  bâti≈619762880210 m

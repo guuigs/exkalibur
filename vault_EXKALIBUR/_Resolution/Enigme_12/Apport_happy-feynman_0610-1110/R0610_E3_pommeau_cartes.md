@@ -1,0 +1,60 @@
+# R0610_E3 — Pommeau peint × pierres/cartes de l'enl. 11 × calice de la garde (06/10/2026)
+
+**Verdict : RIEN de fiable pour placer les 3e/11e ou les derniers pas. Une seule lecture « FAIBLE » (hasard 33 %) sur le « ? » de l'enl. 11.**
+Budget vision : **14/18**. Recadrages : `images_travail/r0610_E3_*.jpg`. Scripts : `outils_scratch/r0610_e3_*.py`. Sortie chiffrée : `donnees_travail/r0610_e3_anneau.out.txt`.
+Sources vues : zoom du pommeau (`r0610_D1_pommeau_zoom.jpg`, tiré de IMG_4336), garde (`r0610_D1_calice_garde_zoom.jpg`, IMG_4339), enl. 11 (`A_REGARDER_enluminure11_HD2.jpg`, tournée de 90°), enl. 9 (`A_REGARDER_enluminure9.jpg`). **Limite : ce sont des photos de téléphone d'un tirage ; le pommeau fait ~400 px de large.** Pas de photo meilleure à disposition.
+
+---
+## 1. Pommeau peint (FAIT = observé ; comptages = estimation)
+
+Convention : haut de la planche = côté pommeau = **N** (opposé à la lame) ; lame vers le bas (S) ; sens horaire N, NE, E, SE, S, SO, O, NO.
+
+### 1a. Comptage des traits
+Deux méthodes, qui ne se recoupent qu'à ±1 près :
+- **À l'œil**, sur chaque segment redressé en éventail (`r0610_E3_fan_*.jpg`, script `r0610_e3_fans.py`), en ne comptant que les traits noirs **intérieurs** (sans le contour noir collé aux nervures blanches) : **N 6 · NE 6 · E 6-7 · SE 6 · S 6 · SO 7 · O 6 · NO 6-7** → **49 à 53 traits**.
+- **Automatique** (minima de luminance sur arcs à 4 rayons, `r0610_e3_count.py`, `r0610_e3_count3.py`), en comptant un contour : N 7 · NE 7-8 · E 8 · SE 8 · S 7 · SO 8 · O 8 · NO 7-8 → **58 à 65** (les contours comptent pour ~1 par segment).
+- Le « ~52 » des joueurs et le « au moins une cinquantaine » de l'auteur (FAQ02-123) correspondent aux **traits intérieurs** (8 × 6,5). **Un nombre exact n'est pas lisible sur ces photos** (±1 par segment, soit ±4 au total). Les rayons ne sont pas exactement radiaux (ils convergent vers un point un peu en retrait du disque), ce qui fait varier les comptages automatiques selon le rayon (essai d'arcs dans `r0610_e3_count4.py` : instable, non retenu).
+- **Aucun segment ne diffère clairement par le nombre de traits** (écarts ≤ 1, dans le bruit). Seule différence de forme : le segment **O** a, côté disque, un cartouche blanc **coudé en pentagone** et un éventail un peu plus étroit ; le segment **E** a un petit cartouche vertical ; N et S un cartouche horizontal. Ces quatre cartouches sont aux **quatre points cardinaux** — là où le pommeau réel porte les lettres N, E, S, O (FAQ05-092), absentes de la peinture « volontairement » (FAQ02-123). Les segments intermédiaires (NE, SE, SO, NO) n'en ont pas, comme les faces à entrelacs du pommeau réel. **C'est cohérent, mais ça ne donne pas de nombre.**
+
+### 1b. Pierre centrale (`r0610_E3_pierre_3losanges.jpg`, `r0610_e3_losanges.py`)
+- Disque rouge (cerclé de blanc), **trois losanges blancs en simple contour** (non pleins, non jointifs) : deux en haut (gauche un peu plus haut que droite), un en bas au milieu. Ils forment un **triangle à pointe vers le bas, vers la lame** (côtés ≈ 82 / 73 / 71 px, presque équilatéral).
+- **Chaque losange a son grand axe quasi vertical** (inclinaison 3° à 11°) : pointes vers N et S, pas vers une direction cardinale diagonale. L'ensemble ne « pointe » donc vers rien d'autre que l'axe de l'épée.
+- Azimuts des centres des losanges (0° = haut, horaire) : **294°, 78°, 179°** vu du centre de la pierre ; **310°, 64,5°, 178°** vu du centre du pommeau (le résultat dépend du centre choisi).
+- Pas d'autre marque (ni lettre, ni point) sur la pierre.
+
+## 2. Mise en regard : « ? » de l'enl. 11, FAQ05-091, jeu de cartes, pommeau
+
+### 2a. Ce que l'équipe a déjà lu (sources : T15B, T13I, R3, solution.md)
+- Disposition (nord en haut, enluminure remise à l'endroit) : **HG ♥ D + « 3 » ; HD ♣ C + « ? » ; BG ♠ + « 5 » ; BD ♦ + « 1 »** (vérifié sur la HD tournée : ♠ et « 5 » en bas à gauche, ♦ et « 1 » en bas à droite ; la roche ♦ porte un losange griffonné, FAQ03-335 « des dessins… non, pas besoin »).
+- « ? » : **un nombre** (FAQ05-163), « plutôt le **nombre** important… je vous laisse **compter** » (FAQ07-294), « les trois chiffres vous aiguillent » (FAQ06-100). Lectures de l'équipe : 11 (Machrie Moor, « acté » par Guilhem le 03/10), 21 (11+11−1), « résultat du compte-les de l'É10 » ; φ/√5 abandonné (le « V » est un brin d'herbe). Statut du signe : Guilhem l'a retrouvé sur une pierre bleue voisine de la roche ♣, « ressemble à un 5 » ; **illisible sur nos photos** (je ne le vois pas non plus sur le recadrage `r0610_E3_enl11_carreau_et_trefle.jpg`).
+- FAQ05-091 : la question portait sur les **pierres carreau et pique**, qu'on aurait voulu compléter « par une lettre comme cœur et trèfle » → « Non, mais notez le point d'interrogation… et "orientez-vous" pour compléter ». **Lecture littérale : ♦ et ♠ ne reçoivent pas de lettre ; ce qui les complète est le « ? » et une orientation.** L'équipe n'a jamais relié « orientez-vous » à une **lecture en rond des nombres** ; elle l'a prise soit pour le nord en haut (T15B), soit pour l'Orient (RAISONNEMENT_logique_auteur).
+- FAQ8 : le jeu de cartes servira « pour autre chose » ; FAQ07-071 : « un jeu de cartes aide à identifier le dernier chevalier » = É11 ; FAQ05-101 : « n'oubliez pas l'épée dans tout cela ». FAQ07-239 : l'enl. 11 aide à placer « une partie » des 3e/11e. FAQ07-156 : pas un ensemble de 52.
+
+### 2b. Ce que le pommeau ajoute (fait / hypothèse)
+- **FAIT** : les 4 pierres à cartes/chiffres occupent les **4 directions intermédiaires** NE, SE, SO, NO. Ce sont les faces **sans lettre** du pommeau réel (entrelacs) — les lettres N, E, S, O sont aux cardinaux. Ça s'accorde avec FAQ05-091 (pas de lettre pour ♦/♠), mais **n'apporte aucune lettre ni aucun nombre**. Les 8 pierres isolées (4 roches + 4 pierres à chiffres) forment **4 paires** à ~1 azimut chacune (≈ 330°, 77°, 130°, 233° autour du centre de la croix, estimation visuelle ±15°), pas 8 directions distinctes : **pas de correspondance une-pierre-un-segment** (8 azimuts distincts au hasard : 8!/8⁸ = 0,24 % ; ici il y a 4 secteurs doublés, donc rien).
+- **Les trois losanges** ne ressemblent à la roche ♦ de l'enl. 11 que par le motif (un ♦ simple, griffonné, contre trois ♦ nets). Rien ne relie le nombre 3 des losanges au « 3 » de la roche ♥ ; le « 1 » est sur ♦.
+- **Compte des traits par face intermédiaire** (NE 6, SE 6, SO 7, NO 6-7) **≠ {?, 1, 5, 3}** : la lecture « le nombre de traits de la face voisine donne le chiffre de la pierre » est **réfutée** (test fait).
+
+### 2c. Deux lectures nouvelles du « ? » par l'orientation (post hoc, donc sans valeur probante)
+Les quatre nombres lus **en rond** (sens horaire depuis HG) : **3, ?, 1, 5**. Il n'y a que **3 cycles non orientés** possibles pour 4 éléments, donc chaque « constante » trouvée dans un rond a 1 chance sur 3 d'être lisible (`donnees_travail/r0610_e3_anneau.out.txt`) :
+- **(i) Rond trié** : le « ? » est entre 1 et 3 ; le rond 1 · ? · 3 · 5 est croissant dans un sens → **? = 2** (un chiffre : « le chiffre » de FAQ06-100 ; Guilhem avait d'abord vu un « 2 à l'envers », attribué ensuite au C du trèfle ; FAQ01-202 « le chiffre deux sur le livre a de l'importance », le livre de l'ermite porte 4 « II »). Hasard : 8/24 = **33 %**. Contredit « nombre » (FAQ05-163/07-294).
+- **(ii) π** : lu en horaire depuis HG, 3 · ? · 1 · 5 = 3,1415 si **? = « 14 »** (un nombre à 2 chiffres : « nombre » ✓). π est le multiplicateur acquis de l'É11 (Saint-Palais → Bayard = D × π). Hasard : lecture imposée 1/24 = 4,2 % ; avec libre choix du départ et du sens : **33 %**. Fibonacci, π et les impairs 1,3,5,7 sont chacun lisibles dans 1/3 des ronds ; **au moins une des trois dans 67 %**. Ni (i) ni (ii) n'est donc distinguable du hasard, et aucune ne donne un point de l'É12 (3e/11e). Remarque curieuse non exploitée : 3 + 11 = 14.
+- **Conséquence** : si le jeu de cartes (« pour autre chose ») et ces pierres servent à l'**É11** (angle du dernier chevalier, encore sans dérivation : 72,09° ≈ 360/5 = 72,00°, écart 0,09°), alors **« ? » n'a pas à être 3 ou 11** — ce que R3 avait déjà suggéré.
+
+## 3. Calice entre les pattes des dragons (garde, HD IMG_4339 ; `r0610_D1_calice_garde_zoom.jpg`, `r0610_E3_coupe_vs_calice.jpg`)
+- **Forme (observé)** : ce n'est **pas** un gobelet. Pile dorée **évasée en haut, rétrécie vers le bas** : un dôme arrondi, puis 2 bandes plates, puis une bande avec **deux points** (comme deux yeux ou deux rivets), puis 4 anneaux de plus en plus étroits, et une pointe dorée ; en tout **~8 bandes + pointe**. **Ouverture** : aucune visible ; **contenu** : aucun (pas de liquide, pas de lumière). Elle est plus large côté pommeau (le grip rouge est au-dessus) et **se termine en pointe côté lame**. L’épée réelle n’a pas de calice sur la face A (triquetra) : la face peinte est le revers.
+- **Pattes** : **2** (une de chaque côté), **écailleuses, quadrillées** (maille de ~4 × 3 cases), qui enserrent la pile ; **aucune griffe ni doigt distinct** — ce sont les « doigts » de FAQ07-048, « pas des doigts, les pattes des dragons ». Pas de nombre de griffes à compter.
+- **Comparaison avec la coupe de l'enl. 9** : la coupe de l'enl. 9 est un **calice classique** (bol évasé, pied, couleur brun-cuivre), ouvert vers le haut, **posé sur un rocher blanc dans un halo de nombreux rayons fins** (> 40, non comptés), à côté d'une cascade. Les deux objets **ne se ressemblent pas** (pas de bol ni de pied sur la garde). Lien établi par l'auteur seulement par le nom (FAQ07-048 calice « crucial », FAQ07-005 coupe de l'enl. 9 = coupe du charpentier) ; **parenté visuelle seule** : le **rayonnement** (halo de la coupe ≈ rayons du pommeau ; « rayonnera d'un trait glorieux ») — sans valeur démontrable.
+
+## 4. Mécanismes testables (règle avant carte) et résultats
+
+**M1 — Les nombres de l'enl. 11 lus en rond donnent un nombre/une constante (« orientez-vous pour compléter »).** Règle : lecture horaire depuis HG ; sous-règles ci-dessus (rond trié ⇒ ? = 2 ; π ⇒ ? = 14). Exécuté : le rond observé est **compatible** avec les deux, avec un hasard de **33 %** chacune (**67 %** pour au moins une constante du catalogue π / Fibonacci / impairs). **Ne donne ni 3e ni 11e, ni direction.** Verdict : **RIEN** (compatible, non discriminant). Test qui trancherait : lire le signe noir à l'original (est-ce un 2, un 4, un 5, un 1-4 ?) ; si c'est « 14 », la lecture π tient avec un hasard de 4 % (une seule règle), à contrôler indépendamment sur l'É11.
+
+**M2 — Un losange du pommeau est tourné vers le lever du « jour dernier » (boussole = pommeau).** Règle : azimut des 3 losanges ∈ [63,7° ; 73,9°] (30/04/1524, acquis). Exécuté : le losange HD est à **64,5°** (centre du pommeau, dans la fenêtre) ou **78,1°** (centre de la pierre, hors fenêtre) : **le résultat dépend du centre choisi**. Hasard : 2,8 % par losange, **8,3 %** pour au moins un des 3, **15,8 %** avec les 2 centres. De plus les grands axes sont verticaux (le losange « pointe » N/S, pas 64°). Verdict : **RIEN**. (Même conclusion que E2 pour les 8 faces : la grille 45° ne code pas le jour dernier : écarts de 16 à 21°.)
+
+Non exécutable sans zone : l'épée comme **repère** des 10 pas N / 10 pas E / 8 pas (mécanisme H1/H2 de E2 : vecteur de 15 à 32 m, cap ≈ 53,5° ou 67,9° en miroir face B). Rien de nouveau ici : le pommeau donne les **cardinaux**, pas de nombre de pas.
+
+## 5. Verdict et suite
+- **RIEN** pour les 3e/11e et pour les derniers déplacements. **FAIBLE** seulement : « ? = 2 » (rond trié) et « ? = 14 » (π) sont compatibles, chacune à 33 % de hasard ; elles relèveraient de l'**É11** (« pour autre chose »), pas de l'É12.
+- Pièces à lever **à l'original par un humain** (règle 1 : on ne demande pas) : le signe noir (2, 4, 5, 14 ?) sur la pierre bleue du ♣ ; le compte de traits d'un segment sur le tirage (loupe) ; le revers de l'épée réelle (lettres sur le pommeau).
+- À éviter de refaire : correspondance 8 pierres ↔ 8 segments (4 paires seulement) ; traits d'une face = chiffre voisin (réfuté) ; lozenge = lever (dépend du centre, 8-16 %).

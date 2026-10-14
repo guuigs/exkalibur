@@ -166,15 +166,23 @@ Dessins, de gauche à droite : loup + glyphe (☿ manuscrit ?), étoile à 5 bra
 ## 8. TODO (par priorité)
 
 - [ ] **Trancher le « jour dernier »** (§ 6) par les textes et la FAQ, en écrivant la règle avant de regarder la carte.
-- [ ] **Choisir la jonction du pré A** (J2, A1 ou J) par les textes : « dans la clairière, à la jonction des chemins », puis le ruisseau gardé à gauche en descendant.
+- [x] ~~**Choisir la jonction du pré A**~~ → **sans objet** : le pré A échoue aux contraintes éliminatoires (14/10 soir, voir l'encadré ci-dessous).
+- [ ] **NOUVEAU (priorité 1) : revoir le modèle « 3e = départ, 11e = endroit à 10 stades »**. Écrire, avant la carte, les autres lectures permises par 07-120 (« par rapport à un point de départ ») et 04-115 (« directement du 3e au 11e, en passant par des étapes intermédiaires »), puis les passer à la grille **en commençant par le point 5** (public, loin du bâti).
+- [ ] **NOUVEAU : forêts communales de Saint-Maximin à l'est** (A 409-411, A 173 ; 2,3-2,7 km, caps 84-89°, donc dans la fenêtre de Pâques R2) : seules terres publiques boisées vers le levant. Chercher une règle textuelle qui y mène avant de les regarder de près.
+- [ ] **E22 à rétrograder** : FAQ8 « une fois au départ de l'É12, vous pouvez oublier l'enluminure 11 ».
+
+> **Mise à jour du 14/10 au soir (poste Windows)** — `Enigme_12/Reprise_2026-10-13/R1410_controle_eliminatoire_preA.md` et `PONT_branches.md`.
+> - **Le pré A échoue aux contraintes éliminatoires** (domaine public, loin du bâti) : la rive droite du Tapon devant le pré est privée ; les seules parcelles communales de la rive entourent un **réservoir d'eau** (la « cabane » = BD TOPO `reservoir`, probable périmètre de captage). J2 est à 18 m d'une grange.
+> - Sur **tout** l'anneau des 10 stades, le domaine public loin du bâti ne touche que des champs (nord), une zone d'activités (ouest) et une forêt communale à 145° (croupe à 850 m, jonction de 3 chemins à 1 834 m, mais ruisseau à 384 m et aucune lecture du texte ne donne ce cap).
+> - Même conclusion que l'entonnoir cadastral du 11/10 de l'autre branche (copié dans `Enigme_12/Apport_happy-feynman_0610-1110/`). **Une hypothèse de la chaîne est fausse** : d'abord « l'endroit est à 10 stades du départ », puis le départ, puis la visibilité prise au sens strict.
 - [ ] **Ciel de l'enl. 9** : chercher ce que désignent « âne de sinople » et « ancre de sable » dans la zone (armoiries de seigneurs locaux : Avalon, Alleman, Terrail ; bornes ou croix armoriées ; *Armorial du Dauphiné*).
 - [ ] **Discord (lecture seule)** : voir si des joueurs lisent les pierres comme des couleurs de blason, l'ancre comme le jour dernier, ou parlent d'un nom de la grande roche ou du ruisseau.
 - [ ] **E6, l'épée « dernière clé »** : la face représentée sur la planche, les pattes de dragon qui enserrent le calice (07-048), le pommeau N-E-S-O.
 - [ ] **E22, l'enluminure 11** comme « carte rudimentaire » pour placer les 3e/11e (07-239).
 - [ ] **E7, « tombée par trois fois »** : identifier l'épisode.
 - [ ] **E19, contour du bassin** : le comparer à des formes plus larges (lacs connus, contour d'une commune, d'une parcelle), pas seulement aux plans d'eau proches.
-- [ ] Mettre à jour `LISTES_enigme_et_FAQ.md` § 1 (E10 : la butte au sol, pas le haut du donjon).
-- [ ] **Décision de Guilhem** : envoyer ou non à l'auteur une capture vue du ciel du pré A et la description du parcours (07-078 l'autorise ; FAQ8 : une solution par mois est lue en détail).
+- [x] Mettre à jour `LISTES_enigme_et_FAQ.md` § 1 (E10 : la butte au sol, pas le haut du donjon). Fait le 14/10.
+- [ ] **Décision de Guilhem** : envoyer ou non à l'auteur une capture vue du ciel du pré A et la description du parcours (07-078 l'autorise ; FAQ8 : une solution par mois est lue en détail). **Avis du 14/10 : ne pas l'envoyer en l'état**, le pré A ne passe pas « domaine public / loin des bâtiments » ; ce serait griller l'envoi du mois.
 
 ---
 

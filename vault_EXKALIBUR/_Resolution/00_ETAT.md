@@ -1,6 +1,8 @@
 # 00 — ÉTAT (à relire EN PREMIER à chaque reprise)
 
 > **Reprise de l'É12 sur un autre poste : lire d'abord [[TODO_REPRISE_E12]]** (méthode, règles, tableaux d'évaluation, TODO, scripts). Mis à jour le 14/10/2026.
+>
+> **14/10 au soir — le pré A ne passe pas les contraintes éliminatoires** (rive privée, réservoir d'eau communal, grange à 18 m) : `Enigme_12/Reprise_2026-10-13/R1410_controle_eliminatoire_preA.md`. Le travail du 06 au 11/10 fait sur le poste Windows (narrateur Bayard confirmé, inventaire du domaine public, audits) est copié dans `Enigme_12/Apport_happy-feynman_0610-1110/` ; correspondance dans `PONT_branches.md`.
 
 > `GRAPHE_INDICES.md` (fils rouges, entrées → sorties de chaque énigme, filtre d'élimination en 3 questions) est à lire juste après ce fichier.
 
