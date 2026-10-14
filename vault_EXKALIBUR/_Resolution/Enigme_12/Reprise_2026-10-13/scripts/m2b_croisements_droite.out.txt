@@ -1,0 +1,17 @@
+départ | classe | p hasard (360 dir.) | R1_lever 63.7° | R1_relief 66.5° | R2_lever 80.2° | R2_relief 90.7° | R4_quillons 83.6° | droite_E11 69.9°
+donjon | a_toutes_voies | 0.017 | 1660 | 1631 | 1854 **OUI** | 937 | 1275 | 903
+donjon | b_chemins_sentiers | 0.011 | 1937 | — | 1283 | 658 | 1605 | —
+donjon | c_cours_eau | 0.000 | — | — | — | — | — | —
+esplanade | a_toutes_voies | 0.006 | 1665 | 1632 | 1855 **OUI** | 936 | 1275 | 902
+esplanade | b_chemins_sentiers | 0.014 | 1937 | — | 1284 | 915 | 1607 | —
+esplanade | c_cours_eau | 0.000 | — | — | — | — | — | —
+rue_Rempart | a_toutes_voies | 0.006 | 2045 | 1633 | 540 | 797 | 486 | 1428
+rue_Rempart | b_chemins_sentiers | 0.006 | — | 3157 | 1546 | 1217 | 1350 | —
+rue_Rempart | c_cours_eau | 0.000 | — | — | — | — | — | —
+chateau_Bayard | a_toutes_voies | 0.014 | 1011 | 1951 | 1358 | 1319 | 1298 | 925
+chateau_Bayard | b_chemins_sentiers | 0.014 | — | — | 1606 | 1673 | 1270 | —
+chateau_Bayard | c_cours_eau | 0.000 | — | — | — | — | — | —
+
+Touches :
+donjon a_toutes_voies R2_lever: 3e 45.42954,6.03639 (426 m), 11e 45.43237,6.05978 (2280 m), 13e à 2470 m
+esplanade a_toutes_voies R2_lever: 3e 45.42955,6.03638 (417 m), 11e 45.43238,6.05979 (2273 m), 13e à 2463 m
