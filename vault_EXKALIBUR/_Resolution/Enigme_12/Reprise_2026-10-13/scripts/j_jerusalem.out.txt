@@ -1,0 +1,12 @@
+## donjon (cap géographique 110,98° → grille 108.82°) : 0 jonction(s) sur l'anneau à ≤ 25 m du cap
+  point à 1 850 m : 45.42291,6.05310 → {'public': False, 'bati': 405, 'foret': True, 'eau': 248}
+  témoin 360 caps : jonction présente 33/360 ; jonction passant les 4 filtres 0/360
+## esplanade (cap géographique 110,98° → grille 108.82°) : 0 jonction(s) sur l'anneau à ≤ 25 m du cap
+  point à 1 850 m : 45.42293,6.05320 → {'public': False, 'bati': 406, 'foret': True, 'eau': 256}
+  témoin 360 caps : jonction présente 34/360 ; jonction passant les 4 filtres 0/360
+## rue_Rempart (cap géographique 110,98° → grille 108.82°) : 0 jonction(s) sur l'anneau à ≤ 25 m du cap
+  point à 1 850 m : 45.42379,6.05326 → {'public': False, 'bati': 320, 'foret': True, 'eau': 336}
+  témoin 360 caps : jonction présente 24/360 ; jonction passant les 4 filtres 0/360
+## chateau_Bayard (cap géographique 110,98° → grille 108.82°) : 0 jonction(s) sur l'anneau à ≤ 25 m du cap
+  point à 1 850 m : 45.41764,6.04097 → {'public': False, 'bati': 211, 'foret': True, 'eau': 481}
+  témoin 360 caps : jonction présente 24/360 ; jonction passant les 4 filtres 0/360
