@@ -105,3 +105,30 @@ Script `scripts/ring_center.py` (variante de `ring_all.py`, centre réglable, sa
 
 ### 4.5 Indice secondaire (non décisif)
 L'azimut du lever du soleil le 30/04/1524 julien, vu depuis Saint-Palais, vaut 64,70° (lever standard) ou 65,56° (centre du soleil à 0°). L'angle de l'É11, ajusté sur le château Bayard, vaut 64,99°. L'« angle du dernier chevalier » pourrait donc être le lever du soleil du dernier jour du dernier chevalier. L'écart de 0,3° représente toutefois 3 km à l'arrivée : c'est un indice, pas une preuve.
+
+### 4.6 Lecture « l'épée de l'É11 » : la droite de l'ultime traversée prolongée (calcul fait après le § 4.4, donc hors règle préenregistrée)
+Points textuels :
+- L'ultime traversée part de Saint-Palais, au bord de la **Joyeuse**, l'épée de Charlemagne.
+- Elle fait « 1f' fois » = π fois la distance, ce qui rappelle « tombée par **trois** fois ».
+- Elle s'arrête au château Bayard, « aux portes d'Avalon ».
+- On la poursuit « en laissant le palais s'éloigner à l'horizon ».
+
+Calcul : la droite Saint-Palais → arrivée (cap 64,987°), prolongée.
+
+| Point | Écart à la droite | Position le long de la droite, après l'arrivée |
+|---|---|---|
+| Tour d'Avalon | 226 m | 1 076 m |
+| **Jonction du Couvat** (fin de route, 45.43288, 6.05406) | **26,5 m** | 2 917 m, soit **1 841 m après le pied de la tour sur la droite** (10 stades à −0,5 %) |
+| Pré A | 230 m | 2 871 m |
+
+La jonction du Couvat est aussi à 1 855 m de la tour en ligne droite.
+
+**Le hasard explique facilement cette rencontre.** L'anneau ±1 % compte 29 jonctions. La droite le traverse deux fois. La probabilité qu'au moins une jonction tombe à moins de 27 m de la droite est d'environ 24 %. Ce n'est **pas une preuve**. Cela relie seulement trois pistes déjà notées :
+- le Couvat sur l'anneau ;
+- le gabarit de la Jérusalem céleste ;
+- la droite de l'É11.
+
+Le Couvat garde ses défauts connus (README § M5) :
+- pas de ruisseau cartographié à la jonction ;
+- le Tapon à 125 m ;
+- des maisons à 60-80 m.
