@@ -132,3 +132,41 @@ Le Couvat garde ses défauts connus (README § M5) :
 - pas de ruisseau cartographié à la jonction ;
 - le Tapon à 125 m ;
 - des maisons à 60-80 m.
+
+---
+
+## 5. Le point de départ, d'après la FAQ (14/10, suite)
+Guilhem confirme que le départ à la tour d'Avalon est une **forte supposition, pas une validation**.
+
+**FAQ06-020** : le chemin de rempart est « accessible aux visiteurs tous les mois de l'année », réponse « Oui, tout à fait ». Confrontation (sources en ligne) :
+
+| Départ | Ouverture | Compatible avec 06-020 ? |
+|---|---|---|
+| Sommet de la tour d'Avalon (escalier intérieur) | du 7 mars au 30 août 2026, vendredi-dimanche et jours fériés, 16 h-19 h (Isère Tourisme) | **non** |
+| Château Bayard | propriété privée ; le musée n'ouvre qu'en saison | **non** |
+| **Rue du Rempart, Saint-Maximin** | voie publique, ouverte en permanence, sur un itinéraire de randonnée (PDIPR) | **oui** |
+| Esplanade de la tour (table d'orientation gratuite) | accès libre | oui |
+
+La rue du Rempart (BD TOPO et BAN) :
+- elle mesure environ 120 m et fait le tour de la tour par l'ouest et le nord, à 27-114 m du donjon ;
+- elle relie 45.42909, 6.03080 à 45.42978, 6.03174 ;
+- le point « rue » de la BAN est en **45.429772, 6.03118** ;
+- c'est la lecture la plus littérale de « chemin de rempart » ;
+- on y « monte » (FAQ05-155) en gravissant la butte.
+
+Les vestiges des remparts du XIVe siècle subsistent dans le bâtiment voisin de la tour (Isère Tourisme).
+
+**Conséquence** : selon le point retenu sur la rue, l'anneau des 10 stades se déplace de 30 à 110 m, alors que la tolérance est de ±18 m. Il faut donc connaître le **point précis** (07-268) avant de tester l'anneau. La visibilité devra aussi être recalculée depuis le sol de la rue, et non depuis le sommet de la tour (§ I du README).
+
+### 5.1 Règle R1 relancée depuis la rue du Rempart (`ring_center.py`, 4 points)
+**Aucune jonction acceptable dans la fenêtre R1**, quel que soit le point de la rue. On ne trouve que des nœuds de routes en plein champ, à 67,5° et 68,2°.
+
+Jonctions de l'anneau qui ressemblent le plus à la scène, **hors de toute fenêtre textuelle** :
+
+| Depuis | Cap | Distance | Jonction | Ce qu'il y a autour |
+|---|---|---|---|---|
+| milieu de la rue / point BAN | **131-132°** | 1 842-1 853 m | route empierrée + sentier (45.41856, 6.04874) | ruisseau du Rebouchet **à 4 m**, bois tout autour (83 %), 46 % de terrain ouvert dans les 20 m, bâtiments à **396 m** |
+| bout est de la rue | **55,4°** | 1 868 m | chemin + route (45.43932, 6.05143) | eau à 16 m (côté Bréda), bois (62 %), ouvert à 42 %, bâtiments à 203 m |
+| bout est de la rue | 99,9° | 1 848 m | sentier + piste (45.42693, 6.05505) | bois (82 %), ouvert à 47 %, eau à 121 m, bâtiments à 219 m |
+
+Ces jonctions collent mieux à la scène (ruisseau, bois, loin des maisons) que tout ce que donnaient les fenêtres textuelles. Mais **aucune direction tirée des textes n'y mène pour l'instant**. Le cap 131° n'est pas un lever astronomique, dont le maximum est de 123,5° au solstice d'hiver ; au-dessus du relief, le premier rayon n'y arrive qu'en novembre ou en janvier. Les noter n'est pas les retenir.
