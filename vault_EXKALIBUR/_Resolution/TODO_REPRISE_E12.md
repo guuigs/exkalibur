@@ -181,7 +181,9 @@ Dessins, de gauche à droite : loup + glyphe (☿ manuscrit ?), étoile à 5 bra
 - [ ] **E6, l'épée « dernière clé »** : la face représentée sur la planche, les pattes de dragon qui enserrent le calice (07-048), le pommeau N-E-S-O.
 - [ ] **E22, l'enluminure 11** comme « carte rudimentaire » pour placer les 3e/11e (07-239).
 - [ ] **E7, « tombée par trois fois »** : identifier l'épisode.
-- [ ] **E19, contour du bassin** : le comparer à des formes plus larges (lacs connus, contour d'une commune, d'une parcelle), pas seulement aux plans d'eau proches.
+- [x] **E19, contour du bassin** : comparé à 499 plans d'eau à ≤ 15 km (14/10, `R1410e_…` § 3) → **non discriminant** (20 formes > 0,85 d'IoU ; Vernay 16e). Chercher plutôt un détail du contour.
+- [x] **Gabarit Via Dolorosa (14/10, `R1410e_…` § 2)** : stations réelles, III→XI = 1 850 m, sans rotation → XI dans Pontcharra ou en terrain privé : négatif. La nature « chemin de croix » reste la meilleure ; manque le placement.
+- [ ] **⚠️ Rétrograder les chap. III/XI du *Roman de la Rose*** dans `LISTES` § 4 et § 4.1 ci-dessus : le chap. III = guichet en **bois** de charme → écharde possible sur la 3e, contraire à 07-068 (`R1410e_…` § 1).
 - [x] Mettre à jour `LISTES_enigme_et_FAQ.md` § 1 (E10 : la butte au sol, pas le haut du donjon). Fait le 14/10.
 - [ ] **Décision de Guilhem** : envoyer ou non à l'auteur une capture vue du ciel du pré A et la description du parcours (07-078 l'autorise ; FAQ8 : une solution par mois est lue en détail). **Avis du 14/10 : ne pas l'envoyer en l'état**, le pré A ne passe pas « domaine public / loin des bâtiments » ; ce serait griller l'envoi du mois.
 

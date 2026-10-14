@@ -1,0 +1,66 @@
+stations : [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14]
+III→XI à Jérusalem : 272.8 m ; échelle ×6.780
+
+== départ esplanade, station 1 au départ
+   1  45.42891,6.03112       0 m du départ  
+   2  45.42956,6.02981     125 m du départ  
+   3  45.42691,6.01635    1177 m du départ  
+   4  45.42691,6.01635    1177 m du départ  
+   5  45.42410,6.01822    1141 m du départ  
+   6  45.42341,6.01095    1692 m du départ  
+   7  45.42334,6.00514    2124 m du départ  
+   8  45.42286,6.00387    2235 m du départ  
+   9  45.41890,6.00073    2623 m du départ  
+  10  45.41700,5.99668    3001 m du départ  {'pm': 'personne physique / non cadastré', 'bati': 373, 'eau': 302, 'veg': '—'}
+  11  45.41708,5.99724    2957 m du départ  {'pm': 'personne physique / non cadastré', 'bati': 376, 'eau': 260, 'veg': '—'}
+  12  45.41765,5.99723    2931 m du départ  {'pm': 'personne physique / non cadastré', 'bati': 378, 'eau': 269, 'veg': '—'}
+  13  45.41738,5.99717    2947 m du départ  {'pm': 'personne physique / non cadastré', 'bati': 381, 'eau': 269, 'veg': '—'}
+  14  45.41831,5.99356    3165 m du départ  {'pm': 'personne physique / non cadastré', 'bati': 253, 'eau': 315, 'veg': '—'}
+
+== départ esplanade, station 3 au départ
+   1  45.43091,6.04590    1177 m du départ  
+   2  45.43156,6.04459    1093 m du départ  
+   3  45.42891,6.03112       0 m du départ  
+   4  45.42891,6.03112       0 m du départ  
+   5  45.42611,6.03299     344 m du départ  
+   6  45.42541,6.02572     574 m du départ  
+   7  45.42535,6.01991     961 m du départ  
+   8  45.42486,6.01864    1074 m du départ  
+   9  45.42091,6.01550    1510 m du départ  
+  10  45.41900,6.01145    1891 m du départ  {'pm': 'personne physique / non cadastré', 'bati': 74, 'eau': 11, 'veg': '—'}
+  11  45.41909,6.01202    1850 m du départ  {'pm': 'personne physique / non cadastré', 'bati': 46, 'eau': 7, 'veg': ['Forêt fermée de feuillus']}
+  12  45.41966,6.01200    1815 m du départ  {'pm': 'personne physique / non cadastré', 'bati': 18, 'eau': 55, 'veg': '—'}
+  13  45.41939,6.01194    1835 m du départ  {'pm': 'personne physique / non cadastré', 'bati': 30, 'eau': 25, 'veg': '—'}
+  14  45.42031,6.00833    2022 m du départ  {'pm': ['BPCE LEASE IMMO'], 'bati': 54, 'eau': 32, 'veg': '—'}
+
+== départ rue_Rempart, station 1 au départ
+   1  45.42977,6.03118       0 m du départ  
+   2  45.43042,6.02987     125 m du départ  
+   3  45.42777,6.01641    1177 m du départ  
+   4  45.42777,6.01641    1177 m du départ  
+   5  45.42497,6.01828    1141 m du départ  
+   6  45.42427,6.01101    1692 m du départ  
+   7  45.42421,6.00520    2124 m du départ  
+   8  45.42372,6.00393    2235 m du départ  
+   9  45.41977,6.00079    2623 m du départ  
+  10  45.41786,5.99674    3001 m du départ  {'pm': 'personne physique / non cadastré', 'bati': 408, 'eau': 310, 'veg': ['Verger']}
+  11  45.41794,5.99730    2957 m du départ  {'pm': 'personne physique / non cadastré', 'bati': 376, 'eau': 267, 'veg': '—'}
+  12  45.41851,5.99728    2931 m du départ  {'pm': 'personne physique / non cadastré', 'bati': 393, 'eau': 277, 'veg': '—'}
+  13  45.41824,5.99723    2947 m du départ  {'pm': 'personne physique / non cadastré', 'bati': 389, 'eau': 277, 'veg': '—'}
+  14  45.41917,5.99362    3165 m du départ  {'pm': 'personne physique / non cadastré', 'bati': 341, 'eau': 403, 'veg': '—'}
+
+== départ rue_Rempart, station 3 au départ
+   1  45.43177,6.04596    1177 m du départ  
+   2  45.43242,6.04465    1093 m du départ  
+   3  45.42977,6.03118       0 m du départ  
+   4  45.42977,6.03118       0 m du départ  
+   5  45.42697,6.03305     344 m du départ  
+   6  45.42627,6.02578     574 m du départ  
+   7  45.42621,6.01997     961 m du départ  
+   8  45.42573,6.01870    1074 m du départ  
+   9  45.42177,6.01556    1510 m du départ  
+  10  45.41986,6.01151    1891 m du départ  {'pm': 'personne physique / non cadastré', 'bati': 6, 'eau': 76, 'veg': '—'}
+  11  45.41995,6.01208    1850 m du départ  {'pm': 'personne physique / non cadastré', 'bati': 7, 'eau': 88, 'veg': '—'}
+  12  45.42052,6.01206    1815 m du départ  {'pm': 'personne physique / non cadastré', 'bati': 8, 'eau': 149, 'veg': '—'}
+  13  45.42025,6.01200    1835 m du départ  {'pm': 'personne physique / non cadastré', 'bati': 5, 'eau': 121, 'veg': '—'}
+  14  45.42118,6.00839    2022 m du départ  {'pm': ['COMMUNAUTE DE COMMUNES LE GRES'], 'bati': 51, 'eau': 20, 'veg': ['Forêt fermée de feuillus']}
