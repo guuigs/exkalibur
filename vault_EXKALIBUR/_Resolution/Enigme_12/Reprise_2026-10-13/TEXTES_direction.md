@@ -333,3 +333,66 @@ Elle **ne va pas plus loin** : la jonction exacte, la grande roche et la souche-
 
 ### 9.6 Bilan
 Le ciel de l'enluminure 9 **n'est pas décodé**. Deux systèmes répondent à la fois à « code universel » et à « les astres aident » : les éléments chimiques et les émaux héraldiques. Aucun des deux ne lit encore l'âne ni l'ancre. Le seul résultat chiffré est le croissant : il colle à l'aube du 30 avril / 1er mai 1524, pas à Pâques.
+
+## 10. L'âne et l'ancre (14/10, suite)
+
+### 10.1 Ce qu'on voit (photo HD IMG_4342)
+- **Âne + émeraude** : une tête d'âne de face, surmontée d'une pierre **verte et ovale**. La pierre est taillée avec une étoile de facettes claires autour d'une table sombre. Elle est posée au-dessus de la tête comme une auréole.
+- **Ancre + diamant** : une ancre noire avec son anneau, son jas et ses deux bras. Au-dessus, un diamant blanc taillé en brillant, dont la pointe touche l'anneau, comme un pendentif.
+- La FAQ dit que chaque paire donne **une seule chose** (FAQ8).
+
+### 10.2 La clé commune la plus solide : les correspondances couleur / planète / pierre / jour du blason
+Les hérauts du Moyen Âge désignaient les couleurs du blason par des pierres (pour la noblesse) et par des planètes (pour les princes). Deux sources :
+
+| Couleur | Table standard (aide-mémoire héraldique de la Confédération suisse, OFPP) | *Les blasons des chevaliers de la Table Ronde* (traité imprimé, réédition arbredor.com) |
+|---|---|---|
+| or (jaune) | Soleil, topaze | Soleil, escarboucle, dimanche |
+| argent (blanc) | Lune, perle | Lune, perle, lundi |
+| gueules (rouge) | Mars, rubis | rubis, samedi |
+| azur (bleu) | Jupiter, saphir | Vénus, saphir, vendredi |
+| **sinople (vert)** | **Vénus, émeraude** | **Mercure, émeraude, mercredi** ; « dénote aussi les arbres, les herbes et verdures » |
+| **sable (noir)** | **Saturne, diamant** | **Mars, diamant, mardi** ; Taureau, Vierge, Capricorne ; la terre ; le fer |
+| pourpre | Mercure, améthyste | Jupiter, balais, jeudi ; « les nues » |
+
+Les deux sources s'accordent sur le point qui compte ici : **émeraude = sinople (vert)** et **diamant = sable (noir)**. Les planètes et les jours varient d'une source à l'autre.
+
+Pourquoi cette clé colle à la FAQ :
+- « **un seul élément** permet de comprendre la majorité des signes » : une seule table traduit les pierres (émeraude, diamant), les planètes (☿ sous le loup, la lune) et les astres peints ailleurs (soleil, Jupiter de l'enl. 8) ;
+- « **les astres des enluminures** aident à comprendre » : ici, planète = couleur ;
+- « héraldique » : l'auteur n'a pas démenti (06-059) ;
+- « **code universel** » : le blason est une langue commune à toute l'Europe, et le dessin ne change pas d'une version linguistique à l'autre ;
+- loup, étoile, croissant, ancre, âne et arc-en-ciel sont tous des meubles de blason ;
+- une paire = une figure colorée, donc « une seule chose ».
+
+Lecture des paires : **un âne de sinople**, **une ancre de sable**, et un loup de pourpre (table standard, ☿) ou de sinople (traité de la Table ronde).
+
+### 10.3 Ce que ces figures ne désignent pas (recherches faites)
+- **Armorial de la Table ronde** (traité ci-dessus, ~150 chevaliers) : ni âne, ni ancre, ni arc-en-ciel. Il n'y a que deux loups : Ganesmor le Noir (*de gueules à un loup d'or armé de sable*) et Lucan le bouteiller (*d'or à un loup de gueules armé de sable*). Le ciel n'est donc pas le blason d'un chevalier.
+- **Armorial des communes de l'Isère** (Wikipédia) :
+  - pas d'ancre ;
+  - un seul âne, à Cessieu (loin) ;
+  - un loup à **La Chapelle-du-Bard**, la commune voisine, dans un écu dont un tiers est de sinople ;
+  - **Saint-Maximin n'a pas d'armoiries** ;
+  - Pontcharra porte les armes des Terrail (Bayard).
+
+  Rien de concluant.
+
+### 10.4 Autres lectures de l'âne et de l'ancre, testées
+| Lecture | Âne + émeraude | Ancre + diamant | Verdict |
+|---|---|---|---|
+| **Douze tribus d'Israël** (Genèse 49 et pectoral du grand prêtre) | âne = **Issacar** (« âne robuste », Gn 49,14). Mais la pierre d'Issacar est le **saphir**, pas l'émeraude | **Zabulon** : un navire sur sa bannière, une ancre dans l'art de la Renaissance (Jacques de Gheyn II, Zurbarán) ; sa pierre est le **diamant** (*Jewish Encyclopedia*, table des bannières) | l'ancre colle, l'âne non ; le loup (= Benjamin) n'explique pas le glyphe → **partielle** |
+| **Éléments chimiques** | émeraude → béryllium | diamant → carbone ; ancre (fer) → fer | l'âne et l'ancre n'ont pas d'élément propre → **faible** |
+| **Pierres de naissance** | émeraude = mai | diamant = avril | ne dit rien de l'âne ni de l'ancre → **faible** |
+| **Semaine sainte** (âne + vert = Rameaux ; ancre = croix cachée des premiers chrétiens, noir = deuil = Vendredi saint ; « traverser l'arbre » = la Croix ; croissant = lune pascale) | ✓ | ✓ et c'est bien « l'avant-dernière étape » | joli, mais c'est une **histoire**, ce que l'auteur exclut (07-134 : « ils ne vous racontent pas une histoire ») → **écartée** |
+| **Parcours final de l'É12**, sur la clé du § 10.2 (veille → astre → ruisseau → clairière → roche → souche → coupe) | âne dans le vert = un pré, une pâture ; le sinople « dénote les herbes et verdures » → **la clairière** | noir = la terre, la pierre ; l'ancre ne bouge pas ; le diamant est une pierre → **la grande roche** ; puis « traverser l'arbre » = la **souche-majesté** ; le croissant doré = la coupe | suit l'ordre du texte et les FAQ 06-181 et 06-226. **Plausible, mais ne situe rien** |
+
+### 10.5 Une coïncidence datée, à ne pas surinterpréter
+- **Bayard est mort un samedi** : le 30 avril 1524 julien est le 10 mai grégorien (calcul ; Pâques 1524 tombe bien un dimanche, ce qui valide la conversion). Samedi est le jour de Saturne, donc du **sable**, donc du **diamant** dans la table standard. Le 30 avril est aussi sous le **Taureau**, un signe du sable dans le traité de la Table ronde.
+- L'ancre + diamant, « avant-dernière étape », pourrait donc porter le **jour dernier** (samedi, le 7e jour, dernier de la semaine biblique). Le lendemain, dimanche, est le premier jour (07-107 : « qui dit dernier jour dit aussi premier jour »).
+- Sur la boussole de la carte (I = N, sens horaire), le 7e jour donne **VII = ouest**. Le dimanche, 1er ou 8e jour, donne I = nord ou VIII = nord-ouest.
+- Prudence : une date quelconque a une chance sur sept de tomber sur le sable dans chaque table.
+
+### 10.6 Bilan
+- **Acquis** : l'émeraude et le diamant sont presque certainement des **marqueurs de couleur héraldique** (sinople, sable). Deux sources indépendantes le confirment, et cela répond à quatre indices de la FAQ.
+- **Non acquis** : ce que désignent un « âne de sinople » et une « ancre de sable ». La lecture « parcours » (clairière, puis grande roche) suit le texte. La lecture « jour dernier = samedi » est appuyée par le calcul. Aucune ne donne une position.
+- **Testable par Guilhem sur le Discord** (lecture seule) : chercher si d'autres joueurs lisent les pierres comme des émaux, ou l'ancre comme le jour dernier.
