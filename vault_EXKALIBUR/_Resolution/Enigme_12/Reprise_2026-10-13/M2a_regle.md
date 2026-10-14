@@ -20,3 +20,13 @@ FAQ07-120 : « toute la question, c'est de savoir quels sont ces 3e et 11e et **
 - **Critère** : |d(rang 3, rang 11) − 1 850| ≤ 18,5 m.
 - **Contrôle du hasard** : pour chaque classe, 2 000 départs tirés au hasard dans un disque de 3 km autour du donjon ; part des départs qui passent le critère = p. Une touche n'est retenue que si p ≤ 2 % **et** qu'elle survit à la correction pour 10 classes × 4 départs (seuil ≈ 0,05 %), ou si deux départs voisins la donnent ensemble.
 - **Ensuite seulement** : filtre public / bâti / monument (annonce du 02/07) sur le 11e et ses abords, puis ruisseau.
+
+---
+
+## M2b (écrite le 14/10 après le résultat négatif de M2a, avant tout calcul M2b)
+Lecture de 04-115 au pied de la lettre : on va **en ligne droite** du 3e au 11e et l'on « passe par des étapes intermédiaires » = les choses que la droite traverse. Classe = éléments **linéaires coupés** par une demi-droite partant du départ (on « marche dessus » en les franchissant) :
+- (a) toutes les voies BD TOPO ; (b) chemins, sentiers et routes empierrées seulement ; (c) cours d'eau BD TOPO (écoulement naturel).
+- Rang = ordre des croisements le long de la demi-droite (croisements à moins de 5 m fusionnés).
+- Départs : donjon, esplanade, rue du Rempart, château Bayard. Directions fixées par les textes : R1 63,7° et 66,5° ; R2 80,2° et 90,7° ; R4 83,6° ; droite de l'É11 69,9°.
+- Critère : distance entre 3e et 11e croisement = 1 850 m ± 18,5 m.
+- Hasard : même calcul pour les 360 directions entières depuis chaque départ ; p = part des directions qui touchent.
