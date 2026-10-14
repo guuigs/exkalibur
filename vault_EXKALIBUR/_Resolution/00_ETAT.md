@@ -69,6 +69,12 @@ Tout est dans **`Enigme_12/solution.md`** (faits, règles de la FAQ, pistes viva
   - le Tapon le longe ; le *Roman* (« je suivis le courant ») dit qu'on descend le ruisseau.
 - Roche et souche introuvables à distance. **Meilleur candidat « clairière » à ce jour : le pré A. Non démontré.**
 
+**14/10 (fin) : ciel de l'enluminure 9 (`TEXTES_direction.md` § 9)**
+- Lieux-dits autour du pré A : seul le loup trouve un écho (Tire-Loup, à 470 m). Piste **écartée**.
+- Deux systèmes répondent à « code universel » et « les astres aident » : les **éléments chimiques** (W, Ir, Be, C, Se…) et les **émaux héraldiques** donnés par les planètes et les pierres. Aucun ne lit encore l'âne ni l'ancre. **Non décodé.**
+- Le croissant peint est **décroissant**. Calcul (`scripts/lune_1524.py`) : le matin du 30 avril 1524 julien, la lune était un croissant à 11 % (6 % le 1er mai) ; le matin de Pâques 1524, une demi-lune. Le dessin colle donc au jour dernier, pas à Pâques (indice faible). Ses levers (91,4° et 79,9°) encadrent le pré A sans tomber dessus.
+- Le contour du bassin ne ressemble à aucun plan d'eau de la BD TOPO à moins de 3 km. Le pré A est traversé par une ligne à haute tension.
+
 ## Numérotation des enluminures
 L'auteur les numérote dans l'ordre de lecture (R1G=1, R1D=2, R2G=3, R2D=4, R3G=5, R3D=6, R4G=7, R4D=8, R5G=9, R5D=10, R6G=11, R6D=12). Énigme N ≠ toujours enluminure N (FAQ02-096). Voir `03_Correspondance_illustrations.md`.
 

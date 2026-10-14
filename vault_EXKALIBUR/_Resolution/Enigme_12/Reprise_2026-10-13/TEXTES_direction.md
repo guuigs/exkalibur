@@ -285,3 +285,51 @@ Elle **ne va pas plus loin** : la jonction exacte, la grande roche et la souche-
 - trancher la jonction (J2 dans le pré, A1 à la lisière, ou J au passage du Tapon) par les textes et la FAQ ;
 - relire « jour dernier » pour la direction des 8 pas ;
 - chercher dans le ciel de l'enluminure 9 un nom de lieu ou de ruisseau (FAQ : il se lit une fois la zone trouvée).
+
+## 9. Le ciel de l'enluminure 9, relu avec la zone (14/10, suite)
+
+### 9.1 Ce que dit la FAQ (mots exacts ou quasi exacts)
+| Réf. | Ce qui est dit | Ce que ça impose |
+|---|---|---|
+| 05-097, 06-028, 06-258 | six dessins : loup, étoile, arc-en-ciel, âne, ancre, et un **croissant de lune** à droite du tronc | les 6 « dessins » sont ceux-là ; le glyphe sous le loup, l'émeraude et le diamant accompagnent un dessin |
+| 07-143, FAQ8 | les signes qui vont par deux se décodent **ensemble** ; « à chaque fois qu'il y a une paire, **une seule chose** » | loup + glyphe, âne + émeraude, ancre + diamant = 3 choses |
+| 06-138 | « **code universel** », mêmes dessins dans toutes les langues | pas de passage par un mot français |
+| 06-059 | « pas un rébus phonétique » ; étymologie, **héraldique**, histoire : « à vous de creuser » (non démenti) | |
+| FAQ8 | « un seul élément me permet de comprendre la majorité des signes » → « plutôt sur la bonne piste » ; les **astres des enluminures** aident à les comprendre → « oui, tout à fait » | une seule clé (une table, un système) ; les astres peints ailleurs (soleil, Jupiter de l'enl. 8, sphère de l'enl. 3) servent |
+| 06-067 / FAQ8 | à interpréter une fois la zone finale trouvée → « oui, tout à fait » ; plus tard : « impossible de répondre » | |
+| 07-134, 07-198 | pas une histoire ; « identifier un **élément crucial** » ; « quelque chose de très important… un déclic en fin de jeu » | |
+| 06-181, 06-226 | l'ancre est l'**avant-dernière étape** ; pour passer de l'ancre au dernier symbole, « il faut **traverser l'arbre** » | il y a un parcours ; le dernier symbole (croissant) est derrière l'arbre |
+| 05-019 / FAQ8 | de gauche à droite ; mais on peut décoder dans l'ordre qu'on veut | |
+| 06-184 | une « voie de passage » parmi d'autres pour trouver le coffre | facultatif |
+| FAQ8 | « leur placement en colonne » : pas de réponse | |
+
+### 9.2 Lecture des dessins sur la photo HD (IMG_4342)
+- **Glyphe sous le loup** : un « V », puis une boucle fermée, puis une hampe barrée. C'est le tracé cursif de ☿ (cornes, cercle, croix), avec les cornes rejetées à gauche. Autres lectures possibles : ♀ précédé d'un trait, ou le ♑ médiéval (ligature τρ). **Lecture retenue avec réserve : ☿.**
+- **Croissant** : doré, en forme de « C » (bord éclairé à gauche, cornes vers le haut et la droite). Vu de l'hémisphère nord, c'est une **lune décroissante**, celle qu'on voit à l'aube, avant le lever du soleil.
+
+### 9.3 Hypothèses testées
+| Hypothèse | Pour | Contre | Statut |
+|---|---|---|---|
+| Les dessins renvoient aux **lieux-dits** autour du pré A (cadastre, 126 lieux-dits de Saint-Maximin) | **TIRE LOUP ET LES TACHES** à 470 m du pré A (le loup) | rien pour l'étoile, l'arc-en-ciel, l'âne, l'ancre ou la lune ; il faudrait passer par des mots français, ce qui contredit le « code universel » | **écartée** (le loup seul ne suffit pas) |
+| **Éléments chimiques** (symboles identiques dans toutes les langues) | loup → wolfram (W) ; arc-en-ciel → iridium (Ir, d'Iris) ; émeraude → béryllium (Be, du béryl) ; diamant → carbone (C) ; croissant → sélénium (Se, de Séléné) ; étoile du matin → phosphore (P, *Phosphoros*) ou soleil → hélium (He) ; ☿ → mercure (Hg). « Astres » et « élément crucial » vont dans ce sens | l'âne et l'ancre ne donnent aucun élément ; aucune suite lisible (W, P/He, Ir, Be, C, Se) | **ouverte** |
+| **Émaux héraldiques** donnés par les planètes et les pierres (système médiéval) | émeraude = sinople, diamant = sable, lune = argent, ☿ = pourpre ; l'auteur n'a pas démenti « héraldique » ; les astres des autres enluminures donnent d'autres émaux (Jupiter = azur, soleil = or) ; loup, étoile, croissant, ancre, âne, arc-en-ciel sont tous des meubles de blason | on ne voit pas quel blason ni quel « élément crucial » cela désigne | **ouverte** |
+| **Parcours final** : l'ancre = avant-dernière étape, l'arbre = la souche-majesté, le croissant = la fin | « traverser l'arbre » avant le dernier symbole colle à « arrivé à la souche-majesté, je fis huit derniers pas » ; ancre + diamant (pierre dure et fixe) irait bien à la grande roche | ne dit pas *où* sont ces éléments | **cadre plausible**, sans gain de position |
+
+### 9.4 Le croissant et la date : calcul (`scripts/lune_1524.py`)
+Éphéméride de Meeus (ch. 47), parallaxe, réfraction et horizon réel vu de l'esplanade (45.42891, 6.03112). Contrôle sur l'exemple 47.a de Meeus : longitude exacte au 1/10 000 de degré. Lunaisons vraies (Meeus ch. 49) : pleine lune le 18 avril 1524 julien, nouvelle lune le 3 mai.
+
+| Nuit | Lune au matin | Lever au-dessus de l'horizon réel | Au premier rayon du soleil |
+|---|---|---|---|
+| 29 → 30 avril 1524 (veille du jour dernier) | décroissante, **11 %** | 03 h 53 (heure solaire), **az 91,4°** | az 102°, 21° de haut |
+| 30 avril → 1er mai 1524 | décroissante, **6 %** | 03 h 49, **az 79,9°** | az 90°, 17° de haut |
+| 26 → 27 mars 1524 (Veillée pascale) | décroissante, **46 %** (demi-lune) | (au sud-est, hors profil) | az 180°, 19° de haut |
+
+- Le croissant peint (fin, décroissant, à l'aube) correspond au matin du **30 avril ou du 1er mai 1524**, pas au matin de Pâques (demi-lune). Cela va dans le sens de R1 pour la date ; mais un croissant décroissant se voit environ 4 jours par mois, et l'auteur dit que le ciel est « bien distinct » du reste de l'image. **Indice faible.**
+- Les deux levers (91,4° et 79,9°) **encadrent le pré A** (83-86° depuis l'esplanade) sans tomber dessus. Pendant la « dernière veille », le croissant s'est levé au-dessus de la crête, à peu près dans la direction du pré. Ce n'est pas une règle préenregistrée : **à ne pas compter comme une preuve.**
+
+### 9.5 Bassin de l'enluminure 9 et pré A vu du ciel
+- Le contour du bassin a été comparé aux 41 plans d'eau de la BD TOPO à moins de 3 km de la tour (retenues, réservoirs, écoulements) : **aucun ne lui ressemble**.
+- Le pré A vu du ciel (orthophoto IGN au plus fort zoom) n'a pas non plus la forme du bassin. En revanche, **une ligne à haute tension le traverse**, et un pylône est planté à sa lisière nord-est (position lue sur l'image, non mesurée). Une tranchée de ligne reste déboisée, ce qui va avec « restée clairière » (03-274). À mentionner si Guilhem décrit le lieu à l'auteur.
+
+### 9.6 Bilan
+Le ciel de l'enluminure 9 **n'est pas décodé**. Deux systèmes répondent à la fois à « code universel » et à « les astres aident » : les éléments chimiques et les émaux héraldiques. Aucun des deux ne lit encore l'âne ni l'ancre. Le seul résultat chiffré est le croissant : il colle à l'aube du 30 avril / 1er mai 1524, pas à Pâques.
