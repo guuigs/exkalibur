@@ -197,3 +197,54 @@ Remarque : la formule *Principium et Finis* sur le cierge date de la réforme de
 - (a) un ruisseau qui coupe l'anneau ;
 - (b) en amont ou en aval sur ce ruisseau, une jonction de chemins en terrain dégagé, d'où l'on peut le suivre en le gardant à gauche ;
 - (c) la clairière dans le champ de vision du rempart (qualitatif).
+
+---
+
+## 7. Test de R2 (Veillée pascale), avec la visibilité au sol (14/10)
+
+### 7.1 Depuis où voit-on quelque chose à 10 stades ?
+Scripts `scripts/viewshed_point.py` (champ de vision depuis un point au sol) et `scripts/los_scan.py` (lignes de vue). Le MNS LiDAR 2 m compte les arbres et les bâtiments ; l'œil est à 1,7 m.
+
+- **Rue du Rempart, au sol** (4 points) : **rien n'est visible** entre 1,5 et 2,2 km, dans aucune direction. Les maisons et les arbres masquent tout. Avec le relief seul, sans arbres, une grande partie de l'est serait visible.
+- **Sommet de la butte, au sol, autour de la tour** (esplanade, 8-38 m du donjon, accès libre toute l'année) : sur 315 points de vue au sol à moins de 130 m de la tour, 60 voient quelque chose dans le secteur 40-140° à 10 stades ±1 %. **Ce qu'ils voient, c'est presque toujours le pré A (cap 80-86°)**, plus un point isolé à 70-74°.
+- Sur les 360°, depuis 5 points du sommet, la bande des 10 stades n'est visible qu'en deux zones : le **pré A (83-86°), vu depuis les 5 points**, et des taches de la vallée à l'ouest (Pontcharra, 251-356°), qui changent d'un point à l'autre.
+
+**Conséquence** : vers le levant, l'unique endroit qu'on voit à 10 stades depuis le rempart est le pré A. C'est l'« endroit [qui] m'est apparu », « dans le champ de vision » (05-155).
+
+### 7.2 La direction de Pâques 1524, vue de l'esplanade (45.42891, 6.03112)
+- Lever astronomique : **80,2°**.
+- Premier rayon au-dessus du relief : **90,7°** (6 h 08), au-dessus d'une crête à 3,1 km.
+- La fenêtre préenregistrée (78° → premier rayon +2°) va donc de **78° à 92,7°**. **Le pré A (83-86°) est dedans.**
+- Contrôle : si l'unique lieu visible à l'est était placé au hasard entre 40° et 140°, il tomberait dans cette fenêtre une fois sur sept (14 %). Ce n'est pas une preuve en soi. Ce qui compte, c'est que trois conditions indépendantes se rejoignent :
+  - la distance de 10 stades ;
+  - la visibilité ;
+  - le matin pascal.
+
+### 7.3 Le pré A
+Image : `images/synthese_preA_paques_visibilite.jpg`. Fond : orthophoto IGN. En jaune, ce qu'on voit depuis l'esplanade ; en rouge, l'anneau des 10 stades ; en magenta et violet, les deux directions de Pâques ; en cyan, les écoulements LiDAR ; en orange, les chemins BD TOPO ; en blanc, les sentiers OSM.
+
+Le pré A :
+- est une **clairière** : un pré sous la ligne haute tension, fermé par la forêt au sud et à l'est, toujours dégagé aujourd'hui ;
+- est coupé par l'anneau dans sa partie est ;
+- a le **ruisseau de Tapon** en contrebas de son bord sud-ouest, dans un ravin boisé. C'est le seul cours d'eau qui coupe l'anneau entre 56° et 130°.
+
+Jonctions candidates :
+
+| Point | Où | Distance à l'esplanade / cap | Remarque |
+|---|---|---|---|
+| **J2** (45.43105, 6.05343) | angle nord-ouest du pré : 3 chemins (piste vers J, piste vers le Couvat, sentier rive droite du Tapon) | ≈ 1 750 m / 82° | dans la clairière ; grange à 18 m |
+| **A1** (45.43010, 6.05463) | angle sud-est : la piste quitte le pré et entre dans le bois | ≈ 1 840 m / 86° | pile sur l'anneau ; aucune autre voie cartographiée ici |
+| **J** (45.43054, 6.05309) | passage du Tapon : route du Crêt des Moines, piste, sentier rive gauche | ≈ 1 720 m / 83° | terrain dégagé ; grange à 34 m |
+
+Les trois façons de lire « à senestre » :
+- **V1** : depuis J, on remonte le Tapon rive gauche par le sentier OSM 1058224611. Le ruisseau est à gauche. Après environ 110 m, le sentier quitte le ruisseau là où le ravin se resserre, près de R1 (1 848 m, sur l'anneau). Problème : depuis cette rive, 10 pas au nord risquent de recouper l'eau (06-090).
+- **V2** : depuis A1 ou J2, on descend le Tapon rive droite. Le ruisseau est à gauche, et 10 pas au nord puis 10 à l'est depuis une roche de cette rive s'éloignent de l'eau (06-090). Il faudrait une roche entre A1 et J.
+- **V3** : un écoulement non cartographié dans le pré (« vous verrez sur place », 06-060). Le LiDAR n'en montre pas de net dans le pré A lui-même.
+
+**Statut** : le pré A devient le candidat « clairière » le mieux justifié par les textes. Il cumule :
+- 10 stades ;
+- le seul lieu visible vers le levant depuis le rempart ;
+- le matin de Pâques ;
+- le ruisseau au bord.
+
+**Ce n'est pas démontré.** Il manque la jonction exacte, le sens du ruisseau, la grande roche et la souche. Aucune donnée à distance ne montre ni la roche ni la souche. Aucune vérification sur place ne sera faite : la suite se fera par les textes (sens de « à senestre », « jour dernier ») et par la description à envoyer à l'auteur (07-078), si Guilhem le décide.
