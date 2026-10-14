@@ -6,9 +6,10 @@ from shapely.geometry import shape, Point, LineString
 from shapely.ops import transform
 from pyproj import Transformer
 P8, BATI = sys.argv[1:3]
+CLAT, CLON = (float(sys.argv[3]), float(sys.argv[4])) if len(sys.argv) > 4 else (45.42891, 6.03112)
 t93 = Transformer.from_crs(4326, 2154, always_xy=True).transform
 tll = Transformer.from_crs(2154, 4326, always_xy=True).transform
-E = Point(*t93(6.03112, 45.42891))
+E = Point(*t93(CLON, CLAT))
 def g93(geom):
     g = shape(geom); c = g.representative_point().coords[0]
     return g if abs(c[0]) > 1000 else transform(t93, g)

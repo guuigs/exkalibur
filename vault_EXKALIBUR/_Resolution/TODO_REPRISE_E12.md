@@ -167,7 +167,7 @@ Dessins, de gauche à droite : loup + glyphe (☿ manuscrit ?), étoile à 5 bra
 
 - [ ] **Trancher le « jour dernier »** (§ 6) par les textes et la FAQ, en écrivant la règle avant de regarder la carte.
 - [x] ~~**Choisir la jonction du pré A**~~ → **sans objet** : le pré A échoue aux contraintes éliminatoires (14/10 soir, voir l'encadré ci-dessous).
-- [ ] **NOUVEAU (priorité 1) : revoir le modèle « 3e = départ, 11e = endroit à 10 stades »**. Écrire, avant la carte, les autres lectures permises par 07-120 (« par rapport à un point de départ ») et 04-115 (« directement du 3e au 11e, en passant par des étapes intermédiaires »), puis les passer à la grille **en commençant par le point 5** (public, loin du bâti).
+- [ ] **NOUVEAU (priorité 1) : revoir le modèle « 3e = départ, 11e = endroit à 10 stades »**. Modèle M2 écrit le 14/10 (`R1410b_annonces_FAQ8_public_proche.md` § 2) : les 3e/11e sont deux points à 10 stades l'un de l'autre, trouvés depuis le rempart, et c'est leur segment + le ciel qui désigne la clairière (le coffre « pas loin du rempart », 06-244). À tester en appliquant d'abord le filtre public / bâti / monument (règle officielle du 02/07).
 - [ ] **NOUVEAU : forêts communales de Saint-Maximin à l'est** (A 409-411, A 173 ; 2,3-2,7 km, caps 84-89°, donc dans la fenêtre de Pâques R2) : seules terres publiques boisées vers le levant. Chercher une règle textuelle qui y mène avant de les regarder de près.
 - [ ] **E22 à rétrograder** : FAQ8 « une fois au départ de l'É12, vous pouvez oublier l'enluminure 11 ».
 
@@ -176,7 +176,7 @@ Dessins, de gauche à droite : loup + glyphe (☿ manuscrit ?), étoile à 5 bra
 > - Sur **tout** l'anneau des 10 stades, le domaine public loin du bâti ne touche que des champs (nord), une zone d'activités (ouest) et une forêt communale à 145° (croupe à 850 m, jonction de 3 chemins à 1 834 m, mais ruisseau à 384 m et aucune lecture du texte ne donne ce cap).
 > - Même conclusion que l'entonnoir cadastral du 11/10 de l'autre branche (copié dans `Enigme_12/Apport_happy-feynman_0610-1110/`). **Une hypothèse de la chaîne est fausse** : d'abord « l'endroit est à 10 stades du départ », puis le départ, puis la visibilité prise au sens strict.
 - [ ] **Ciel de l'enl. 9** : chercher ce que désignent « âne de sinople » et « ancre de sable » dans la zone (armoiries de seigneurs locaux : Avalon, Alleman, Terrail ; bornes ou croix armoriées ; *Armorial du Dauphiné*).
-- [ ] **Discord (lecture seule)** : voir si des joueurs lisent les pierres comme des couleurs de blason, l'ancre comme le jour dernier, ou parlent d'un nom de la grande roche ou du ruisseau.
+- [x] **Discord (lecture seule)** : lu le 14/10 (`R1410b_…` § 1). Rien sur les 3e/11e ; l'annonce officielle du 02/07 impose d'exclure privé, monuments et tout bâti. Personne ne lit les pierres comme des émaux (recherches « sinople », « émaux », « ancre diamant » : rien sur l'enl. 9 dans ce sens ; des joueurs ont essayé pierres de naissance → jours de la semaine, juin 2025).
 - [ ] **E6, l'épée « dernière clé »** : la face représentée sur la planche, les pattes de dragon qui enserrent le calice (07-048), le pommeau N-E-S-O.
 - [ ] **E22, l'enluminure 11** comme « carte rudimentaire » pour placer les 3e/11e (07-239).
 - [ ] **E7, « tombée par trois fois »** : identifier l'épisode.
