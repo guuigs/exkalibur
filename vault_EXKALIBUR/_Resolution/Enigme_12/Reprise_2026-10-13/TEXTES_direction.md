@@ -66,3 +66,42 @@ Consigne de Guilhem : **partir des textes avant de regarder la carte.** Ce docum
   - (c) un ruisseau « tout près », sans rayon chiffré ;
   - (d) dans le champ de vision du sommet. Critère qualitatif : on note la visibilité, on n'élimine pas sur elle.
 - **Contrôle** : pour chaque critère, la part de fenêtres d'azimut de même largeur tirées au hasard sur 360° qui le satisfont aussi.
+
+---
+
+## 4. Résultats sur la carte (après le commit de la règle)
+
+### 4.1 Départ = sommet du donjon d'Avalon
+Liste des jonctions de l'anneau 1 831,5-1 868,5 m (`ring_all.py`, 13/10) : 29 jonctions sur tout le tour.
+
+| Fenêtre | Jonctions trouvées | Verdict |
+|---|---|---|
+| **R1** (61,7-68,5°) | une seule : 67,4°, 1 837 m (45.43524, 6.05272). C'est un nœud de **routes à une chaussée** en plein champ (ouvert à 78 %, bois à 6 %), avec l'eau à 217 m, des bâtiments à 84 m, et il n'est pas visible depuis le sommet | **échec** : ni clairière dans un bois, ni ruisseau |
+| R1g (66,0-74,3°) | le même nœud | échec |
+| R2 Pâques (78,2-92,2°), R3 Orient (88-92°), R4 quillons (81,6-85,6°), R5 (67,9-71,9°) | aucune (Le Couvat est à 75,5-76,2°, hors de toutes les fenêtres) | échec |
+
+Aucun ruisseau cartographié ne coupe l'anneau dans la fenêtre R1. Les seuls à l'est sont le Bréda à 56° et le Tapon à 89°.
+
+### 4.2 Le départ remis en question par le texte de l'É11
+- L'arrivée de l'ultime traversée (Saint-Palais, cap 64,987°, 193,13 km × π) tombe à **14 m du château Bayard**. La tour d'Avalon, elle, est à 1 100 m.
+- La note du 30/09 disait que la droite « passe exactement par la tour d'Avalon ». **C'est inexact.** Le cap initial depuis Saint-Palais ne diffère que de 0,02° (64,966° pour la tour contre 64,987°). Mais à l'arrivée, cela fait **226 m d'écart latéral**. Vue du château, la tour est au cap 58,2°, alors que la droite y va au cap 69,9°.
+- FAQ8 : « lors de l'ultime traversée, est-il normal de dépasser le lieu du dernier chevalier ? → si vous le dépassez, ce sera **très finement** ». Et : « c'est à vous de savoir quel est le point d'arrivée de l'ultime traversée. Et en effet, il est assez simple à déterminer ».
+- Conséquence : le « chemin de rempart » (= l'arrivée de l'ultime traversée, FAQ06-193) pourrait être **au château Bayard**, et non à la tour. Ce point est à trancher avec Guilhem.
+
+### 4.3 Départ = château Bayard (45.423611, 6.018889), même règle R1
+Script `scripts/ring_center.py` (variante de `ring_all.py`, centre réglable, sans calcul de visibilité).
+
+| Fenêtre | Jonctions trouvées | Verdict |
+|---|---|---|
+| **R1** (61,7-68,5°) | une seule : 63,4°, 1 842 m (45.43104, 6.03996). C'est un croisement de route empierrée et de route au nord-est du bourg de Saint-Maximin, ouvert à 79 %, bois à 15 %, avec des bâtiments à 54 m et l'eau à 175 m | **échec** (pas une clairière dans un bois, pas de ruisseau proche) |
+| R2, R3, R4 (78-92°) | aucune | échec |
+| hors fenêtre | 57,5° (45.43252, 6.03876) : chemin + route empierrée + sentier + piste ; ouvert à 76 %, bois à 30 %, bâtiments à 42 m, eau à 268 m | à noter seulement |
+
+### 4.4 Bilan
+**La règle R1 échoue depuis les deux départs**, comme toutes les autres fenêtres textuelles. Les textes donnent pourtant R1 comme la lecture la mieux appuyée. Il faut donc qu'une autre hypothèse soit fausse :
+- (a) le sens de « l'astre glorieux » : le soleil levant, ou un autre astre (étoile, ciel de l'enluminure 9) ? La FAQ 07-132 refuse l'idée de « direction en tant que telle » ;
+- (b) le rôle des 3e/11e : la distance de 10 stades ne part peut-être pas du rempart ;
+- (c) le départ lui-même (§ 4.2).
+
+### 4.5 Indice secondaire (non décisif)
+L'azimut du lever du soleil le 30/04/1524 julien, vu depuis Saint-Palais, vaut 64,70° (lever standard) ou 65,56° (centre du soleil à 0°). L'angle de l'É11, ajusté sur le château Bayard, vaut 64,99°. L'« angle du dernier chevalier » pourrait donc être le lever du soleil du dernier jour du dernier chevalier. L'écart de 0,3° représente toutefois 3 km à l'arrivée : c'est un indice, pas une preuve.
