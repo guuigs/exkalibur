@@ -396,3 +396,34 @@ Lecture des paires : **un âne de sinople**, **une ancre de sable**, et un loup 
 - **Acquis** : l'émeraude et le diamant sont presque certainement des **marqueurs de couleur héraldique** (sinople, sable). Deux sources indépendantes le confirment, et cela répond à quatre indices de la FAQ.
 - **Non acquis** : ce que désignent un « âne de sinople » et une « ancre de sable ». La lecture « parcours » (clairière, puis grande roche) suit le texte. La lecture « jour dernier = samedi » est appuyée par le calcul. Aucune ne donne une position.
 - **Testable par Guilhem sur le Discord** (lecture seule) : chercher si d'autres joueurs lisent les pierres comme des émaux, ou l'ancre comme le jour dernier.
+
+### 10.7 Notes de travail complémentaires (pour mémoire, rien de démontré)
+**Détails des dessins** (photo HD) :
+- l'**étoile** a 5 branches, dont la branche du bas est plus longue : c'est la forme habituelle de l'étoile de Bethléem ;
+- l'**arc-en-ciel** a 6 bandes : orangé, jaune, vert, bleu pâle, violet, rose ;
+- le **croissant** est doré et décroissant (§ 9.2).
+
+**FAQ8 à garder en tête** :
+- « faut-il lever la tête vers le ciel pour trouver le jour dernier ? → Non » ;
+- « la grande roche porte-t-elle un nom ? » → pas de réponse ;
+- « le nom du ruisseau peut-il être trouvé sous forme de code dans les parchemins ? » → pas de réponse ;
+- « la direction du jour dernier fait-elle partie des huit directions classiques ? » → pas de réponse ;
+- « la boussole de la carte est-elle utile pour l'É12 ? » → pas de réponse ; pour les 3e et 11e → non ;
+- FAQ07-110 : il existe « une aide » pour se servir de la rose des vents ;
+- l'alchimie « n'est pas au cœur de la chasse » (02-272, 04-020).
+
+**Pistes envisagées puis laissées de côté** (sans test poussé) :
+| Piste | Pourquoi laissée |
+|---|---|
+| Récapitulatif des énigmes : ancre = É11 (« lever l'ancre depuis Montsalvage », l'avant-dernière énigme) ; âne + émeraude = « l'humble serviteur du Graal » de l'É8 (l'âne, monture humble ; le Graal taillé dans l'émeraude de Lucifer, selon la légende) ; arbre aux fruits d'or = Avalon, l'« île aux pommes » | l'ancre et l'arbre collent ; le loup, l'étoile et l'arc-en-ciel ne trouvent pas d'énigme nette. À reprendre si une autre clé échoue |
+| Wolfram von Eschenbach (loup + bélier = *Wolf-ram* ; Munsalvæsche = Montsalvage) | le glyphe n'est pas le signe du Bélier ♈ |
+| Éléments chimiques épelant un nom (TAPON = Ta-P-O-N, COUVAT = Co-U-V-At) | les dessins ne donnent pas ces éléments |
+| Unicode / emoji (« code universel » au sens littéral) | une paire ne donne pas un seul caractère ; l'emoji âne date de 2022 |
+| Tarot, Lenormand, cartes à jouer (carreau = diamant) | ni âne, ni loup, ni arc-en-ciel dans ces jeux |
+| Constellations (Lupus, les Ânes du Cancer) | pas d'ancre ni d'arc-en-ciel dans le ciel |
+| *Peau d'Âne* (robes couleur du temps, de la lune, du soleil) | conte français, pas un « code universel » |
+| Diamant Hope (ancre = espérance) | jeu de mots anglais |
+| Les 6 C (ancre = « avant-dernier C » = Chartres) | aucun symbole ne correspond à Clairvaux, Cîteaux, Cluny ou Clermont |
+| Jupiter peint dans l'enl. 8 = jeudi = jour de la Cène | la Cène est peinte en enl. 12 (R6D), pas en enl. 8 |
+| « Jour dernier » = dimanche, dernier jour de la semaine civile et premier de la semaine chrétienne (07-107) → boussole I = nord ; c'est l'exemple même de l'auteur (03-027 : « si vous commencez au nord ») | concurrence la lecture « samedi » (§ 10.5) et la lecture « azimut du lever » ; **à trancher** |
+| Les 12 prophéties de l'ancienne Veillée pascale (rite d'avant 1955) comme liste pour les 3e et 11e | idée seulement : 3e = sacrifice d'Abraham (Gn 22), 11e = cantique de Moïse (Dt 31) ; aucun lieu associé |
