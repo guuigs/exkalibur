@@ -1,0 +1,379 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.62.11 87bfad18",
+  "osm3s": {
+    "timestamp_osm_base": "2026-07-28T02:16:18Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 2619678588,
+  "lat": 31.7803264,
+  "lon": 35.2339321,
+  "tags": {
+    "addr:city": "القدس",
+    "addr:street": "طريق الآلام",
+    "historic": "wayside_shrine",
+    "name": "I Statio Crucis",
+    "name:ar": "محطة الصليب 1",
+    "name:br": "I Stasion ar Groaz",
+    "name:de": "I. Kreuzwegstation",
+    "name:en": "I Station of the Cross",
+    "name:he": "התחנה א׳ של הצלב",
+    "name:hu": "I. stáció",
+    "name:it": "Via Dolorosa: I stazione",
+    "name:la": "I Statio Crucis",
+    "name:pl": "I stacja Drogi Krzyżowej",
+    "name:ro": "Drumul Crucii: 1. Curtea casei lui Pilat din Pont - Judecata lui Hristos și condamnarea la moarte",
+    "name:ru": "I Крестное стояние",
+    "religion": "christian",
+    "url:ro": "http://www.crestinortodox.ro/religie/drumul-crucii-via-dolorosa-87987.html"
+  }
+},
+{
+  "type": "node",
+  "id": 2619678592,
+  "lat": 31.7804118,
+  "lon": 35.2337645,
+  "tags": {
+    "addr:city": "القدس",
+    "addr:street": "طريق الآلام",
+    "historic": "wayside_shrine",
+    "name": "II Statio Crucis",
+    "name:ar": "محطة الصليب 2",
+    "name:br": "II Stasion ar Groaz",
+    "name:de": "II. Kreuzwegstation",
+    "name:en": "II Station of the Cross",
+    "name:he": "התחנה ב׳ של הצלב",
+    "name:hu": "II. stáció",
+    "name:it": "Via Dolorosa: II stazione",
+    "name:la": "II Statio Crucis",
+    "name:pl": "II stacja Drogi Krzyżowej",
+    "name:ro": "Drumul Crucii: 2. Pretoriul - Punerea Crucii pe umerii Domnului și pornirea spre Golgota",
+    "name:ru": "II Крестное стояние",
+    "religion": "christian",
+    "url:ro": "http://www.crestinortodox.ro/religie/drumul-crucii-via-dolorosa-87987.html"
+  }
+},
+{
+  "type": "node",
+  "id": 2619678596,
+  "lat": 31.7799136,
+  "lon": 35.2321634,
+  "tags": {
+    "addr:city": "القدس",
+    "denomination": "catholic",
+    "historic": "wayside_shrine",
+    "image": "https://photos.app.goo.gl/ddLtFLKq8zYRkmoy7",
+    "mapillary": "477795113670190",
+    "name": "III et IV Statio Crucis",
+    "name:ar": "محطة الصليب 3",
+    "name:br": "III ha IV Stasion ar Groaz",
+    "name:de": "III. Kreuzwegstation",
+    "name:en": "III and IV Stations of the Cross",
+    "name:he": "התחנה ג׳ ו־ד׳ של הצלב",
+    "name:hu": "III. stáció",
+    "name:it": "Via Dolorosa: III stazione",
+    "name:la": "III et IV Statio Crucis",
+    "name:pl": "III i IV stacja Drogi Krzyżowej",
+    "name:ro": "Drumul Crucii: 3. Prima cădere a Mântuitorului sub povara Crucii;4. Întâlnirea Domnului cu Maica Sa Îndurerată",
+    "name:ru": "III и IV Крестные стояния",
+    "religion": "christian",
+    "url:ro": "http://www.crestinortodox.ro/religie/drumul-crucii-via-dolorosa-87987.html"
+  }
+},
+{
+  "type": "node",
+  "id": 2619678600,
+  "lat": 31.7786112,
+  "lon": 35.2303719,
+  "tags": {
+    "addr:city": "Jerusalem",
+    "historic": "wayside_shrine",
+    "name": "IX Statio Crucis",
+    "name:br": "IX Stasion ar Groaz",
+    "name:de": "IX. Kreuzwegstation",
+    "name:en": "IX Station of the Cross",
+    "name:he": "התחנה ט׳ של הצלב",
+    "name:hu": "IX. stáció",
+    "name:it": "Via Dolorosa: IX stazione",
+    "name:la": "IX Statio Crucis",
+    "name:pl": "IX stacja Drogi Krzyżowej",
+    "name:ro": "Drumul Crucii: 9. A treia cădere a Mântuitorului la pământ",
+    "name:ru": "IX Крестное стояние",
+    "religion": "christian",
+    "url:ro": "http://www.crestinortodox.ro/religie/drumul-crucii-via-dolorosa-87987.html",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 2619678604,
+  "lat": 31.7795159,
+  "lon": 35.2324281,
+  "tags": {
+    "addr:city": "القدس",
+    "historic": "wayside_shrine",
+    "name": "V Statio Crucis",
+    "name:ar": "محطة الصليب 5",
+    "name:br": "V Stasion ar Groaz",
+    "name:de": "V. Kreuzwegstation",
+    "name:en": "V Station of the Cross",
+    "name:es": "V Estación de la Vía Dolorosa",
+    "name:he": "התחנה ה׳ של הצלב",
+    "name:hu": "V. stáció",
+    "name:it": "Via Dolorosa: V stazione",
+    "name:la": "V Statio Crucis",
+    "name:pl": "V stacja Drogi Krzyżowej",
+    "name:ro": "Drumul Crucii: 5. Simon Cirineanul ridică Crucea Domnului, spre a-L ajuta",
+    "name:ru": "V Крестное стояние",
+    "religion": "christian",
+    "url:ro": "http://www.crestinortodox.ro/religie/drumul-crucii-via-dolorosa-87987.html"
+  }
+},
+{
+  "type": "node",
+  "id": 2619678608,
+  "lat": 31.7793554,
+  "lon": 35.2315539,
+  "tags": {
+    "historic": "wayside_shrine",
+    "name": "VI Statio Crucis",
+    "name:ar": "محطة الصليب 6",
+    "name:br": "VI Stasion ar Groaz",
+    "name:de": "VI. Kreuzwegstation",
+    "name:en": "VI Station of the Cross",
+    "name:he": "התחנה ו׳ של הצלב",
+    "name:hu": "VI. stáció",
+    "name:it": "Via Dolorosa: VI stazione",
+    "name:la": "VI Statio Crucis",
+    "name:pl": "VI stacja Drogi Krzyżowej",
+    "name:ro": "Drumul Crucii: 6. Întâlnirea Domnului cu Veronica - Hristos își șterge chipul cu mahrama",
+    "name:ru": "VI Крестное стояние",
+    "religion": "christian",
+    "url:ro": "http://www.crestinortodox.ro/religie/drumul-crucii-via-dolorosa-87987.html",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 2619678612,
+  "lat": 31.7792183,
+  "lon": 35.2307005,
+  "tags": {
+    "historic": "wayside_shrine",
+    "name": "VIII Statio Crucis",
+    "name:br": "VIII Stasion ar Groaz",
+    "name:de": "VIII. Kreuzwegstation",
+    "name:en": "VIII Station of the Cross",
+    "name:he": "התחנה ח׳ של הצלב",
+    "name:hu": "VIII. stáció",
+    "name:it": "Via Dolorosa: VIII stazione",
+    "name:la": "VIII Statio Crucis",
+    "name:pl": "VIII stacja Drogi Krzyżowej",
+    "name:ro": "Drumul Crucii: 8. Întâlnirea Domnului cu femeile ce se tânguiau pentru El",
+    "name:ru": "VIII Крестное стояние",
+    "religion": "christian",
+    "url:ro": "http://www.crestinortodox.ro/religie/drumul-crucii-via-dolorosa-87987.html"
+  }
+},
+{
+  "type": "node",
+  "id": 2619678616,
+  "lat": 31.7782979,
+  "lon": 35.2299044,
+  "tags": {
+    "addr:city": "Jerusalem",
+    "historic": "wayside_shrine",
+    "name": "X Statio Crucis",
+    "name:br": "X Stasion ar Groaz",
+    "name:de": "X. Kreuzwegstation",
+    "name:en": "X Station of the Cross",
+    "name:he": "התחנה י׳ של הצלב",
+    "name:hu": "X. stáció",
+    "name:it": "Via Dolorosa: X stazione",
+    "name:la": "X Statio Crucis",
+    "name:pl": "X stacja Drogi Krzyżowej",
+    "name:ro": "Drumul Crucii: 10. Golgota - dezbrăcarea Domnului de hainele Sale",
+    "name:ru": "X Крестное стояние",
+    "religion": "christian",
+    "url:ro": "http://www.crestinortodox.ro/religie/drumul-crucii-via-dolorosa-87987.html"
+  }
+},
+{
+  "type": "node",
+  "id": 2619678623,
+  "lat": 31.7783147,
+  "lon": 35.2299720,
+  "tags": {
+    "addr:city": "Jerusalem",
+    "historic": "wayside_shrine",
+    "name": "XI Statio Crucis",
+    "name:br": "XI Stasion ar Groaz",
+    "name:de": "XI. Kreuzwegstation",
+    "name:en": "XI Station of the Cross",
+    "name:he": "התחנה י״א של הצלב",
+    "name:hu": "XI. stáció",
+    "name:it": "Via Dolorosa: XI stazione",
+    "name:la": "XI Statio Crucis",
+    "name:pl": "XI stacja Drogi Krzyżowej",
+    "name:ro": "Drumul Crucii 11. Baterea în cuie a Mântuitorului pe Cruce",
+    "name:ru": "XI Крестное стояние",
+    "religion": "christian",
+    "url:ro": "http://www.crestinortodox.ro/religie/drumul-crucii-via-dolorosa-87987.html"
+  }
+},
+{
+  "type": "node",
+  "id": 2619678624,
+  "lat": 31.7783987,
+  "lon": 35.2299621,
+  "tags": {
+    "addr:city": "Jerusalem",
+    "historic": "wayside_shrine",
+    "name": "XII Statio Crucis",
+    "name:br": "XII Stasion ar Groaz",
+    "name:de": "XII. Kreuzwegstation",
+    "name:en": "XII Station of the Cross",
+    "name:he": "התחנה י״ב של הצלב",
+    "name:hu": "XII. stáció",
+    "name:it": "Via Dolorosa: XII stazione",
+    "name:la": "XII Statio Crucis",
+    "name:pl": "XII stacja Drogi Krzyżowej",
+    "name:ro": "Drumul Crucii: 12. Răstignirea - Moartea Domnului pe Cruce",
+    "name:ru": "XII Крестное стояние",
+    "religion": "christian",
+    "url:ro": "http://www.crestinortodox.ro/religie/drumul-crucii-via-dolorosa-87987.html"
+  }
+},
+{
+  "type": "node",
+  "id": 2619678625,
+  "lat": 31.7783588,
+  "lon": 35.2299591,
+  "tags": {
+    "addr:city": "Jerusalem",
+    "historic": "wayside_shrine",
+    "name": "XIII Statio Crucis",
+    "name:br": "XIII Stasion ar Groaz",
+    "name:de": "XIII. Kreuzwegstation",
+    "name:en": "XIII Station of the Cross",
+    "name:he": "התחנה י״ג של הצלב",
+    "name:hu": "XIII. stáció",
+    "name:it": "Via Dolorosa: XIII stazione",
+    "name:la": "XIII Statio Crucis",
+    "name:pl": "XIII stacja Drogi Krzyżowej",
+    "name:ro": "Drumul Crucii: 13. Coborarea Domnului de pe Cruce - Piatra Ungerii",
+    "name:ru": "XIII Крестное стояние",
+    "religion": "christian",
+    "url:ro": "http://www.crestinortodox.ro/religie/drumul-crucii-via-dolorosa-87987.html"
+  }
+},
+{
+  "type": "node",
+  "id": 4191110381,
+  "lat": 31.7798913,
+  "lon": 35.2321792,
+  "tags": {
+    "addr:city": "القدس",
+    "historic": "wayside_shrine",
+    "name": "محطة الصليب 4",
+    "name:ar": "محطة الصليب 4",
+    "name:br": "IV Stasion ar Groaz",
+    "name:de": "IV Kreuzwegstation",
+    "name:en": "IV Station of the Cross",
+    "name:hu": "IV. stáció",
+    "name:it": "Via Dolorosa: IV stazione",
+    "religion": "christian"
+  }
+},
+{
+  "type": "node",
+  "id": 5793822816,
+  "lat": 31.7792999,
+  "lon": 35.2308489,
+  "tags": {
+    "addr:city": "Jerusalem",
+    "historic": "wayside_shrine",
+    "name": "VII Statio Crucis",
+    "name:br": "VII Stasion ar Groaz",
+    "name:de": "VII. Kreuzwegstation",
+    "name:en": "VII Station of the Cross",
+    "name:he": "התחנה ז׳ של הצלב",
+    "name:hu": "VII. stáció",
+    "name:it": "Via Dolorosa: VII stazione",
+    "name:la": "VII Statio Crucis",
+    "name:pl": "VII stacja Drogi Krzyżowej",
+    "name:ro": "Drumul Crucii: 7. A doua cădere a Mântuitorului la pământ",
+    "name:ru": "VII Крестное стояние",
+    "religion": "christian",
+    "url:ro": "http://www.crestinortodox.ro/religie/drumul-crucii-via-dolorosa-87987.html"
+  }
+},
+{
+  "type": "node",
+  "id": 6778990461,
+  "lat": 31.7744965,
+  "lon": 35.2288524,
+  "tags": {
+    "denomination": "armenian_apostolic",
+    "historic": "wayside_shrine",
+    "location": "outdoor",
+    "religion": "christian"
+  }
+},
+{
+  "type": "node",
+  "id": 6778990476,
+  "lat": 31.7746351,
+  "lon": 35.2288850,
+  "tags": {
+    "denomination": "armenian_apostolic",
+    "historic": "wayside_shrine",
+    "location": "outdoor",
+    "religion": "christian"
+  }
+},
+{
+  "type": "node",
+  "id": 8911301974,
+  "lat": 31.7784662,
+  "lon": 35.2295080,
+  "tags": {
+    "addr:city": "Jerusalem",
+    "historic": "wayside_shrine",
+    "name": "Ἅγιος Τάφος",
+    "name:ar": "قبر المسيح",
+    "name:br": "XIV Stasion ar Groaz",
+    "name:de": "XIV. Kreuzwegstation",
+    "name:en": "Tomb of Christ",
+    "name:fa": "مقبره مسیح",
+    "name:he": "קבר המשיח",
+    "name:hu": "XIV. stáció",
+    "name:it": "Santo Sepolcro",
+    "name:la": "XIV Statio Crucis",
+    "name:pl": "XIV stacja Drogi Krzyżowej",
+    "name:ro": "Drumul Crucii: 14. Punerea Domnului în Mormânt și Învierea",
+    "name:ru": "Священное Ложе Спасителя",
+    "religion": "christian",
+    "url:ro": "http://www.crestinortodox.ro/religie/drumul-crucii-via-dolorosa-87987.html"
+  }
+},
+{
+  "type": "node",
+  "id": 14052572780,
+  "lat": 31.7806422,
+  "lon": 35.2361666,
+  "tags": {
+    "direction": "0",
+    "historic": "memorial",
+    "material": "metal",
+    "memorial": "plaque",
+    "name": "Stations of the Cross 14 Plaques"
+  }
+}
+
+  ]
+}
