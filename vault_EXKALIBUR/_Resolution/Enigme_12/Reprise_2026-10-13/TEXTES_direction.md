@@ -170,3 +170,30 @@ Jonctions de l'anneau qui ressemblent le plus à la scène, **hors de toute fen�
 | bout est de la rue | 99,9° | 1 848 m | sentier + piste (45.42693, 6.05505) | bois (82 %), ouvert à 47 %, eau à 121 m, bâtiments à 219 m |
 
 Ces jonctions collent mieux à la scène (ruisseau, bois, loin des maisons) que tout ce que donnaient les fenêtres textuelles. Mais **aucune direction tirée des textes n'y mène pour l'instant**. Le cap 131° n'est pas un lever astronomique, dont le maximum est de 123,5° au solstice d'hiver ; au-dessus du relief, le premier rayon n'y arrive qu'en novembre ou en janvier. Les noter n'est pas les retenir.
+
+---
+
+## 6. Nouvelle lecture textuelle du paragraphe 2 : la Veillée pascale (écrite avant le test)
+
+| É12 / introduction | Liturgie de la Veillée pascale |
+|---|---|
+| « Tout commence et tout s'achève » | sur le cierge pascal : *Christus heri et hodie, **Principium et Finis**, Alpha et Omega* |
+| « J'entends le **chant** retentir » | l'***Exsultet***, chanté par le diacre pendant la Veillée |
+| « J'ai fait une dernière **veille** » | la Veillée pascale (« la mère de toutes les veilles », saint Augustin) ; la *dernière* de Bayard est celle de Pâques 1524 (27 mars julien) ; il meurt le 30 avril suivant |
+| « l'endroit m'est apparu **au matin**, illuminé par l'**astre glorieux** » | *Exsultet* : « *Flammas eius **lucifer matutinus** inveniat : ille, inquam, Lucifer, **qui nescit occasum*** », c'est-à-dire « l'astre du matin qui ne connaît pas de couchant, le Christ, **qui illumine** toute la création » ; Marc 16,2 : les femmes arrivent au tombeau « de grand matin, **au lever du soleil** », le premier jour de la semaine |
+| Introduction : « Je monterai haut dans le ciel, où le soleil **ne me quittera plus** » | *qui nescit occasum* (qui ne se couche pas) |
+| FAQ07-107 : « qui dit dernier jour dit aussi premier jour » | Pâques est le **premier jour** de la semaine. Au style de Pâques, en usage en France jusqu'en 1564, c'est aussi le premier jour de l'année : la Veillée tombe le dernier jour de l'année |
+
+Sources : texte latin de l'*Exsultet* (missel romain, par exemple [livret du Vatican 2011](https://www.vatican.va/news_services/liturgy/libretti/2011/20110423_veglia.pdf)) ; traduction française (paroisse du Saint-Esprit, [2022](https://stesprit.org/wp-content/uploads/2022/04/Exultet-2022.pdf), [2024](https://stesprit.org/wp-content/uploads/2024/03/Bulletin-Exsultet-Samedi-saint-03.30.24.pdf)).
+
+Remarque : la formule *Principium et Finis* sur le cierge date de la réforme de 1951-1955. C'est un anachronisme pour 1524, ce que la FAQ admet (03-013 : « légers anachronismes… pas sur ce qui compte vraiment »).
+
+**Règle R2 (précisée)** : la direction est celle du **soleil levant le matin de Pâques 1524** (27 mars julien, soit 6 avril grégorien), vue depuis le chemin de rempart.
+- Lever astronomique : 80,2°.
+- Premier rayon au-dessus du relief, depuis le sommet de la tour : 90,2°. Depuis le sol de la rue du Rempart, il faut le recalculer.
+- Fenêtre : de 78° jusqu'au premier rayon calculé depuis la rue, +2°.
+
+**Modèle des 3e/11e (porte / fontaine)** : la **fontaine**, c'est-à-dire l'eau et la grande roche, est à 10 stades de la porte. La **clairière** (jonction) est « tout près », sans rayon chiffré : c'est de là qu'on suit le ruisseau jusqu'à la roche. On cherche donc, dans la fenêtre :
+- (a) un ruisseau qui coupe l'anneau ;
+- (b) en amont ou en aval sur ce ruisseau, une jonction de chemins en terrain dégagé, d'où l'on peut le suivre en le gardant à gauche ;
+- (c) la clairière dans le champ de vision du rempart (qualitatif).
