@@ -20,9 +20,9 @@ Codes utilisés :
 
 | # | Texte | Ce qu'il faut comprendre | Ce que la FAQ en dit | Où on en est (14/10) |
 |---|---|---|---|---|
-| E1 | « Dieu sut se montrer favorable » | Pourquoi cette phrase, et en quoi elle « confirme » la zone | Cruciale, **confirmateur de la zone finale** (07-088) ; laissée en français dans la version anglaise, exprès (04-182, 07-218) ; « la décrypter, non, mais cette phrase est importante, il faut comprendre en quoi elle peut vous être utile » (FAQ8) ; le point-virgule ne la lie pas forcément aux 3e/11e (07-201) | **Fait** : vers du *Roman de la Rose* (trad. Marteau, chap. XI). **Ouvert** : ce qu'elle confirme sur le terrain |
+| E1 | « Dieu sut se montrer favorable » | Pourquoi cette phrase, et en quoi elle « confirme » la zone | Cruciale, **confirmateur de la zone finale** (07-088) ; laissée en français dans la version anglaise, exprès (04-182, 07-218) ; « la décrypter, non, mais cette phrase est importante, il faut comprendre en quoi elle peut vous être utile » (FAQ8) ; le point-virgule ne la lie pas forcément aux 3e/11e (07-201) | **Fait** : vers du *Roman de la Rose* (trad. Marteau, chap. XI), **vers n° 1524 de l'édition = année de la mort de Bayard** (README § N2). Elle confirme le narrateur, donc la zone Bayard / Avalon |
 | E2 | « dix stades romains » | La distance | 10 stades, pas de multiplication (05-106) ; à 1 % près (05-172) ; en ligne droite (07-120) ; mesurée sur MyMaps, seul outil de l'auteur (03-162) | **Fait** : 1 850 m ± 18 m |
-| E3 | « séparaient les troisième et onzième » | **La nature** des 3e/11e, puis **la règle** qui les place par rapport au départ | voir § 2.2 (une vingtaine de réponses) | **Ouvert : c'est le verrou.** Aucune lecture testée ne passe toutes les D (§ 4) |
+| E3 | « séparaient les troisième et onzième » | **La nature** des 3e/11e, puis **la règle** qui les place par rapport au départ | voir § 2.2 (une vingtaine de réponses) | **Nature** : chapitres III et XI du *Roman de la Rose*, la seule lecture qui passe toutes les D (§ 4, README § N3). **Règle de placement** : encore ouverte (la direction) |
 | E4 | « Le roi avait rejoint les fées » | Arthur à Avalon | N'aide pas pour les 3e/11e (05-094) | Lu, sans rôle de placement |
 | E5 | « et laissé son épée aux portes d'Avalon » | Le lieu de départ et le rôle de l'épée | Départ de l'É12 = arrivée de l'É11 (05-195) | **Validé** : tour d'Avalon, Saint-Maximin. Le mot « portes » n'est pas exploité |
 | E6 | « L'épée, évidemment. L'épée, depuis toujours ! Là était la dernière clé de la quête du Graal. » | Quel usage de l'épée sert de « dernière clé » | « L'épée est très utile. L'épée réelle, l'épée qui vous est représentée sur le parchemin pour la dernière énigme » (FAQ8) ; « une dernière idée, une dernière intuition qui sera cruciale pour trouver la clairière » (FAQ8, réponse à « Là était la dernière clé ») ; pommeau N, E, S, O dans le sens horaire (05-092) ; la face représentée compte (03-032) ; les pattes de dragon qui enserrent le calice sur la garde sont « un élément crucial en fin de chasse » (07-048) | **Ouvert** : l'« intuition » finale n'est pas trouvée |
@@ -153,18 +153,21 @@ Une piste qui échoue au point 4 n'est pas sauvée par les points 1-3. C'est ce 
 
 | Lecture | 13e existe (06-133) | Écharde sur le 11e, pas sur la 3e (07-068) | « Pas visibles sur Maps / remparts » (06-227) | Suite ruisseau + roche | Verdict |
 |---|---|---|---|---|---|
-| Chapitres III et XI du *Roman de la Rose* | ✓ | ✗ : la porte du chap. III est « de charme », donc en bois | ✓ | non testée sur le terrain | rétrogradée (§ 2 du README) |
+| **Chapitres III et XI du *Roman de la Rose*** (porte du verger / fontaine de Narcisse) | ✓ et mieux : **le chap. XIII a déjà servi à l'É7**, donc « il ne vous mènerait pas au bon endroit » | ✓ si on lit des scènes : on franchit le guichet de charme sans marcher dessus ; la fontaine est « sous le pin » | ✓ ce sont des chapitres | à faire (README § N5) | **en tête** (README § N3). Le vers d'ouverture est le **vers 1524** de l'édition = l'année de la mort de Bayard |
 | Portes de la Jérusalem céleste (Ap 21) | **✗ : il n'y a que 12 portes** | ? | ✓ | **✗** : rien de convaincant autour de la 3e porte (§ M5) | **rétrogradée** par la D « 13e existe ». Elle ne tenait que par une coïncidence de 10 m (§ M2) |
 | Calendrier des fêtes d'apôtres | ✗ avec 12 apôtres (✓ seulement si on ajoute Paul ou Barnabé, ce qui décale l'ordre) | ? | ✓ | non testée | fragile ; l'auteur dit n'avoir jamais parlé d'apôtres (03-007) |
 | Heures romaines (3e et 11e heures ; parabole des ouvriers, Mt 20) | ✗ (12 heures de jour) | ? | ✓ | non testée | même registre que « veille », « chant », « matin », « stades romains », mais bute sur le 13e |
-| **Stations du chemin de croix** (14) | ✓ (la 13e existe : la descente de croix ; il n'y a pas de 16e, d'où peut-être « incorrect ») | ✓ : la 3e = première chute ; la 11e = Jésus cloué **sur la croix (bois)** | ✓ si ce sont des épisodes et non des oratoires | non testée | **à tester** (§ 5) : seule lecture qui passe toutes les D connues ; « tombée par trois fois » fait écho aux trois chutes (stations 3, 7, 9) |
+| Stations du chemin de croix (14) | ✓ (la 13e existe : la descente de croix ; il n'y a pas de 16e) | ✓ : la 3e = première chute ; la 11e = Jésus cloué **sur la croix (bois)** | ✓ si ce sont des épisodes et non des oratoires | aucun chemin de croix réel à 6 km (`Revue_globale/T15_T17/T15_chemin_croix.md`) ; pas de règle de placement | passe les D, mais rien ne dit comment placer deux épisodes sur le terrain |
 
 ---
 
 ## 5. Ce que les listes changent tout de suite
 
 1. **Le gabarit de la Jérusalem céleste est rétrogradé** : 12 portes seulement, alors que l'auteur confirme un 13e (06-133). En plus, la suite (ruisseau à gauche + roche) ne colle pas au point trouvé.
-2. **Deux pistes nouvelles** passent mieux les D :
-   - le **chemin de croix** (14 stations) pour la nature des 3e/11e ;
-   - le **bassin de l'enluminure 9**, que l'auteur dit « très important pour cette énigme », et dont le **contour** peut identifier une réponse.
-3. Les indications « tout près », « très proches », « pas loin », « dans le champ de vision » restent des **Q** : elles servent à départager, jamais à exclure par un rayon.
+2. **Les chapitres III et XI du *Roman de la Rose* repassent en tête** (README § N3) :
+   - ils passent toutes les D ;
+   - le 13e (chap. XIII) a déjà servi dans l'É7 ;
+   - le vers d'ouverture de l'É12 est le vers 1524 de l'édition, l'année de la mort de Bayard ;
+   - le **bassin de l'enluminure 9**, que l'auteur dit « très important pour cette énigme », est la fontaine de Narcisse, avec ses deux pierres de cristal = les deux poissons.
+3. Ce qui manque encore : **la direction** donnée par le ciel (README § N4-N7).
+4. Les indications « tout près », « très proches », « pas loin », « dans le champ de vision » restent des **Q** : elles servent à départager, jamais à exclure par un rayon.

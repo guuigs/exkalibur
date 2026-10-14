@@ -1,4 +1,4 @@
-import numpy as np, subprocess, time, json, sys
+import numpy as np, subprocess, time, json, sys, os
 layer, out, lat0, lon0, half = sys.argv[1], sys.argv[2], float(sys.argv[3]), float(sys.argv[4]), float(sys.argv[5])
 RES=0.5
 DLAT=RES/111132.0; DLON=RES/(111320*np.cos(np.radians(lat0)))
@@ -12,8 +12,9 @@ for ty in range(0,N,T):
     u=('https://data.geopf.fr/wms-r/wms?SERVICE=WMS&VERSION=1.3.0&REQUEST=GetMap&LAYERS=%s&CRS=EPSG:4326'
        '&BBOX=%.8f,%.8f,%.8f,%.8f&WIDTH=%d&HEIGHT=%d&FORMAT=image/x-bil;bits=32&STYLES='%(layer,lat_bot,lon_l,lat_top,lon_r,w,h))
     for k in range(6):
+      if os.path.exists('t.bil'): os.remove('t.bil')  # sinon une réponse ratée réutilise la dalle précédente
       subprocess.run(['curl','-sS','-m','180',u,'-o','t.bil'],capture_output=True)
-      a=np.fromfile('t.bil',dtype='<f4')
+      a=np.fromfile('t.bil',dtype='<f4') if os.path.exists('t.bil') else np.zeros(0)
       if a.size==w*h: break
       time.sleep(4*(k+1))
     Z[ty:ty+h,tx:tx+w]=a.reshape(h,w); print(ty,tx,np.nanmin(a),np.nanmax(a),flush=True)

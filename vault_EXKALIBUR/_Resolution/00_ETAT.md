@@ -48,6 +48,15 @@ Tout est dans **`Enigme_12/solution.md`** (faits, règles de la FAQ, pistes viva
 
 **Gabarit Jérusalem céleste (§ M du README, piste la plus solide à ce jour)** : ville carrée orientée, portes dans l'ordre d'Ap 21,13 (orient, nord, midi, occident), aux quarts des côtés ; départ = 11e porte = le donjon ; 3e porte à 1 850 m, **cap 75,96° → à 10 m de la jonction du bout de la route du Couvat** (45.43288, 6.05406). Une seule des 8 variantes touche ; hasard ≈ 5-15 %. Ruisseau de Tapon à 130 m, maisons à 60-80 m. À vérifier : ruisseau à senestre, grande roche, cadastre.
 
+**14/10 : listes et retour au *Roman de la Rose* (README § N ; `Reprise_2026-10-13/LISTES_enigme_et_FAQ.md`)**
+- Listes faites : éléments de l'énigme ; filtres de la FAQ, durs ou qualitatifs (« tout près », « dans le champ de vision » ne se chiffrent pas).
+- **Gabarit Jérusalem céleste rétrogradé** : 12 portes, alors que l'auteur confirme un 13e (FAQ06-133).
+- **Les 3e/11e redeviennent les chapitres III (porte du verger) et XI (fontaine de Narcisse)** :
+  - le chap. XIII a déjà servi à l'É7, d'où « le treizième ne vous mènerait pas au bon endroit » ;
+  - « Dieu sut se montrer favorable » est le **vers 1524** de l'édition Marteau, l'année de la mort de Bayard ;
+  - le bassin aux deux poissons de l'enl. 9 = la fontaine et ses deux cristaux.
+- Modèle : la fontaine est à 10 stades de la porte (portes d'Avalon). La direction reste ouverte. Une lecture pascale (Pâques 1524) donne plein est, c'est-à-dire le ravin du Tapon et le pré A. Non démontré.
+
 ## Numérotation des enluminures
 L'auteur les numérote dans l'ordre de lecture (R1G=1, R1D=2, R2G=3, R2D=4, R3G=5, R3D=6, R4G=7, R4D=8, R5G=9, R5D=10, R6G=11, R6D=12). Énigme N ≠ toujours enluminure N (FAQ02-096). Voir `03_Correspondance_illustrations.md`.
 

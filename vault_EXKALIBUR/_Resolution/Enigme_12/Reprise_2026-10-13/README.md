@@ -449,3 +449,84 @@ Scripts `scripts/get05.py` (MNT et MNS LiDAR HD à 0,5 m, WMS-R IGN) et `scripts
 - Si la clairière est le couloir de prés, l'eau qui y descend du sud vers la jonction serait le ruisseau. On la suit en la gardant à gauche, donc en remontant vers le sud par la rive est.
 - La FAQ dit elle-même que les eaux enchantées se reconnaissent sur place (06-060). À distance, on ne peut que **décrire** le parcours, ce que l'auteur accepte (07-078 : captures vues du ciel de la clairière et description du chemin suivi).
 - Blocs repérés au LiDAR (bosses de 1,5 à 2,7 m, à moins de 10 m d'un talweg) : surtout dans le ravin du Tapon, à 250-460 m à l'ouest de la porte. Aucun gros bloc dans le couloir de prés au sud de la jonction (`lidar05.py`, sortie console).
+
+---
+
+# N. Relecture complète de la FAQ et retour au *Roman de la Rose* (14/10)
+
+Les deux listes demandées par Guilhem (éléments de l'énigme ; filtres de la FAQ, durs ou qualitatifs) sont dans **`LISTES_enigme_et_FAQ.md`**. Ce qui suit, ce sont les conséquences.
+
+## N1. Le gabarit de la Jérusalem céleste (§ M) est rétrogradé
+- FAQ06-133 : « aurait-on pu aller jusqu'au treizième ? → Oui, tout à fait, mais le treizième ne vous mènerait pas au bon endroit ». **La série des 3e/11e compte au moins 13 éléments.** La Jérusalem céleste n'a que 12 portes.
+- En plus, la suite (ruisseau à gauche, roche) ne colle pas autour de la 3e porte (§ M5).
+- Même objection pour les lectures à 12 : apôtres, heures romaines, mois, zodiaque, travaux d'Hercule.
+
+## N2. Fait nouveau : « Dieu sut se montrer favorable » est le **vers 1524** de l'édition Marteau
+- L'édition numérote ses vers. La page 99 s'ouvre au vers 1517 (« Torturé fut encore un jour »). Le vers « Dieu sut se montrer favorable » vient 7 lignes plus bas, c'est donc le **vers 1524**. Le décompte est vérifié depuis l'en-tête du chapitre XI (vers 1487) : la numérotation tombe juste (`sources/roman_de_la_rose_marteau_ch01-14.txt`).
+- **1524 est l'année de la mort de Bayard** (30 avril 1524). La phrase « confirme » donc le narrateur et la zone : château Bayard et tour d'Avalon (FAQ07-088 : « cruciale, agit comme confirmateur »). Elle se « comprend » sans se « décrypter » (FAQ8).
+
+## N3. Les 3e et 11e = chapitres III et XI du *Roman de la Rose* : la lecture repasse en tête
+L'objection de l'écharde (§ H, 13/10) reposait sur le guichet « de charme » du chap. III. On ne marche pas sur un guichet : on le franchit. La FAQ parle de marcher pieds nus « sur la troisième » et « sur le onzième ». Lus comme des **scènes**, cela donne : au chap. III, le seuil de la porte du verger ; au chap. XI, la fontaine « sous le pin », où une écharde est possible. Contrôle avec la grille (`LISTES…` § 2.2) :
+
+| Contrainte de la FAQ | Chapitres III / XI |
+|---|---|
+| Un 13e existe et « ne vous mènerait pas au bon endroit » (06-133) | ✓ **Le chap. XIII a déjà servi** : l'É7 cite ses vers 1890-1891 (« le trait qui m'a percé / goutte de sang n'avait versé »). Il mène à l'É7, pas ici |
+| « Huitième et seizième » auraient été incorrects (FAQ8) | ✓ ces chapitres ne parlent ni de porte ni de fontaine |
+| Même nature, un seul de chaque, pas un chevalier, pas de couleurs, pas un ensemble de 52 | ✓ |
+| Deux points à placer, par rapport à un point de départ (05-074, 07-063, 07-120) | ✓ la porte du verger (chap. III) et la fontaine de Narcisse (chap. XI) |
+| On va directement de l'un à l'autre en passant par des étapes intermédiaires (04-115) | ✓ les chapitres IV à X, la traversée du verger |
+| « Vous n'avez pas identifié ce qu'ils peuvent être » à qui demande s'ils se voient sur Maps ou depuis les remparts (06-227) ; « erreur dans la question » à qui parle de 3e/11e « ronde » (06-196) | ✓ ce sont des chapitres, pas des objets |
+| Visibles sur les enluminures, « l'une des clés » (05-093) | ✓ enl. 9 : le bassin, les **deux poissons = les « deux pierres de cristal » au fond de la fontaine**, l'arc-en-ciel ; enl. 12 : une porte gothique ouverte, avec le soleil qui entre |
+| Les deux genres conviennent (03-293) | ✓ le chapitre / la porte, la fontaine / le pin |
+| Ordre différent de celui du « numéro un » d'*Ultima cena* (04-051) | ✓ |
+| Le bassin de l'enl. 9 « très important pour cette énigme » (FAQ8) ; « si vous identifiez correctement le bassin… grandement rapproché » (03-308) | ✓ c'est le « blanc bassin de marbre » de la fontaine de Narcisse |
+
+Le parallèle avec le texte de l'É12 se resserre aussi :
+
+| É12 | *Roman de la Rose* (Marteau) |
+|---|---|
+| « J'entends le chant retentir », « au matin » | chap. I : « Je songeai qu'il était matin », le chant des oiseaux de mai |
+| « chemin de rempart » | chap. II : le mur du verger, longé de l'extérieur |
+| « laissé son épée aux **portes** d'Avalon » (Avalon = pommeraie = verger) | chap. III : la porte du verger |
+| « Dans la clairière » | chap. X : « En un lieu charmant j'arrivai… Une fontaine » |
+| « illuminé par l'astre glorieux qui **magnifiait le ruisseau** » | chap. XII : « Lorsque le soleil, qui tout guette, / Ses rais en la fontaine jette… / On voit de couleurs plus de cent » (l'arc-en-ciel de l'enl. 9) |
+| « la grande roche » | chap. X : « Sur la pierre, je vis écrites, / Au bord amont, lettres petites » |
+| « la souche-majesté » | chap. X : « un pin gigantesque. / Depuis Karles, fils de Pepin, / Jamais on ne vit si beau pin » |
+
+**Modèle qui en découle** : le 3e est la porte, c'est-à-dire les « portes d'Avalon », au départ. Le 11e est la fontaine, à **10 stades** de la porte. Le ciel (le soleil du matin) donne le côté. Statut : **hypothèse la plus solide à ce jour sur la nature des 3e/11e**. La direction reste ouverte.
+
+## N4. « Au matin » : une lecture pascale (à tester, pas validée)
+- « Tout commence et tout s'achève » ; « J'ai fait une **dernière veille** » ; « au matin » ; « astre **glorieux** » ; FAQ07-107 : « qui dit dernier jour dit aussi premier jour ».
+- Au temps de Bayard, en France, **l'année commençait à Pâques** (style de Pâques, jusqu'en 1564). La veillée pascale du samedi saint tombe donc le dernier jour de l'année, et le matin de Pâques en est le premier jour. C'est aussi le matin de la Résurrection (corps « glorieux », *Noli me tangere* au jardin).
+- **Pâques 1524 = 27 mars julien** (comput julien, 6 avril grégorien). Depuis le sommet du donjon (`horizon_lib.py`, relief seul) :
+  - **premier rayon au cap 90,2°, plein est** ;
+  - lever astronomique (horizon plat) au cap 80,2°.
+- À 1 850 m, **plein est** tombe sur le **ravin du Tapon**, en forêt (45.42883, 6.05469). Le cap 80° tombe en bordure du pré A.
+
+## N5. Le secteur Tapon – pré A, vu sous ce modèle (à distance)
+Données : LiDAR HD 0,5 m, MNT et MNS retéléchargés autour de 45.4294, 6.0545. Images IGN dérivées : `images/tapon_preA_ombrage_lidar.jpg` et `images/tapon_preA_canopee_lidar.jpg`.
+
+| Point | Position | Distance / cap depuis la tour | Ce que c'est |
+|---|---|---|---|
+| R1 | 45.42944, 6.05466 | **1 848 m / 88,1°** | Le Tapon entre dans son ravin boisé, qui se creuse (pente du lit 15-45 %, pas de chute franche au LiDAR) |
+| A1 | 45.43010, 6.05463 | **1 850 m / 85,8°** | Le chemin J2 → J4 quitte le pré A et entre dans le bois, pile sur l'anneau des 10 stades |
+| pré A | 45.43057, 6.05462 | 1 854 m / 84,2° | Clairière, la **seule partie de l'anneau visible depuis le sommet** avec les arbres (§ I) |
+| J2 | 45.43103, 6.05345 | 1 769 m / 82,3° | Jonction de 3 chemins à l'angle nord-ouest du pré A. Dégagée, visible avec le relief seul |
+| J | 45.43055, 6.05306 | 1 732 m / 83,9° | Jonction (route + 2 chemins) au passage du Tapon, dégagée |
+| J3 | 45.42877, 6.05346 | 1 754 m / 90,4° | Jonction de 4 tronçons, plein est, mais **en forêt** (canopée de 24 m) |
+
+Lecture possible, **non démontrée** : depuis J, on remonte le Tapon rive gauche, le ruisseau à gauche, sur environ 175 m jusqu'à R1, où le ravin se resserre sur l'anneau. Ce qui manque :
+- la roche elle-même, invisible au LiDAR comme sur Maps (07-126) ;
+- J et R1 ne sont pas visibles depuis le sommet quand on compte les arbres.
+
+Le ravin est boisé de part et d'autre : la souche-majesté y est plausible, mais rien ne la montre.
+
+Le profil en long du Tapon (lit pris au minimum sur 6 m autour du tracé BD TOPO) est raide et régulier, de 15 à 45 %, avec un passage à 63 % vers 45.4279, 6.0560. Le tracé BD TOPO dévie du vrai lit en aval de R2.
+
+## N6. Correctif technique
+`scripts/get05.py` pouvait réutiliser la dalle de la requête précédente quand une requête échouait. Cela s'est produit le 14/10 sur un MNS, détecté et refait. C'est corrigé : le fichier temporaire est maintenant effacé avant chaque requête. Les dalles du 13/10 (`dem05`) ont été contrôlées et sont saines (MNS ≥ MNT partout).
+
+## N7. Suite
+1. Trancher la direction sous le modèle N3, à partir des seuls textes, **sans regarder la carte d'abord**. Trois candidats : matin de Pâques 1524 (plein est), matin de mai du *Roman*, 30 avril / 1er mai 1524 (cap ≈ 66°).
+2. Pour chaque direction retenue, faire le relevé à distance du point à 1 850 m : jonction, clairière, ruisseau, bâtiments, cadastre. Ajouter un témoin au hasard.
+3. Dans le *Roman*, relire ce qui sépare la porte (chap. III) de la fontaine (chap. X-XI) : orientation, ordre des lieux traversés. Ce sont les « étapes intermédiaires » de 04-115.
