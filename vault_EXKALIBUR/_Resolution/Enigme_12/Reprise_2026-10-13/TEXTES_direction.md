@@ -427,3 +427,6 @@ Lecture des paires : **un âne de sinople**, **une ancre de sable**, et un loup 
 | Jupiter peint dans l'enl. 8 = jeudi = jour de la Cène | la Cène est peinte en enl. 12 (R6D), pas en enl. 8 |
 | « Jour dernier » = dimanche, dernier jour de la semaine civile et premier de la semaine chrétienne (07-107) → boussole I = nord ; c'est l'exemple même de l'auteur (03-027 : « si vous commencez au nord ») | concurrence la lecture « samedi » (§ 10.5) et la lecture « azimut du lever » ; **à trancher** |
 | Les 12 prophéties de l'ancienne Veillée pascale (rite d'avant 1955) comme liste pour les 3e et 11e | idée seulement : 3e = sacrifice d'Abraham (Gn 22), 11e = cantique de Moïse (Dt 31) ; aucun lieu associé |
+
+### 10.8 Remarque ajoutée en rédigeant la fiche de reprise
+La lecture **R4** (axe des quillons de l'É1, León → Foix, 83,6°, fenêtre 81,6-85,6°) avait échoué depuis le haut de la tour (§ 4). Depuis le **sol** de la butte, le pré A (83-86°) tombe aussi dans sa fenêtre. **Deux lectures indépendantes (R2 Pâques, R4 l'épée) désignent donc le pré A.** C'est cohérent avec « l'épée… là était la dernière clé » et « l'astre glorieux vous guide en tout dernier lieu » (FAQ8). La règle R4 n'avait pas été préenregistrée pour le départ au sol : c'est un indice, pas une preuve.
